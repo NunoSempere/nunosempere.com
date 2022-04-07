@@ -2,6 +2,10 @@
 
 ### Most recent pieces
 
+- 2022/04/05: [Forecasting Newsletter: March 2022](https://nunosempere.com/blog/2022/04/05/forecasting-newsletter-march-2022/)  
+- 2022/04/01: [Forecasting Newsletter: April 2222](https://nunosempere.com/blog/2022/04/01/forecasting-newsletter-april-2222/) (april fools)
+- 2022/03/17: [Valuing research works by eliciting comparisons from EA researchers](https://nunosempere.com/blog/2022/03/17/valuing-research-works-by-eliciting-comparisons-from-ea/)
+- 2022/03/10: [Samotsvety Nuclear Risk Forecasts — March 2022](https://nunosempere.com/blog/2022/03/10/samotsvety-nuclear-risk-forecasts-march-2022/)
 - 2022/03/05: [Forecasting Newsletter: February 2022](https://nunosempere.com/blog/2022/03/05/forecasting-newsletter-february-2022/)
 - 2022/02/18: [Five steps for quantifying speculative interventions](https://forum.effectivealtruism.org/posts/3hH9NRqzGam65mgPG/five-steps-for-quantifying-speculative-interventions)
 - 2022/02/08: [We are giving $10k as forecasting micro-grants](https://forum.effectivealtruism.org/posts/oqFa8obfyEmvD79Jn/we-are-giving-usd10k-as-forecasting-micro-grants)
@@ -12,7 +16,6 @@
 - [Simple comparison polling to create utility functions](https://forum.effectivealtruism.org/posts/9hQFfmbEiAoodstDA/simple-comparison-polling-to-create-utility-functions)  
 - [A Model of Patient Spending and Movement Building](https://forum.effectivealtruism.org/posts/FXPaccMDPaEZNyyre/a-model-of-patient-spending-and-movement-building)  
 - [An estimate of the value of Metaculus questions](https://forum.effectivealtruism.org/posts/zyfeDfqRyWhamwTiL/an-estimate-of-the-value-of-metaculus-questions)  
-- [Building Blocks of Utility Maximization](https://forum.effectivealtruism.org/posts/8XWi8FBkCuKfgPLMZ/building-blocks-of-utility-maximization)  
 
 ### 2022/02/20
 

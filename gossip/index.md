@@ -1,3 +1,7 @@
+_2022/04/01_: I post a really inside-jokeish [April fools' newsletter](https://nunosempere.com/blog/2022/04/01/forecasting-newsletter-april-2222).
+
+_2022/03/17_: I am working on a doc outlining things I'm confused about w/r to OpenPhil. If this is something which may interest you feel free to [reach out](mailto:nunosempere@protonmail.com).
+
 _2022/03/08_: Scott Alexander wants your [Google Drive documents](https://forum.effectivealtruism.org/posts/xapRLBTpMYokrpd9q/we-re-announcing-a-usd100-000-blog-prize?commentId=kgjCJNiKh5NEWDLPu)
 
 _2022/03/07_: Misha and Gavin post the results of a new investigation that finds that [Good Judgment claims about superforecasters vs experts were greatly exaggerated](https://forum.effectivealtruism.org/posts/qZqvBLvR5hX9sEkjR/comparing-top-forecasters-and-domain-experts)
