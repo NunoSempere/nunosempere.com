@@ -2,6 +2,8 @@
 
 ### Most recent pieces
 
+- 2022/04/07: [Open Philanthopy’s allocation by cause area](https://nunosempere.com/blog/2022/04/07/openphil-allocation/).
+- 2022/04/06: [A quick note on the value of donations](https://nunosempere.com/blog/2022/04/06/note-donations/), written at the request of someone who wanted a reference on why donations are not a total waste of time.
 - 2022/04/05: [Forecasting Newsletter: March 2022](https://nunosempere.com/blog/2022/04/05/forecasting-newsletter-march-2022/)  
 - 2022/04/01: [Forecasting Newsletter: April 2222](https://nunosempere.com/blog/2022/04/01/forecasting-newsletter-april-2222/) (april fools)
 - 2022/03/17: [Valuing research works by eliciting comparisons from EA researchers](https://nunosempere.com/blog/2022/03/17/valuing-research-works-by-eliciting-comparisons-from-ea/)
@@ -14,8 +16,6 @@
 - [External Evaluation of the EA Wiki](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki)  
 - [Pathways to impact for forecasting and evaluation](https://forum.effectivealtruism.org/posts/oXrTQpZyXkEbTBfB6/pathways-to-impact-for-forecasting-and-evaluation)  
 - [Simple comparison polling to create utility functions](https://forum.effectivealtruism.org/posts/9hQFfmbEiAoodstDA/simple-comparison-polling-to-create-utility-functions)  
-- [A Model of Patient Spending and Movement Building](https://forum.effectivealtruism.org/posts/FXPaccMDPaEZNyyre/a-model-of-patient-spending-and-movement-building)  
-- [An estimate of the value of Metaculus questions](https://forum.effectivealtruism.org/posts/zyfeDfqRyWhamwTiL/an-estimate-of-the-value-of-metaculus-questions)  
 
 ### 2022/02/20
 

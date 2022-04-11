@@ -1,3 +1,7 @@
+_2022/04/01_: [Here](https://nunosempere.com/blog/2022/04/07/openphil-allocation/) is a visualization of OpenPhil's grant allocation so far:
+
+![](https://i.imgur.com/PwBI0rk.png)
+
 _2022/04/01_: I post a really inside-jokeish [April fools' newsletter](https://nunosempere.com/blog/2022/04/01/forecasting-newsletter-april-2222).
 
 _2022/03/17_: I am working on a doc outlining things I'm confused about w/r to OpenPhil. If this is something which may interest you feel free to [reach out](mailto:nunosempere@protonmail.com).

@@ -11,4 +11,4 @@ I'm Nu&#xF1;o Sempere. I do research, write software and predict the future. Thi
 
 ### Readers might also enjoy...
 
-...reading the [gossip](/gossip) page, browsing the [changelog](/changelog) to see what's new.
+...reading the [gossip](/gossip) page, seeing the latest on my [blog](https://nunosempere.com/blog/), or browsing the [changelog](/changelog) to see what's new.
