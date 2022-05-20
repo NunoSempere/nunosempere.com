@@ -2,6 +2,8 @@
 
 ### Most recent pieces
 
+- 2022/04/17: [Simple Squiggle](https://nunosempere.com/blog/2022/04/17/simple-squiggle/)
+- 2022/04/16: [Better scoring rules]()
 - 2022/04/07: [Open Philanthopy’s allocation by cause area](https://nunosempere.com/blog/2022/04/07/openphil-allocation/).
 - 2022/04/06: [A quick note on the value of donations](https://nunosempere.com/blog/2022/04/06/note-donations/), written at the request of someone who wanted a reference on why donations are not a total waste of time.
 - 2022/04/05: [Forecasting Newsletter: March 2022](https://nunosempere.com/blog/2022/04/05/forecasting-newsletter-march-2022/)  
