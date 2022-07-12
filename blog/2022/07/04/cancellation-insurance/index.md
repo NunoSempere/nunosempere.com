@@ -1,7 +1,10 @@
 Cancellation insurance
 ======================
 
-I am up for offering some amount of insurance for being [cancelled](https://en.wikipedia.org/wiki/Cancel_culture), i.e., losing one's job due as a result of inane culture war fights[^1]. I think that this could be in expectation a mutualy beneficial tradeoff in the case where my counterparty is very risk averse[^2], and so is happy to pay for a healthy risk premium.
+> I like to deliver the predictability you need in these troubled times
+> —[Peter Wildeford](https://twitter.com/peterwildeford/status/1545068907505000453)
+
+I am up for offering some amount of insurance for being [cancelled](https://en.wikipedia.org/wiki/Cancel_culture), i.e., losing one's job as a result of inane culture war fights[^1]. I think that this could be in expectation a mutualy beneficial tradeoff in the case where my counterparty is very risk averse[^2], and so is happy to pay for a healthy risk premium.
 
 ![](https://i.imgur.com/NdgBpXl.jpg)
 
