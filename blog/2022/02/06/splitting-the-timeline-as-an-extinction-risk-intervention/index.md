@@ -15,21 +15,21 @@ Under my understanding of the many-worlds interpretation of quantum mechanics, w
 
 This in itself doesn't buy you much. If you choose which color to paint your house based on quantum randomness, you still split the timeline. But this doesn't affect the probability in any of the branches that an AI, asteroid or pandemic comes and kills you and everything you care about.
 
-![](images/af599776389cd95e938e9bbbfe1c7871c8d10260.png)
+![](.images/af599776389cd95e938e9bbbfe1c7871c8d10260.png)
 
 Quantum randomness over small-scale choices doesn't buy you anything...
 
-![](images/31cfa9a47d9f974cafeb93b77e3985be35ff0722.png)
+![](.images/31cfa9a47d9f974cafeb93b77e3985be35ff0722.png)
 
 ...because the extinction risk in both worlds is (almost perfectly) correlated
 
 But we could also split the timeline such that the chances of extinction risk happening are less than perfectly correlated in each of the branches.
 
-![](images/eafaeb98efca722131b5d2a97c37e31223f885c5.png)
+![](.images/eafaeb98efca722131b5d2a97c37e31223f885c5.png)
 
 We choose a significant event according to the result of a random quantum measurement, and we hope this makes extinction risk in each of the branches less correlated.
 
-![](images/889304c3cf810a29bcd65e9e1a3ba4a6fccca45e.png)
+![](.images/889304c3cf810a29bcd65e9e1a3ba4a6fccca45e.png)
 
 If the chances of an x-risk in each branch are less correlated, the chances of at least one branch surviving are higher.
 
@@ -79,7 +79,7 @@ I haven't really thought all that much about how this would interact with existe
 
 ## Acknowledgments
 
-<p><img src="images/77c41e9298562badddf94d2069d5fdf00cf0cf26.png" alt="QURI logo" class="img-frontpage-center"></p>
+<p><img src=".images/77c41e9298562badddf94d2069d5fdf00cf0cf26.png" alt="QURI logo" class="img-frontpage-center"></p>
 
 This article is a project by the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/), 
 

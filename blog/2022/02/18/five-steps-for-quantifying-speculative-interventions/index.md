@@ -76,7 +76,7 @@ As we generalize our units, our confidence intervals become wider. We might be v
 
 It’s unclear whether this growing uncertainty will pose a practical problem. If uncertainty is extremely high, we might want to invest more time into applied global priorities research, or into [revelatory grantmaking](https://en.wikipedia.org/wiki/Multi-armed_bandit) (making funding decisions not only in terms of their raw expected value, but also in terms of the expected value of the information they provide). Conversely, if each distribution is spread across many orders of magnitude, it might still be relatively clear which among many options is optimal. I’d imagine we’d find a mix of the two, but also that quantification would be much better than human intuition at differentiating the two cases[\[3\]](#fntgic4g8u64r).
 
-![](images/64e9f944a88327f3c6aa05fe45b185ed654edd3e.png)
+![](.images/64e9f944a88327f3c6aa05fe45b185ed654edd3e.png)
 
 The red and the green distribution could range over many orders of magnitude, and it might still be clear which one is the better bet.
 
@@ -102,13 +102,13 @@ As two interventions grow more and more different, the relevant considerations f
 
 For the crucial considerations that are particularly value-dependent, quantification tooling could ask the user about their best guesses on some of these controversial parameters (e.g., the discount rate, the value drift rate, the probability of success of various interventions, the value of human vs animal lives, etc.), and then carry out calculations using those guesses. [Food Impacts has such a tool](https://foodimpacts.org/) for animal suffering prioritization: 
 
-![](images/367408ed94cbddc8de5e35497238f5505aaebc27.png)
+![](.images/367408ed94cbddc8de5e35497238f5505aaebc27.png)
 
 [Food Impacts](https://foodimpacts.org/ ): Which animal products should we avoid? h/t Vivian Belenky.
 
 More sophisticated versions of this kind of tool could let users bake in different assumptions. For example, we could add in the [time horizon](https://en.wikipedia.org/wiki/Global_warming_potential#Importance_of_time_horizon) over which greenhouse gases have a warming effect, the value of saving the life of a five-year-old child vs a ten-year-old child, or the ratio of the value of various animal lives to a human life.
 
-![](images/4cfe3b0177090481ed39215e8ead0d9fc88cf035.png)
+![](.images/4cfe3b0177090481ed39215e8ead0d9fc88cf035.png)
 
 As another example, [GiveWell's spreadsheet](https://docs.google.com/spreadsheets/d/1B1fODKVbnGP4fejsZCVNvBm5zvI1jC7DhkaJpFk6zfo/edit#gid=1362437801) allows one to tweak how valuable "a statistical life saved from malaria" is compared to "a doubling in consumption". But it doesn't allow for changing the assumption that different doublings of consumption are differently valuable.
 
@@ -146,7 +146,7 @@ I believe that a rigorous evaluation framework for quantified uncertainty is wel
 
 ## Acknowledgments 
 
-<p><img src="images/7385a0f4bc3ff0ac194d9b0054b8a3b0fa9cae77.png" alt="QURI logo" class="img-frontpage-center"></p>
+<p><img src=".images/7385a0f4bc3ff0ac194d9b0054b8a3b0fa9cae77.png" alt="QURI logo" class="img-frontpage-center"></p>
 
   
  

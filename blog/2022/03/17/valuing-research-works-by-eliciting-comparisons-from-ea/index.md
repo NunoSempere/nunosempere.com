@@ -15,7 +15,7 @@ My guess is that EA funders also have inconsistent preferences and similarly wid
 
 Current aggregate estimates look as follows:
 
-![](images/c7addcb750e48d25f9c34e2083d96bddffe2e300.png)
+![](.images/c7addcb750e48d25f9c34e2083d96bddffe2e300.png)
 
 ## Motivation
 
@@ -35,7 +35,7 @@ Further, core decision-makers might be similarly inconsistent and might be makin
 
 I asked six researchers to use [the application](https://utility-function-extractor.quantifieduncertainty.org/research) described in [Simple comparison polling to create utility functions](https://forum.effectivealtruism.org/posts/9hQFfmbEiAoodstDA/simple-comparison-polling-to-create-utility-functions) to compare 15 pieces of research. These pieces ranged from [a comment](https://forum.effectivealtruism.org/posts/3PjNiLLkCMzAN2BSz/when-setting-up-a-charity-should-you-employ-a-lawyer?commentId=YNKNcp6nKqxqkZgCu) on the EA Forum to Shannon's foundational text, "The Mathematical Theory of Communication".
 
-![](images/09f6245837ac758b2d952e4a0c4a2b9613f43f7b.png)
+![](.images/09f6245837ac758b2d952e4a0c4a2b9613f43f7b.png)
 
 The app presents the user with pairwise comparisons. Each comparison asks the user how valuable the first element is, compared to the second (e.g., 10 times as valuable, 0.01 times as valuable). The app internally uses [merge sort](https://en.wikipedia.org/wiki/Merge_sort) to ensure that there can be no cyclical comparisons—so that the user cannot express a preference that A > B > C > A. Readers are encouraged to [play around with it](https://utility-function-extractor.quantifieduncertainty.org/research).
 
@@ -45,13 +45,13 @@ The app presents the user with pairwise comparisons. Each comparison asks the us
 
 For individual researchers, results can be visualized as follows:
 
-![](images/4d8364726d8879bab0ace9ae58db66e3d0125da3.png)
+![](.images/4d8364726d8879bab0ace9ae58db66e3d0125da3.png)
 
 The green lines represent how much more valuable the element to the right is than the element to the left. The table below the graph uses the geometric mean to combine the user’s guesses into an average guess. See the appendix for the method behind this.
 
 When combining the results of all the individuals using the geometric mean—see the appendix for the method—we get a table such as the following:
 
-![](images/2b9614c75de9ed5262f8a3c25950917c3b951f4c.png)
+![](.images/2b9614c75de9ed5262f8a3c25950917c3b951f4c.png)
 
 The coefficient of variation is the standard deviation divided by the geometric mean. “OOM range” stands for “order of magnitude range”, where an order of magnitude is a difference of 10x. The method to calculate the relative values is in the first appendix. 
 
@@ -61,7 +61,7 @@ To create such a table, we need a reference element, which by construction has a
 
 In the app, users stated their value ranges for the differences between elements. In a preliminary analysis, we simplified this data by simply calculating the ordering for each evaluator. The different orderings were as follows:
 
-![](images/b2b65f1e73a16b3e65bd37352b647e7b7df2a672.png)
+![](.images/b2b65f1e73a16b3e65bd37352b647e7b7df2a672.png)
 
 These are pretty consistent. Some of the most salient differences are:
 
@@ -74,25 +74,25 @@ These are pretty consistent. Some of the most salient differences are:
 
 Yet, what we care about is not relative ordinal position—A is in the first position, but B is in the fifth position. Instead, we care about relative value—A is 10x better than B. The results are as follows:
 
-![](images/2b9614c75de9ed5262f8a3c25950917c3b951f4c.png)
+![](.images/2b9614c75de9ed5262f8a3c25950917c3b951f4c.png)
 
 ### Inconsistency within the same researcher
 
 Consider Misha Yagudin’s results:
 
-![](images/0789cbb6695c45b020ae9090b08fc6ba5d0bb0fe.png)
+![](.images/0789cbb6695c45b020ae9090b08fc6ba5d0bb0fe.png)
 
 Zooming in, we see that element #M is 2x as valuable as element #L, #L is 100x as valuable as #K, and #K is 2x as valuable as #J. So overall, #M should be 2\*100\*2 = 400x as valuable as #J. However, Yagudin evaluates it as only 33x as valuable in a face-to-face comparison.
 
-![](images/0789cbb6695c45b020ae9090b08fc6ba5d0bb0fe.png)
+![](.images/0789cbb6695c45b020ae9090b08fc6ba5d0bb0fe.png)
 
 Gavin Leech was generally consistent.
 
-![](images/2bf104abc7763c2667dc0137d667ccca07b45277.png)
+![](.images/2bf104abc7763c2667dc0137d667ccca07b45277.png)
 
 This was because he was paying particular attention to producing consistent estimates. On the other hand, the distance between, for example, #H and #K, was 10 when calculated one way, but 10,000\*1\*5=50,000 when calculated another way.
 
-![](images/2bf104abc7763c2667dc0137d667ccca07b45277.png)
+![](.images/2bf104abc7763c2667dc0137d667ccca07b45277.png)
 
 It would be interesting to calculate the coefficients of variations for each user in future iterations and see which user is the most inconsistent (or whether they are comparably so) and which item elicits the most inconsistency in the users.
 
@@ -135,7 +135,7 @@ Further work and clarification in this area could be highly valuable. We could d
 
 ## Acknowledgements
 
-<p><img src="images/7385a0f4bc3ff0ac194d9b0054b8a3b0fa9cae77.png" alt="QURI logo" class="img-frontpage-center"></p>
+<p><img src=".images/7385a0f4bc3ff0ac194d9b0054b8a3b0fa9cae77.png" alt="QURI logo" class="img-frontpage-center"></p>
 
 This post is a project by the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/). It was written by Nuño Sempere. Thanks to Ozzie Gooen and Gavin Leech for comments and suggestions and Finn Moorhouse, Gavin Leech, Jaime Sevilla, Linch Zhang, Misha Yagudin and Ozzie Gooen for participation in this experiment, and for permission to share their results. 
 

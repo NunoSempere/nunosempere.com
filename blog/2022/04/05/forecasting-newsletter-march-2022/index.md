@@ -21,7 +21,7 @@ You can sign up for this newsletter on [substack](https://forecasting.substack.c
 
 On account of getting a plug on one of Spain's most-read newspapers, this newsletter has reached 1,000 subscribers:
 
-![](images/4d6eb12702b96fa17bc7715d995c4e9de83eba60.png)
+![](.images/4d6eb12702b96fa17bc7715d995c4e9de83eba60.png)
 
 You can find a market on when it will reach 2000 [here](https://manifold.markets/Nu%C3%B1oSempere/when-will-my-newsletter-reach-2000).
 
@@ -33,7 +33,7 @@ What is the alternative? The alternative is to develop better models of the worl
 
 But how do we know which models of the world are good? How do we differentiate real understanding from fake understanding? It's tricky, but to a first approximation, we make our hypotheses about the world output predictions, and we [reduce our confidence in the hypotheses that make worse predictions](https://arbital.com/p/bayes_rule/?l=1zq) ([a](http://web.archive.org/web/20220402005820/https://arbital.com/p/bayes_rule/?l=1zq)). The book _Superforecasting_ is a neat introduction to the practices involved. E.T. Jaynes' _Probability Theory: The Logic of Science_ is a hardcore introduction to the math behind it. Both books are probably available for free in the [z library](https://b-ok.org/) ([a](http://web.archive.org/web/20210129172145/https://b-ok.org/)).
 
-![](images/357eb016aaa462558a014aa83debc25d46192d28.png)
+![](.images/357eb016aaa462558a014aa83debc25d46192d28.png)
 
 A graphical representation of [Bayes' rule](https://en.wikipedia.org/wiki/Bayes%27_theorem), from [Arbital](https://arbital.com/p/bayes_waterfall_diagram/?l=1x1&pathId=84358).
 
@@ -45,13 +45,13 @@ To my new Spanish readers, I would recommend that you start forecasting on [Meta
 
 Something that has been on my mind is that forecasting platforms tend to either have institutional partnerships or be nice to use. But generally not both. I think this can be explained by older websites using worse technology but having had more time to develop partnerships:
 
-![](images/64c123da69f1a003597c0ce0f222e7c9989bb602.png)
+![](.images/64c123da69f1a003597c0ce0f222e7c9989bb602.png)
 
 I generally tend to take a _technology maximalist_ perspective toward that tradeoff in this newsletter. I tend to express the view that platforms with better technology will outcompete the others because they will be able to move and experiment faster, add new features, and retain more users.
 
 Recently, two interesting developments have been affecting the forecasting ecosystem. First, the war between Russia and Ukraine has sparked broader interest in whether forecasting platforms or prediction markets have anything to say about it:
 
-![](images/c2892cda125e9c804203100d2016ab29cf72bde3.png)
+![](.images/c2892cda125e9c804203100d2016ab29cf72bde3.png)
 
 Popularity of the search term "Metaculus" in Google trends. h/t Metaculus user [UgandaMaximum](https://www.metaculus.com/accounts/profile/116440/)
 
@@ -67,7 +67,7 @@ And with this, we are left to discuss recent developments:
 
 [Global Guessing](https://twitter.com/GlobalGuessing) continues to do a great job following developments in the Ukraine war through shifts in probabilities. For example:
 
-![](images/ec09dfbc3b8498f5f5cea784815e18119327a1c6.jpg)
+![](.images/ec09dfbc3b8498f5f5cea784815e18119327a1c6.jpg)
 
 Global Guessing's tracking of probabilities about the Ukraine conflict.
 
@@ -94,7 +94,7 @@ INFER is organizing a tournament for [EA university groups](https://www.infer-pu
 
 [Insight predictions](https://insightprediction.com/markets/206) ([a](http://web.archive.org/web/20220404154746/https://insightprediction.com/markets/206)) continues to have the guts to ask the important questions, such as: "Will Russia Conquer the Donbass by the End of July 2022?". Though liquidity (the opportunity to trade on both sides of a question) is a bit thin.
 
-![](images/eb0db333c24fcfab0eb74133238e1fe5c6a925a3.png)
+![](.images/eb0db333c24fcfab0eb74133238e1fe5c6a925a3.png)
 
 The ¿founder? of Insight Predictions also [objected](https://forum.effectivealtruism.org/posts/xpkpXq57mXmLbgkSC/forecasting-newsletter-february-2022?commentId=jCn8ri7ux7Q28WmTP) ([a](https://web.archive.org/web/20220320031942/https://forum.effectivealtruism.org/posts/xpkpXq57mXmLbgkSC/forecasting-newsletter-february-2022#comments)) to me characterizing Insight as possibly but most likely not a scam in a previous newsletter. One of the key elements that made me suspicious was that he had previously remained anonymous. But he has now de-anonymized himself, and he turns out to be [Douglas Campbell](https://twitter.com/TradeandMoney), who previously served in Obama’s Council of Economic Advisors. So there’s that.
 
@@ -102,7 +102,7 @@ The ¿founder? of Insight Predictions also [objected](https://forum.effectivealt
 
 Hypermind has a small [$5k tournament on African developments](https://prod.hypermind.com/ngdp/en/welcomeHA.html) ([a](http://web.archive.org/web/20211128100119/https://prod.hypermind.com/ngdp/en/welcomeHA.html))
 
-![](images/ae398c69f1958af3f7c93b64ab0de9bef84bad65.png)
+![](.images/ae398c69f1958af3f7c93b64ab0de9bef84bad65.png)
 
 Polymarket has been offering rewards for trading. Trading incurs a fee, but trading rewards are higher, which incentivizes wash trading (trading back-and-forth at high volumes.) The thing is, Polymarket developers are not stupid, so I'm guessing that they are doing this because they want the volume to be as high as possible ¿possibly to impress or appease investors? The non-nefarious explanation is that they deeply want to attract new traders and keep the engagement of old ones, and are ok paying wash traders as the cost of doing business.
 
@@ -112,7 +112,7 @@ In any case, I have downgraded [my estimates](https://github.com/QURIresearch/me
 
 ## Research
 
-![](images/be76720e2918d0be6803b4839a2dbc1b498389a3.png)
+![](.images/be76720e2918d0be6803b4839a2dbc1b498389a3.png)
 
 Source: [goodjudgment.com](https://goodjudgment.com/) frontpage.
 
@@ -126,7 +126,7 @@ My forecasting group recently estimated the [risks of nuclear war](https://forum
 
 Now a subject matter expert who served as deputy staff director of the Senate Committee on Foreign Relations where he worked on approval of the New START agreement, [critiziced our estimates](https://forum.effectivealtruism.org/posts/W8dpCJGkwrwn7BfLk/) ([a](http://web.archive.org/web/20220326095536/https://forum.effectivealtruism.org/posts/W8dpCJGkwrwn7BfLk/)). Our answer can be seen in [the comments](https://forum.effectivealtruism.org/posts/W8dpCJGkwrwn7BfLk/?commentId=PRkbcuTRDi6s2seLj) ([a](https://web.archive.org/web/20220405134835/https://forum.effectivealtruism.org/posts/W8dpCJGkwrwn7BfLk/?commentId=PRkbcuTRDi6s2seLj)).
 
-![](images/1fdd63c407a3fd9083bfee556bbed6fc95d13d9c.png)
+![](.images/1fdd63c407a3fd9083bfee556bbed6fc95d13d9c.png)
 
 [Why short-range forecasting can be useful for longtermism](https://forum.effectivealtruism.org/posts/zjMeGcgWpvDcm3CkH/why-short-range-forecasting-can-be-useful-for-longtermism) ([a](http://web.archive.org/web/20220322085048/https://forum.effectivealtruism.org/posts/zjMeGcgWpvDcm3CkH/why-short-range-forecasting-can-be-useful-for-longtermism))
 
@@ -136,7 +136,7 @@ Now a subject matter expert who served as deputy staff director of the Senate Co
 
 In [Cryptoepistemology](https://www.lesswrong.com/posts/sDk3RziupmzShN2RN/cryptoepistemology) ([a](http://web.archive.org/web/20220307222715/https://www.lesswrong.com/posts/sDk3RziupmzShN2RN/cryptoepistemology)), davidad maps different theories of justified beliefs to different styles of cryptographic proof.
 
-![](images/1884d4bff206fcdeca154b51b2fbaa121872ee89.png)
+![](.images/1884d4bff206fcdeca154b51b2fbaa121872ee89.png)
 
 Lastly, I really enjoyed two prediction-market related April Fool's jokes: [Using prediction markets to generate LessWrong posts](https://www.lesswrong.com/posts/stefz96G9ycfMhjD2/using-prediction-markets-to-generate-lesswrong-posts) ([a](http://web.archive.org/web/20220404092319/https://www.lesswrong.com/posts/stefz96G9ycfMhjD2/using-prediction-markets-to-generate-lesswrong-posts)) and [Anti-Corruption Market](https://www.lesswrong.com/posts/px8ha4wSXcmfejEF9/anti-corruption-market) ([a](http://web.archive.org/web/20220404092344/https://www.lesswrong.com/posts/px8ha4wSXcmfejEF9/anti-corruption-market)). I'm also pretty proud of my own April Fool's: [Forecasting Newsletter: April 2222](https://forecasting.substack.com/p/forecasting-newsletter-april-2222?s=w) ([a](https://web.archive.org/web/20220405155605/https://forecasting.substack.com/p/forecasting-newsletter-april-2222?s=w)).
 

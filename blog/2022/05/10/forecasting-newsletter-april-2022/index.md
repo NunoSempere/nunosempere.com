@@ -65,7 +65,7 @@ INFER is hosting a discussion tomorrow under the ominous headline “[Reassertin
 
  Good Judgment Open adds [a few new features](https://mailchi.mp/goodjudgment/gjo6apr22newsletter-1148858?e=72ee153cd5) ([a](https://web.archive.org/web/20220510032016/https://mailchi.mp/goodjudgment/gjo6apr22newsletter-1148858?e=72ee153cd5)), chiefly, a neat slider for visualizing probabilities.
 
-![](images/039d2f9f57c41e54559b23f1e7246ed3ecf5e9aa.png)
+![](.images/039d2f9f57c41e54559b23f1e7246ed3ecf5e9aa.png)
 
 PredictIt bettor [refuses to pay](https://twitter.com/PeePeePooPooPI3/status/1521968019433525255) ([a](https://web.archive.org/web/20220510032133/https://twitter.com/PeePeePooPooPI3/status/1521968019433525255)) $15k worth of over-the-counter bets.
 
@@ -109,7 +109,7 @@ Overall, their method performs worse than current machine techniques. It is also
 
 I released [three papers on scoring rules](https://github.com/SamotsvetyForecasting/optimal-scoring) ([a](https://web.archive.org/web/20220510032155/https://github.com/SamotsvetyForecasting/optimal-scoring)). The motivation behind them is my frustration with scoring rules as used in current forecasting platforms. I was also frustrated with the "reciprocal scoring" method recently proposed in [Karger et al](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954498) ([a](https://web.archive.org/web/20220510032158/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954498)) and now used in Tetlock's Hybrid Forecasting-Persuasion tournament (see above). These new scoring rules incentivize collaboration, and although not quite [ready for production](https://github.com/SamotsvetyForecasting/optimal-scoring/issues) ([a](https://web.archive.org/web/20220510032202/https://github.com/SamotsvetyForecasting/optimal-scoring/issues)), I hope they could eventually provide a better incentive scheme for the forecasting ecosystem.
 
-![](images/bde404d545bc59818be1549d1b50e5b5d87f37e9.png)
+![](.images/bde404d545bc59818be1549d1b50e5b5d87f37e9.png)
 
 ---
 

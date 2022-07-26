@@ -57,11 +57,11 @@ CSET's Michael Page also published [Wisdom of the Crowd as Arbiter of Expert Dis
 
 As in the first season, Samotsvety Forecasting, a team made up of Eli Lifland, Misha Yagudin, and myself, completely demolished the competition. We were around twice as good as the next-best team in terms of the relative Brier score.
 
-![](images/d26defbf40ccec176cb4c6234d4c03e4bce6f5dc.png)
+![](.images/d26defbf40ccec176cb4c6234d4c03e4bce6f5dc.png)
 
 Amusingly, all three of us are in the top 3 of all time (out of 1035 contenders.)
 
-![](images/50628176a24bba3c42a1b2e7888497a63a748502.png)
+![](.images/50628176a24bba3c42a1b2e7888497a63a748502.png)
 
 ### Metaculus
 
@@ -94,7 +94,7 @@ In particular, most other prediction markets/forecasting platforms—like Hyperm
 
 Moreover, the team has a couple of ex-Googlers, so beating everyone else in the technology front seems like a plausible pathway to dominance. I encourage people to [give it a try](https://manifold.markets/) ([a](https://web.archive.org/web/20220109142701/https://manifold.markets/)). Some of the markets are entertaining, and for now, it's just play money.
 
-![](images/14ee30f907ad1872a88a012639eadefe0c30e0e3.png)
+![](.images/14ee30f907ad1872a88a012639eadefe0c30e0e3.png)
 
 For those curious, an explanation of Manifold Markets' tricky dynamic parimutuel betting system can be found [here](https://manifoldmarkets.notion.site/Technical-Overview-b9b48a09ea1f45b88d991231171730c5) ([a](https://web.archive.org/web/20220109142731/https://manifoldmarkets.notion.site/Technical-Overview-b9b48a09ea1f45b88d991231171730c5)).
 
@@ -122,7 +122,7 @@ A [white paper by the Good Judgment project](https://goodjudgment.com/wp-content
 
 The paper also doesn’t have the visceral impact of the comparison in the Superforecasting book, where the original Good Judgment project beat intelligence analysts with classified information. This time, the paper compares paid superforecasters against unpaid hobbyists. I guess I’d have liked to see a comparison between different platforms, e.g., a Good Judgment vs Metaculus or vs PredictIt head-to-head fight.
 
-![](images/8e30a71d8031dc5de68eb6fed3d5460400aa878e.png)
+![](.images/8e30a71d8031dc5de68eb6fed3d5460400aa878e.png)
 
 Jaime Sevilla looks at [aggregating forecasts in a principled way](https://forum.effectivealtruism.org/s/hjiBqAJNKhfJFq7kf/p/biL94PKfeHmgHY6qe) ([a](https://web.archive.org/web/20220109143140/https://forum.effectivealtruism.org/s/hjiBqAJNKhfJFq7kf/p/biL94PKfeHmgHY6qe)), building on his [previous work](https://forum.effectivealtruism.org/s/hjiBqAJNKhfJFq7kf) ([a](https://web.archive.org/web/20220109143221/https://forum.effectivealtruism.org/s/hjiBqAJNKhfJFq7kf)). This time, he explains [a result by Neyman et al.](https://arxiv.org/abs/2111.03153) ([a](https://web.archive.org/web/20220109143254/https://arxiv.org/abs/2111.03153)), and tests it on past Metaculus data. He finds that it beats Metaculus' own prediction, as well as all other aggregation methods commonly considered.
 
@@ -157,7 +157,7 @@ Google has revealed the existence of a new [internal prediction market](https://
 
 The Bank Al-Maghrib—the central bank of Morocco—has a very clearly written report on [monetary policy](https://www.bkam.ma/en/content/download/744906/8479246/RPM%20%20ang%20Q3%202021.pdf) ([a](https://web.archive.org/web/20220109144144/https://www.bkam.ma/en/content/download/744906/8479246/RPM%20%20ang%20Q3%202021.pdf)). I found the international comparisons on growth, interest and inflation rates to be particularly interesting.
 
-![](images/322406ae40fd3e2a7738dad8cfb22bc6f2ccd95f.png)
+![](.images/322406ae40fd3e2a7738dad8cfb22bc6f2ccd95f.png)
 
 Some news media & individuals wrote some quantified predictions for 2022: [Vox](https://www.vox.com/future-perfect/22824620/predicting-midterms-covid-roe-wade-oscars-2022) ([a](https://web.archive.org/web/20220109144227/https://www.vox.com/future-perfect/22824620/predicting-midterms-covid-roe-wade-oscars-2022)), [UnHerd](https://unherd.com/2022/01/my-predictions-for-2022/) ([a](https://web.archive.org/web/20220110184541/https://unherd.com/2022/01/my-predictions-for-2022/)), [The Economist](https://www.economist.com/graphic-detail/2022/01/01/what-prediction-markets-suggest-will-happen-in-2022) ([a](https://web.archive.org/web/20220110184632/https://www.economist.com/graphic-detail/2022/01/01/what-prediction-markets-suggest-will-happen-in-2022)), [Ipsos](https://www.ipsos.com/en/global-predictions-2022) ([a](https://web.archive.org/web/20220110184849/https://www.ipsos.com/en/global-predictions-2022)), [Matt Rickard](https://matt-rickard.com/2022-predictions/) ([a](https://web.archive.org/web/20220110185055/https://matt-rickard.com/2022-predictions/)), [Avraham Eisenberg](https://misinfounderload.substack.com/p/predictions-for-2022) ([a](https://web.archive.org/web/20220110185128/https://misinfounderload.substack.com/p/predictions-for-2022)), [Mathew Yglesias](https://www.slowboring.com/p/predictions-are-hard) ([a](https://web.archive.org/web/20220110185219/https://www.slowboring.com/p/predictions-are-hard)), [The Atlantic Council](https://www.atlanticcouncil.org/content-series/atlantic-council-strategy-paper-series/the-top-twelve-risks-and-opportunities-for-2022/) ([a](https://web.archive.org/web/20220110185255/https://www.atlanticcouncil.org/content-series/atlantic-council-strategy-paper-series/the-top-twelve-risks-and-opportunities-for-2022/)), and [Blackrock](https://www.blackrock.com/corporate/insights/blackrock-investment-institute/interactive-charts/geopolitical-risk-dashboard) ([a](https://web.archive.org/web/20220110185321/https://www.blackrock.com/corporate/insights/blackrock-investment-institute/interactive-charts/geopolitical-risk-dashboard)). h/t to Clay Graubard for [this longer list of 2022 predictions](https://docs.google.com/document/d/1cvKZZ6PKdJh6WIcdyQ-k8kNjq7tOLjV-t9IRaCHCp7Y/edit#), from which some of the aforementioned were taken. It feels like there are more of these than last year, and the Mathew Yglesias piece is by a particularly mainstream author, which might be indicative that forecasting is becoming something less niche.
 

@@ -39,7 +39,7 @@ As foreseen by prediction markets and pundits alike, Keine Davon has been electe
 
 UN Secretary-General Yan Zhang vows to move prediction markets to at least a 30% implied probability that the Spanish military junta will not be in power by the end of the decade. Prediction markets rose to 35% upon announcement (source: Metacortex), up from an early estimate of 28%. The move is widely considered to be an attempt by Zhang to distract attention away from an embezzlement scandal, in which famine prediction systems were manipulated to show increasing risk in areas that were actually safe, leading to the deployment of additional funds which could then safely be stolen.
 
-<p><img src="images/02034183e0de16f853fc004dab47ef5a01ca677f.png" alt="QURI logo" class="img-frontpage-center"></p>
+<p><img src=".images/02034183e0de16f853fc004dab47ef5a01ca677f.png" alt="QURI logo" class="img-frontpage-center"></p>
 
 Netflix releases a new Korean soap opera, [Forecasting Love and Weather](https://en.wikipedia.org/wiki/Forecasting_Love_and_Weather), which tells the gripping tale of how a young man with an affinity and talent for weather forecasting falls in love with an analytical woman of comparable forecasting prowess. "It was as if an occult hand had reached into Korean society and made forecasting cool and mainstream", mentions a spokesbeing for the Korean Forecasting Congregation. It further seems that a lot of [attention to detail](https://www.soompi.com/article/1512045wpp/real-life-meteorological-administration-spokesperson-explains-how-forecasting-love-and-weather-was-made-realistic) went into making the show realistic.
 
@@ -57,7 +57,7 @@ Rootclaim has a new feature analyzing the reasons for Peter Thiel's extraordinar
 
 ## Long Content
 
-![](images/57ec1c1ce52c9b097c46dedb0ca9233fda286405.png)
+![](.images/57ec1c1ce52c9b097c46dedb0ca9233fda286405.png)
 
 [Robin Hanson To Represent Sweden At 2021 Olympic Games In Tokyo](https://calbears.com/news/2021/5/27/mens-swimming-diving-robin-hanson-heading-to-tokyo). To settle a bet about whether he would have found a career in sports more meaningful than his intellectual career, Robin Hanson has agreed to spin up universe afea6ef9628fcb91771abc9f799cf15. You can bet on the outcome [here](https://polymarket.com/market/will-robin-hanson-find-a-swimming-career-more-meaningful-than-an-intellectual-career). [United Nations Security Council Resolution 26280](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_26280) requires us to inform you that if there are two or more Robin Hansons in your universe, you might be in a simulation (probability depends on the specific [anthropic question being asked](https://www.lesswrong.com/posts/LARmKTbpAkEYeG43u/anthropics-different-probabilities-different-questions) and on how much credence one lends to the [simulation hypothesis](https://www.simulation-argument.com/).)
 

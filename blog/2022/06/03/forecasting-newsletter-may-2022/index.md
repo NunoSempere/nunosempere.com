@@ -64,7 +64,7 @@ More interestingly, he is creating a [speculative financial instrument](https://
 
 Czech Priorities has an [update on their forecasting work](https://forum.effectivealtruism.org/posts/6meqpK339FnQpZ4kv/czech-forecasting-project-summary) ([a](http://web.archive.org/web/20220518092351/https://forum.effectivealtruism.org/posts/6meqpK339FnQpZ4kv/czech-forecasting-project-summary)) trying to influence the Czech government.
 
-![](images/d4bfc0829791b7017bd2a8c5074a81818ee63e06.png)
+![](.images/d4bfc0829791b7017bd2a8c5074a81818ee63e06.png)
 
 Note that incidents are declassified 10–25 years after they happen.
 
@@ -95,7 +95,7 @@ Jotto, an experienced Metaculus forecaster, cautions against [boasting about non
 
 Nick Bosse and others release a [comprehensive R package for scoring forecasts](https://github.com/epiforecasts/scoringutils) ([a](http://web.archive.org/web/20220603012339/https://github.com/epiforecasts/scoringutils)) ([twitter](https://twitter.com/nikosbosse/status/1526511848144642051) ([a](http://web.archive.org/web/20220603012652/https://twitter.com/nikosbosse/status/1526511848144642051)), [CRAN](https://cran.r-project.org/web/packages/scoringutils/index.html) ([a](http://web.archive.org/web/20220603013058/https://cran.r-project.org/web/packages/scoringutils/index.html)), [accompanying arxiv paper](https://arxiv.org/abs/2205.07090) ([a](http://web.archive.org/web/20220603012725/https://arxiv.org/abs/2205.07090))). Per the [CRAN logs](https://cranlogs.r-pkg.org/downloads/total/2022-05-10:2025-01-02/scoringutils) ([a](http://web.archive.org/web/20220603012812/https://cranlogs.r-pkg.org/downloads/total/2022-05-10:2025-01-02/scoringutils)) so far it's seeing a smallish to medium number of downloads (791 so far, and 151 in the last week). But once a library is well-engineered, I think it will tend to last. And it makes developments in other languages easier.
 
-![](images/a021b9280ea6e599748f6145cf2f47a435012268.png)
+![](.images/a021b9280ea6e599748f6145cf2f47a435012268.png)
 
 Bayesian method (in bright blue and in shaded confidence intervals) beats previous method (in black) at predicting Marathon records (in red).
 
@@ -103,7 +103,7 @@ Jaime Sevilla and Jonathan Lindbloom publish some research on [Bayesian models o
 
 This approach might work for some problems, like Olympic records. But it would do less well over other problems where assuming identically distributed draws would not be a good assumption. For instance, Moore's law—or technological progress more generally—doesn't lend itself well to being modelled using this approach, because new approaches tend to build on top of previous approaches. The authors are planning to address this in future work.
 
-![](images/d0fb1dc864cc1a90611d8673f1402c76f12d3958.png)
+![](.images/d0fb1dc864cc1a90611d8673f1402c76f12d3958.png)
 
 My colleague Sam Nolan looks at [Quantifying Uncertainty in GiveWell's GiveDirectly Cost-Effectiveness Analysis](https://observablehq.com/@hazelfire/givewells-givedirectly-cost-effectiveness-analysis) ([a](http://web.archive.org/web/20220529032327/https://observablehq.com/@hazelfire/givewells-givedirectly-cost-effectiveness-analysis)). He takes point estimates of impact by GiveDirectly, and transforms them into estimates using distributions.
 

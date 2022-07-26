@@ -28,7 +28,7 @@ However, different forecasters preferred different decompositions. In particular
 
 ## Our aggregate forecast
 
-![](images/edc67c8614df4e8216a052ca5d623084edc5791c.png)
+![](.images/edc67c8614df4e8216a052ca5d623084edc5791c.png)
 
 We use the aggregate with min/max removed as our all-things-considered forecast for now given the extremity of outliers. We aggregated forecasts using the geometric mean of odds[\[8\]](#fnt1dm5d62pkl).
 
@@ -38,7 +38,7 @@ Note that we are forecasting one month ahead and it’s quite likely that the cr
 
 We compared the decomposition of our forecast to [Jacob Hilton’s](https://docs.google.com/document/d/17q-Ok4EVV42IscLMFOLztht7i0iLiALx0DFcX3xLn-A/edit?pli=1#) to understand the main drivers of the difference. We compare to Jacob’s revised forecast he made after reading comments on his document. Note that Jacob forecasted on the time horizon of the whole crisis then estimated 10% of the risk was incurred in the upcoming week. We guess that he would put roughly 25% over the course of a month which we forecasted (adjusting down some from weekly \* 4), and assume so in the table below. The numbers we assign to him are also approximate in that our operationalizations are a bit different than his.
 
-![](images/afb763248cc2ad79ba5948d1c1f24ff644d33a5a.png)
+![](.images/afb763248cc2ad79ba5948d1c1f24ff644d33a5a.png)
 
 We are ~an order of magnitude lower than Jacob. This is primarily driven by (a) a ~4x lower chance of a nuclear exchange in the next month and (b) a ~2x lower chance of dying in London, given a nuclear exchange.
 
@@ -107,7 +107,7 @@ lostHours=lostDays*24
 lostHours ## Replace with mean(lostDays) to get an estimate in days instead
 ```
 
-![](images/5f001f3c45c8a48a083871362bde46eb55862e81.png)
+![](.images/5f001f3c45c8a48a083871362bde46eb55862e81.png)
 
 **Eli Lifland**
 
@@ -128,7 +128,7 @@ lostHours=lostDays*24
 lostHours ## Replace with mean(lostDays) to get an estimate in days instead
 ```
 
-![](images/71160022319350cdba174346ddbdfae0ac80b88e.png)
+![](.images/71160022319350cdba174346ddbdfae0ac80b88e.png)
 
 ## Footnotes
 

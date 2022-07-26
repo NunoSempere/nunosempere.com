@@ -14,4 +14,11 @@ Some examples of past markets in this spirit:
 - [Will I receive a grant of $50,000 USD before June 1st, 2022?](https://manifold.markets/TimothyRooney/will-i-receive-a-grant-of-50000-usd)
 - [Will I find a new job by the end of August 2022?](https://manifold.markets/dukeGartzea/will-i-find-a-new-job-by-the-end-of)
 
-To let me know about a new such market you want me to bet on, you can find me on [Twitter](https://twitter.com/NunoSempere).
+To let me know about a new such market you want me to bet on, you can find me on [Twitter](https://twitter.com/NunoSempere) or find my email in the *gossip* section of this website.
+
+---
+
+Brave people who have taken me up on this offer:
+
+- [@BenRCongdon](https://twitter.com/BenRCongdon) for [this market](https://manifold.markets/bcongdon/will-i-run-a-halfmarathon-in-2022).
+- [@Cosmojg](https://twitter.com/cosmojg/status/1549927067055460352) for [this market](https://manifold.markets/cos/will-i-launch-my-digital-futarchy-b).

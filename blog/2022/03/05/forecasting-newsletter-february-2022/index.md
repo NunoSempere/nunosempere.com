@@ -1,4 +1,4 @@
-Forecasting Newsletter: February 2022
+casting Newsletter: February 2022
 ==============
 
 ## Highlights
@@ -73,7 +73,7 @@ In particular, they created the [Ukraine conflict tournament](https://www.metacu
 
 Metaculus also added a feature allowing forecasters to predict on the same question at different points in time. So far, it seems to only be available on [questions](https://www.metaculus.com/questions/9869/flu-hospitalizations-for-ca/) ([a](http://web.archive.org/web/20220304223132/https://www.metaculus.com/questions/9869/flu-hospitalizations-for-ca/)) in the [Flu Sight](https://www.metaculus.com/tournament/flusight-challenge/) ([a](http://web.archive.org/web/20220224002831/https://www.metaculus.com/tournament/flusight-challenge/)) tournament.
 
-![](images/dab3d20fd331f290a238bef8016976fb459748d4.png)
+![](.images/dab3d20fd331f290a238bef8016976fb459748d4.png)
 
 ### Polymarket
 
@@ -91,7 +91,7 @@ Polymarket is currently using [UMA](https://medium.com/uma-project/polymarket-in
 > 
 > Here's an example. The market for "below 100k cases before April 15" has a current proposed answer of "yes" (meaning it did in fact happen before April 15). If you click on the market you get to this page:
 > 
-> ![](images/55c2d1e1672c04ccdecc2521cebdef89d6c41c16.png)
+> ![](.images/55c2d1e1672c04ccdecc2521cebdef89d6c41c16.png)
 > 
 > If nobody contests the proposed answer, the market will resolve "yes" in 42 minutes. Anyone can dispute an outcome but as you can see, it costs $11500 to contest, and of course you lose that amount if you're wrong (if you're right however, you get it back, and it's the original proposer who loses the 11k). This is quite expensive and should deter people from trying dumb contests, like the ones that plagued Augur during the 2020 election aftermath.
 > 
@@ -107,7 +107,7 @@ On account of reading this, I bought a medium amount of the UMA governance token
 
 Manifold markets [received an EA grant](https://manifold.markets/AustinChen/will-manifold-markets-win-an-ea-gra) ([a](http://web.archive.org/web/20220304020932/https://manifold.markets/AustinChen/will-manifold-markets-win-an-ea-gra))
 
-![](images/7d4ee6510852f996b9b365409185e5bc91cb3b81.png)
+![](.images/7d4ee6510852f996b9b365409185e5bc91cb3b81.png)
 
 They report over their updates at [Above the fold](https://manifoldmarkets.substack.com/) ([a](http://web.archive.org/web/20220304020959/https://manifoldmarkets.substack.com/)): they've been adding new features at a steadily fast pace. For instance, Manifold now supports free-form answers. So when betting on the 2024 election, one could have an initial lineup including the expected candidates, but if a dark horse candidate rises to prominence, it could later be added.
 
@@ -117,7 +117,7 @@ Manifold also released a [beautifully documented API](https://manifoldmarkets.no
 
 INFER released a [few blogposts](https://www.infer-pub.com/the-pub) ([a](https://web.archive.org/web/20220305153942/https://www.infer-pub.com/the-pub)) outlining their current thinking and future plans. Of these, [Understanding strategic question decomposition](https://www.infer-pub.com/the-pub/question-issue-decomposition) ([a](http://web.archive.org/web/20220222154450/https://www.infer-pub.com/the-pub/question-issue-decomposition)) is worth reading as a cute illustrated recap of the [best current approach](https://cset.georgetown.edu/publication/future-indices/) ([a](http://web.archive.org/web/20211202012714/https://cset.georgetown.edu/publication/future-indices/)) for using forecasting systems to give insight on big picture questions.
 
-![](images/fbd731a54e1406a25b48e0439eb4c90153f3dc0a.png)
+![](.images/fbd731a54e1406a25b48e0439eb4c90153f3dc0a.png)
 
 They are also running a lottery to give $2,000 to one lucky forecasting team. Teams have to be of 6 people, and the lottery is such that chances are maximized if they predict every day. Suppose that making a forecast one is not ashamed of takes 5 minutes and that 5 new teams are created. Then the expected prize winnings per hour are $2000 \* 60 mins per hour / ( 5 teams \* 5 mins per forecast per day \* 30 days \* 5 forecasters per team ) = $26 / hour, or not enough for me to do it.
 
@@ -139,7 +139,7 @@ Finally, an anonymous benefactor increased the size of this newsletter's [microg
 
 Clay Graubard collects how the different forecasting platforms did at predicting the invasion of Ukraine. He [describes the situation](https://inews.co.uk/news/world/russia-ukraine-crisis-super-forecasters-putin-troops-1475721) ([a](http://web.archive.org/web/20220224205549/https://inews.co.uk/news/world/russia-ukraine-crisis-super-forecasters-putin-troops-1475721)) as "not the forecasting community’s finest hour". It's not clear to me that this is a fair assessment:
 
-![](images/4aacaf5a3ebf60ff1599f13b9034bb1749bb9282.png)
+![](.images/4aacaf5a3ebf60ff1599f13b9034bb1749bb9282.png)
 
 Not pictured there are prediction markets such as [Insight Markets](https://insightprediction.com/markets/129) ([a](http://web.archive.org/web/20220224130825/https://insightprediction.com/markets/129)), where my forecasting group and I won $20k betting on the Russian invasion, or [Futuur](https://futuur.com/q/tag/ukraine-conflict) ([a](http://web.archive.org/web/20220225193740/https://futuur.com/q/tag/ukraine-conflict)), which likewise has real money markets on Ukraine.
 
@@ -147,11 +147,11 @@ Although I'm fairly sure they're not, they could yet be scams, so prospective pa
 
 The forecasting community also saw a few over-the-counter bets on Ukraine:
 
-![](images/1f81697825db923e2ef6216d4bb991215543eabb.png)
+![](.images/1f81697825db923e2ef6216d4bb991215543eabb.png)
 
-![](images/d8d74b08f73c58593450a493bd44b3fcebb39548.png)
+![](.images/d8d74b08f73c58593450a493bd44b3fcebb39548.png)
 
-![](images/b4647161d86a19ee593162b4c59796e166c1ecf0.png)
+![](.images/b4647161d86a19ee593162b4c59796e166c1ecf0.png)
 
 TarasBob paid them all. He also happens to have a surprisingly interesting [website](https://taras.com/) ([a](https://web.archive.org/web/20220225093559/https://taras.com/)).
 

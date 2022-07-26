@@ -16,7 +16,7 @@ It is 1964. Sherman Kent is a senior intelligence analyst. While doing some rudi
 
 It is the 30th of April of 1975. With the [fall of Saigon](https://en.wikipedia.org/wiki/Fall_of_Saigon), the US finally pulls out of a bloody war with Vietnam. There are embarrassing images of people flying out of the US embassy at the last moment. Biden is a newly-minted [senator from Delaware](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden).
 
-![](images/dd78f1183249ae5dafd7578361c66a800c17f842.jpeg)
+![](.images/dd78f1183249ae5dafd7578361c66a800c17f842.jpeg)
 
 It is 2001. The US intelligence agencies are very embarrassed by not having been able to predict the September 11 attacks. The position of the [Director of National Intelligence](https://en.wikipedia.org/wiki/Director_of_National_Intelligence#Founding), and an associated [Office of the Director of National Intelligence](https://en.wikipedia.org/wiki/Director_of_National_Intelligence#Office_of_the_Director_of_National_Intelligence), is established to coordinate all intelligence agencies to do better in the future.
 
@@ -34,7 +34,7 @@ It is the summer of 2021. Biden makes incredibly overconfident assertions about 
 
 > **“**There’s going to be no circumstance where you see people being lifted off the roof of an embassy in the — of the United States from Afghanistan. \[...\] the likelihood there’s going to be the Taliban overrunning everything and owning the whole country is highly unlikely.**”** — Biden, [July 08, 2021](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/08/remarks-by-president-biden-on-the-drawdown-of-u-s-forces-in-afghanistan/)
 
-![](images/300e18f673b8a4e05c5bd2b09b556ae77ffddea9.jpeg)
+![](.images/300e18f673b8a4e05c5bd2b09b556ae77ffddea9.jpeg)
 
 Come Christmas of 2021, the CFTC gives Americans the gift of disappointment by shutting down Polymarket in the US, one of the few places where real money was being traded around topics of extreme interest to Americans, like US covid cases.
 

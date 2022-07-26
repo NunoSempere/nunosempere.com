@@ -26,7 +26,7 @@ Since Polymarket [settled with the CFTC last month](https://www.cftc.gov/media/6
 
 [Manifold Markets](https://manifold.markets/) ([a](https://web.archive.org/web/20220202214710/https://manifold.markets/)), a new play-money prediction market, has kept its frantic development pace. They will be "launching" on February the 8th, from their current open beta. They outline some of their hopes and plans in their [substack newsletter](https://manifold.markets/) ([a](https://web.archive.org/web/20220202214710/https://manifold.markets/)).
 
-![](images/21abfb15da48ac2352f1b9902216f6549fbfcc58.png)
+![](.images/21abfb15da48ac2352f1b9902216f6549fbfcc58.png)
 
 I created some markets on whether I will consider the [Principles of Intelligent Behavior in Biological and Social Systems](https://www.pibbss.ai/) fellowship to be ["a success"](https://manifold.markets/Nu%C3%B1oSempere/will-i-find-that-the-pibbss-fellows) ([a](https://web.archive.org/web/20220202214733/https://manifold.markets/Nu%C3%B1oSempere/will-i-find-that-the-pibbss-fellows)), on [the number of subscribers to this newsletter](https://manifold.markets/Nu%C3%B1oSempere/how-many-additional-subscribers-wil) ([a](https://web.archive.org/web/20220202214804/https://manifold.markets/Nu%C3%B1oSempere/how-many-additional-subscribers-wil)), and on whether [my current employer will still be alive by the end of 2022](https://manifold.markets/Nu%C3%B1oSempere/will-the-quantified-uncertainty-res) ([a](https://web.archive.org/web/20220202214836/https://manifold.markets/Nu%C3%B1oSempere/will-the-quantified-uncertainty-res)). The process was extremely painless, and I recommend that readers [give it a try](https://manifold.markets/).
 
@@ -38,7 +38,7 @@ This is a fairly large amount of [EA](https://en.wikipedia.org/wiki/Effective_al
 
 In [the December issue](https://forecasting.substack.com/p/forecasting-newsletter-december-2021) of this newsletter, I assessed that the move from CSET to ARLIS was probably a negative development, partially because I thought that funding from Open Philanthropy was much better than government funding. As it happens, ARLIS has just now received funding from Open Philanthropy as well. Multiple people also reached out to comment that the move was probably neutral or positive, on account of ARLIS' deeper involvement with the US government. My independent impression is that I still dislike the move, but my all-things-considered view is that it's probably ok and I was wrong. As to how wrong, we’ll see.
 
-![](images/d26defbf40ccec176cb4c6234d4c03e4bce6f5dc.png)
+![](.images/d26defbf40ccec176cb4c6234d4c03e4bce6f5dc.png)
 
 Separately, because their Pro Forecaster program still only pays $20/hour, my team—Samotsvety Forecasting, which overwhelmingly won the last two seasons—might not be participating going forward, though we are trying to negotiate with them. I talked to a few super-forecasters about this, and $20/hour isn't going to get ARLIS the best forecasters. Their open call for pro forecasters can be found [here](https://www.infer-pub.com/open-call-pro-forecasters) ([a](https://web.archive.org/web/20220202214636/https://www.infer-pub.com/open-call-pro-forecasters)).
 
@@ -72,7 +72,7 @@ Insight Prediction has launched a real-money beta with limited access and is loo
 
 On the negative side, Insight Prediction had previously been stuck in development for a long time. They were originally planning to launch in June or July 2021, though at the time one of the funders refused to take a $20 bet I offered on their timelines. Reliable anonymous sources have also expressed some skepticism about the project—not necessarily in the sense of being a scam, but rather in terms of their plans being unfocused. 
 
-![](images/dd7724278ea2aeafd57e743659444ff147c23f43.png)
+![](.images/dd7724278ea2aeafd57e743659444ff147c23f43.png)
 
 Prediction market players who want to participate in the early access beta can reach out per [email](mailto:insightprediction@gmail.com).
 
