@@ -90,17 +90,17 @@ This corresponds to a roughly 1:1 ratio between hours worked and hours of engage
 
 Per Google Analytics data made available to me by CEA,  from October 1st 2020 to October 1st 2021,  tag pages saw 68,627 pageviews, with an average time on page of 1:17, so a total engagement time of 1,016 hours. This is roughly the same as the data from Ben West's comment.
 
-![](images/087cf7562012b4260a0e146781b760185257fc96.png)
+![](.images/087cf7562012b4260a0e146781b760185257fc96.png)
 
 Pageviews on the EA Forum Wiki, created by going to Behavior → Site content → All pages → advanced, and creating a filter for pages that start with /tag, which roughly corresponds to the pages on the EA Wiki.
 
 Pablo reduced his engagement with the Wiki while waiting for his grant to be renewed. But looking at the period from October 1st 2020 to December 11th 2021, this doesn't affect page-views that much:
 
-![](images/9b25456f66773b161d954309edd153b7a6724e3e.png)
+![](.images/9b25456f66773b161d954309edd153b7a6724e3e.png)
 
 In contrast, the views for the EA Forum as a whole look as follows:
 
-![](images/66af0c8e44141df3af46afa6b0df3546a61fecbe.png)
+![](.images/66af0c8e44141df3af46afa6b0df3546a61fecbe.png)
 
 I consider this a negative point when tallying up the costs and benefits of the EA Wiki because Pablo is a rather experienced EA. In contrast, readers of the Wiki are likely to be more junior. So a tradeoff of one hour of Pablo’s work for roughly hour of a random EA Wiki reader is probably not worth it. I expand on and justify these points in a later section.
 
@@ -148,7 +148,7 @@ _Thanks to Misha Yagudin for suggesting that this section ought to exist._
 The EA Wiki takes in ~1,800 hours of researcher time per year, an additional ~1,800 hours of user engagement time, and lately around $70k per year. But views and hours of engagement don’t equate to “good in the world.” In terms of a straightforward [logic model](https://en.wikipedia.org/wiki/Logic_model), we are missing the “outcomes.”  
  
 
-![](images/8f7871efbe2e5bd1804a5a7740f13495daccd1c0.png)
+![](.images/8f7871efbe2e5bd1804a5a7740f13495daccd1c0.png)
 
 ### Does the path to impact through better organizing research check out? 
 
@@ -160,7 +160,7 @@ Because so many people read Wikipedia, and because journal articles are inaccess
 
 However, for a smaller wiki, this is less clear. One could imagine that more effort could go into it than the effort it saves, as illustrated by the following xkcd comic:
 
-![](images/58d5d9804bb460aed93c00aac5267da87b02301a.png)
+![](.images/58d5d9804bb460aed93c00aac5267da87b02301a.png)
 
 In the xkcd comic, some rectangles are grayed out, because one person can't save more than 24h every day. But if one cares about the time of many people, saving more than 24 hours of time every day becomes possible
 
@@ -226,7 +226,7 @@ Readers can find a broader analysis of the editing festival [here](https://forum
 
 Excluding Pablo Stafforini and Michael Aird, the distribution looks as follows:
 
-![](images/0ca0e86185d25ca8c8834d2317f10fed24380a04.png)
+![](.images/0ca0e86185d25ca8c8834d2317f10fed24380a04.png)
 
 Readers can find the entire distribution [here](https://docs.google.com/spreadsheets/d/12G0CTifo3f72sAPlO2frG3dZtv7fh49SmmX2tnrqyTA/edit#gid=0). I created it by running [this script](https://gist.github.com/NunoSempere/0959416ccf710a26974c8a95fb8431a6) over the users mentioned in the [editing festival post](https://forum.effectivealtruism.org/posts/aZqce5PPtxyRckNyv/editing-festival-results-and-prizes). Ideally, I’d analyze the data for all EA Forum users, but I don’t expect it to change the picture significantly.
 
@@ -387,7 +387,7 @@ Also, Pablo could consider posting particularly in-depth articles to the EA Foru
 
 ## Acknowledgments
 
-<img src="images/77c41e9298562badddf94d2069d5fdf00cf0cf26.png" alt="QURI logo" class="img-frontpage-center">
+<img src=".images/77c41e9298562badddf94d2069d5fdf00cf0cf26.png" alt="QURI logo" class="img-frontpage-center">
 
 This evaluation is a project by the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/), commissioned by Pablo Stafforini and Max Daniel, financed by the [EA Infrastructure Fund](https://forum.effectivealtruism.org/tag/effective-altruism-infrastructure-fund), and conducted by Nuño Sempere. Pablo and Max reviewed this document prior to publication. 
 

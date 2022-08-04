@@ -13,7 +13,7 @@ To make those decisions more robust, we have set up a reasonably general [model]
 
 The model looks something like:
 
-![](images/a157a75c1e0c14d52dad77f47de5cf540c4687eb.png)
+![](.images/a157a75c1e0c14d52dad77f47de5cf540c4687eb.png)
 
 That is, the social movement has access to labor and capital.
 
@@ -36,7 +36,7 @@ Note that the diagram only lays out the possible flows of labor and capital, but
 
 *   Utility is isoelastic in "direct work", meaning that as the quantity of "direct work" (e.g., malaria nets delivered) increases, the utility function is assumed to have constant curvature, in a certain sense. For instance, as the number of malaria nets delivered increases, they get sent to places where the need for them is less great: this would imply a curvature that is less than linear. In our model, this curvature is represented by _η_. _η_ = 1 defines a logarithmic utility function, _η_ > 1 defines a function which exhibits sharper diminishing returns than the logarithm, and _η_ < 1 defines a function that exhibits returns which diminish more slowly. (_η_ = 0 defines linear utility.)
 
-![](images/76afdd8ff4d07004b202f08cd6736f836f97e851.png)
+![](.images/76afdd8ff4d07004b202f08cd6736f836f97e851.png)
 
 Diminishing returns under some values for _η_ in a isoelastic utility function
 

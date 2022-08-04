@@ -33,7 +33,7 @@ To unpack the tech stack:
 
 So far, Augur Turbo merely has NBA markets, with low volume, and low liquidity.
 
-![](images/c8924e33ba1699ccf11cd0a5701f4e13355f1f75.png)
+![](.images/c8924e33ba1699ccf11cd0a5701f4e13355f1f75.png)
 
 Augur Turbo [webpage](https://bafybeihlyzl7tcxa3fppm2haqoba66jquop7xjjfgjoty4ymuu7r6zngzm.ipfs.dweb.link/#!/markets). Screenshot taken the 1st of June, 2021. Notice that the market with the highest total volume has a mere $100 in trade volume.
 
@@ -55,7 +55,7 @@ The Financial Times [reports](https://ig.ft.com/coronavirus-vaccine-tracker/?are
 
 Misha Yagudin, friend of the newsletter and fellow Samotsvety Forecasting team member on CSET-Foretell, has programmed a [site](https://share.streamlit.io/yagudin/gjo-calibration/main/strmlt.py) which allows users to get their calibration chart for their predictions on Good Judgment Open and other Cultivate Labs platforms, such as CSET-Foretell. See [this one-minute video](https://www.youtube.com/watch?v=_G3FNzYNPCs) for how to use it. Using [Misha’s site](https://share.streamlit.io/yagudin/gjo-calibration/main/strmlt.py), my calibration chart looks as follows:
 
-![](images/781cfadbd40f7aa64d7b03ff5f92683236a51e35.png)
+![](.images/781cfadbd40f7aa64d7b03ff5f92683236a51e35.png)
 
 My calibration chart for Good Judgment Open as of the 1st of July 2021, based on 2337 forecasts on 106 resolved questions.
 
@@ -63,13 +63,13 @@ This means that I'm under-confident around the 15% (resp. 85%) level. I know why
 
 For comparison, here is the historical calibration of Canadian strategic intelligence forecasts, which I calculated using [this dataset](https://open.canada.ca/data/en/dataset/d5f7f93b-f757-42ef-b468-1d3791d97d94):
 
-![](images/c68b6f73879bbf70d65a93d50f055f84a758ec48.png)
+![](.images/c68b6f73879bbf70d65a93d50f055f84a758ec48.png)
 
 [Accuracy of forecasts in (Canadian) strategic intelligence](https://open.canada.ca/data/en/dataset/d5f7f93b-f757-42ef-b468-1d3791d97d94), processed [in R](https://gist.github.com/NunoSempere/2cfb5b824539a262d96af1fc596ff662)
 
 And here is the calibration of [Spock](https://en.wikipedia.org/wiki/Spock), from Julia Galef’s The Scout Mindset (h/t Gavin Leech, Michał Dubrawski):
 
-![](images/0fcbb6571a15cbed25506ef330962488182d2d2c.png)
+![](.images/0fcbb6571a15cbed25506ef330962488182d2d2c.png)
 
 Spock's calibration chart, taken from Julia Galef's _The Scout Mindset_, p.77.
 
@@ -134,7 +134,7 @@ Polymarket's microgrants program spawned [Polystats](https://polystats.info/), w
 
 As for markets, [Will the 2021 Tokyo Olympics take place?](https://polymarket.com/market/will-the-2021-tokyo-olympics-take-place) is sitting at ~81% (~77% on [FTX](https://ftx.com/trade/OLY2021)) (!), and [Will Joe Biden be President of the USA on September 30, 2021?](https://polymarket.com/market/will-joe-biden-be-president-of-the-usa-on-september-30-2021) is currently sitting at ~92% (!?).
 
-![](images/0649b6fb39cd4813de77e1528e6ea57e7ca135d6.png)
+![](.images/0649b6fb39cd4813de77e1528e6ea57e7ca135d6.png)
 
 Polymarket: [Will Joe Biden be President of the USA on September 30, 2021?](https://polymarket.com/market/will-joe-biden-be-president-of-the-usa-on-september-30-2021). Screenshot taken on the 1st of July 2021.
 
@@ -164,7 +164,7 @@ There has been some recent brouhaha in the [news](https://news.google.com/search
 
 [My attempt to think about AI timelines](https://forum.effectivealtruism.org/posts/tCo2WeQXpTWb5i8d7/my-attempt-to-think-about-ai-timelines), by Ben Snodin, gives his probabilities for AI timelines based on a combination of inside and outside views, after thinking about it for 40 hours.
 
-![](images/a5aefb60b7ae05d3c32cac43f55827c5db108b87.png)
+![](.images/a5aefb60b7ae05d3c32cac43f55827c5db108b87.png)
 
 Ben Snodin’s AI timelines alongside timelines from other notable sources
 
@@ -216,7 +216,7 @@ Note to the future: All links are added automatically to the Internet Archive. I
 
 ---
 
-![](images/0b1950dbe3b1eda5cd070a75c242b2f92485f108.png)
+![](.images/0b1950dbe3b1eda5cd070a75c242b2f92485f108.png)
 
 Alan Moore, Watchmen, [Issue #12, page 29](https://readcomiconline.li/Comic/Watchmen/Issue-12?id=14879&readType=0#29)
 

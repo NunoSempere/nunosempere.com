@@ -82,7 +82,7 @@ North Dakota is looking for [economic forecasting consultants](https://www.legis
 
 Charles Dillon of Rethink Priorities and SimonM look at [How does forecast quantity impact forecast quality on Metaculus?](https://forum.effectivealtruism.org/posts/xF8EWBouJRZpRgFgu/how-does-forecast-quantity-impact-forecast-quality-on-1) ([a](https://web.archive.org/web/20211029014336/https://forum.effectivealtruism.org/posts/xF8EWBouJRZpRgFgu/how-does-forecast-quantity-impact-forecast-quality-on-1)). More forecasters increase forecast quality, but the effect is small beyond 10 or so forecasters.
 
-![](images/dab9cb8b4a3b08a68fb2e62a4eb076e635d46e7c.png)
+![](.images/dab9cb8b4a3b08a68fb2e62a4eb076e635d46e7c.png)
 
 Forecasting performance as a function of the number of predictors, by [SimonM](https://forum.effectivealtruism.org/posts/xF8EWBouJRZpRgFgu/how-does-forecast-quantity-impact-forecast-quality-on-1?commentId=3dtqzMEuccpBTubBe#comments) using Metaculus data.
 
@@ -96,7 +96,7 @@ David Friedman looks at whether the [past IPCC temperature projections/predictio
 
 Jaime Sevilla writes about his [current best guess on how to aggregate forecasts](https://forum.effectivealtruism.org/posts/acREnv2Z5h4Fr5NWz/my-current-best-guess-on-how-to-aggregate-forecasts) ([a](https://web.archive.org/web/20211015084806/https://forum.effectivealtruism.org/posts/acREnv2Z5h4Fr5NWz/my-current-best-guess-on-how-to-aggregate-forecasts)):
 
-![](images/6d5b427b6870cee04d6817696a54dfa20abfd11a.png)
+![](.images/6d5b427b6870cee04d6817696a54dfa20abfd11a.png)
 
 In [Learning from our (the USA's) defeat](https://scholars-stage.org/learning-from-our-defeat-the-skill-of-the-vulcans/) ([a](https://web.archive.org/web/20211028162144/https://scholars-stage.org/learning-from-our-defeat-the-skill-of-the-vulcans/)) Tanner Greer of The Scholar's Stage looks at the leadership team of the second Bush's administration. It seems very much worth reading in terms of improving one's models of the world.
 

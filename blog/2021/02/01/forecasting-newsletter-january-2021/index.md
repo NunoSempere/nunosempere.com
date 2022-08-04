@@ -39,7 +39,7 @@ Metaculus also published an open letter on the [urgent need for expanded surveil
 
 On the negative side, Metaculus’s current editor could use some improvement. For example, consider the following aggregate prediction on the [state of the art performance on the SuperGLUE AI benchmark](https://www.metaculus.com/questions/5937/sota-on-superglue-on-2021-06-14/):
 
-![](images/6ce12962aeaa2a687cfc7a5c10ab4256cef451fd.png)
+![](.images/6ce12962aeaa2a687cfc7a5c10ab4256cef451fd.png)
 
 The current state of the art performance is [90.3](https://super.gluebenchmark.com/leaderboard) in the SuperGLUE benchmark, making it extremely unlikely that the end result will fall below that number. But, the Metaculus’s aggregate prediction gives a 25% chance to the state of the art falling below that number at question resolution time. This is because the Metaculus interface makes it annoying, or directly impossible, to create one-sided tails.
 
@@ -53,7 +53,7 @@ But now—unlike in the previous edition of this newsletter—I don’t think th
 
 In other news, I created a [**search engine for probabilities**](https://metaforecast.org/). It currently aggregates forecasts from PredictIt, Polymarket, Omen, Metaculus, Good Judgment Open, CSET-foretell, Elicit, PredictionBook (through Elicit) and Hypermind. You can access a demo [here](https://metaforecast.org/), or browse a GitHub repository and find out the location of selected API endpoints [here](https://github.com/QURIresearch/metaforecasts). To get a feel of how it works, I suggest searching for “Trump”, “China”, or “semiconductors”. Tentatively, I'll keep both the search engine and the json/csv endpoints updated once a day for the next month. I consider this to be in very early beta: comments and suggestions are welcome.
 
-![](images/1b3225d8d42a1395346729d2698c683b39b94f18.png)
+![](.images/1b3225d8d42a1395346729d2698c683b39b94f18.png)
 
 ## In the News
 
@@ -81,7 +81,7 @@ A small US city [deliberates](https://www.govtech.com/public-safety/Worcester-Ma
 
 Metaculus user [Ege Erdil](https://www.metaculus.com/accounts/profile/116023/) has produced a heatmap of predicted locations for World War 3 putting together the results of two questions: [If there is a WW3, what latitude will it start in?](https://www.metaculus.com/questions/3868/if-there-is-a-ww3-what-latitude-will-it-start-in/) and [If there's a WW3, what longitude will it start in?](https://www.metaculus.com/questions/3867/if-there-is-a-ww3-what-longitude-will-it-start-in/) . The source code used to produce the image below is available [here](https://colab.research.google.com/drive/1vULirmiot4vMHMFzTnY1l1kiIPwgrqei#scrollTo=1f5wDgZNwxrf). Because the latitude and longitude are given as separate variables, the code uses some kernel wizardry to try to find their degree of correlation, which might introduce some mistakes.
 
-![](images/f0e08a0297051c919c927e0c19a35abf393d2c4f.png)
+![](.images/f0e08a0297051c919c927e0c19a35abf393d2c4f.png)
 
 WW3 according to Metaculus.
 

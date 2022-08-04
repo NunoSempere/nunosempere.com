@@ -3,11 +3,11 @@ A Funnel for Cause Candidates
 
 From some previous work on technology timelines I know that NASA used [Technology readiness levels](https://en.wikipedia.org/wiki/Technology_readiness_level) to gauge the maturity of technologies for the purposes of space exploration. The scale then later was [criticized](https://web.archive.org/web/20171011071816/https://www.innovation.cc/discussion-papers/22_2_3_heder_nasa-to-eu-trl-scale.pdf) as becoming much less useful when it became applied more widely and more holistically, particularly by the European Union. Here is a picture of NASA’s technology readiness levels: 
 
-![](images/c640203e23b26912ce27e58a5a6a9afdeb763bbf.png)
+![](.images/c640203e23b26912ce27e58a5a6a9afdeb763bbf.png)
 
 The general idea is an awareness that technology has a funnel, from theoretical proposal to actually being used in space, and that the drop-out rate —the rate at which technologies don't make it to the next stage— is pretty brutal. For Effective Altruism cause candidates, the funnel might look something like this (more on the meaning of each stage later):
 
-![](images/af5fc4ad87af98ceeffd27d0b859019887c21d4b.png)
+![](.images/af5fc4ad87af98ceeffd27d0b859019887c21d4b.png)
 
 So if one is trying to pick technologies for the next generation of rockets, as in the case of NASA, one would want to focus on ideas with a high level of maturity. Similarly, if one is an EA incubator who wants to create a charity which has a chance of becoming a, say, GiveWell top charity, or a valuable long-termist charity, one might also want to choose an idea to implement which has a very high level of maturity. 
 

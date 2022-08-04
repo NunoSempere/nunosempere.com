@@ -39,11 +39,11 @@ A two-sentence version would be:
 
 > Forecasters predicted the conclusions that would be reached by Elizabeth van Norstrand, a generalist researcher, before she conducted a study on the accuracy of various historical claims. We randomly sampled a subset of research claims for her to evaluate, and since we can set that probability arbitrarily low this method is not bottlenecked by her time.
 
-![](images/4a235d14d0177ec92050af5b2551cdbc337f2d1e.png)
+![](.images/4a235d14d0177ec92050af5b2551cdbc337f2d1e.png)
 
 The below graph shows the evolution of the accuracy of the crowd prediction over time, starting from Elizabeth Van Nostrand’s prior. Predictions were submitted separately by two groups of forecasters: one based on a mailing list with participants interested in participating in forecasting experiments (recruited from effective altruism-adjacent events and other forecasting platforms), and one recruited from Positly, an online platform for crowdworkers.
 
-![](images/c7e041d8fab837233a9cc4d03c6166c54da04020.png)
+![](.images/c7e041d8fab837233a9cc4d03c6166c54da04020.png)
 
 The y-axis shows the accuracy score on a logarithmic scale, and the x-axis shows how far along the experiment is. For example, 14 out of 28 days would correspond to 50%. The thick lines show the average score of the aggregate prediction, across all questions, at each time-point. The shaded areas show the standard error of the scores, so that the graph might be interpreted as a guess of how the two communities would predict a random new question.
 
@@ -61,7 +61,7 @@ We measured “value provided” as the reduction in uncertainty weighted by the
 
 Results were as follows.
 
-![](images/50453b84385fa25f5a934570cfa2bc6702869748.png)
+![](.images/50453b84385fa25f5a934570cfa2bc6702869748.png)
 
 In other words, each unit of resource invested in the network-adjacent forecasters provided 72% as much returns as investing it in Elizabeth directly, and each unit invested in the crowdworkers provided negative returns, as they tended to be less accurate than Elizabeth’s prior.
 
@@ -229,7 +229,7 @@ For future experiments, we’re considering obtaining an objective data-set with
 
 In order to participate in the experiment, a forecaster has to turn their mental models (represented in whichever way the human brain represents models) into quantitative distributions (which is a format quite unlike that native to our brains), as shown in the following diagram:
 
-![](images/fd632951009d3c978277000a6ba9f3834cb4922a.png)
+![](.images/fd632951009d3c978277000a6ba9f3834cb4922a.png)
 
 Each step in this chain is quite challenging, requires much practice to master, and can result in a loss of information.
 

@@ -89,7 +89,7 @@ Threads to follow-up on:
 
 ## VII. Disaster Forecasters—A New Hope
 
-![](images/37204ad51ca028fb0aea405e26c1e7ae9eb138e5.png)
+![](.images/37204ad51ca028fb0aea405e26c1e7ae9eb138e5.png)
 
 The Red Cross and Red Crescent societies have been trying out "forecast-based financing". The idea is to create forecasts and early warning indicators for negative outcomes, such as floods, using weather forecasts, satellite imagery, climate models, etc., and release funds automatically if the forecast reaches a given threshold. This allows the funds to be put to work before the disaster happens in a more automatic, fast and efficient manner.
 

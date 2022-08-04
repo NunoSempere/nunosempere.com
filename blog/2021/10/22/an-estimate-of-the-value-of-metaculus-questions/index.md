@@ -36,7 +36,7 @@ My results can be found [here](https://docs.google.com/spreadsheets/d/1q_VsIEt8s
 
 ### Decision-relevance
 
-![](images/bb5ecd72652d05c040e36683edf4c901f3a4407c.png)
+![](.images/bb5ecd72652d05c040e36683edf4c901f3a4407c.png)
 
 How likely is this to change actual decisions?
 
@@ -50,7 +50,7 @@ Indirect effects, such as finding out if forecasters are calibrated on some doma
 
 ### Forecasting fit
 
-![](images/53945b09e454f4bba933939ce32f2399a4d36fcb.png)
+![](.images/53945b09e454f4bba933939ce32f2399a4d36fcb.png)
 
 How valuable is it to generate insight on this topic from a forecasting perspective? Is anybody else trying?
 
@@ -65,7 +65,7 @@ Otherwise, I would use my intuition about what makes a question more forecastabl
 
 ### Scope
 
-![](images/c44bd870d2eb5a7db8146047ec2f27ad30d29524.png)
+![](.images/c44bd870d2eb5a7db8146047ec2f27ad30d29524.png)
 
 I categorized Metaculus questions as one of:
 
@@ -86,9 +86,9 @@ The three elements (sort of) map to: scale, tractability and neglectedness, but 
 
 In any case, I get a measure of the overall value by multiplying the numeric values of the three factors. For instance, if decision-relevance is zero, the overall value is zero as well. I am aware that this is not very methodologically elegant \[2\]. Nonetheless, I still wanted to have some measure of aggregate impact.
 
-![](images/795966a84f540d8d7d3a5845ff72db37491c2e56.png)
+![](.images/795966a84f540d8d7d3a5845ff72db37491c2e56.png)
 
-![](images/ddb7bd6f830f4b83ed865a264d44d58467da69b2.png)
+![](.images/ddb7bd6f830f4b83ed865a264d44d58467da69b2.png)
 
 ##   
  **Conclusion**

@@ -23,11 +23,11 @@ Metaforecast is being led by Nuño Sempere, with support from Ozzie Gooen, who a
 
 ### [**Charity**](https://metaforecast.org/?query=Charity)
 
-![](images/fd8fbee557430d35d68acee8dc30081fd15a8bae.png)
+![](.images/fd8fbee557430d35d68acee8dc30081fd15a8bae.png)
 
 ### [**GiveWell**](https://metaforecast.org/?query=GiveWell&starsThreshold=2&numDisplay=20&forecastsThreshold=0&forecastingPlatforms=GiveWell/OpenPhilanthropy)
 
-![](images/afc02758d96bffd6ecff799e7d255c7b44318574.png)
+![](.images/afc02758d96bffd6ecff799e7d255c7b44318574.png)
 
 ## Data Sources
 

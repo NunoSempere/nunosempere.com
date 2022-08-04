@@ -6,6 +6,7 @@ The categorization for this page is a work in progress.
 
 Besides forecasting (of probabilities), a major thread in my research is estimation (of values). Pieces related to this topic are:
 
+- [A Critical Review of Open Philanthropy’s Bet On Criminal Justice Reform](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on-criminal)
 - [Five steps for quantifying speculative interventions](https://forum.effectivealtruism.org/posts/3hH9NRqzGam65mgPG/five-steps-for-quantifying-speculative-interventions)
 - [External Evaluation of the EA Wiki](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki)  
 - [Pathways to impact for forecasting and evaluation](https://forum.effectivealtruism.org/posts/oXrTQpZyXkEbTBfB6/pathways-to-impact-for-forecasting-and-evaluation)  
@@ -61,7 +62,7 @@ _Global health and development_, and as part of that, _survey-making_
 
 - [A review of two books on survey-making](https://forum.effectivealtruism.org/posts/DCcciuLxRveSkBng2/a-review-of-two-books-on-survey-making)  
 - [A glowing review of two free online MIT Global Poverty courses](https://forum.effectivealtruism.org/posts/S3vAPRp2XQ9BdDbPz/a-glowing-review-of-two-free-online-mit-global-poverty) 
-- [EA Mental Health Survey: Results and Analysis.](https://forum.effectivealtruism.org/posts/FheKNFgPqEsN8Nxuv/ea-mental-health-survey-results-and-analysis)  
+- [EA Mental Health Survey: Results and Analysis.](https://forum.effectivealtruism.org/posts/FheKNFgPqEsN8Nxuv/ea-mental-health-survey-results-and-analysis) (and a more recent [update](https://forum.effectivealtruism.org/posts/GWBsDeQTjFM8YXtrv/2021-ea-mental-health-survey-results?commentId=XQSiuNuiti9BLpmrR#comments=)
 
 I also have some minor pieces which I still want to index:
 
@@ -69,3 +70,4 @@ I also have some minor pieces which I still want to index:
 - [Reasons why upvotes on the EA forum and LW don't correlate that well with impact](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=kLuhtmQRZBJpcaHhH)  
 - [Prizes in the EA Forum and LW](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
 - [Thoughts on EA literature](https://forum.effectivealtruism.org/posts/Bc8J5P938BmzBuL9Y/when-can-writing-fiction-change-the-world?commentId=RnEpvpozD5tEEsM9b)  
+

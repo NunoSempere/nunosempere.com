@@ -31,7 +31,7 @@ Using early [data](https://docs.google.com/spreadsheets/d/1GH4m8QiLbciodi0MnX71y
 
 Personally, I ended up on place #5 out of 646 on the [first season’s leaderboard](https://www.cset-foretell.com/leaderboards/seasons/1), and my team, Samotsvety Forecasting, comprised out of Eli Lifland, Misha Yagudin and myself, completely outpaced all other teams: 
 
-![](images/e4805ffc3987eee5e16cf61e796c9c2bf504f7c3.png)
+![](.images/e4805ffc3987eee5e16cf61e796c9c2bf504f7c3.png)
 
 CSET-Foretell: [Team leaderboard](https://www.cset-foretell.com/leaderboards/teams) at the end of the first season.
 
@@ -93,7 +93,7 @@ The Association of Bay Area Governments has released a series of demographic, ec
 
 Astral Codex Ten considers [Trapped Priors As A Basic Problem Of Rationality](https://astralcodexten.substack.com/p/trapped-priors-as-a-basic-problem). “The raw evidence (the Rottweiler sat calmly wagging its tail) looks promising. But the context is a very strong prior that dogs are terrifying. If the prior is strong enough, it overwhelms the real experience. Result: the Rottweiler was terrifying. Any update you make on the situation will be _in favor of_ dogs being terrifying”
 
-![](images/d4cf106e05db02a12d9ae8d554a0d0a7b17f6748.png)
+![](.images/d4cf106e05db02a12d9ae8d554a0d0a7b17f6748.png)
 
 [Astral Codex Ten](https://astralcodexten.substack.com/p/trapped-priors-as-a-basic-problem): Priors combine with sensory input to produce a perception of the situation. That perception is then used to produce a new prior. 
 
@@ -105,7 +105,7 @@ deluks917, of previous ["Bet on Biden"](https://www.lesswrong.com/posts/y8RWtNBi
 
 [Why sigmoids are so hard to predict](https://www.lesswrong.com/posts/6tErqpd2tDcpiBrX9/why-sigmoids-are-so-hard-to-predict) makes an argument in terms of the differential equation which produces sigmoids. “The core reason why the turning point and the maximums are so hard to predict from early data \[is that\] we're not only trying to figure out the parameters of a logistic curve, but the functional form of the dampening function - a dampening function whose effect is insignificant in the early data.”
 
-![](images/5e77b27bd97dda5b0eb3f936faea01b39af2918c.png)
+![](.images/5e77b27bd97dda5b0eb3f936faea01b39af2918c.png)
 
 [Why sigmoids are so hard to predict](https://www.lesswrong.com/posts/6tErqpd2tDcpiBrX9/why-sigmoids-are-so-hard-to-predict): Various growth curves produced by different hard to estimate dampening factors
 
@@ -137,7 +137,7 @@ OpenPhilanthropy asked various academics for feedback. Among other comments, the
 
 [Understanding "empirical Bayes estimation" (using baseball statistics)](http://varianceexplained.org/r/empirical_bayes_baseball/): Given two baseball batters, one which has hit 4 out of 10 balls, and another one which has hit 300 out of 1000 balls, which one is, in expectation, better?
 
-![](images/717d82b35b047f22ee6faef8f9c703d9138e2667.png)
+![](.images/717d82b35b047f22ee6faef8f9c703d9138e2667.png)
 
 [Understanding "empirical Bayes estimation"](http://varianceexplained.org/r/empirical_bayes_baseball/): Batting average before and after adjustment for the number of trials
 
@@ -175,7 +175,7 @@ From [The risks of communicating extreme climate forecasts](https://eurekalert.o
 > 
 > Subjective irreducible uncertainty is highest in our task when the subject’s estimated probability of a shock is 50%, corresponding to a situation where the environment is utterly unpredictable, and maximal in entropy.
 
-![](images/e8e935ba3f3651c2715beed3126a62ce968300cc.png)
+![](.images/e8e935ba3f3651c2715beed3126a62ce968300cc.png)
 
 [Computations of uncertainty mediate acute stress responses in humans](https://www.nature.com/articles/ncomms10996): Fig. 4.
 

@@ -61,7 +61,7 @@ As for the object-level commentary, [here](https://www.vox.com/22173990/electora
 
 I'm giving more space to the views I disagree with, because I'm betting some money that Biden will, in fact, be inaugurated president, though nothing I can't afford to lose. I'm also aware that [in matters of politics](https://www.huffpost.com/entry/nate-silver-election-forecast_n_581e1c33e4b0d9ce6fbc6f7f), it's particularly easy to confuse a 30% for a 3% chance, so I wouldn’t recommend full [Kelly betting](https://en.wikipedia.org/wiki/Kelly_criterion).
 
-![](images/6992a63864683f41052802cca4819222dcdef4c4.png)
+![](.images/6992a63864683f41052802cca4819222dcdef4c4.png)
 
 As an interesting tidbit, most big bets on PolyMarket’s election markets are against Trump. For instance, the largest bet placed against Trump amounts to $1,480,000, whereas the largest bet placed on his success is $622,223.
 
@@ -69,7 +69,7 @@ As an interesting tidbit, most big bets on PolyMarket’s election markets are a
 
 A [new variant of COVID-19](https://en.wikipedia.org/wiki/Variant_of_Concern_202012/01) has been identified (New York Times coverage [here](https://www.nytimes.com/2020/12/20/health/coronavirus-britain-variant.html?smid=tw-share)). The broader Effective Altruism and rationality communities are giving high probabilities to the possibility that this new variant is significantly more contagious. See [here](https://twitter.com/juan_cambeiro/status/1344058829823238145), [here](https://pandemic.metaculus.com/questions/6089/50-transmissible-variant-to-infect-10m/), [here](https://pandemic.metaculus.com/questions/6031/more-transmissible-variant-to-infect-10m/), and the last section [here](https://www.lesswrong.com/posts/CHtwDXy63BsLkQx4n/covid-12-24-we-re-f-ed-it-s-over#What_Happens_Now_). Juan Cambeiro, an expert COVID-19 forecaster who has consistently outperformed competitors and experts across Metaculus and various Good Judgement platforms, gives an 85% chance that this specific new strain is >30% more transmissible. Because of Cambeiro’s past forecasting prowess, subject-matter expertise and nigh unbeatable track record, I suggest adopting his probabilities as your own, and acting accordingly. Note that the Metaculus questions he is forecasting are clearly, precisely, narrowly and tightly defined, so there isn’t room for doubt in that regard. 
 
-![](images/f82717861bb0734fecb9fb79a195931adc11f391.png)
+![](.images/f82717861bb0734fecb9fb79a195931adc11f391.png)
 
 Budget forecasting in the US under COVID-19:
 
@@ -114,7 +114,7 @@ Trump [predicted](https://twitter.com/realDonaldTrump/status/1298637609871212545
 
 Twitter user [@kjhealy](https://twitter.com/kjhealy/status/1336681782251573249) visualizes forecasts from the [Survey of Professional Forecasters](https://en.wikipedia.org/wiki/Survey_of_Professional_Forecasters):
 
-![](images/c2244a3f3fcc210b04d570461830fe2dcbdb8b4b.png)
+![](.images/c2244a3f3fcc210b04d570461830fe2dcbdb8b4b.png)
 
 ## Hard to Categorize
 
@@ -150,7 +150,7 @@ The authors of the paper train a machine learning model to predict replicability
 
 A nice tidbit from the paper is that past citation count isn’t very predictive of future replication:
 
-![](images/3e3518f28b1e161c42374c4eca3c05385c08128c.png)
+![](.images/3e3518f28b1e161c42374c4eca3c05385c08128c.png)
 
 Article: [Forecasting the next COVID-19](https://www.princeton.edu/news/2020/12/14/forecasting-next-covid-19). 
 

@@ -13,7 +13,7 @@ Simple comparison polling to create utility functions
 
 Say you have a list of items that you want to compare the value of. You just want to know how valuable every item is, in comparison to every other item. Perhaps these items are research documents, or the lives of people at different ages, or personal life improvements.
 
-![](images/b0267ddea35759eacc4ac75da46e7f7a143fbe7a.png)
+![](.images/b0267ddea35759eacc4ac75da46e7f7a143fbe7a.png)
 
 This meme exists because of Kat Woods' [Why boring writing is unethical.](https://forum.effectivealtruism.org/posts/dAbs7w4J4iNm89DjP/why-boring-writing-is-unethical-the-case-for-it-being-high)
 
@@ -47,23 +47,23 @@ We're not trying to have a precise definition of "value". Instead, the app leave
 
 The user is at the start presented with the following screen:
 
-![](images/4d4144010dee66a73131863521ebec759f0313b3.png)
+![](.images/4d4144010dee66a73131863521ebec759f0313b3.png)
 
 The user then selects, say, that _The Mathematical Theory of Communication_ is worth ~50x as much as _Thinking Fast and Slow_—meaning that the user would be indifferent between ~50 books as valuable as _Thinking Fast and Slow_ or one paper as fundamental as _The Mathematical Theory of Communication_ \[3\]_._
 
 After entering several such comparisons, the user arrives at a result like the following:
 
-![](images/19acab6c85055830cc5e010f0183ecf7a55435fc.png)
+![](.images/19acab6c85055830cc5e010f0183ecf7a55435fc.png)
 
 This produces a scale where _Categorizing Variants of Goodhart's Law_ is worth 1 unit. The lines between two nodes indicate how more valuable the node to the right is than the node to the left. For instance, in this graph node 1 (“Extinguishing...”) is ~50x as valuable \[3\] as node 0 (“A comment...”), and node 2 (“Shallow evaluations...”) is 100x times as valuable as node 1.  But node 2 is ~1000x as valuable as node 0, which is not ~50\*100x = ~5000x. So the comparisons are inconsistent by a factor of 5x.
 
 In contrast, here is a screenshot taken from a previous version of this program:
 
-![](images/f58684a8d521e3e277cd55194d75a0aad0d2ddfa.png)
+![](.images/f58684a8d521e3e277cd55194d75a0aad0d2ddfa.png)
 
 At the time, I was being lazy and hadn’t gotten around to programming sensible rounding, so the value of the first element shows up as ~0. Notice that the comparisons are fairly different than in the previous image, even though the items are the same. To me, this suggests that this kind of method of elicitation could or should be repeated at different points in time—even by the same user—to find out how noisy user’s estimates are. Notice also that the comparisons between items are more consistent than in the first screenshot. 
 
-![](images/a40fcf1773cb95398a1d0128171323401a94c795.png)
+![](.images/a40fcf1773cb95398a1d0128171323401a94c795.png)
 
 ## FAQ
 

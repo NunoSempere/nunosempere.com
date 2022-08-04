@@ -1,5 +1,7 @@
 ## Changelog
 
+Page was getting too annoying to update.
+
 ### Most recent pieces
 
 - 2022/04/17: [Simple Squiggle](https://nunosempere.com/blog/2022/04/17/simple-squiggle/)

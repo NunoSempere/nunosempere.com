@@ -70,11 +70,11 @@ It seems a little bit confusing at first, but it becomes more clear once you go 
 
 ### Disagreements and Uncertainties
 
-[![](images/a6f0eb06876e214cf937cb24cea8731e646eb014.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/a6f0eb06876e214cf937cb24cea8731e646eb014.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 With those inputs, I arrive, per [this guesstimate model](https://www.getguesstimate.com/models/18201) at a roughly 50% probability that "marginal money now on alternate foods is more cost effective than on AI risk mitigation". This is in stark contrast with the original 95%, and at a 15% probability that $100M to alternate foods is "more cost-effective than to AI risk mitigation". I endorse the 50%, but not the 15%; I'd probably be higher on the latter.
 
-[![](images/23d31437bbc7f99ec733251229819817c4077362.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/23d31437bbc7f99ec733251229819817c4077362.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 I feel that that 50% is still pretty good, but the contrast between it and the model's initial 95% is pretty noticeable to me, and makes me feel that the 95% is uncalibrated/untrustworthy. On the other hand, my probabilities above can also be seen as a sort of sensitivity analysis, which shows that the case for an organization working on ALLFED's cause area is somewhat more robust than one might have thought.
 
@@ -150,7 +150,7 @@ In conclusion, I feel that their logic model is solid, and that the APPGFG's cap
 
 I feel fairly positive about the APPGFG's chances of success:
 
-[![](images/1f25c4b98ca52c82c934c7a4847e4be2dcd6e8e6.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/1f25c4b98ca52c82c934c7a4847e4be2dcd6e8e6.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 ### Sources
 
@@ -179,7 +179,7 @@ Readers are welcome to browse [CSER's team page](https://www.cser.ac.uk/team) an
 
 Personally, although I feel like there is a small group of strong researchers working at CSER, the proportion of researchers working on stuff I don't particularly care about or which I don't expect to be particularly valuable according to my values is too high. Commenters pointed out that this assessment is "almost unfairly subjective."
 
-[![](images/347d85986fa5527f838c2df447bb842d6634d18c.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/347d85986fa5527f838c2df447bb842d6634d18c.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 ### Sources
 
@@ -233,7 +233,7 @@ I thought that testimonies were particularly important because one worry outline
 
 CSET indeed communicated carefully and with nuance most of the time, at least according to my reading of its testimonials to the US Congress. In particular, it seemed likely that the late Trump administration was going to take punitive actions against China, and providing expert considerations on CSET's area of expertise seemed unlikely to have done harm. There could be some scenarios in which any testimony at all increases political tensions, but this seems unlikely. However, some of the positions which CSET advocated for, e.g., openness and taking in top foreign talent from China, do map clearly across partisan lines, and if that proportion exceeds some threshold, or if CSET never gives support to uniquely Republican stances, CSET and the positions it defends might eventually come to be perceived as partisan.
 
-[![](images/a2750fa275e49ac4d29e2e9e72f574c52b066f2a.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/a2750fa275e49ac4d29e2e9e72f574c52b066f2a.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 With regards to research, CSET appears to be extremely prolific, per [CSET's list of publications](https://cset.georgetown.edu/publications/). Some publications which appeared particularly relevant for evaluation purposes are:
 
@@ -297,7 +297,7 @@ The [core team](https://futureoflife.org/team/) mentioned in their webpage had j
 
 In short, I'm uncertain about how valuable policy work is, about how valuable the specific policy work which FLI has done is, and about whether FLI intends to continue doing policy work. Colleagues have mentioned that FLI isn't so much an organization as "a hat which sometimes people wear," which seems plausible.
 
-[![](images/74fd0504a25c23185791f1084902eab80f4abfc8.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/74fd0504a25c23185791f1084902eab80f4abfc8.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 ---
 
@@ -332,9 +332,9 @@ With regards to concrete research outputs produced or catalyzed, some recent exa
 
 With regards to community building, some interaction happens in the comments. Further, the LessWrong team organizes activities, like Solstice celebrations, Petrov Day games, talks, etc. One rough measure of the community building aspect could be the number of new users with more than 500 or 1000 karma in the last couple of years. If we search for these, we find the following:
 
-![](images/f4a3362e8ca623fd0ca51d2a03a8068236a3722b.png)
+![](.images/f4a3362e8ca623fd0ca51d2a03a8068236a3722b.png)
 
-![](images/870319ea2f72f09ba83018bed6e3ef1e84a77e20.png)
+![](.images/870319ea2f72f09ba83018bed6e3ef1e84a77e20.png)
 
 Note that this is, in a sense, unfair to recent years, because newly active users haven't had time to accumulate as much karma as old users. Nonetheless, the conclusion that the LW community recovered from its previous decline holds.
 
@@ -344,9 +344,9 @@ To the extent that these new users belong to already established organizations a
 
 We can also analyze the number of posts above 100 votes per year, or the total number of votes given to posts in each year. I'm using number of votes (number of people who vote) instead of karma (which includes a multiplier) because the LW API makes that easier to get. In any case, we find
 
-![](images/8fd922edeed0b867f9997c2b8510595aab677530.png)
+![](.images/8fd922edeed0b867f9997c2b8510595aab677530.png)
 
-![](images/4ddd7cb64d7854bbcea0fe60ca725af2026794eb.png)
+![](.images/4ddd7cb64d7854bbcea0fe60ca725af2026794eb.png)
 
 If, as a rough approximation, we take 100 votes (for posts) as equivalent to two researcher/weeks, 40,000 votes in 2020 would equal 200 researcher months, or 17 researcher/years.
 
@@ -356,7 +356,7 @@ In conclusion, LW seems to catalyze or facilitate a relatively large amount of r
 
 In addition, the LessWrong codebase is also used by the [EA Forum](https://forum.effectivealtruism.org/) and by the [AI Alignment Forum](https://www.alignmentforum.org/).
 
-[![](images/863b052a59c2f3160a5dfb593fab78cbbe587fce.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/863b052a59c2f3160a5dfb593fab78cbbe587fce.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 ### Sources
 
@@ -395,7 +395,7 @@ At this point, I feel that the number of longtermist FTEs is so small that I wou
 
 With regards to the expected quality of future research, on the one hand, past high quality research is predictive of future quality. On the other hand, research into invertebrate sentience feels foundational for animal-focused ethics and activism in a way which seems hard to upstage, so one might expect some regression to the mean.
 
-[![](images/fc09972b7482a5f3724cf70ec3d20923c23448db.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/fc09972b7482a5f3724cf70ec3d20923c23448db.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 ### Sources
 
@@ -467,7 +467,7 @@ And indeed, most of 80,000 hours' impact tracking and quantification is done wit
 
 It is possible that further estimation of non-career plan change related impact would be clarifying, even if the estimation is very fuzzy. In particular, to the extent that most of 80,000 hours' impact comes from influencing the EA community, and this sounds plausible, having most of their evaluation focus on career plan changes feels misguided (cf. [Streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect)).
 
-[![](images/3ff0228be4da3804bf43a5ad90f5485482709be8.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/3ff0228be4da3804bf43a5ad90f5485482709be8.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 (Despite feeling comfortable with the guess above, in practice, I've found that estimating total impact by estimating the impact of a measurable part and the fraction of value it represents leads to large errors)
 
@@ -524,7 +524,7 @@ I'm not sure about whether further work on malevolence would be fruitful. In par
 
 That said, perhaps one possible longer-term strategy might be to have proposals ready which can be implemented in the ensuing policy window following unexpected turmoil (e.g., pushing for psychopathy tests for politicians might have been more feasible in the aftermath of the Nürnberg trials, or after Watergate.) I imagine that people who interface with policy directly probably have better models about the political feasibility of anti-malevolence proposals.
 
-[![](images/1da1d3035386469d1f5812bf4144a026b479f7f3.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/1da1d3035386469d1f5812bf4144a026b479f7f3.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 Maybe considering CLR's research agenda isn't a good way to think about its potential impact. [Daniel Kokotajlo's work](https://www.lesswrong.com/users/daniel-kokotajlo) on AI timelines strikes me as valuable, and is outside that research agenda.
 
@@ -585,7 +585,7 @@ I imagine that this might change as I think more about this, and maybe come up w
 
 In the meantime, it seems that FHI doesn't seem to be hurting for money, but that Open Phil is hesitant to donate too much to any particular organization. If one thinks that appeasing Open Phil's neurosis is particularly important, which, all things considered, might be, or if one thinks that FHI is in fact hurting for money, FHI might be a good donation target.
 
-[![](images/4e9f080a5ce0aae62bc086dfa7af7426db45728b.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
+[![](.images/4e9f080a5ce0aae62bc086dfa7af7426db45728b.png)](https://www.foretold.io/c/b2412a1d-0aa4-4e37-a12a-0aca9e440a96/n/c01b0899-4100-4efd-9710-c482d89eddad)
 
 ### Macrostrategy and AI Safety Research Groups
 

@@ -30,7 +30,7 @@ Forecasters on Good Judgment Open have the opportunity to receive feedback from 
 
 With [QURI](http://quantifieduncertainty.org/), I've been improving [Metaforecast](https://metaforecast.org/), a search tool for probabilities. It now has more prediction platforms, a nicer interface, and more search options. Readers might be interested in [COVID predictions](https://metaforecast.org/?query=COVID&starsThreshold=2&numDisplay=20&forecastsThreshold=0&forecastingPlatforms=CSET-foretell%7CGood%20Judgment%7CGood%20Judgment%20Open%7CGuesstimate%7CHypermind%7CMetaculus%7CPolyMarket%7CPredictIt%7CSmarkets), readers from the EA movement might be particularly interested in [all GiveWell and OpenPhilanthropy predictions](https://metaforecast.org/?query=%20&starsThreshold=2&numDisplay=20&forecastsThreshold=0&forecastingPlatforms=GiveWell/OpenPhilanthropy).
 
-![](images/1a2913f0301257495b5611cedcad2c8d7bdc0ced.png)
+![](.images/1a2913f0301257495b5611cedcad2c8d7bdc0ced.png)
 
 [Metaforecast](https://metaforecast.org/?query=Israel&starsThreshold=2&numDisplay=20&forecastsThreshold=0&forecastingPlatforms=CSET-foretell|Good%20Judgment|Good%20Judgment%20Open|Guesstimate|Hypermind|Metaculus|PolyMarket|PredictIt|Smarkets) search for "Israel"
 
@@ -76,7 +76,7 @@ A piece of [feedback](https://docs.google.com/forms/d/1UxeJ5A3pI4vqSbXaQGNPsOQam
 
 The first one was [Will Kim Kardashian or Kanye West file for divorce before March 1, 2021?](https://polymarket.com/market/will-kim-kardashian-or-kanye-west-file-for-divorce-before-march-1-2021). After some investigation, I thought that they would try to time the divorce to maximize news about the last season of [Keeping Up with the Kardashians](https://en.wikipedia.org/wiki/Keeping_Up_with_the_Kardashians), and was quite surprised when they didn't. Other bettors were also surprised, as the price on Polymarket looked as follows:
 
-![](images/774b4090517d6388d27ca42e1c4eeca19c301166.png)
+![](.images/774b4090517d6388d27ca42e1c4eeca19c301166.png)
 
 PolyMarket prices for question "Will Kim Kardashian or Kanye West file for divorce before March 1, 2021?"
 
@@ -96,7 +96,7 @@ The [Illinois Commission on Government Forecasting and Accountability](https://c
 
 [Evaluating Short-term Forecast among Different Epidemiological Models under a Bayesian Framework](https://www.medrxiv.org/content/10.1101/2020.10.11.20210971v1.full) ([supporting data](http://gigadb.org/dataset/100863), [webpage](https://qiwei.shinyapps.io/PredictCOVID19/)). The authors notice that the relative merits of different epidemic forecasting methods and approaches are difficult to compare. This is because they don’t normally have access to the same data or computational capacity in the wild. The authors set out to carry out that comparison themselves, but they don’t arrive to any sharp conclusions, other than [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) not being able to keep up with stochastic approaches. 
 
-![](images/9c9fde1c97814d7c1c640383fc8d9b7e805f2a98.png)
+![](.images/9c9fde1c97814d7c1c640383fc8d9b7e805f2a98.png)
 
 from 'Evaluating Short-term Forecast among Different Epidemiological Models under a Bayesian Framework'
 
@@ -114,7 +114,7 @@ Comparing weather forecasts in Tasmania now to those made 30 years ago, a news a
 
 [The Kelly Criterion, visualized in 3D](https://www.lesswrong.com/posts/iboaiByhPxfvYgFoB/the-kelly-criterion-in-3d).
 
-![](images/a95199aefbb5b7410f5463fe66c81f4201be05b4.png)
+![](.images/a95199aefbb5b7410f5463fe66c81f4201be05b4.png)
 
 The Kelly Criterion in 3D, visualized by lsusr. Source: Less Wrong
 

@@ -3,11 +3,9 @@ Some thoughts on Turing.jl
 
 [Turing](https://turing.ml/stable/) is a cool probabilistic programming new language written on top of [Julia](https://julialang.org/). Mostly I just wanted to play around with a different probabilistic programming language, and discard the low-probability hypothesis that things that I am currently doing in [Squiggle](https://www.squiggle-language.com/) could be better implemented in it.
 
----
+My thoughts after downloading it and playing with it a tiny bit are as follows:
 
-My thoughts after downloading it and playing with it a tiny bit are:
-
-1\. **Installation is annoying**: The program is pretty heavy, and it requires several steps (you have to install Julia and then Turing as a package, which is annoying (e.g., I had to figure out where in the filesystem to put the Julia binaries !!).
+1\. **Installation is annoying**: The program is pretty heavy, and it requires several steps (you have to install Julia and then Turing as a package, which is annoying (e.g., I had to figure out where in the filesystem to put the Julia binaries).
 
 - Node.js installations can also be pretty gnarly (though there is [nvm](https://github.com/nvm-sh/nvm)), but Turing doesn't have an equivalent online playground. My sense is that running Julia online would also be pretty annoying (?).
 

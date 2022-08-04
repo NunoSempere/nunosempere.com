@@ -26,7 +26,7 @@ The leaderboard for users is [here](https://www.replicationmarkets.com/index.php
 
 Now, a long writeup by "unipedal" himself can be read at [How I Made $10k Predicting Which Studies Will Replicate](https://fantasticanachronism.com/2021/11/18/how-i-made-10k-predicting-which-papers-will-replicate/) ([a](https://web.archive.org/web/20211201185551/https://fantasticanachronism.com/2021/11/18/how-i-made-10k-predicting-which-papers-will-replicate/)). The author started out with a simple quantitative model based on [Altmejd et al. (2019)](https://fantasticanachronism.com/2021/11/18/how-i-made-10k-predicting-which-papers-will-replicate/) ([a](https://web.archive.org/web/20211201185551/https://fantasticanachronism.com/2021/11/18/how-i-made-10k-predicting-which-papers-will-replicate/))
 
-![](images/6bb9c8eccc313df8628c49ad49ccb08ed2c57e38.png)
+![](.images/6bb9c8eccc313df8628c49ad49ccb08ed2c57e38.png)
 
 Predicting the replicability of social science lab experiments, [Altmejd et al](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225826)., 2019.
 
@@ -59,9 +59,9 @@ In addition, Metaculus and its community worked at full speed to put up question
 
 Polymarket saw some extremely large swings, where [1:250](https://twitter.com/Domahhhh/status/1458182373674086405) ([a](https://web.archive.org/web/20211202195106/https://twitter.com/Domahhhh/status/1458182373674086405)) and [1:700](https://twitter.com/Domahhhh/status/1461503351669989386) ([a](https://web.archive.org/web/20211202195301/https://twitter.com/Domahhhh/status/1461503351669989386)) underdogs ended up winning. h/t [@Domahhhh](https://twitter.com/Domahhhh) ([a](https://web.archive.org/web/20211202201400/https://twitter.com/Domahhhh))
 
-![](images/44774cc8753a5cc81021c7b8b58160b70fb8c449.png)
+![](.images/44774cc8753a5cc81021c7b8b58160b70fb8c449.png)
 
-![](images/fac892a2302df4ba46ce5e44de16ff63413670a8.png)
+![](.images/fac892a2302df4ba46ce5e44de16ff63413670a8.png)
 
 Zvi positively covers some Polymarket markets on Covid [here](https://www.lesswrong.com/posts/M9ngsjEMGjaYs84W8/covid-prediction-markets-at-polymarket) ([a](https://web.archive.org/web/20211202214649/https://www.lesswrong.com/posts/M9ngsjEMGjaYs84W8/covid-prediction-markets-at-polymarket)).
 
@@ -89,7 +89,7 @@ There is a [fairly neat calibration app](https://calibration-practice.neocities.
 
 I've added [Peter Wildeford's pubicly available predictions](https://docs.google.com/spreadsheets/d/1xcgYF7Q0D95TPHLLSgwhWBHFrWZUGJn7yTyAhDR4vi0/edit#gid=0&range=A238) to [Metaforecast](https://metaforecast.org/?query=Peter%20Wildeford&numDisplay=200&forecastingPlatforms=Peter%20Wildeford):
 
-![](images/4105667257942a4632f42c327971dfbfac7bf7d6.png)
+![](.images/4105667257942a4632f42c327971dfbfac7bf7d6.png)
 
 On the negative side, Metaforecast is experiencing some difficulties with updating with new forecasts, which I hope to get fixed in the coming week.
 

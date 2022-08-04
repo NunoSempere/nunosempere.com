@@ -41,7 +41,7 @@ Polymarket had several prominent cryptocurrency prediction markets. [Will Cardan
 
 [Will EIP-1559 be implemented on the Ethereum mainnet before August 5, 2021?](https://polymarket.com/market/will-eip-1559-be-implemented-on-the-ethereum-mainnet-before-august-5-2021) ([a](https://web.archive.org/web/20210801122839/https://polymarket.com/market/will-eip-1559-be-implemented-on-the-ethereum-mainnet-before-august-5-2021)) saw Polymarket pros beat Ethereum enthusiasts by more accurately calculating block times. Lance, an expert predictor market player, covers the topic [here](https://twitter.com/LanceupperPI/status/1419740083603771393) ([a](https://web.archive.org/web/20210801122931/https://twitter.com/LanceupperPI/status/1419740083603771393)).
 
-![](images/32e0d59f4660972705f6fc69e0f3dd074b62ac5a.png)
+![](.images/32e0d59f4660972705f6fc69e0f3dd074b62ac5a.png)
 
 Polymarket also started their first tournament, the first round of which is currently ongoing. 32 participants each received $100, and face-off in a [sudden-death tournament](https://en.wikipedia.org/wiki/Single-elimination_tournament) ([a](https://web.archive.org/web/20210801133838/https://en.wikipedia.org/wiki/Single-elimination_tournament)). Participants' profits can be followed on [PolymarketWhales](https://polymarketwhales.info/tournament) ([a](https://web.archive.org/web/20210726142609/https://polymarketwhales.info/tournament)).
 
@@ -57,7 +57,7 @@ Also on Reddit, [r/MarkMyWorlds](https://www.reddit.com/r/MarkMyWords/top/?t=all
 
 *   [Betty In School in 2021 AD (originally from Feb. 1997)](https://www.reddit.com/r/calledit/comments/n37mlw/kind_of_creepy_to_be_honest/) ([a](https://web.archive.org/web/20210801123946/https://www.reddit.com/r/calledit/comments/n37mlw/kind_of_creepy_to_be_honest/)) ([original source](https://twitter.com/ArchieComics/status/1371927216922234886/photo/1) ([a](https://web.archive.org/web/20210801124014/https://twitter.com/ArchieComics/status/1371927216922234886/photo/1)))
 
-![](images/46d396008ba1e7b37863de180839b0ff53144ff1.jpeg)
+![](.images/46d396008ba1e7b37863de180839b0ff53144ff1.jpeg)
 
 *   [News anchorman predicts that Trump could win the Republican nomination in 2015, gets laughed at](https://www.reddit.com/r/calledit/comments/f30mux/a_classic_from_july_2015_way_early_in_the/) ([a](https://web.archive.org/web/20210801134204/https://www.reddit.com/r/calledit/comments/f30mux/a_classic_from_july_2015_way_early_in_the/)) ([original source](https://www.youtube.com/watch?v=FHkPadFK34o) ([a](https://web.archive.org/web/20210801124139/https://www.youtube.com/watch?v=FHkPadFK34o)))
 *   [Just a reminder this guy correctly predicted the end of How I Met Your Mother.](https://www.reddit.com/r/calledit/comments/muk6eo/just_a_reminder_this_guy_correctly_predicted_the/) ([a](https://web.archive.org/web/20210801124218/https://www.reddit.com/r/calledit/comments/muk6eo/just_a_reminder_this_guy_correctly_predicted_the/)) ([original source](https://www.reddit.com/r/FanTheories/comments/159tk9/how_i_met_your_mother_a_study_in_violet_xpost/c7kzq8h/) ([a](https://web.archive.org/web/20210801124251/https://www.reddit.com/r/FanTheories/comments/159tk9/how_i_met_your_mother_a_study_in_violet_xpost/c7kzq8h/)))
@@ -85,7 +85,7 @@ Hypermind launches a new contest on [the future of AI](https://prod.hypermind.co
 
 I've added [Kalshi](https://metaforecast.org/?query=Kalshi&forecastingPlatforms=Kalshi) and [Betfair](https://metaforecast.org/?query=Betfair&forecastingPlatforms=Betfair) to [Metaforecast](https://metaforecast.org).
 
-![](images/dafb3d1248b3a6981182ff80c06e1daca254a8e0.png)
+![](.images/dafb3d1248b3a6981182ff80c06e1daca254a8e0.png)
 
 ## In the News
 
@@ -97,7 +97,7 @@ Malta is in trouble over betting & fraud: [Malta faces EU sports betting veto wi
 
 The European Central Bank seems to systematically [over-predict inflation](https://mobile.twitter.com/RobinBrooksIIF/status/1394653195633311748) ([a](https://web.archive.org/web/20210801125944/https://mobile.twitter.com/RobinBrooksIIF/status/1394653195633311748)).
 
-![](images/8ca72a3926629b566ee7bc63852c45d53c0ae842.com2fmedia2fe1rmzqlxeag8ix23fformat3dpng26name3d900x900)
+![](.images/8ca72a3926629b566ee7bc63852c45d53c0ae842.com2fmedia2fe1rmzqlxeag8ix23fformat3dpng26name3d900x900)
 
 [Forecasting Swine Disease Outbreaks](https://www.porkbusiness.com/news/hog-production/forecasting-swine-disease-outbreaks) ([a](https://web.archive.org/web/20210801130006/https://www.porkbusiness.com/news/hog-production/forecasting-swine-disease-outbreaks))
 

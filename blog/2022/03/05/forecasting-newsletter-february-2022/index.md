@@ -1,4 +1,4 @@
-casting Newsletter: February 2022
+Forecasting Newsletter: February 2022
 ==============
 
 ## Highlights

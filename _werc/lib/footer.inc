@@ -1,6 +1,6 @@
 <br class="doNotDisplay doNotPrint" />
 
-<div style="margin-right: auto;">Powered by <a href="http://werc.cat-v.org/">werc</a>, <a href="https://alpinelinux.org/">Alpine Linux</a> and <a href="https://nginx.org/en/">nginx</a></div>
+<div style="margin-right: auto;">Powered by <a href="http://werc.cat-v.org/">werc</a>, <a href="https://alpinelinux.org/">alpine</a> and <a href="https://nginx.org/en/">nginx</a></div>
 
 <!-- TODO: wait until duckduckgo indexes site
 <form action="https://duckduckgo.com/" method="get">

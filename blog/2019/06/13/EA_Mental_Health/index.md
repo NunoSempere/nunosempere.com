@@ -115,32 +115,32 @@ Three most important actionables:
 
 ## B. Exploratory plots.
 
-![](images/8a73163df20e38856be2ab2212d484b1a58b7fe9.png)  
-![](images/b8025a0103dc70a976ecf604a12de6ddf2cd0ddb.png)  
-![](images/02891164325de4d34fcd3ca026b4c8c74b26fdcc.png)  
-![](images/df0dd280b2cd33327cfc81eef8de696e015c7562.png)  
-![](images/18ba7e3dce520c9137538bab707b1b585b2f671c.png)  
-![](images/aa717ffb66b96e2edc8a032dd179f8f17f33181a.png)  
-![](images/8f9995e951ce75147421f5233794555542db867a.png)  
-![](images/918999de00da42973f752ecb7d47a68f3c599a99.png)  
-![](images/b44c2ad3d57250ceec6a5f3eede0d375c649ab16.png)  
-![](images/d4989159c8011be94310198f52367c3d61189fcc.png)  
-![](images/05f019dc1b238486c93e78b31e2262ba34ac80b7.png)  
-![](images/86a9fc7e89b8a6e69c47c8e5fef0b79a2ad045d8.png)  
-![](images/bd015fe73fb51b04114e4c87931792a2100e7674.png)  
-![](images/06c70e8eeb9d81d0ecf08a9ab21f8f821f4a5980.png)  
-![](images/42ca65e3812fb1007f2070e11ca5e4bab0ed9c9e.png)  
-![](images/3540e439e51010f97f9423445b47440c8643ea1a.png)  
-![](images/f52e2963f147e74f31654bf13e3ab6b3098d2996.png)  
-![](images/1364361431dfd66aec4fb7fb9fba0473bd359e67.png)  
-![](images/b65235999c982b9414bcaf59e48ce39827bfe201.png)  
-![](images/38b656906584ea6736e321d7dc14c7c4be7b0b4d.png)  
-![](images/13dd0da9f9a4007915097af5919e45d72a278c66.png)  
-![](images/3e772f2cd88e85a0658b2b7498b9ff1311d50c58.png)  
-![](images/b9fd7bdd1c95cf0d8429312b77cbceae85db049f.png)  
-![](images/502b5cc72b9cee7b6330d5e01cf2894c5283a67a.png)  
-![](images/8ff3e88439796d0868b305fa0c5eaef294df7c5f.png)  
-![](images/ec1ab2e026861dc21df76876c5254bc94f13f10e.png)
+![](.images/8a73163df20e38856be2ab2212d484b1a58b7fe9.png)  
+![](.images/b8025a0103dc70a976ecf604a12de6ddf2cd0ddb.png)  
+![](.images/02891164325de4d34fcd3ca026b4c8c74b26fdcc.png)  
+![](.images/df0dd280b2cd33327cfc81eef8de696e015c7562.png)  
+![](.images/18ba7e3dce520c9137538bab707b1b585b2f671c.png)  
+![](.images/aa717ffb66b96e2edc8a032dd179f8f17f33181a.png)  
+![](.images/8f9995e951ce75147421f5233794555542db867a.png)  
+![](.images/918999de00da42973f752ecb7d47a68f3c599a99.png)  
+![](.images/b44c2ad3d57250ceec6a5f3eede0d375c649ab16.png)  
+![](.images/d4989159c8011be94310198f52367c3d61189fcc.png)  
+![](.images/05f019dc1b238486c93e78b31e2262ba34ac80b7.png)  
+![](.images/86a9fc7e89b8a6e69c47c8e5fef0b79a2ad045d8.png)  
+![](.images/bd015fe73fb51b04114e4c87931792a2100e7674.png)  
+![](.images/06c70e8eeb9d81d0ecf08a9ab21f8f821f4a5980.png)  
+![](.images/42ca65e3812fb1007f2070e11ca5e4bab0ed9c9e.png)  
+![](.images/3540e439e51010f97f9423445b47440c8643ea1a.png)  
+![](.images/f52e2963f147e74f31654bf13e3ab6b3098d2996.png)  
+![](.images/1364361431dfd66aec4fb7fb9fba0473bd359e67.png)  
+![](.images/b65235999c982b9414bcaf59e48ce39827bfe201.png)  
+![](.images/38b656906584ea6736e321d7dc14c7c4be7b0b4d.png)  
+![](.images/13dd0da9f9a4007915097af5919e45d72a278c66.png)  
+![](.images/3e772f2cd88e85a0658b2b7498b9ff1311d50c58.png)  
+![](.images/b9fd7bdd1c95cf0d8429312b77cbceae85db049f.png)  
+![](.images/502b5cc72b9cee7b6330d5e01cf2894c5283a67a.png)  
+![](.images/8ff3e88439796d0868b305fa0c5eaef294df7c5f.png)  
+![](.images/ec1ab2e026861dc21df76876c5254bc94f13f10e.png)
 
 The code to produce them can be found [here](https://nunosempere.github.io/rat/eamentalhealth/)
 
@@ -150,11 +150,11 @@ The code to produce them can be found [here](https://nunosempere.github.io/rat/e
 
 #### 1.1. According to age
 
-![](images/e8466ca8f7555d37b25e7046bf22f45c575e7c95.png) 
+![](.images/e8466ca8f7555d37b25e7046bf22f45c575e7c95.png) 
 
 #### 1.2. According to country.
 
-![](images/ff22d1678c0868146825ca03f26c1352d11bb850.png)
+![](.images/ff22d1678c0868146825ca03f26c1352d11bb850.png)
 
 #### 1.3. According to gender.
 
@@ -172,7 +172,7 @@ Editorial bottom line: With respect to age, country, and gender, there seem to b
 
 Initially, I was intending to find out the different mental disorder rates in the different countries, and combine that with the distribution in the data. The webpage [Our World in Data](https://ourworldindata.org/mental-health) provides the necessary data:
 
-![](images/241ccf3251fdd6e74c882b31aa9985cb5898c44e.png)
+![](.images/241ccf3251fdd6e74c882b31aa9985cb5898c44e.png)
 
 We see that the distribution is broadly similar across the countries among which EA has a presence. Most importantly, it doesn't surpass ~25% in any country, whereas among survey respondents:
 
@@ -290,7 +290,7 @@ The effect is very robust to different modelizations: regressing instead on empt
 
 Here is the above, presented visually
 
-![](images/67f6b5d117bdbcb6c7b56e5afd798d859ee7966c.png)
+![](.images/67f6b5d117bdbcb6c7b56e5afd798d859ee7966c.png)
 
 The following table is the cold, raw, hard data for the graphic.
 
@@ -1357,7 +1357,7 @@ With regards to pathway 2, we have a rough upwards cross-sectional estimate of 2
 *   People who recover from a mental illness because of help from the EA community might not donate 10% of the counterfactual gain, but more.
 *   The gain is not only in the form of hours missed but in productivity gained while working.
 
-![](images/0d7aea62609944b3674d36602b1dd50f2d91c8fe.png)
+![](.images/0d7aea62609944b3674d36602b1dd50f2d91c8fe.png)
 
 With regards to pathway 3, it is my impression that people in top charities and EA organizations already get good mental healthcare, though about rogue effective altruists I cannot say much.
 
@@ -1397,6 +1397,6 @@ SlateStarCodex's list of [mental health professionals](https://slatestarcodex.co
 
 The point being that there are a lot of mental health resources and information online, if only one knew where to find them, and >10% of survey respondents answered that finding information on mental health resources was hard or very hard.
 
-![](images/3540e439e51010f97f9423445b47440c8643ea1a.png)
+![](.images/3540e439e51010f97f9423445b47440c8643ea1a.png)
 
 Thus, it is a high tractability, high neglectedness, medium impact task to create such a list of mental resources for the EA community, even if collated and scavenged from other sources. If such a resource already exists, plenty of respondents do not seem to know about it.

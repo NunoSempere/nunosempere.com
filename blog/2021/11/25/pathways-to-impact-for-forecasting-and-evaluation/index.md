@@ -11,7 +11,7 @@ As part of the [Quantified Uncertainty Research Institute](https://quantifiedunc
 
 ### Forecasting
 
-![](images/4db4f387845f3b550a32f998324581c8e7af31df.png)
+![](.images/4db4f387845f3b550a32f998324581c8e7af31df.png)
 
 What this diagram is saying is that I think that the most important pathways to impact of forecasting are:
 
@@ -22,7 +22,7 @@ There are also what I think are secondary pathways to impact, where legible fore
 
 ### Evaluations
 
-![](images/aa5bf95df8a177bb0e5223622fc1d950ae66b96e.png)
+![](.images/aa5bf95df8a177bb0e5223622fc1d950ae66b96e.png)
 
 What this diagram is saying is that evaluations end up affecting the world positively through finding criticisms or things to improve, and by systematizing thinking previously done intuitively. This ends up cashing out in terms of better execution of something people were going to be doing anyways, or in better prioritization as people learn to discriminate better between the options available to them.
 

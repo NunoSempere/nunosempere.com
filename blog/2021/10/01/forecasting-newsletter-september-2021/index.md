@@ -22,7 +22,7 @@ Sign up [here](https://forecasting.substack.com) or browse past newsletters [her
 
 [Hedgehog markets](https://hedgehog.markets/no-loss/) ([a](https://web.archive.org/web/20211001085745/https://hedgehog.markets/no-loss/)) launches on the Solana mainnet, meaning that their prediction markets are now open to real-money bets. A brief explanation of how their no-loss competitions work and why they're interesting can be found on the [July edition of this newsletter](https://forecasting.substack.com/p/forecasting-newsletter-july-2021) ([a](https://web.archive.org/web/20210805135822/https://forecasting.substack.com/p/forecasting-newsletter-july-2021)). Their first competition offers [$100k in prizes](https://hedgehog-markets.medium.com/hedgehog-launches-no-loss-prediction-markets-on-solana-mainnet-with-100k-in-prizes-51acc0fde586) ([a](https://web.archive.org/web/20211001114031/https://hedgehog-markets.medium.com/hedgehog-launches-no-loss-prediction-markets-on-solana-mainnet-with-100k-in-prizes-51acc0fde586)).
 
-![](images/e6d9c993ee60fb2ab0d011aa3ea844590b1ea1d4.png)
+![](.images/e6d9c993ee60fb2ab0d011aa3ea844590b1ea1d4.png)
 
 Hedgehog Markets’ first [no-loss competitions](https://hedgehog.markets/no-loss)
 
@@ -45,7 +45,7 @@ Metaculus is [advertising for various job openings](https://apply.workable.com/m
 
 Polymarket writes about [Why You Should Get Your News From the Blockchain](https://pomp.substack.com/p/prediction-markets-and-the-beauty) ([a](https://web.archive.org/web/20211001085935/https://pomp.substack.com/p/prediction-markets-and-the-beauty)) on one of the largest crypto newsletters. Meanwhile, Polymarket keeps experiencing outages because of troubles with The Graph—one of the services it uses to connect its webpage with its blockchain contracts.
 
-![](images/b52bb3404c2073fcc36002b1b56a94cf28f03379.png)
+![](.images/b52bb3404c2073fcc36002b1b56a94cf28f03379.png)
 
 [Will inflation be 0.4% or more from July to August?](https://polymarket.com/market/will-inflation-be-04-or-more-from-july-to-august), Polymarket
 
@@ -55,7 +55,7 @@ Last month, I lost a small amount of money following forecasts from [Star Spangl
 
 Hypermind launches another tournament: [Forecast Covid-19 Mortality Worldwide](https://prod.hypermind.com/ngdp/en/welcomeCovidRoll.html) ([a](https://web.archive.org/web/20211001090303/https://prod.hypermind.com/ngdp/en/welcomeCovidRoll.html)), with $15,000 in total rewards.
 
-![](images/45caa40f63ffb10fbd8f765598e538413cc20dd3.png)
+![](.images/45caa40f63ffb10fbd8f765598e538413cc20dd3.png)
 
 Opinion piece on [Le Point](https://www.lepoint.fr/politique/hypermind-zemmour-devance-le-pen-et-bertrand-29-09-2021-2445295_20.php) by Hypermind’s Director
 
@@ -79,7 +79,7 @@ Meanwhile in the corporate world, Amazon is searching for a [Network Forecasting
 
 ## Blog Posts
 
-![](images/7ee4023db95e5eb423ad0f16203dd9d67aad9087.png)
+![](.images/7ee4023db95e5eb423ad0f16203dd9d67aad9087.png)
 
 [The Order of the Stick](https://www.giantitp.com/comics/oots0489.html), on quantifying the impact of a life
 

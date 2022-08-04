@@ -25,9 +25,9 @@ When the professors deviate from that general structure, they become less convin
 
 The question presented is whether there is a nutrition based poverty trap. A mathematical formalism for a poverty trap is presented, in which wealth at time t+1 depends on wealth at time t. A poverty trap appears if falling below a wealth threshold leads to a further sliding down, that is, if the relationship between wealth at time t and t+1 looks like:
 
-![](images/be7f99df5b8aa33ef7aadd37a7560aa24505e5d9.png) as opposed to like
+![](.images/be7f99df5b8aa33ef7aadd37a7560aa24505e5d9.png) as opposed to like
 
-![](images/8b0e4c8fbb9b0400998fbbc58158fa7c79aaeebb.png)
+![](.images/8b0e4c8fbb9b0400998fbbc58158fa7c79aaeebb.png)
 
 (In both cases, you start at y0 at time 0, move to y1 at time 1, to y2 at time 2, etc.)
 

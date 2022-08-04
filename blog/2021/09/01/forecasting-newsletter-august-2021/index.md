@@ -47,7 +47,7 @@ In addition, Good Judgment Open introduced the [Sky News Challenge](https://www.
 
 Foretell continues their work of making forecasts and forecasting methodologies more accessible and legible to US decision-makers. Most recentlyh, they are doing this through their "Issue campaigns"; a write-up of the idea can be seen [here](https://www.cset-foretell.com/issue-campaigns) ([a](https://web.archive.org/web/20210901144437/https://www.cset-foretell.com/issue-campaigns)). One of their first issue campaigns is on the topic of [the future of the of Defense-Silicon Valley Relationship](https://www.cset-foretell.com/blog/dod-sv-relationship-intro) ([a](https://web.archive.org/web/20210901144458/https://www.cset-foretell.com/blog/dod-sv-relationship-intro)).
 
-![](images/93e07895a0edd3814920945c6ef659786892839e.png)
+![](.images/93e07895a0edd3814920945c6ef659786892839e.png)
 
 Otherwise, CSET-Foretell (or rather, CultivateLabs, the company behind the webpage they use) has also [added two new question formats](https://www.cset-foretell.com/blog/rolling-question-formats) ([a](https://web.archive.org/web/20210901144534/https://www.cset-foretell.com/blog/rolling-question-formats)). The first asks about 80% confidence intervals for more than one time period at a time, aggregating multiple sub-questions into one. The second format consists of rolling predictions, such that, e.g. "in the next six months" resets every month to refer to the next six months from the month of the forecast. 
 
@@ -78,7 +78,7 @@ I've pushed some [major upgrades](https://www.lesswrong.com/posts/5hugQzRhdGYc6P
 
 In addition, I've written a Twitter bot which answers with the closest prediction in the database when @metaforecast is [mentioned in a tweet](https://twitter.com/metaforecast/status/1430226261515907075) ([a](https://web.archive.org/web/*/https://twitter.com/metaforecast/status/1430226261515907075)):
 
-![](images/b7bb8fee61247feb4b9776b1a187687b0c464067.png)
+![](.images/b7bb8fee61247feb4b9776b1a187687b0c464067.png)
 
 This makes mentioning forecasts in casual twitter conversation pretty much trivial, so perhaps the sanity level of Twitter conversations could be raised ever so slightly.
 
@@ -86,7 +86,7 @@ This makes mentioning forecasts in casual twitter conversation pretty much trivi
 
 [Statistical Modelling](https://statmodeling.stat.columbia.edu) ([a](https://web.archive.org/web/20210901145425/https://statmodeling.stat.columbia.edu/)) discusses [Forecast displays that emphasize uncertainty](https://statmodeling.stat.columbia.edu/2021/08/11/forecast-displays-that-emphasize-uncertainty/) ([a](https://web.archive.org/web/20210812121830/https://statmodeling.stat.columbia.edu/2021/08/11/forecast-displays-that-emphasize-uncertainty/)), on account of [The Economist's Forecasting Model for the 2021 German election](https://www.economist.com/graphic-detail/who-will-succeed-angela-merkel) ([a](https://web.archive.org/web/20210831195410/https://www.economist.com/graphic-detail/who-will-succeed-angela-merkel)) ([unpaywalled version](https://archive.is/G9Tg9#selection-1118.0-1118.1)), which only offers 95% confidence intervals of parliament seats, rather than explicit probabilities of who will win.
 
-![](images/3cad6b25c510ba697187e90329b707425d624f80.png)
+![](.images/3cad6b25c510ba697187e90329b707425d624f80.png)
 
 [Uncertainty can Defuse Logical Explosions](https://www.lesswrong.com/posts/Q5um4RBHaF6gHfmLm) ([a](https://web.archive.org/web/20210901145759/https://www.lesswrong.com/posts/Q5um4RBHaF6gHfmLm)) makes the point that the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion) ([a](https://web.archive.org/web/20210815095809/https://en.wikipedia.org/wiki/Principle_of_explosion))—"P and ¬P, therefore anything follows"—does not apply for an agent with probabilistic beliefs. I thought that the point was very neat, but also that it could be formalized better.
 
@@ -114,7 +114,7 @@ For example:
 > 
 > It is _virtually certain_ that the global upper ocean (0–700 m) has warmed since the 1970s and _extremely likely_ that human influence is the main driver. It is _virtually certain_ that human-caused CO2 emissions are the main driver of current global acidification of the surface open ocean. There is _high confidence_ that oxygen levels have dropped in many upper ocean regions since the mid-20th century, and _medium confidence_ that human influence contributed to this drop.
 
-![](images/2735179f6ba26c064c7b75b2ef8b9c8ab5833b26.png)
+![](.images/2735179f6ba26c064c7b75b2ef8b9c8ab5833b26.png)
 
 [xkcd](https://xkcd.com/2500) ([a](https://web.archive.org/web/20210830094835/https://xkcd.com/2500/)) showcases a very accurate prediction from [Exxon](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_controversy) ([a](https://web.archive.org/web/20210901150433/https://en.wikipedia.org/wiki/ExxonMobil_climate_change_controversy)), made back in 1982.
 
@@ -146,7 +146,7 @@ The US military announces “Global Information Dominance“ experiments, using 
 
 On the topic of inflation, and to finish this newsletter with a forecast, see:
 
-![](images/2c8e4065bbbc85955a8d14cc3b75c5367c217ec5.png)
+![](.images/2c8e4065bbbc85955a8d14cc3b75c5367c217ec5.png)
 
 Source: [Will inflation be 0.4% or more from July to August?](https://polymarket.com/market/will-inflation-be-04-or-more-from-july-to-august)
 

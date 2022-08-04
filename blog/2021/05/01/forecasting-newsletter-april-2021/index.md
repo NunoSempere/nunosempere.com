@@ -111,7 +111,7 @@ He has it right that for him as an individual, it was the wrong move to make a q
 
 In [The Johnson & Johnson Pause Shows The System Is Working](https://fivethirtyeight.com/features/the-johnson-johnson-pause-shows-the-system-is-working/), FiveThirtyEight claims that stopping vaccination because of one death and six cases of a rare type of blood clots among 6.8 million doses administered was somehow a positive development. 
 
-![](images/0bd6460ee2ff6ca8a76cac07a2f7383b0c37e7c4.png)
+![](.images/0bd6460ee2ff6ca8a76cac07a2f7383b0c37e7c4.png)
 
 [Some "This is fine" dog meme variations](https://twitter.com/LinchZhang/status/1385373839639552002), @LinchZhang, 2021
 
@@ -121,11 +121,11 @@ Abram Demski writes [Reflective Bayesianism](https://www.lesswrong.com/posts/vpv
 
 ## Long Content
 
-The Office of the Director of National Intelligence (ODNI) of the USA has released a ["Global Trends 2040"](https://www.dni.gov/index.php/global-trends-home) report. In ancient history, the Bush administration established this office in the aftermath of the US intelligence community's failure to aggregate information available in disjoint agencies to predict the 2001 attacks (cf. [Wikipedia](https://en.wikipedia.org/wiki/Intelligence_Reform_and_Terrorism_Prevention_Act#History)). Then in 2006, [IARPA](https://en.wikipedia.org/wiki/Intelligence_Advanced_Research_Projects_Activity) was formed as an organization within the ODNI, and went on to organize the [ACE program](https://en.wikipedia.org/wiki/Aggregative_Contingent_Estimation_(ACE)_Program), which explored which kind of setups produced the most accurate probabilities, and found out that pre-selected superforecasters from the general population working in groups did best, or at least better than intelligence analysts with access to classified information. 
+The Office of the Director of National Intelligence (ODNI) of the USA has released a ["Global Trends 2040"](https://www.dni.gov/index.php/global-trends-home) report. In ancient history, the Bush administration established this office in the aftermath of the US intelligence community's failure to aggregate information available in disjoint agencies to predict the 2001 attacks (cf. [Wikipedia](https://en.wikipedia.org/wiki/Intelligence_Reform_and_Terrorism_Prevention_Act#History)). Then in 2006, [IARPA](https://en.wikipedia.org/wiki/Intelligence_Advanced_Research_Projects_Activity) was formed as an organization within the ODNI, and went on to organize the [ACE program](<https://en.wikipedia.org/wiki/Aggregative_Contingent_Estimation_(ACE)_Program>), which explored which kind of setups produced the most accurate probabilities, and found out that pre-selected superforecasters from the general population working in groups did best, or at least better than intelligence analysts with access to classified information. 
 
 Because of this history and background of its office, I was expecting the report to have some probabilistic estimates, but the report is instead structured around a set of scenarios, rather than around quantified predictions. However, the report does includes interesting observations around structural technology forces:
 
-![](images/13bf780490270ca9f971c32187a5a06234ed81f3.png)
+![](.images/13bf780490270ca9f971c32187a5a06234ed81f3.png)
 
 [Global Trends 2040, Structural Forces: Technology](https://www.dni.gov/index.php/gt2040-home/gt2040-structural-forces/technology), Office of the Director of National Intelligence, 2021.
 
