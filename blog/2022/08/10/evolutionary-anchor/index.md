@@ -3,13 +3,19 @@ A concern about the "evolutionary anchor" of Ajeya Cotra's report
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg"  class="img-medium-center"></p>
 
+**tl;dr**: The report underestimates the amount of compute used by evolution because it only looks at what it would take to simulate neurons, rather than neurons in agents inside a complex environment. It's not clear to me what the magnitude of the error is, but it could range many, many orders of magnitude. This makes it a less forceful outside view.
+
+## Background
+
 Within Effective Altruism, Ajeya Cotra's report on artificial general intelligence (AGI) timelines has been influential in justifying or convincing members and organizations to work on AGI safety. The report has a section on the "evolutionary anchor", i.e., an upper bound on how much compute it would take to reach artificial general intelligence. The section can be found in pages 24-28 of [this Google doc](https://docs.google.com/document/d/1k7qzzn14jgE-Gbf0CON7_Py6tQUp2QNodr_8VAoDGnY/edit#heading=h.gvc1xyxlemkd). As a summary, in the report's own words:
 
 > This hypothesis states that we should assume on priors that training computation requirements will resemble the amount of computation performed in all animal brains over the course of evolution from the earliest animals with neurons to modern humans, because we should expect our architectures and optimization algorithms to be about as efficient as natural selection.
 
-This anchor isn't all that important in the report's own terms: it only gets a 10% probability assigned to it in the final weighted average. But this bound is personally important to be because I do buy that if you literally reran evolution, or if you use as much computation as evolution, you would have a high chance of producing something as intelligent as humans, and so I think that it is particularly forceful as an "outside view".
+This anchor isn't all that important in the report's own terms: it only gets a 10% probability assigned to it in the final weighted average. But this bound is personally important to me because I do buy that if you literally reran evolution, or if you use as much computation as evolution, you would have a high chance of producing something as intelligent as humans, and so I think that it is particularly forceful as an "outside view".
 
-However, I'm don't buy the details of how the author arrives at this estimate:
+## Explanation of my concern
+
+I don't buy the details of how the author arrives at the estimate of the compute used by evolution:
 
 > The amount of computation done over evolutionary history can roughly be approximated by the following formula: (Length of time since earliest neurons emerged) \* (Total amount of computation occurring at a given point in time). My rough best guess for each of these factors is as follows:
 
@@ -21,14 +27,14 @@ However, I'm don't buy the details of how the author arrives at this estimate:
 
 Unlike what the reader might suspect, I don't particularly want to take issue with the assumption that *"...the total amount of brain computation occurring inside animals with very few neurons is roughly comparable to the amount of brain computation occurring inside the animals with the largest brains"*. I haven't looked at the literature on this, and the assumption seems a prima facie plausible.
 
-Instead, I don't buy the assumption that to simulate evolution, it would be enough to simulate the behaviour of all the neurons throughout history. Instead, I think that one would also have to simulate the stimuli to which these neurons are exposed, and for this one. For instance, in the case of AlphaGo, one not only has to simulate the inner workings of the model, but also the state of the Go board. Likewise, to simulate evolution, one would not only have to simulate the neurons of the brains in it, but also the state of the world in which they are.
+Instead, I don't buy the assumption that to simulate evolution, it would be enough to simulate the behaviour of all the neurons throughout history. Instead, I think that one would also have to simulate the stimuli to which these neurons are exposed in order to compute how neurons behave, and for this one also has to simulate the environment. For a simple example, in the case of AlphaGo, one not only has to simulate the inner workings of the model, but also the state of the Go board. Likewise, to simulate evolution, one would not only have to simulate the neurons of the brains in it, but also the state of the world in which they are.
 
-It's not clear to me how big a world would one need to spawn intelligence life. For instance, I think that Minecraft requires on the order of ~500 GFLOPs to run[^1]. Conversely, if we want a planet as large as Earth, with a complex atmosphere & so on, this might vastly exceed the computing power of current supercomputers[^2]. Working through these details might be a neat research project, and perhaps a good fit for an organization such as [AI Impacts](https://aiimpacts.org/) or [Epoch](https://epochai.org/), though I'm not sure how many estimates other than my own it would change. In any case, this would involve:
+It's not clear to me how big a world would one need to spawn intelligent life. For instance, I think that Minecraft requires on the order of ~500 GFLOPs to run[^1]. Conversely, if we want a planet as large as Earth, with a complex atmosphere & so on, this might vastly exceed the computing power of current supercomputers[^2]. Working through these details might be a neat research project, and perhaps a good fit for an organization such as [AI Impacts](https://aiimpacts.org/) or [Epoch](https://epochai.org/), though I'm not sure how many estimates other than my own it would change. In any case, this would involve:
 
-1. Coming up with estimates of what the least fine-grained world that we would expect might be able to produce intelligence life if we simulated natural selection in it.
+1. Coming up with estimates of what the least fine-grained world that we would expect might be able to produce intelligent life if we simulated natural selection in it.
 2. Calculating how much compute it would take to in fact simulate it.
 
-### Propagation of beliefs
+## Propagation of beliefs
 
 After reading this, I think that the reader should:
 
@@ -45,7 +51,7 @@ I think that the first three updates should be relatively small, on the order of
 
 I haven't given much thought about how the meta update should look like.
 
-### Discussion
+## Discussion
 
 Alex Guzey mentions:
 
