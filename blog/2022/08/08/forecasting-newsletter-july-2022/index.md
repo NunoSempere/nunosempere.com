@@ -1,8 +1,6 @@
 Forecasting Newsletter: July 2022
 ==============
 
-![](https://i.imgur.com/3tRzDMM.png)
-
 ## Highlights
 
 *   PredictIt has [lost CFTC approval](https://www.cftc.gov/PressRoom/PressReleases/8567-22)

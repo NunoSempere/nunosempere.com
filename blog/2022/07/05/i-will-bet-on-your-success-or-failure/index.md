@@ -22,3 +22,4 @@ Brave people who have taken me up on this offer:
 
 - [@BenRCongdon](https://twitter.com/BenRCongdon) for [this market](https://manifold.markets/bcongdon/will-i-run-a-halfmarathon-in-2022).
 - [@Cosmojg](https://twitter.com/cosmojg/status/1549927067055460352) for [this market](https://manifold.markets/cos/will-i-launch-my-digital-futarchy-b).
+- Gavriel K, for [Will I start a blog this month?](https://manifold.markets/GavrielK/will-i-start-a-blog-this-month)

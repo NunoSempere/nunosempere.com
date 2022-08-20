@@ -3,7 +3,7 @@ Introduction to Fermi estimates
 
 *The following are my notes from an intro to [Fermi estimates](https://en.wikipedia.org/wiki/Fermi_problem) class I gave at [ESPR](https://espr-camp.org/), in preparation for a Fermithon, i.e., a Fermi estimates tournament.*
 
-Fermi estimation is a method for arriving an estimate of an uncertain variable of interest. Given a variable of interest, sometimes you can decompose it into steps, and multiplying those steps together gives you a more accurate estimate than estimating the thing you want to know directly. I'll go through a proof sketch for this in the appendix.
+Fermi estimation is a method for arriving an estimate of an uncertain variable of interest. Given a variable of interest, sometimes you can decompose it into steps, and multiplying those steps together gives you a more accurate estimate than estimating the thing you want to know directly. I'll go through a proof sketch for this at the end of the post.
 
 If you want to take over the world, why should you care about this? Well, you may care about this if you hope that having better models of the world would lead you to make better decisions, and to better achieve your goals. And Fermi estimates are one way of training or showing off the skill of building models of the world. They have fast feedback loops, because you can in many cases then check the answer on the internet afterwards. But they are probably most useful in cases where you can't.
 
