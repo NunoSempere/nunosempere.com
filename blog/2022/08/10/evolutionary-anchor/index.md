@@ -1,9 +1,7 @@
 A concern about the "evolutionary anchor" of Ajeya Cotra's report
 =============================================================
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg"  class="img-medium-center"></p>
-
-**tl;dr**: The report underestimates the amount of compute used by evolution because it only looks at what it would take to simulate neurons, rather than neurons in agents inside a complex environment. It's not clear to me what the magnitude of the error is, but it could range many, many orders of magnitude. This makes it a less forceful outside view.
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg"  class="img-medium-center"></p> **tl;dr**: The report underestimates the amount of compute used by evolution because it only looks at what it would take to simulate neurons, rather than neurons in agents inside a complex environment. It's not clear to me what the magnitude of the error is, but it could range many, many orders of magnitude. This makes it a less forceful outside view.
 
 ## Background
 
