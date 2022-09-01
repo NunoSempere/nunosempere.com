@@ -1,3 +1,5 @@
+_2022/08/30_: Per [this blogpost](https://forum.effectivealtruism.org/posts/tekdQKdfFe3YJTwML/end-to-end-encryption-for-ea#comments), I'm making my public key available [here](https://nunosempere.com/gossip/.nuno-sempere-public-key.txt). I can be contacted at nuno dot sempere dot lh at protonmail dot com.
+
 _2022/08/14_: Updated [blog rss](https://nunosempere.com/blog/index.rss) to use the correct date. Thanks, kind stranger who left a tip on my [Admonymous](https://www.admonymous.co/loki).
 
 _2022/07/05_: I am offering [cancellation insurance](https://nunosempere.com/blog/2022/07/04/cancellation-insurance/) and offering [to bet on the success or failure of projects](https://nunosempere.com/blog/2022/07/05/i-will-bet-on-your-success-or-failure/).
