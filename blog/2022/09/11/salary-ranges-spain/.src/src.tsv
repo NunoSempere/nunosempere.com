@@ -1,0 +1,19 @@
+Tipo de jornada	Intervalos de salario	Intervalos de salario (euros)	Sexo	Periodo	Total	SMES-min	SMES-max	Min en rango	Max en rango
+Jornada a tiempo completo	De 0 a 1 SMI	0-13300	Ambos sexos	2020	5,57	0	1	0	13300
+Jornada a tiempo completo	De 1 a 2 SMI	13300-26600	Ambos sexos	2020	52,27	1	2	13300	26600
+Jornada a tiempo completo	De 2 a 3 SMI	26600-39900	Ambos sexos	2020	24,08	2	3	26600	39900
+Jornada a tiempo completo	De 3 a 4 SMI	39900-53200	Ambos sexos	2020	10,44	3	4	39900	53200
+Jornada a tiempo completo	De 4 a 5 SMI	53200-66500	Ambos sexos	2020	4,05	4	5	53200	66500
+Jornada a tiempo completo	De 5 a 6 SMI	66500-79800	Ambos sexos	2020	2,10	5	6	66500	79800
+Jornada a tiempo completo	De 6 a 7 SMI	79800-93100	Ambos sexos	2020	1,02	6	7	79800	93100
+Jornada a tiempo completo	De 7 a 8 SMI	93100-106400	Ambos sexos	2020	0,31	7	8	93100	106400
+Jornada a tiempo completo	Más de 8 SMI	más de 106400	Ambos sexos	2020	0,17	8	NA	106400	NA
+Total	De 0 a 1 SMI	0-13300	Ambos sexos	2020	19,36	0	1	0	13300
+Total	De 1 a 2 SMI	13300-26600	Ambos sexos	2020	46,65	1	2	13300	26600
+Total	De 2 a 3 SMI	26600-39900	Ambos sexos	2020	19,58	2	3	26600	39900
+Total	De 3 a 4 SMI	39900-53200	Ambos sexos	2020	8,35	3	4	39900	53200
+Total	De 4 a 5 SMI	53200-66500	Ambos sexos	2020	3,21	4	5	53200	66500
+Total	De 5 a 6 SMI	66500-79800	Ambos sexos	2020	1,66	5	6	66500	79800
+Total	De 6 a 7 SMI	79800-93100	Ambos sexos	2020	0,81	6	7	79800	93100
+Total	De 7 a 8 SMI	93100-106400	Ambos sexos	2020	0,24	7	8	93100	106400
+Total	Más de 8 SMI	más de 106400	Ambos sexos	2020	0,14	8	NA	106400	NA

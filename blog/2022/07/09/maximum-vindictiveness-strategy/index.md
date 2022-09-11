@@ -3,7 +3,7 @@ The Maximum Vindictiveness Strategy
 
 I've recently been thinking about what the appropriate response to someone fucking with you should be.
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Gadsden_flag_with_apostrophe.svg" alt="Gadsden flag with apostrophe" class="img-medium-center" /></p>
+<p><img src="https://i.imgur.com/njJqXOe.png" alt="Gadsden flag with apostrophe" class="img-medium-center" /></p>
 
 On the one hand, you have the "roll over and submit" strategy, favored by, for instance, Scott Aaronson, being [apologetic](https://scottaaronson.blog/?p=2119) even after being trod over, or by Aaron Schwartz [killing himself](https://wikiless.org/wiki/Aaron_Swartz?lang=en). On the other extreme, you have the "maximum vindictiveness strategy", implemented by, for instance, Peter Thiel, who—acting within the bounds of legality—utterly destroyed [Gawker](https://wikiless.org/wiki/Gawker?lang=en).
 
