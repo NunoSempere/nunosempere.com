@@ -1,6 +1,8 @@
 Use a less coarse analysis of AMF beneficiary age and consider counterfactual deaths
 ===================================================================================
 
+**tl;dr**: GiveWell considers a fairly coarse division of beneficiary age, and groups children of 0 to 5 years old together. This may lead to inaccurate or inexact calculations. In addition, GiveWell doesn't completely account for counterfactual mortality: where a beneficiary is saved from dying of malaria but dies later anyways, although this inaccuracy is not as severe as it could be.
+
 Following up on [Use distributions to more parsimoniously estimate impact](https://nunosempere.com/blog/2022/09/15/use-distributions-to-more-parsimoniously-estimate-impact/), I was looking at the population analysis of the AMF distributions, because a [previous attempt](https://forum.effectivealtruism.org/posts/4Qdjkf8PatGBsBExK/adding-quantified-uncertainty-to-givewell-s-cost) at adding uncertainty to the analysis was messier than I would have wished.
 
 But following up on  that analysis, I realized that [the strategy GiveWell uses](https://docs.google.com/spreadsheets/d/1tytvmV_32H8XGGRJlUzRDTKTHrdevPIYmb_uc6aLeas/edit#gid=1364064522) is:
