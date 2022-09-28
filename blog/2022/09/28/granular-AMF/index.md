@@ -16,11 +16,11 @@ Now, it's possible that the below is a result of me not understanding factors wh
 
 From [Age-Specific Malaria Mortality Rates in the KEMRI/CDC Health and Demographic Surveillance System in Western Kenya, 2003–2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152016/), figure 1:
 
-![](.images/age-specific.jpg)
+![](https://i.imgur.com/N46sNHe.jpeg)
 
 and from [Patterns of Age-Specific Mortality in Children in Endemic Areas of Sub-Saharan Africa](https://www.ncbi.nlm.nih.gov/books/NBK1688/):
 
-![](.images/age-specific-mortality.jpg)
+![](https://i.imgur.com/fXhoI9J.jpeg)
 
 So my tentative understanding is that most of the mortality happens in the first two years, and that mortality decays reasonably fast.
 
@@ -37,12 +37,12 @@ As far as I understand—and let me reiterate that I could be wrong here—GiveW
 
 This is relevant because malaria is probably not the top cause of death in the regions considered:
 
-<figure>
-![](.images/age-specific-mortality-2.jpg)
+<figure>V
+![](https://i.imgur.com/Oc3JtrT.jpeg)
 <figcaption>Cumulative probability of dying by given age. a: all cause mortality; b: malaria specific mortality</figcaption>
 </figure>
 
-<iframe src="https://ourworldindata.org/grapher/causes-of-death-in-children?country=~TCD" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/causes-of-death-in-children?country=~NGA" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 and because mortality in the regions where AMF distributes nets is relatively high:
 
@@ -61,5 +61,16 @@ The solution is to apply a discount factor corresponding to the probability that
 A quick and dirty adjustment would be to add \*(1-B40/100) to row B56 (resp. rows C to J) of the AMF calculation, as in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Gtd5ga6UREGFjnz-V4HiXAZLhOM_ifrv4CchUGSsRf4/edit?usp=sharing). This ends up making a difference of 2.5% (in the case of DRC) to 22.5% (in the case of Chad). 
 
 Besides the issue with child mortality being higher for younger children, I would also argue that children who would have otherwise died of malaria are differentially more likely to die of other causes. For instance, a sickly child is likelier to be saved from malaria, but also likelier to die of other causes. It's possible that this might add another 2 to 10% difference.
+
+Conversely, the [Pryce et al.](http://ncbi.nlm.nih.gov/pmc/articles/PMC6418392/) Cochrane Review on which GiveWell's estimates are based does estimate reduction in *overall mortality*. This diminishes the impact of my argument above, because if a child was saved from malaria but died anyways of something else, it would be counted correctly in the tally of overall mortality. However, the lengths of the followups in the analyses considered by the review are: 2 years, 12 months, 6 months, 24 months, 12 months, 8 months, 12 months, 12 months, 12 months, 2 years, 1 year, 6 months, 2 years, 1 year, 12 months, 2 years, 2 years, 13 months, 6 months, 15 weeks, 1 year, 6 months, and 10 months, which isn't enough to deal with all of the under 5 mortality. 
+
+Looking again at the mortality rates:
+
+<figure>
+![](https://i.imgur.com/Oc3JtrT.jpeg)
+<figcaption>Cumulative probability of dying by given age. a: all cause mortality; b: malaria specific mortality</figcaption>
+</figure>
+
+that consideration probably roughly ~halves the potential adjustment.
 
 The above post was written in response to [GiveWell's Change Our Mind Contest](https://www.givewell.org/research/change-our-mind-contest). But if you are reading this on my blog, you may want to: [Donate to GiveWell](https://secure.givewell.org/).
