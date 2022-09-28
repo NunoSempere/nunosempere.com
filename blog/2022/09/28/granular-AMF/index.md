@@ -1,7 +1,7 @@
 Use a less coarse analysis of AMF beneficiary age and consider counterfactual deaths
 ===================================================================================
 
-**tl;dr**: GiveWell considers a fairly coarse division of beneficiary age, and groups children of 0 to 5 years old together. This may lead to inaccurate or inexact calculations. In addition, GiveWell doesn't completely account for counterfactual mortality: where a beneficiary is saved from dying of malaria but dies later anyways, although this inaccuracy is not as severe as it could be.
+**tl;dr**: GiveWell considers a fairly coarse division of beneficiary age, and groups children of 0 to 5 years old together. This may lead to inaccurate or inexact calculations. In addition, GiveWell doesn't completely account for counterfactual mortality: where a beneficiary is saved from dying of malaria but dies later anyways.
 
 Following up on [Use distributions to more parsimoniously estimate impact](https://nunosempere.com/blog/2022/09/15/use-distributions-to-more-parsimoniously-estimate-impact/), I was looking at the population analysis of the AMF distributions, because a [previous attempt](https://forum.effectivealtruism.org/posts/4Qdjkf8PatGBsBExK/adding-quantified-uncertainty-to-givewell-s-cost) at adding uncertainty to the analysis was messier than I would have wished.
 
@@ -39,7 +39,7 @@ As far as I understand—and let me reiterate that I could be wrong here—GiveW
 
 This is relevant because malaria is probably not the top cause of death in the regions considered:
 
-<figure>V
+<figure>
 ![](https://i.imgur.com/Oc3JtrT.jpeg)
 <figcaption>Cumulative probability of dying by given age. a: all cause mortality; b: malaria specific mortality</figcaption>
 </figure>
@@ -62,7 +62,7 @@ The solution is to apply a discount factor corresponding to the probability that
 
 A quick and dirty adjustment would be to add \*(1-B40/100) to row B56 (resp. rows C to J) of the AMF calculation, as in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Gtd5ga6UREGFjnz-V4HiXAZLhOM_ifrv4CchUGSsRf4/edit?usp=sharing). This ends up making a difference of 2.5% (in the case of DRC) to 22.5% (in the case of Chad). 
 
-Besides the issue with child mortality being higher for younger children, I would also argue that children who would have otherwise died of malaria are differentially more likely to die of other causes. For instance, a sickly child is likelier to be saved from malaria, but also likelier to die of other causes. It's possible that this might add another 2 to 10% difference.
+Besides the issue with child mortality being higher for younger children, I would also argue that children who would have otherwise died of malaria are differentially more likely to die of other causes. For instance, a sickly child is likelier to be saved from malaria, but also likelier to die of other causes. It's possible that this might add another 2 to 20% difference.
 
 Conversely, the [Pryce et al.](http://ncbi.nlm.nih.gov/pmc/articles/PMC6418392/) Cochrane Review on which GiveWell's estimates are based does estimate reduction in *overall mortality*. This diminishes the impact of my argument above, because if a child was saved from malaria but died anyways of something else, it would be counted correctly in the tally of overall mortality. However, the lengths of the followups in the analyses considered by the review are: 2 years, 12 months, 6 months, 24 months, 12 months, 8 months, 12 months, 12 months, 12 months, 2 years, 1 year, 6 months, 2 years, 1 year, 12 months, 2 years, 2 years, 13 months, 6 months, 15 weeks, 1 year, 6 months, and 10 months, which isn't enough to deal with all of the under 5 mortality. 
 
