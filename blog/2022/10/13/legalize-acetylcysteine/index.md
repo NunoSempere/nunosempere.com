@@ -27,7 +27,7 @@ Per the [NHS inform website](https://www.nhsinform.scot/illnesses-and-conditions
 
 According to the [latest data from the Office of National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries/ukpop/pop), the population pyramid of the UK looks as follows:
 
-![](./population.png)
+![](https://i.imgur.com/lWeyggC.png)
 
 meaning that there are 67,081,234 people, of which 20.1% (13,468,262) is under 16. I also estimate that acetylcysteine makes an illness somewhere between 1% and 10% better. 
 
@@ -57,11 +57,11 @@ gains_to_be_had = total_cold_years * improvement_with_acetylcysteine
 
 That is, I arrive at an estimate of 6M (1.7M to 9.2M) cummulative person-years per year spent having a cold in Britain:
 
-![](./cold_years_per_year.png)
+![](https://i.imgur.com/pdaXZN1.png)
 
 and a potential improvement from adopting acetylcysteine of 250,000 (53,000 to 640,000) "quality-adjusted-sickness-years"—an intutitive, ad-hoc unit that I just made up:
 
-![](./gains-to-be-had.png)
+![](https://i.imgur.com/79KLmnU.png)
 
 The weakness of the method is that my subjective estimates of the 1% to 10% quality of life improvement might be off, or that my estimates of how often people are sick might be inaccurate—6M years of cold per year does seem a bit high. I'm also not really familiar with how potential alternatives, such as carbocisteine, are used in the UK. Still, I think that this rough calculation does show that having better medicaments is of great importance. And the Spanish doctors I've spoken expressed shock and disbelief that acetylcysteine was not available in the UK.
 
