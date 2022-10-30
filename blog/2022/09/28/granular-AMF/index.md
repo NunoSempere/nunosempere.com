@@ -76,3 +76,5 @@ Looking again at the mortality rates:
 that consideration probably roughly ~halves the potential adjustment.
 
 The above post was written in response to [GiveWell's Change Our Mind Contest](https://www.givewell.org/research/change-our-mind-contest). But if you are reading this on my blog, you may want to: [Donate to GiveWell](https://secure.givewell.org/).
+
+PS: I've continued working on this issue [here](https://forum.effectivealtruism.org/posts/BDXnNdBm6jwj6o5nc/five-slightly-more-hardcore-squiggle-models#A_sketch_of_a_more_parsimonious_estimate_of_AMF_s_impact), where I give a template Squiggle model.

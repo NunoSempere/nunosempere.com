@@ -121,7 +121,7 @@ So for example, researcher #4 is saying that the first grant, to research on the
 
 ### Elicitation method #4: Discussion and new individual estimates
 
-After holding a discussion round for an hour, participants’ estimates shifted to the following[\[1\]](#fnpmfo0q7i4di):
+After holding a discussion round for an hour, participants’ estimates shifted to the following[^1]:
 
 ![](https://i.imgur.com/xleSkdf.png)
 
@@ -146,11 +146,11 @@ In the table above, for example, the first light red “FALSE” square under �
 
 ### Estimates between participants after holding a discussion round were mostly in agreement
 
-The final estimates made by the participants after discussion were fairly concordant[\[2\]](#fnqbjzronh3oi):
+The final estimates made by the participants after discussion were fairly concordant[^2]:
 
 ![](https://i.imgur.com/xleSkdf.png)
 
-For instance, if we look at the first row, the 90% confidence intervals[\[3\]](#fnacizl98aof) of the normalized estimates are 0.1 to 1000, 48 to 90, -16 to 54, 41 to 124, 23 to 233, and 20 to 180. These all overlap! If we visualize these 90% confidence intervals as lognormals or loguniforms, they would look as follows[\[4\]](#fnclvpudp11e): 
+For instance, if we look at the first row, the 90% confidence intervals[^3] the normalized estimates are 0.1 to 1000, 48 to 90, -16 to 54, 41 to 124, 23 to 233, and 20 to 180. These all overlap! If we visualize these 90% confidence intervals as lognormals or loguniforms, they would look as follows[^4]: 
 
 ![](https://i.imgur.com/LNqcXxv.png)
 
@@ -191,7 +191,7 @@ participant_hours + organizer_hours
 
 So for 9 grants, this is 2.6 to 4.9 hours per grant. Perhaps continued investment could bring this down to one hour per grant. I also think that time might scale roughly linearly with the number of grants, because grants can be divided into buckets, and then we can apply the relative value method to each bucket. Then we can compare buckets at a small additional cost—e.g., by comparing the best grants from each bucket.
 
-I’m not actually sure how many grants the EA ecosystem has, but I’m guessing something like 300 to 1000 grants per year[\[5\]](#fn6fjejaxnj27). Given this, it would take half to two FTEs (full-time equivalents) to evaluate all grants, which was lower than I suspected:
+I’m not actually sure how many grants the EA ecosystem has, but I’m guessing something like 300 to 1000 grants per year[^5]. Given this, it would take half to two FTEs (full-time equivalents) to evaluate all grants, which was lower than I suspected:
 
 ```
 hours_per_participant = 2 to 5
@@ -314,24 +314,12 @@ Note that there are various methodological inelegancies:
 
 In part because the initial estimates were not congruent, I procrastinated in hosting the discussion session, which was held around a month after the initial experiment, if I recall correctly. If I were redoing the experiment, I would hold the different parts of this experiment closer together.
 
-1.  **[^](#fnrefpmfo0q7i4di)**
+[^1]: Note that in the first case, I am displaying the mean, and in the other, the medians. This is because a) means of very wide distributions are fairly counterintuitive, and in various occasions, I don't think that participants thought much about this, and b) because of a methodological accident, participants provided means in the first case and medians in the second. Note also that medians are a pretty terrible aggregation method.
+
+[^2]: Note that the distributions aren't necessarily lognormally distributed, hence why the medians may look off. See [this spreadsheet](https://docs.google.com/spreadsheets/d/13inKETvESvcOu8UX2uyM7nlUvUNbECEugt3ec_YqnoY/edit?usp=sharing) for details.
     
-    Note that in the first case, I am displaying the mean, and in the other, the medians. This is because a) means of very wide distributions are fairly counterintuitive, and in various occasions, I don't think that participants thought much about this, and b) because of a methodological accident, participants provided means in the first case and medians in the second.  
-      
-    Note also that medians are a pretty terrible aggregation method.
+[^3]: 80% for researcher #5, because of idiosyncratic reasons.
     
-2.  **[^](#fnrefqbjzronh3oi)**
+[^4]: Squiggle model [here](https://www.squiggle-language.com/playground/#code=eNqdkMFOwzAQRH9l5VMiBZQ4BRVLHPmCHDGKAnWTFYkNa5sWRfl34gJqi5Dcdk6r8WqfZ0ZmO7Op%2FDA09MmEI6%2BynfWwQmfo10GNDpu%2BevfYtr2qHKFumWArtPP47B0abWteO1Nb3MI9jFLDrKN3AY9Sf%2FtB434M0s2gBEhGyqqGXjpF4DZGsgyO9w5PClgswRm4y%2Fc7U3YWoiOlYpCr4jZQbhaXUtbGUzRJERgFvxgyFx9j8HzHWP6p66wo%2BBHti5cBw8vy%2Fyinw4yOstT2LfEa14aGpDdtkl8XaQZhKvLXNE0PvvBz50nqKWRm0xfkbtQi).
     
-    Note that the distributions aren't necessarily lognormally distributed, hence why the medians may look off. See [this spreadsheet](https://docs.google.com/spreadsheets/d/13inKETvESvcOu8UX2uyM7nlUvUNbECEugt3ec_YqnoY/edit?usp=sharing) for details.
-    
-3.  **[^](#fnrefacizl98aof)**
-    
-    80% for researcher #5, because of idiosyncratic reasons.
-    
-4.  **[^](#fnrefclvpudp11e)**
-    
-    Squiggle model [here](https://www.squiggle-language.com/playground/#code=eNqdkMFOwzAQRH9l5VMiBZQ4BRVLHPmCHDGKAnWTFYkNa5sWRfl34gJqi5Dcdk6r8WqfZ0ZmO7Op%2FDA09MmEI6%2BynfWwQmfo10GNDpu%2BevfYtr2qHKFumWArtPP47B0abWteO1Nb3MI9jFLDrKN3AY9Sf%2FtB434M0s2gBEhGyqqGXjpF4DZGsgyO9w5PClgswRm4y%2Fc7U3YWoiOlYpCr4jZQbhaXUtbGUzRJERgFvxgyFx9j8HzHWP6p66wo%2BBHti5cBw8vy%2Fyinw4yOstT2LfEa14aGpDdtkl8XaQZhKvLXNE0PvvBz50nqKWRm0xfkbtQi).
-    
-5.  **[^](#fnref6fjejaxnj27)**
-    
-    Open Philanthropy grants for 2021: 216, Long-term future fund grants for 2021: 46, FTX Future fund public grants and regrants: 113 so far, so an expected ~170 by the end of the year. In total this is 375 grants, and I'd wager it will be growing year by year.
+[^5]: Open Philanthropy grants for 2021: 216, Long-term future fund grants for 2021: 46, FTX Future fund public grants and regrants: 113 so far, so an expected ~170 by the end of the year. In total this is 375 grants, and I'd wager it will be growing year by year.
