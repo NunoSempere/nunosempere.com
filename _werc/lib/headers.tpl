@@ -12,6 +12,8 @@
     <meta charset="UTF-8">
 % # Legacy charset declaration for backards compatibility with non-html5 browsers.
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+%  # echo <meta property='og:image' content='$req_path'>"
+    <meta property="og:image" content="https://cards.nunosempere.com/api/dynamic-image?endpoint=%($req_path%)">
 
 % if(! ~ $#meta_description 0)
 %   echo '    <meta name="description" content="'$"meta_description'">'
