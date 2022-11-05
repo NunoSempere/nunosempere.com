@@ -5,7 +5,7 @@ Metaforecast late 2022 update: GraphQL API, Charts, better infrastructure behind
 
 ## New API
 
-Our most significant new addition is our GraphQL API. It allows other people to build on top of our efforts. It can be accessed on [metaforecast.org/api/graphql](https://metaforecast.org/api/graphql), and looks similar to the EA Forum's [own graphql api](https://forum.effectivealtruism.org/graphiql).<p><img src='https://i.imgur.com/xHRBMNb.png' class='.img-medium-center'></p>
+Our most significant new addition is our GraphQL API. It allows other people to build on top of our efforts. It can be accessed on [metaforecast.org/api/graphql](https://metaforecast.org/api/graphql), and looks similar to the EA Forum's [own graphql api](https://forum.effectivealtruism.org/graphiql).<p><img src="https://i.imgur.com/xHRBMNb.png" class='.img-medium-center'></p>
 
 To get the first 1000 questions, you could use a query like: 
 
@@ -43,15 +43,15 @@ You can find more examples, like code to download all questions, in our [/scrip
 
 Charts display a question's history. They look as follows:
 
-<img src='https://i.imgur.com/MWDA1j7.png' class='.img-medium-center'>
+<img src="https://i.imgur.com/MWDA1j7.png" class='.img-medium-center'>
 
 Charts can be accessed by clicking the expand button on the front page although they are fairly slow to load at the moment.
 
-<img src='https://i.imgur.com/JJCrUjn.png' class='.img-medium-center'>
+<img src="https://i.imgur.com/JJCrUjn.png" class='.img-medium-center'>
 
 Clicking on the expand button brings the user to a question page, which contains a chart, the full question description, and a range of quality indicators:
 
-<img src='https://i.imgur.com/tlsVqz1.png' class='.img-medium-center'>
+<img src="https://i.imgur.com/tlsVqz1.png" class='.img-medium-center'>
 
 We are also providing an endpoint at _metaforecast.org/questions/embed/\[id\]_ to allow other pages to embed our charts. For instance, to embed a question whose id is _betfair-1.178163916_, the endpoint would be [here](https://metaforecast.org/questions/embed/betfair-1.178163916). One would use it in the following code: 
 
@@ -72,7 +72,7 @@ With time, we aim to improve these pages, make them more interactive, etc. We al
 
 Dashboards are collections of questions. For instance, [here](https://metaforecast.org/dashboards/view/561472e0d2?numCols=2) is a dashboard on global markets and inflation, as embedded in [Global Guessing](https://globalguessing.com/russia-ukraine-forecasts/).
 
-<img src='https://i.imgur.com/Joid0LI.png' class='.img-medium-center'>
+<img src="https://i.imgur.com/Joid0LI.png" class='.img-medium-center'>
 
 Like questions, you can either [view dashboards directly](http://metaforecast.org/dashboards/view/561472e0d2?numCols=2), or [embed](http://metaforecast.org/dashboards/embed/561472e0d2?numCols=2) them. You can also create them, at [https://metaforecast.org/dashboards](https://metaforecast.org/dashboards).
 

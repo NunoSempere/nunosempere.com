@@ -57,7 +57,7 @@ This time, we are also experimenting with providing a few visualizations. Their 
 
 For the forecast with one month between each escalation step, we have:
 
-<img src='https://i.imgur.com/UUZ0MSx.png' class='.img-medium-center'>
+<img src="https://i.imgur.com/UUZ0MSx.png" class='.img-medium-center'>
 
 <img src='https://i.imgur.com/3POz1Zr.png' class='.img-medium-center'>
 

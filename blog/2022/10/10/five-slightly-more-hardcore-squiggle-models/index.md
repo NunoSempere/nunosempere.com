@@ -200,7 +200,7 @@ That is, we are modelling this example intervention of halving child mortality, 
 
 But for reference, the distribution’s impact looks as follows:
 
-<img src='https://i.imgur.com/bejosHk.png' class='.img-medium-center'>
+<img src="https://i.imgur.com/bejosHk.png" class='.img-medium-center'>
 
 ### Calculate optimal allocation given diminishing marginal values
 
