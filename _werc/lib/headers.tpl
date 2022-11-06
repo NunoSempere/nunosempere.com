@@ -26,6 +26,11 @@
 
     %($"extraHeaders%)
     <script data-isso="//comments.nunosempere.com/"   src="//comments.nunosempere.com/js/embed.min.js"></script>
+
+% # To add math
+% # <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+% # <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 </head>
 <body>
 
