@@ -11,7 +11,7 @@ Now, within the [Quantified Uncertainty Research Institute](https://quantifiedun
 
 <img src="https://i.imgur.com/jvSUjWX.png" class="img-frontpage-center">
 
-That is, I have in theory been trying to directly aim for the yugular of growing evaluation capacity directly. I believe that this is valuable because once that capacity exists, it can be applied to estimate the many things for which estimation is currently unfeasible. However, although I buy the argument in the abstract, I have been finding that a bit demotivating. Instead, I would like to be doing something like:
+That is, I have in theory been trying to directly aim for the jugular of growing evaluation capacity directly. I believe that this is valuable because once that capacity exists, it can be applied to estimate the many things for which estimation is currently unfeasible. However, although I buy the argument in the abstract, I have been finding that a bit demotivating. Instead, I would like to be doing something like:
 
 ![](https://imgur.com/IpISs4h.png)
 
