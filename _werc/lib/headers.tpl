@@ -12,8 +12,13 @@
     <meta charset="UTF-8">
 % # Legacy charset declaration for backards compatibility with non-html5 browsers.
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-%  # echo <meta property='og:image' content='$req_path'>"
     <meta property="og:image" content="https://cards.nunosempere.com/api/dynamic-image?endpoint=%($req_path%)">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Measure is unceasing" />
+    <meta name="twitter:description" content="%($pageTitle%)" />
+    <meta name="twitter:url" content="https://nunosempere.com/" />
+    <meta name="twitter:image" content="https://cards.nunosempere.com/api/dynamic-image?endpoint=%($req_path%)" />
+    <meta name="twitter:site" content="@NunoSempere" />
 
 % if(! ~ $#meta_description 0)
 %   echo '    <meta name="description" content="'$"meta_description'">'
