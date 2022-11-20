@@ -1,5 +1,11 @@
 ## Gossip
 
+_2022/11/20_: I've updated my tally of EA funding @ [Some data on the stock of EA™ funding](https://nunosempere.com/blog/2022/11/20/brief-update-ea-funding/). It's possible that the comparison with the now absent FTX funding might be enlightening to readers.
+
+![](https://i.imgur.com/RwD1pP9.png)
+
+![](https://i.imgur.com/OZwHMtV.png)
+
 _2022/10/31_: I've added an [email subscription option](https://nunosempere.com/.subscribe/) for this blog, as well as for [samotsvety.org](https://samotsvety.org/.subscribe/).
 
 _2022/08/30_: Per [this blogpost](https://forum.effectivealtruism.org/posts/tekdQKdfFe3YJTwML/end-to-end-encryption-for-ea#comments), I'm making my public key available [here](https://nunosempere.com/gossip/.nuno-sempere-public-key.txt). I can be contacted at nuno dot sempere dot lh at protonmail dot com.

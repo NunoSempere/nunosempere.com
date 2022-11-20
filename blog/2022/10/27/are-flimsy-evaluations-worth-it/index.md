@@ -1,8 +1,6 @@
 Are flimsy evaluations worth it?
 ================================
 
-*Status: Draft. I'll cross-post this to the [EA Forum](https://forum.effectivealtruism.org/) in a few days. In the meantime, I've enabled comments below.*
-
 I recently received a bit of grief over a [brief evaluations of the impact of the top-10 billionnaires](https://nunosempere.com/blog/2022/10/21/brief-evaluations-of-top-10-billionnaires/). It seems possible that this topic is worth discussing. In what follows I outline a few non-exhaustive considerations, as well as a few questions of interest.
 
 <figure><img src="https://imgs.xkcd.com/comics/duty_calls.png" class="img-frontpage-center"><br><figcaption>"Duty Calls"
