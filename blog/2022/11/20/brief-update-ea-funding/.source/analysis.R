@@ -93,7 +93,7 @@ title_text="Open Philanthropy allocation by year and cause area"
 subtitle_text="with my own aggregation of categories"
 palette = "Classic Red-Blue"
 direction = -1
-open_philanthropy_plot <- ggplot(data=df2, aes(x=year, y=amount, fill=area, group=amount))+
+open_philanthropy_plot <- ggplot(data=df2, aes(x=year, y=amount, fill=area))+
   geom_bar(stat="identity")+
   labs(
     title=title_text,
@@ -133,7 +133,7 @@ coeff <- 10^7*4
 wealth <- c(6, 8, 12, 15, 18, 12, 14, 19, 14)
 df2$wealth <- rep(wealth * coeff, num_areas)
 
-open_philanthropy_plot_with_fortune <- ggplot(data=df2, aes(x=year, y=amount, fill=area, group=amount))+
+open_philanthropy_plot_with_fortune <- ggplot(data=df2, aes(x=year, y=amount, fill=area))+
   geom_bar(stat="identity")+
   geom_point(aes(x=year, y=wealth), size=2, color="darkblue", shape=4)+
   labs(
