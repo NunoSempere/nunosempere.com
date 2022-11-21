@@ -19,6 +19,10 @@ Holden Karnofsky, head of Open Philanthropy, [writes](https://forum.effectivealt
 
 > Our available capital has fallen over the last year for these reasons. That said, as of now, public reports of Dustin Moskovitz and Cari Tuna’s net worth give a substantially understated picture of our available resources. That’s because, among other issues, they don’t include resources that are already in foundations. (I also note that META stock is not as large a part of their portfolio as some seem to assume)
 
+Edited to add: Moskovitz replies:
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Actually the Bloomberg tracker looks pretty close, though missing 3B or so of foundation assets. The Forbes one is like half the Bloomberg estimate 🤷‍♂️</p>&mdash; Dustin Moskovitz (@moskov) <a href="https://twitter.com/moskov/status/1594337871355207680?ref_src=twsrc%5Etfw">November 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 In mid 2022, Forbes put Sam Bankman-Fried's wealth at [$24B](https://www.forbes.com/profile/sam-bankman-fried/?sh=706b96804449). So in some sense, the amount of money allocated to or according to Effective Altruism™ peaked somewhere close to $50B.
 
 ### Funding flow restricted to longtermism & global catatrophic risks (GCRs)
