@@ -196,3 +196,77 @@ make_fortune_plot <- function(show_fortune_legend = FALSE) {
 
 make_fortune_plot(TRUE)
 make_fortune_plot(FALSE)
+
+## Look at the different longtermist areas independently.
+longtermism <- c("Biosecurity & Pandemic Preparedness", "Potential Risks from Advanced AI", "Science Supporting Biosecurity and Pandemic Preparedness", "Longtermism")
+
+df3 <- list()
+df3$year <- as.vector(sapply(data$Date, getYear))
+df3$amount <- as.vector(sapply(data$Amount, parse_number))
+df3$amount <- ifelse(is.na(df$amount), 0, df$amount)
+df3$area <- as.vector(data$Focus.Area)
+df3 <- as.data.frame(df3)
+df3$area <- as.vector(data$Focus.Area)
+df3 <- df3 %>% dplyr::filter(area %in% longtermism)
+# View(df3)
+df3
+
+years <- c(2014: 2022) # as.vector(unique(df$year))
+num_years <- length(years)
+area_names <- longtermism
+num_areas <- length(area_names)
+
+df4 <- list()
+df4$area <- sort(rep(area_names, num_years))
+df4$year <- rep(years, num_areas)
+df4 <- as.data.frame(df4)
+# View(df4)
+getAmountForYearAreaPair(df3, 2022, "Longtermism")
+
+amounts <- c()
+for(i in c(1:dim(df4)[1])){
+  amount <- getAmountForYearAreaPair(df3, df4$year[i], df4$area[i])
+  amounts <- c(amounts, amount)
+}
+df4$amount <- amounts
+
+## Plotting longtermist funding
+title_text="Open Philanthropy allocation by year and cause area"
+subtitle_text="restricted to longtermism & GCRs"
+palette = "Classic Red-Blue"
+direction = -1
+open_philanthropy_plot_lt <- ggplot(data=df4, aes(x=year, y=amount, fill=area, group=amount))+
+  geom_bar(stat="identity")+
+  labs(
+    title=title_text,
+    subtitle=subtitle_text,
+    x=element_blank(),
+    y=element_blank()
+  ) +
+  # scale_fill_wsj() +
+  # scale_fill_tableau(dir =1) +
+  # scale_fill_tableau(palette, dir=direction) +
+  # scale_fill_viridis(discrete = TRUE) +
+  # scale_fill_brewer(palette = "Set2") +
+  
+  scale_fill_d3( "category20", alpha=0.8) +
+  # scale_fill_uchicago("dark") +
+  # scale_fill_startrek() +
+  scale_y_continuous(labels = scales::dollar_format(scale = 0.000001, suffix = "M"))+
+  scale_x_continuous(breaks = years)+
+  theme_tufte() +
+  theme(
+    legend.title = element_blank(),
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5),
+    legend.position="bottom",
+    legend.box="vertical",
+    axis.text.x=element_text(angle=60, hjust=1),
+    legend.text=element_text(size=7)
+  ) + 
+  guides(fill=guide_legend(nrow=3,byrow=TRUE))
+getwd() ## Working directory on which the file will be saved. Can be changed with setwd("/your/directory")
+height = 5
+width = 6
+open_philanthropy_plot_lt
+ggsave(plot=open_philanthropy_plot_lt, "open_philanthropy_grants_lt.png", width=width, height=height, bg = "white")
