@@ -133,53 +133,66 @@ coeff <- 10^7*4
 wealth <- c(6, 8, 12, 15, 18, 12, 14, 19, 14)
 df2$wealth <- rep(wealth * coeff, num_areas)
 
-open_philanthropy_plot_with_fortune <- ggplot(data=df2, aes(x=year, y=amount, fill=area))+
-  geom_bar(stat="identity")+
-  geom_point(aes(x=year, y=wealth), size=2, color="darkblue", shape=4)+
-  labs(
-    title=title_text,
-    subtitle=subtitle_text,
-    x=element_blank(),
-    y=element_blank()
-  ) +
-  # scale_fill_wsj() +
-  # scale_fill_tableau(dir =1) +
-  # scale_fill_tableau(palette, dir=direction) +
-  # scale_fill_viridis(discrete = TRUE) +
-  # scale_fill_brewer(palette = "Set2") +
-  
-  scale_fill_d3( "category20", alpha=0.8) +
-  # scale_fill_uchicago("dark") +
-  # scale_fill_startrek() +
-  scale_y_continuous(
-    labels = scales::dollar_format(scale = 0.000001, suffix = "M"), 
-    name="OpenPhil donations", 
-    breaks = c(0:5)*10^8, 
-    sec.axis = sec_axis(
-      ~.*1, 
-      name="Dustin Moskovitz's fortune\n(est. Bloomberg)", 
-      breaks = seq(0,20,by=5)*coeff,
-      labels = c("$0B", "$5B","$10B","$15B", "$20B")
-      ),
-    limits=c(0,8*10^8)
+make_fortune_plot <- function(show_fortune_legend = FALSE) {
+  open_philanthropy_plot_with_fortune <- ggplot(data=df2, aes(x=year, y=amount, fill=area))+
+    geom_bar(stat="identity")+
+    geom_point(
+      aes(x=year, y=wealth), size=2, color="darkblue", shape=4,
+      show.legend=show_fortune_legend
     )+
-  scale_x_continuous(breaks = years)+
-  theme_tufte() +
-  theme(
-    legend.title = element_blank(),
-    plot.title = element_text(hjust = 0.5),
-    plot.subtitle = element_text(hjust = 0.5),
-    legend.position="bottom",
-    legend.box="vertical",
-    axis.text.x=element_text(angle=60, hjust=1),
-    axis.title.y = element_text(vjust=3, hjust=0.25, size=10),
-    axis.title.y.right = element_text(vjust=3, hjust=0.5, size=10),
-    legend.text=element_text(size=8)
-  ) + 
-  guides(fill=guide_legend(nrow=4,byrow=TRUE))
-# open_philanthropy_plot_with_fortune
+    labs(
+      title=title_text,
+      subtitle=subtitle_text,
+      x=element_blank(),
+      y=element_blank()
+    ) +
+    # scale_fill_wsj() +
+    # scale_fill_tableau(dir =1) +
+    # scale_fill_tableau(palette, dir=direction) +
+    # scale_fill_viridis(discrete = TRUE) +
+    # scale_fill_brewer(palette = "Set2") +
 
-height = 6
-width = 5
+    scale_fill_d3( "category20", alpha=0.8) +
+    # scale_fill_uchicago("dark") +
+    # scale_fill_startrek() +
+    scale_y_continuous(
+      labels = scales::dollar_format(scale = 0.000001, suffix = "M"),
+      name="OpenPhil donations",
+      breaks = c(0:5)*10^8,
+      sec.axis = sec_axis(
+        ~.*1,
+        name="Dustin Moskovitz's fortune\n(est. Bloomberg)",
+        breaks = seq(0,20,by=5)*coeff,
+        labels = c("$0B", "$5B","$10B","$15B", "$20B")
+        ),
+      limits=c(0,8*10^8)
+      )+
+    scale_x_continuous(breaks = years)+
+    theme_tufte() +
+    theme(
+      legend.title = element_blank(),
+      plot.title = element_text(hjust = 0.5),
+      plot.subtitle = element_text(hjust = 0.5),
+      legend.position="bottom",
+      legend.box="vertical",
+      axis.text.x=element_text(angle=60, hjust=1),
+      axis.title.y = element_text(vjust=3, hjust=0.25, size=10),
+      axis.title.y.right = element_text(vjust=3, hjust=0.5, size=10),
+      legend.text=element_text(size=8)
+    ) +
+    guides(fill=guide_legend(nrow=4,byrow=TRUE))
+  # open_philanthropy_plot_with_fortune
 
-ggsave(plot=open_philanthropy_plot_with_fortune, "open_philanthropy_plot_with_fortune.png", width=width, height=height, bg = "white")
+  height = 6
+  width = 5
+
+  filename = ifelse(
+    show_fortune_legend,
+    "open_philanthropy_plot_with_fortune.png",
+    "open_philanthropy_plot_with_fortune_clean_labels.png"
+  )
+  ggsave(plot=open_philanthropy_plot_with_fortune, filename, width=width, height=height, bg = "white")
+}
+
+make_fortune_plot(TRUE)
+make_fortune_plot(FALSE)
