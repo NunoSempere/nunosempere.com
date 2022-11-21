@@ -5,7 +5,7 @@ Some data on the stock of EA™ funding
 
 Open Philanthropy's allocation of funding through time looks as follows:
 
-![Bar graph of OpenPhil allocation by year. Global health leads for most years. Catastrophic risks are usually second since 2017. Overall spend increases over time.](https://i.imgur.com/RwD1pP9.png)
+![Bar graph of OpenPhil allocation by year. Global health leads for most years. Catastrophic risks are usually second since 2017. Overall spend increases over time.](https://i.imgur.com/rqwFsiN.png)
 
 Dustin Moskovitz's wealth looks, per [Bloomberg](https://www.bloomberg.com/billionaires/profiles/dustin-a-moskovitz), like this:
 
@@ -13,7 +13,7 @@ Dustin Moskovitz's wealth looks, per [Bloomberg](https://www.bloomberg.com/billi
 
 If we plot the two together, we don't see that much of a correlation:
 
-![Combination of the previous two charts. Moskovitz's fortune does not match changes in total spend or category composition.](https://i.imgur.com/NhhiLqd.png)
+![Combination of the previous two charts. Moskovitz's fortune does not match changes in total spend or category composition.](https://i.imgur.com/kCDWe8o.png)
 
 Holden Karnofsky, head of Open Philanthropy, [writes](https://forum.effectivealtruism.org/posts/mCCutDxCavtnhxhBR/some-comments-on-recent-ftx-related-events) that the Blomberg estimates might not be all that accurate:
 
@@ -29,7 +29,7 @@ In mid 2022, Forbes put Sam Bankman-Fried's wealth at [$24B](https://www.forbes.
 
 The analysis becomes a bit more interesting if we look only at longtermism and GCRs:
 
-![Bar graph of OpenPhil allocation to catastrophic risks by year. AI leads most years, followed by biosecurity.](https://i.imgur.com/OZwHMtV.png)
+![Bar graph of OpenPhil allocation to catastrophic risks by year. AI leads most years, followed by biosecurity.](https://i.imgur.com/Z2dMjfN.png)
 
 In contrast, per [Forbes](https://web.archive.org/web/20221116022228/https://fortune.com/2022/11/14/balkman-fried-ftx-collapse-threatens-effective-altruism-billions-charity-philanthropy/), the FTX Foundation had given out $160M by September 2022. My sense is that most (say, maybe 50% to 80%) of those grants went to "longtermist" cause areas, broadly defined. In addition, SBF and other FTX employees led a $580M funding round for [Anthropic](https://www.privateequitywire.co.uk/2022/05/05/314319/ftx-ceo-leads-580m-series-b-round-anthropic)
 
