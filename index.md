@@ -1,4 +1,4 @@
-I'm Nu&#xF1;o Sempere. I do research, write software and predict the future. This webpage is currently a work in progress.
+I'm Nu&#xF1;o Sempere. I do research, write software, and predict the future.
 
 <img src="https://i.imgur.com/rvwA0Wr.jpg" alt="image of myself" class="img-frontpage-center"> 
 
@@ -8,7 +8,6 @@ I'm Nu&#xF1;o Sempere. I do research, write software and predict the future. Thi
 2. [Forecasting Newsletter](https://forecasting.substack.com/): What is up in the world of forecasting?
 3. [Metaforecast](https://metaforecast.org/): A search engine for probabilities
 
-### Readers might also enjoy...
+### Readers might also wish to...
 
-...reading the [gossip](/gossip) page or seeing the latest on my [blog](https://nunosempere.com/blog/) to see what's new.
-
+...read the [gossip](/gossip) page, visit my [blog](/blog), or [sign up for my newsletter](/.subscribe).

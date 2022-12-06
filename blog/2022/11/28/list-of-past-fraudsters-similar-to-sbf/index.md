@@ -5,13 +5,13 @@ To inform my forecasting around FTX events, I looked at the [Wikipedia list of 
 
 My main takeaway is that many salient aspects of FTX have precedents: the incestuous relationship between an exchange and a trading house (Bernie Madoff, Richard Whitney), a philosophical or philanthropic component (Enric Duran, Tom Petters, etc.), embroiling friends and families in the scheme (Charles Ponzi), or multi-billion fraud not getting found out for years (Elizabeth Holmes, many others).
 
-## Fraud with a philosophical, philanthropic or religious component
+### Fraud with a philosophical, philanthropic or religious component
 
-### [Bernard Ebbers](https://en.wikipedia.org/wiki/Bernard_Ebbers)
+#### [Bernard Ebbers](https://en.wikipedia.org/wiki/Bernard_Ebbers)
 
 *   Prison: Yes
 *   Jurisdiction: US 
-*   Amount: $18B
+*   Amount: $18B (all amounts are approximate and inflation-adjusted using [in2013dollars.com](https://www.in2013dollars.com/))
 
 I find the section on his faith most informative:
 
@@ -19,17 +19,17 @@ I find the section on his faith most informative:
 
 Also note that eventually, $8B was restored to investors.
 
-### [Enric Durán](https://en.wikipedia.org/wiki/Enric_Duran)
+#### [Enric Durán](https://en.wikipedia.org/wiki/Enric_Duran)
 
 *   Prison: No, life in hiding
 *   Jurisdiction: Spain
-*   Amount: ~$700k (all amounts are inflation approximate and adjusted using [in2013dollars.com](https://www.in2013dollars.com/))
+*   Amount: ~$700k 
 
 During the 2008 crisis, he robbed Spanish banks by taking out spurious loans, and donated the amounts to anticapitalist causes. He wrote a guide about how to do this, and widely distributed it: an online version in Spanish and English can be found [here](https://www.bibliotecapleyades.net/sociopolitica/sociopol_globalbanking25.htm).
 
 Personal takeaway: Stealing money for altruistic causes is not unprecedented. And if you _are_ going to cross that line, it can be done with much more style. It will also be viewed much more sympathetically if you steal from organizations perceived to be corrupt.
 
-### [Tom Petters](https://en.wikipedia.org/wiki/Tom_Petters)
+#### [Tom Petters](https://en.wikipedia.org/wiki/Tom_Petters)
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -41,7 +41,7 @@ Some of his donations were later returned (bold emphasis my own):
 
 > Petters formed the John T. Petters Foundation to provide gifts and endowments at select universities to benefit future college students. The foundation was formed to honor his son, John Thomas Petters, who was killed on a visit in 2004 to Florence, Italy. The college student inadvertently wandered onto private property where the owner, Alfio Raugei, mistook him for an intruder and stabbed him to death." In response, in September 2004, Tom Petters pledged $10 million to his late son's college, Miami University. **He later promised an additional $4 million, with the total to support two professorships and the John T. Petters Center for Leadership, Ethics and Skills Development** within the Farmer School of Business. **Miami University has since returned Petters' donation following his conviction**. Petters also donated $12 million to Rollins College in Winter Park, Florida, where he was a member of the Board of Trustees, to create two new faculty chairs in International Business.
 
-### [Allen Stanford](https://en.wikipedia.org/wiki/Allen_Stanford)
+#### [Allen Stanford](https://en.wikipedia.org/wiki/Allen_Stanford)
 
 *   Prison: Yes
 *   Jurisdiction: British Overseas Territory 
@@ -55,9 +55,9 @@ This case is interesting because it also occurred overseas. Uninterestingly, All
 
 > In October 2009, the National Honours Committee of Antigua and Barbuda voted unanimously to strip Stanford of his knighthood.
 
-## Fraud on top of a legitimate business
+### Fraud on top of a legitimate business
 
-### [Marc Dreier](https://en.wikipedia.org/wiki/Marc_Dreier)
+#### [Marc Dreier](https://en.wikipedia.org/wiki/Marc_Dreier)
 
 *   Prison: Yes
 *   Jurisdiction: US  
@@ -67,7 +67,7 @@ Dreier seems to have been a very smart guy who initially didn't attain success. 
 
 > Marc Dreier's only television interview aired in 2009 on 60 Minutes titled, “The Swindler,” which was hosted by Steve Kroft. Dreier notes that he thought he would be featured on 60 minutes for something good that he had done, not for something bad. Kroft asks Dreier a question that was asked of Bernie Madoff, who many people find similarities with, about how someone could have kept up a scam for so long. Dreier noted that he had multiple stressors simultaneously that kept up his focus: the scam, a legitimate law business (funded by the scam), and his work as a practicing attorney.
 
-### [Richard Whitney](https://en.wikipedia.org/wiki/Richard_Whitney_(financier))
+#### [Richard Whitney](https://en.wikipedia.org/wiki/Richard_Whitney_(financier))
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -79,7 +79,7 @@ This case is remarkable because he previously was the director of the New York E
 
 > At the same time that Richard Whitney was achieving great success, his brother George had also prospered at Morgan bank and by 1930 had been anointed as the likely successor to bank president, Thomas W. Lamont. While Richard Whitney was assumed to be a brilliant financier, he in fact had personally been involved with speculative investments in a variety of businesses and had sustained considerable losses. To stay afloat, he began borrowing heavily from his brother George as well as other wealthy friends, and after obtaining loans from as many people as he could, turned to embezzlement to cover his mounting business losses and maintain his extravagant lifestyle. He stole funds from the New York Stock Exchange Gratuity Fund, the New York Yacht Club (where he served as the Treasurer), and $800,000 worth of bonds from his father-in-law's estate.
 
-### [Barry Minkow](https://en.wikipedia.org/wiki/Barry_Minkow)
+#### [Barry Minkow](https://en.wikipedia.org/wiki/Barry_Minkow)
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -93,7 +93,7 @@ The Wikipedia page just _keeps on going_:
 
 > After being released from jail, Minkow became a pastor and fraud investigator in San Diego, and spoke at churches and schools about ethics. This came to an end in 2011, when he admitted to helping deliberately drive down the stock price of homebuilder Lennar and was ordered back to prison for five years. Three years later, Minkow admitted to defrauding his own church and was sentenced to an additional five years in prison. He is subject to restitution requirements totaling $612 million.
 
-### [Bernie Madoff](https://en.wikipedia.org/wiki/Bernie_Madoff)
+#### [Bernie Madoff](https://en.wikipedia.org/wiki/Bernie_Madoff)
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -101,7 +101,7 @@ The Wikipedia page just _keeps on going_:
 
 There was a similar structure of having a trading house and a hedge fund. However, industry insiders suspected it. Most of the money was eventually returned.
 
-### [Lou Pearlman](https://en.wikipedia.org/wiki/Lou_Pearlman)
+#### [Lou Pearlman](https://en.wikipedia.org/wiki/Lou_Pearlman)
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -109,7 +109,7 @@ There was a similar structure of having a trading house and a hedge fund. Howeve
 
 Pearlman used income from the [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) and other bands which he either created or managed, to prop up an almost nonexistent aviation company.
 
-### [Crazy Eddie](https://en.wikipedia.org/wiki/Crazy_Eddie)
+#### [Crazy Eddie](https://en.wikipedia.org/wiki/Crazy_Eddie)
 
 *   Prison: Yes
 *   Jurisdiction: US
@@ -117,7 +117,7 @@ Pearlman used income from the [Backstreet Boys](https://en.wikipedia.org/wiki/B
 
 Shares a similar pattern of having fraud on top of a legitimate business.
 
-### [Samuel D. Waksal](https://en.wikipedia.org/wiki/Samuel_D._Waksal)
+#### [Samuel D. Waksal](https://en.wikipedia.org/wiki/Samuel_D._Waksal)
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -125,9 +125,9 @@ Shares a similar pattern of having fraud on top of a legitimate business.
 
 The Wikipedia page is unclear on whether the medicaments he pioneered were fraudulent, or whether the fraud was adjacent but unrelated.
 
-## Other somehow subjectively similar cases
+### Other somehow subjectively similar cases
 
-### [Charles Ponzi](https://en.wikipedia.org/wiki/Charles_Ponzi)
+#### [Charles Ponzi](https://en.wikipedia.org/wiki/Charles_Ponzi)
 
 *   Prison: Yes 
 *   Jurisdiction: US 
@@ -135,7 +135,7 @@ The Wikipedia page is unclear on whether the medicaments he pioneered were fraud
 
 > Ponzi's investors even included those closest to him, like his chauffeur John Collins and his own brother-in-law. Ponzi was indiscriminate about whom he allowed to invest, from young newspaper boys investing a few dollars to high-net-worth individuals, like a banker from Lawrence, Kansas, who invested $10,000
 
-### [Tino De Angelis](https://en.wikipedia.org/wiki/Tino_De_Angelis)
+#### [Tino De Angelis](https://en.wikipedia.org/wiki/Tino_De_Angelis)
 
 *   Prison: Yes
 *   Jurisdiction: US
@@ -143,7 +143,7 @@ The Wikipedia page is unclear on whether the medicaments he pioneered were fraud
 
 Also borrowed based on faulty collateral. After his prison term, he went on to scam further.
 
-### [Alves dos Reis](https://en.wikipedia.org/wiki/Alves_dos_Reis)
+#### [Alves dos Reis](https://en.wikipedia.org/wiki/Alves_dos_Reis)
 
 *   Prison: Yes
 *   Jurisdiction: Portugal, Angola 
@@ -151,7 +151,7 @@ Also borrowed based on faulty collateral. After his prison term, he went on to s
 
 Complicated plot to forge Portuguese banknotes in Angola, which was brought down when rivals accused it of being a front for the Germans, stopping a plan to become legitimate by acquiring the Bank of Portugal and hush away the fraudulent origins of the con.
 
-### [Jordan Belfort](https://en.wikipedia.org/wiki/Jordan_Belfort)
+#### [Jordan Belfort](https://en.wikipedia.org/wiki/Jordan_Belfort)
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -159,7 +159,9 @@ Complicated plot to forge Portuguese banknotes in Angola, which was brought down
 
 Fictionalized in the _Wolf of Wall Street_ film. Belfort ended up paying 50% of his future income towards restitution, and giving somewhat scammy motivational and training seminars.
 
-### [Elizabeth Holmes](https://en.wikipedia.org/wiki/Elizabeth_Holmes)
+EDIT h/t Greg Colbourn: The above is incorrect. Belfort was initially supposed to pay 50% of his salary, but sneaked out of it. See [here](https://forum.effectivealtruism.org/posts/jqJLcsqEqdnd35kTB/list-of-past-fraudsters-similar-to-sbf?commentId=4XbvuyyL5pLvGrBZQ#comments) for more details.
+
+#### [Elizabeth Holmes](https://en.wikipedia.org/wiki/Elizabeth_Holmes)
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -169,13 +171,13 @@ Homes seems to have been a similarly charismatic funder. Though in this case, it
 
 A takeaway for me: Fraud is surprisingly common, and investors probably price it in. 
 
-### [Kenneth Lay](https://en.wikipedia.org/wiki/Jeffrey_Skilling) and [Jeffrey Skilling](https://en.wikipedia.org/wiki/Jeffrey_Skilling) ([Enron scandal](https://en.wikipedia.org/wiki/Enron_scandal))
+#### [Kenneth Lay](https://en.wikipedia.org/wiki/Jeffrey_Skilling) and [Jeffrey Skilling](https://en.wikipedia.org/wiki/Jeffrey_Skilling) ([Enron scandal](https://en.wikipedia.org/wiki/Enron_scandal))
 
 *   Prison: No (died before), yes
 *   Jurisdiction: US
 *   Amount: $40B
 
-### [James Paul Lewis Jr.](https://en.wikipedia.org/wiki/James_Paul_Lewis_Jr.)
+#### [James Paul Lewis Jr.](https://en.wikipedia.org/wiki/James_Paul_Lewis_Jr.)
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -183,7 +185,7 @@ A takeaway for me: Fraud is surprisingly common, and investors probably price it
 
 Around half of his fortune was mandated to be returned, but only $11M was ultimately returned.
 
-### [Harshad Mehta](https://en.wikipedia.org/wiki/Harshad_Mehta)
+#### [Harshad Mehta](https://en.wikipedia.org/wiki/Harshad_Mehta)
 
 *   Prison: No (died before)
 *   Jurisdiction: India 
@@ -191,7 +193,7 @@ Around half of his fortune was mandated to be returned, but only $11M was ultima
 
 Also financed market speculation with worthless securities which he himself created.
 
-### [John Rigas](https://en.wikipedia.org/wiki/John_Rigas)
+#### [John Rigas](https://en.wikipedia.org/wiki/John_Rigas)
 
 *   Prison: Yes
 *   Jurisdiction: US 
@@ -199,7 +201,7 @@ Also financed market speculation with worthless securities which he himself crea
 
 > The executives were accused of looting the corporation by concealing $2.3 billion in liabilities from corporate investors and of using corporation funds as their personal funds
 
-### [Ferdinand Ward](https://en.wikipedia.org/wiki/Ferdinand_Ward)
+#### [Ferdinand Ward](https://en.wikipedia.org/wiki/Ferdinand_Ward)
 
 *   Prison: Yes
 *   Jurisdiction: US  
@@ -207,7 +209,7 @@ Also financed market speculation with worthless securities which he himself crea
 
 > Ward ran the company as a Ponzi scheme, claiming that he had inside access to government contracts, a claim which gained further credence when the president later joined the firm as a full partner.
 
-### [Whitaker Wright](https://en.wikipedia.org/wiki/Whitaker_Wright)
+#### [Whitaker Wright](https://en.wikipedia.org/wiki/Whitaker_Wright)
 
 *   Prison: No (suicide)
 *   Jurisdiction: US
