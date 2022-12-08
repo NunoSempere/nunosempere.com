@@ -129,10 +129,10 @@ open_philanthropy_plot <- ggplot(data=df2, aes(x=year, y=amount, fill=area, grou
     axis.text.x=element_text(angle=60, hjust=1),
     legend.text=element_text(size=7, hjust = 0.5)
   ) + 
-  geom_text(aes(label=ifelse(amount > 25e6, paste(round(amount / 1e6, 0), "M"), "")), size = 2, position = position_stack(vjust = 0.5)) +
+  geom_text(aes(label=ifelse(amount > 25e6, paste0(round(amount / 1e6, 0), "M"), "")), size = 1.7, colour="#f9f9f9", position = position_stack(vjust = 0.5)) +
   geom_text(
-    aes(label = paste(round(after_stat(y) / 1e6, 0), "M"), group = year), 
-    stat = 'summary', fun = sum, size=2, vjust = -0.5
+    aes(label = paste0(round(after_stat(y) / 1e6, 0), "M"), group = year), 
+    stat = 'summary', fun = sum, size=2.2, vjust = -0.5
   ) +
   guides(fill=guide_legend(nrow=3,byrow=TRUE))
 
@@ -279,10 +279,10 @@ open_philanthropy_plot_lt <- ggplot(data=df4, aes(x=year, y=amount, fill=area, g
     axis.text.x=element_text(angle=60, hjust=1),
     legend.text=element_text(size=7)
   ) + 
-  geom_text(aes(label=ifelse(amount > 5e6, paste(round(amount / 1e6, 0), "M"), "")), size = 2, position = position_stack(vjust = 0.5)) +
+  geom_text(aes(label=ifelse(amount > 5e6, paste0(round(amount / 1e6, 0), "M"), "")),  size = 2, colour="#f9f9f9", position = position_stack(vjust = 0.5)) +
   geom_text(
-    aes(label = paste(round(after_stat(y) / 1e6, 0), "M"), group = year), 
-    stat = 'summary', fun = sum, size=2, vjust = -0.5
+    aes(label = paste0(round(after_stat(y) / 1e6, 0), "M"), group = year), 
+    stat = 'summary', fun = sum, size=2.3, vjust = -0.5
   ) +
   guides(fill=guide_legend(nrow=3,byrow=TRUE))
 open_philanthropy_plot_lt
