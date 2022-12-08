@@ -15,7 +15,7 @@ library("RColorBrewer")
 library("ggsci")
 
 ## Data import
-setwd("/home/loki/Documents/core/ea/fresh/misc/openphil-funding")
+setwd("/home/loki/Blog/nunosempere.com/blog/2022/11/20/brief-update-ea-funding/.source")
 data <- read.csv("grants.csv", header=TRUE, stringsAsFactors = FALSE)
 
 ## Data cleaning
@@ -84,7 +84,7 @@ getAmountForArea(df, "Longtermism & GCRs")
 
 amounts <- c()
 for(i in c(1:dim(df2)[1])){
-  amount <- getAmountForYearAreaPair(df2, df2$year[i], df2$area[i])
+  amount <- getAmountForYearAreaPair(df, df2$year[i], df2$area[i])
   amounts <- c(amounts, amount)
 }
 df2$amount <- amounts
@@ -93,6 +93,7 @@ df2$amount <- amounts
 df2$cummulative_amount_for_its_area = sapply(df2$area, function(area) {
   return(getAmountForArea(df, area)) 
 })
+View(df2)
 
 ## Plotting
 title_text="Open Philanthropy allocation by year and cause area"
@@ -128,12 +129,18 @@ open_philanthropy_plot <- ggplot(data=df2, aes(x=year, y=amount, fill=area, grou
     axis.text.x=element_text(angle=60, hjust=1),
     legend.text=element_text(size=7, hjust = 0.5)
   ) + 
+  geom_text(aes(label=ifelse(amount > 25e6, paste(round(amount / 1e6, 0), "M"), "")), size = 2, position = position_stack(vjust = 0.5)) +
+  geom_text(
+    aes(label = paste(round(after_stat(y) / 1e6, 0), "M"), group = year), 
+    stat = 'summary', fun = sum, size=2, vjust = -0.5
+  ) +
   guides(fill=guide_legend(nrow=3,byrow=TRUE))
+
 open_philanthropy_plot
 getwd() ## Working directory on which the file will be saved. Can be changed with setwd("/your/directory")
 height = 5
 width = 5
-ggsave(plot=open_philanthropy_plot, "open_philanthropy_grants_stacked.png", width=width, height=height, bg = "white")
+ggsave(plot=open_philanthropy_plot, "open_philanthropy_grants_stacked_with_amounts.png", width=width, height=height, bg = "white")
 
 ## Including Dustin Moskovitz's wealth 
 coeff <- 10^7*4
@@ -272,9 +279,15 @@ open_philanthropy_plot_lt <- ggplot(data=df4, aes(x=year, y=amount, fill=area, g
     axis.text.x=element_text(angle=60, hjust=1),
     legend.text=element_text(size=7)
   ) + 
+  geom_text(aes(label=ifelse(amount > 5e6, paste(round(amount / 1e6, 0), "M"), "")), size = 2, position = position_stack(vjust = 0.5)) +
+  geom_text(
+    aes(label = paste(round(after_stat(y) / 1e6, 0), "M"), group = year), 
+    stat = 'summary', fun = sum, size=2, vjust = -0.5
+  ) +
   guides(fill=guide_legend(nrow=3,byrow=TRUE))
+open_philanthropy_plot_lt
 getwd() ## Working directory on which the file will be saved. Can be changed with setwd("/your/directory")
 height = 5
 width = 6
 ## open_philanthropy_plot_lt
-ggsave(plot=open_philanthropy_plot_lt, "open_philanthropy_grants_lt.png", width=width, height=height, bg = "white")
+ggsave(plot=open_philanthropy_plot_lt, "open_philanthropy_grants_lt_labeled.png", width=width, height=height, bg = "white")
