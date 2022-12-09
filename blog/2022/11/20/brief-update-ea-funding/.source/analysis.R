@@ -122,6 +122,7 @@ open_philanthropy_plot <- ggplot(data=df2, aes(x=year, y=amount, fill=area, grou
   theme_tufte() +
   theme(
     legend.title = element_blank(),
+    legend.text.align = 0,
     plot.title = element_text(hjust = 0.5),
     plot.subtitle = element_text(hjust = 0.5),
     legend.position="bottom",
@@ -224,9 +225,20 @@ df3$area <- as.vector(data$Focus.Area)
 df3 <- df3 %>% dplyr::filter(area %in% longtermism)
 # View(df3)
 
+## Group area
+
+pure_longtermism = c("Longtermism")
+biorisk = c("Biosecurity & Pandemic Preparedness", "Science Supporting Biosecurity and Pandemic Preparedness")
+ai_risk = c( "Potential Risks from Advanced AI")
+longtermism_labels = c(pure_longtermism, "Biosecurity & Pandemic Preparedness", ai_risk)  
+
+df3$area <- ifelse(df3$area %in% pure_longtermism, "Longtermism", df3$area)
+df3$area <- ifelse(df3$area %in% biorisk, "Biosecurity & Pandemic Preparedness", df3$area)
+df3$area <- ifelse(df3$area %in% ai_risk, "Potential Risks from Advanced AI", df3$area)
+
 years <- c(2014: 2022) # as.vector(unique(df$year))
 num_years <- length(years)
-area_names <- longtermism
+area_names <- longtermism_labels
 num_areas <- length(area_names)
 
 df4 <- list()
@@ -245,6 +257,8 @@ df4$amount <- amounts
 df4$cummulative_amount_for_its_area = sapply(df4$area, function(area) {
   return(getAmountForArea(df3, area)) 
 })
+View(df4)
+
 ## Plotting longtermist funding
 title_text="Open Philanthropy allocation by year and cause area"
 subtitle_text="restricted to longtermism & GCRs"
@@ -272,6 +286,7 @@ open_philanthropy_plot_lt <- ggplot(data=df4, aes(x=year, y=amount, fill=area, g
   theme_tufte() +
   theme(
     legend.title = element_blank(),
+    legend.text.align = 0,
     plot.title = element_text(hjust = 0.5),
     plot.subtitle = element_text(hjust = 0.5),
     legend.position="bottom",
