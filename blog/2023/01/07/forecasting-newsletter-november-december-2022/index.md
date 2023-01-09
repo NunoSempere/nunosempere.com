@@ -8,7 +8,7 @@ Forecasting Newsletter for November and December 2022
 - Forecasting community member Avraham Eisenberg [arrested for $100M+ theft](https://www.coindesk.com/policy/2022/12/27/mango-markets-exploiter-eisenberg-arrested-in-puerto-rico/) ([a](https://web.archive.org/web/20230106173959/https://www.coindesk.com/policy/2022/12/27/mango-markets-exploiter-eisenberg-arrested-in-puerto-rico/)).
 - Forecasting Research Institute [launches publicly](https://ea.greaterwrong.com/posts/kEd5qWwg8pZjWAeFS/announcing-the-forecasting-research-institute-we-re-hiring)
 - Blogpost [suggests that GiveWell use uncertainty](https://www.metacausal.com/givewells-uncertainty-problem/), wins $20k
-- Contrarian [offers $500k bet](https://www.metacausal.com/givewells-uncertainty-problem/), then chickens out
+- Contrarian [offers $500k bet](https://stevekirsch.substack.com/p/1m-bet-rules), then chickens out
 - Walter Frick writes a [resource to introduce journalists to prediction markets](https://www.niemanlab.org/2022/12/journalists-wake-up-to-the-power-of-prediction-markets/)
 - Yearly feedback form
 
@@ -61,7 +61,7 @@ The man behind the thing is [Filip Pidot](https://twitter.com/FlipPidot) ([a](ht
 
 Polymarket deploys an [adapter](https://github.com/Polymarket/uma-ctf-adapter) ([a](http://web.archive.org/web/20221013234314/https://github.com/Polymarket/uma-ctf-adapter)) between its Keynesian beauty contest resolution mechanism, [UMA](https://umaproject.org/) ([a](http://web.archive.org/web/20230104180400/https://umaproject.org/)), and actual resolutions. There is an "emergencyResolve" feature, which judging by the name could be used to override or bypass the UMA resolution. This is marginally concerning, because it could be used to siphon money away from markets, by betting on the less likely outcome and then resolving to it.
 
-![Image of the Polymarket-UMA adapter](.src/poly.png)
+![Image of the Polymarket-UMA adapter](https://i.imgur.com/vsep53y.jpg)
 
 Ultimately, I don't think this matters very much, because if Polymarket was compromised, users' wallets could probably be drained through some change in the webpage. Still, this downgrades UMA from its previous status as a source of truth to merely a convenient resolution mechanism,
 
@@ -105,7 +105,7 @@ Metaculus held a [Million Predictions Hackathon](https://scribe.froth.zone/annou
 
 Vincent Luczkow [analyzes](https://github.com/vluzko/manifoldpy) ([a](http://web.archive.org/web/20221228201434/https://github.com/vluzko/manifoldpy)) whether Manifold Markets are well calibrated, and finds that they are:
 
-![manifold calibration chart](.src/manifold-calibration.png)
+![manifold calibration chart](https://i.imgur.com/06mU9fG.png)
 
 A Manifold Community member analyzed the performance of various prediction platforms on the [US elections](https://firstsigma.substack.com/p/midterm-elections-forecast-comparison) ([a](http://web.archive.org/web/20221215030200/https://firstsigma.substack.com/p/midterm-elections-forecast-comparison)). I find that these analyses don't really take into account that political outcomes are massively correlated. And so in years in which Democrats do well, platforms with a Democratic bias will do well, and vice-versa. Still, this isn't totally uninformative.
 
@@ -199,7 +199,7 @@ Ben West looks at the [rate of fraud in YCombinator startups](https://ea.greater
 
 This [old Washington Post article](https://www.washingtonpost.com/news/wonk/wp/2016/03/18/how-the-likelihood-of-breaking-up-changes-as-time-goes-by/) ([a](http://web.archive.org/web/20211005190327/https://www.washingtonpost.com/news/wonk/wp/2016/03/18/how-the-likelihood-of-breaking-up-changes-as-time-goes-by/)) shows the annual risk of breakup for married and unmarried couples:
 
-![Breakup rates through time for different groups](.src/washington-breakup.png)
+![Breakup rates through time for different groups](https://i.imgur.com/tvg9CAt.png)
 
 Cultivate Labs' CEO [reviews](https://www.cultivatelabs.com/posts/2022-in-the-rearview) ([a](http://web.archive.org/web/20221223123956/https://www.cultivatelabs.com/posts/2022-in-the-rearview)) his company's activities in 2022. In particular:
 
@@ -267,8 +267,8 @@ A smallish company [rises](https://www.campaignlive.co.uk/article/truth-comes-be
 
 Except that this time, the [trick](https://taz.de/!5137745/)[succeeds](http://www.bertelsmannkritik.de/index.htm) ([a](http://web.archive.org/web/20230105003044/http://www.bertelsmannkritik.de/index.htm)), and after the death of the founder, it allows the family to keep control of assets while minimizing tax exposure. But the logic of the scheme requires that the company give out as few dividends as possible—because they would then be trapped inside the foundation and be difficult to get out. Which is why Bertelsmann has greatly expanded and is now a $30B behemoth which owns [Penguin Random House](https://en.wikipedia.org/wiki/Random_House) ([a](http://web.archive.org/web/20221224150408/https://en.wikipedia.org/wiki/Random_House)) as one of many items in an absurdly [long list of assets](https://en.wikipedia.org/wiki/List_of_assets_owned_by_Bertelsmann) ([a](http://web.archive.org/web/20221031225743/https://en.wikipedia.org/wiki/List_of_assets_owned_by_Bertelsmann)). Amusingly, they also [have the same person](https://en.wikipedia.org/wiki/Brigitte_Mohn#Career) ([a](https://web.archive.org/web/20221114210641/https://en.wikipedia.org/wiki/Brigitte_Mohn#Career)) represent the interest of the family and of the foundation.
 
-![Heimat wider Heimat cover](.src/heimat.png)
-*Cover of the "Heimat, wider Heimat" book, which translates to something like "Motherland, oh Motherland again", published by Bertelsmann. Note dog whistle connotations of [Heimat](https://en.wikipedia.org/wiki/Heimat#Modern_history). The author, Gustav Schröer, is one of four authors that I could quickly find that were both published by Bertelsmann and signed the "[Declaration of Allegiance of German Writers](https://de.wikipedia.org/wiki/Gel%C3%B6bnis_treuester_Gefolgschaft) ([a](http://web.archive.org/web/20230105003103/https://de.wikipedia.org/wiki/Gel%C3%B6bnis_treuester_Gefolgschaft))" to Adolf Hitler. The others are Rudolf G. Binding, Otto Flake and Fritz Müller-Partenkirchen. The case of Otto Flake is particularly interesting, since Bertelsmann rescued him from poverty in 1958 by reprinting old books of his.*
+![Heimat wider Heimat cover](https://i.imgur.com/zTrM1SN.jpg)
+*<br>Cover of the "Heimat, wider Heimat" book, which translates to something like "Motherland, oh Motherland again", published by Bertelsmann. Note dog whistle connotations of [Heimat](https://en.wikipedia.org/wiki/Heimat#Modern_history). The author, Gustav Schröer, is one of four authors that I could quickly find that were both published by Bertelsmann and signed the "[Declaration of Allegiance of German Writers](https://de.wikipedia.org/wiki/Gel%C3%B6bnis_treuester_Gefolgschaft) ([a](http://web.archive.org/web/20230105003103/https://de.wikipedia.org/wiki/Gel%C3%B6bnis_treuester_Gefolgschaft))" to Adolf Hitler. The others are Rudolf G. Binding, Otto Flake and Fritz Müller-Partenkirchen. The case of Otto Flake is particularly interesting, since Bertelsmann rescued him from poverty in 1958 by reprinting old books of his.*
 
 Now, the Bertelsmann foundation has made a small contribution to the forecasting world by starting the [Range Forecasting](https://www.rangeforecasting.org/) ([a](http://web.archive.org/web/20230105003141/https://www.rangeforecasting.org/)) platform, which runs on Cultivate Labs software. Per a recent Cultivate Labs newsletter:
 

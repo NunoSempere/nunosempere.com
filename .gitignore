@@ -1,3 +1,5 @@
 .secret/
 sitemap.gz
 sitemap.txt
+.wip/*
+blug.md
