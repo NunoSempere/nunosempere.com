@@ -1,9 +1,23 @@
 Can GPT-3 produce new ideas? Partially automating Robin Hanson and others
 ==========================================================================
 
-One small insight I've gained from studying the humanities—I'm currently taking a philosophy degree on the side—is that conceptual wins or paradigm shifts have required laborious work and the passage of time.
+## Brief description of the experiment
 
-Some "conceptual wins" in the sense that I have in mind are:
+I asked a language model to replicate a few patterns of generating insight that humanity hasn't really exploited much yet, such as:
+
+1. Variations on "if you never miss a plane, you've been spending too much time at the airport".
+2. Variations on the Robin Hanson argument of "for common human behaviour X, its usual purported justification is Y, but it usually results in more Z than Y. If we cared about Y, we might do A instead".
+3. Variations on the genealogical argument above against the moral necessity of systems stemming from historical accidents.
+
+## Motivation behind this experiment
+
+One of reasons to be afraid of artificial intelligence might be because, if you think in the abstract about how a system might behave as it becomes extremely intelligent, you might conclude that it might be able to completely outmaneuvre us because of its superior ability to grasp the true structure of the world. 
+
+This possibility is scary in the same sense that a modern chemist is scary to a historical alchemist. Our current chemist can completely outmaneuvre previous alchemists by using their superior understanding of natural laws to produce better explosions, more subtle poisons, or more addictive and mind-blowing drugs.
+
+I do buy this fear in the limit for a being of God-like intelligence. But it's not clear to me whether it also applies to current systems or whether it will apply to their close descendants. In particular language models seem like they are powerful remixers and predictors but perhaps limited to drawing from the conceptual toolkit which humans already have. On the other hand, because they have access to so much information, they might be able to be prompted so as to reveal new relationships, connections, and insights.
+
+Some conceptual insights which have been historically important are:
 
 - Explaining natural phenomena not in terms of Greek or Roman anthropomorphic gods, but with reference to naturalistic, physical explanations
 - Understanding acceleration as distinct from motion
@@ -14,21 +28,21 @@ Some "conceptual wins" in the sense that I have in mind are:
 - Randomized trials as a more robust way of generating generalizable knowledge
 - The genealogical argument: understanding that systems (such as the details of the current prison system, our monetary system, the lack of color in men's clothes, or our attitudes towards gender and sex) are the result of historical accidents which could have gone differently. But often these systems are rationalized as being particularly adequate, or even morally necessary.
 
-One of reasons to be afraid of artificial intelligence might be because, if you think in the abstract about how a system might behave as it becomes extremely intelligent, you might conclude that it might be able to completely outmaneuvre us because of its superior ontology, it's superior ability to grasp the true structure of the world. This possibility is scary in the same sense that a modern chemist is scary to a historical alchemist. Our current chemist can completely outmaneuvre previous alchemists by using their superior understanding of natural laws to produce better explosions, more subtle poisons, or more addictive and mind-blowing drugs.
+But I don't think that language models are currently able to come up with original insights arguments from scratch (this would be very scary). 
 
-But it's not clear to me whether this fear—which I do buy in the limit for a being of God-like intelligence—also applies to current systems and its descendants. In particular for language models, at first glance it seems like they are powerful remixers and predictors, but perhaps limited to drawing from the conceptual toolkit which humans already have. On the other hand, because they have access to so much information, they might be able to be prompted so as to reveal new relationships, connections and insights.
-
-So I'd be interested about the extent to which *current* AI systems are able to come up with better understandings of the world, and thus potentially in the future acquire an advantage over humans. 
-
-A simple experiment in this direction is to ask a language model to replicate a few patterns of generating insight that humanity hasn't really exploited much yet, such as:
+Instead, I probe GPT-3's ability to come up with original *variations* of these three argumentative patterns:
 
 1. Variations on "if you never miss a plane, you've been spending too much time at the airport".
 2. Variations on the Robin Hanson argument of "for common human behaviour X, its usual purported justification is Y, but it usually results in more Z than Y. If we cared about Y, we might do A instead".
-3. Variations on the genealogical argument above against the moral necessity of systems stemming from historical accidents.
+3. Variations on the genealogical argument: that the results of historical accidents are most likely not moral necessities or optimal systems.
 
-## In which I prompt the reader to make their own predictions about what will result, and I share two depictions of a cat generated by DALLE-2 and chat.openai.com
+The first pattern is known as an [Umeshism](https://scottaaronson.blog/?p=40). I associate the second pattern with Robin Hanson, who has had part of a fruitful career exploring some of its variations—though he is also known for other ideas, e.g., prediction markets and grabby aliens. I associate the third pattern with Nietzsche (who used it to criticize Christian morals which cherished meekness with Greek morals which cherished strength) and with Foucault (who used it to meaningfully critizice many aspects of contemporary culture, e.g., treatment of prisoners, our conception of knowledge, our relationship to sex, etc).
 
-Do you think that GPT-3 can produce thoughtful, original or insightful variations of the three argumentative patterns above?
+## Pause for the reader to make predictions about GPT-3's current capabilities.
+
+Do you think that GPT-3 can produce thoughtful, original or insightful variations of the three argumentative patterns above? Consider writting down your predictions before reading further.
+
+To occupy space so that you can make your predictions without reading the results below, here are two depictions of a cat, one from DALLE-2 and one from GTP-3.
 
 ![A photo of a cat, generated by DALLE-2](https://i.imgur.com/8VQBkAR.png)
 
@@ -202,7 +216,7 @@ Output:
 
 > 10. The way in which we view money is heavily influenced by our culture of materialism. In other societies, money is seen as a tool for social good and is not a goal in and of itself.
 
-## In conclusion
+## Conclusion and my personal perspective
 
 In conclusion, I think the above shows that current GPT-3 can generate somewhat original outputs by exploiting fertile argumentative patterns. This is still far away from e.g., inventing new types of science, or generating much better concepts. At the same time, it does feel like one could use this kind of system to generate thought-provoking blogposts using Robin Hanson's signature argumentative structure.
 
