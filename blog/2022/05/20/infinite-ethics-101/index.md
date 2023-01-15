@@ -66,4 +66,8 @@ I would still say that B is preferable to A in that case. And my impression is t
 
 Exercise for the reader: Come up with two infinite sequences which cannot be compared using statewise or stochastic dominance, or similar principles.
 
-You can comment on this post in the [EA Forum](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=BMEaMkB8Fdrz7oanw).
+You can see some discussion of this post in the [EA Forum](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=BMEaMkB8Fdrz7oanw).
+
+<p><section id="isso-thread">
+  <noscript>Javascript needs to be activated to view comments.</noscript>
+</section></p>
