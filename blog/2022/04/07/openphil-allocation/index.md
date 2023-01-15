@@ -1,4 +1,4 @@
-Open Philanthopy's allocation by cause area
+Open Philanthopy allocation by cause area
 ===========================================
 
 Open Philanthropy's grants so far, roughly:

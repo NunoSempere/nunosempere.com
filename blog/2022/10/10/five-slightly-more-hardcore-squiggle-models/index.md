@@ -127,7 +127,10 @@ For uncertainty about the number of beneficiaries, we could naïvely write:
 valueWithUncertaintyAboutNumBeneficiaries(num_beneficiaries_dist, population_age_distribution, benefitForPersonOfAge) = {
   numSamples = 1000
   num_beneficiaries_samples_list = sampleN(num_beneficiaries_dist, numSamples)
-  benefits_list = List.map(num_beneficiaries_samples_list, {|n| valueOfInterventionInPopulation(n, population_age_distribution, benefitForPersonOfAge)})
+  benefits_list = List.map(num_beneficiaries_samples_list, 
+    {|n| 
+      valueOfInterventionInPopulation(n, population_age_distribution, benefitForPersonOfAge)
+    })
   result = mixture(benefits_list)
   result
 }
@@ -239,7 +242,11 @@ And then we can specify our amount of funds;
 ```
 availableFunds = 1M // dollars
 calculationIncrement  = 1 // calculate dollar by dollar
-Danger.optimalAllocationGivenDiminishingMarginalReturnsForManyFunctions(listOfDiminishingMarginalReturns, availableFunds, calculationIncrement) 
+Danger.optimalAllocationGivenDiminishingMarginalReturnsForManyFunctions(
+  listOfDiminishingMarginalReturns,
+  availableFunds, 
+  calculationIncrement
+) 
 ```
 
 So in this case, the difficulty comes not from applying a function, but from adding that function to Squiggle. This can be seen [here](https://github.com/quantified-uncertainty/squiggle/blob/develop/packages/squiggle-lang/src/rescript/FR/FR_Danger.res#L278).

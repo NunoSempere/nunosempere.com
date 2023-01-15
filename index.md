@@ -1,4 +1,4 @@
-I'm Nu&#xF1;o Sempere. I do research, write software, and predict the future.
+I'm Nu&#xF1;o Sempere. I [do research](https://quantifieduncertainty.org/), [write software](https://github.com/NunoSempere/), and [predict the future](https://samotsvety.org/).
 
 <img src="https://i.imgur.com/rvwA0Wr.jpg" alt="image of myself" class="img-frontpage-center"> 
 
