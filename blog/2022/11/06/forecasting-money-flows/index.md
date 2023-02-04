@@ -264,6 +264,8 @@ This estimate could be improved by having numerical estiamates of impact. This w
 
 Given FTX's current troubles, it's very possible that there will be less money floating around for altruistic forecasting projects. At the same time, some of the projects FTX has donated to may  prove successful, and other funders may want to step in.
 
+PS: You can subscribe to posts from this blog [here](https://nunosempere.com/.subscribe/).
+
 <p><section id="isso-thread">
   <noscript>Javascript needs to be activated to view comments.</noscript>
 </section></p>

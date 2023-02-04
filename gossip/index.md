@@ -1,5 +1,9 @@
 ## Gossip
 
+_2023/01/29_: I've updated the forecasting and research pages in this website, they should now be a bit more up to date.
+
+_2022/12/09_: Holden Karnofsky doesn't [answer comments](https://twitter.com/NunoSempere/status/1601256399056424960).
+
 _2022/11/20_: I've updated my tally of EA funding @ [Some data on the stock of EA™ funding](https://nunosempere.com/blog/2022/11/20/brief-update-ea-funding/). It's possible that the comparison with the now absent FTX funding might be enlightening to readers.
 
 ![](https://i.imgur.com/RwD1pP9.png)
@@ -33,3 +37,5 @@ _2022/02/20_: At the recommendation of Misha Yagudin, I buy around $1.5k worth o
 _2022/02/18_: I write about what my computer setup looks like, [here](https://forum.effectivealtruism.org/posts/dzPtGwEFiqCFFGLhH/as-an-independent-researcher-what-are-the-biggest?commentId=PeP9LojYxxoWGnJQL)
 
 <p><img src="/gossip/computer-setup.jpg" alt="image of my computer setup" class="img-medium-center"> </p>
+
+PS: I am also on [Twitter](https://twitter.com/NunoSempere).

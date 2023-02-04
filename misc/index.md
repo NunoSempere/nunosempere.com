@@ -1,8 +1,3 @@
-### Maths
-
-- [Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf)  
-- [Letter from O. Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html)
-- [Mathematicians under the Nazis](https://nunosempere.github.io/projects/mathematicians-under-the-nazis.html)
 
 ### Media mentions
 
@@ -17,6 +12,19 @@ Various mentions in Astral Codex Ten, of [myself](https://astralcodexten.substac
 Mention in a [large Spanish newspaper](https://elpais.com/tecnologia/2022-03-24/se-puede-predecir-el-futuro-de-la-guerra-en-ucrania-es-lo-que-intenta-una-comunidad-de-pronosticadores-en-internet.html) (also [in English](https://english.elpais.com/science-tech/2022-03-26/is-it-possible-to-predict-the-future-of-the-war-in-ukraine-online-forecasting-communities-think-so.html)).
 
 Mention in [CNN](https://edition.cnn.com/2022/06/28/opinions/nuclear-war-likelihood-probability-russia-us-scoblic-mandel/index.html) (search for "highly regarded forecasters").
+
+[Worried About Nuclear War? Consider the Micromorts](https://www.wired.co.uk/article/micromorts-nuclear-war) on WIRED.
+
+### Some maths stuff
+
+- [Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf)  
+- [Letter from O. Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html)
+- [Mathematicians under the Nazis](https://nunosempere.github.io/projects/mathematicians-under-the-nazis.html)
+
+### Standing offers
+
+- [I will bet on your success on Manifold Markets](https://nunosempere.com/blog/2022/07/05/i-will-bet-on-your-success-or-failure/)
+- [Cancellation insurance](https://nunosempere.com/blog/2022/07/04/cancellation-insurance/)
 
 ### Truly random
 

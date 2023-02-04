@@ -1,11 +1,11 @@
 Most of my research can be found [on the EA Forum](https://forum.effectivealtruism.org/users/nunosempere). For forecasting related research, see [forecasting](/forecasting)
 
-The categorization for this page is a work in progress.
-
 ## Current research
 
 Besides forecasting (of probabilities), a major thread in my research is estimation (of values). Pieces related to this topic are:
 
+- [An experiment eliciting relative estimates for Open Philanthropy’s 2018 AI safety grants](https://forum.effectivealtruism.org/posts/EPhDMkovGquHtFq3h/an-experiment-eliciting-relative-estimates-for-open)
+- [Valuing research works by eliciting comparisons from EA researchers](https://forum.effectivealtruism.org/posts/hrdxf5qdKmCZNWTvs/valuing-research-works-by-eliciting-comparisons-from-ea)
 - [A Critical Review of Open Philanthropy’s Bet On Criminal Justice Reform](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on-criminal)
 - [Five steps for quantifying speculative interventions](https://forum.effectivealtruism.org/posts/3hH9NRqzGam65mgPG/five-steps-for-quantifying-speculative-interventions)
 - [External Evaluation of the EA Wiki](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki)  

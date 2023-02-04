@@ -1,12 +1,11 @@
 ## Forecasting
 
-To do: add references to Samotsvety Forecasting, Quantified Uncertainty tooling.
+My forecasting group is known as Samotsvety. You can read more about it [here](https://samotsvety.org/).
 
 ### Newsletter
 
 I am perhaps most well-known for my monthly forecasting _newsletter_. It can be found both [on Substack](https://forecasting.substack.com/) and [on the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7). Besides its mothly issues, I've also written:
 
-- (active) [We are giving $10k as forecasting micro-grants](https://forum.effectivealtruism.org/posts/oqFa8obfyEmvD79Jn/we-are-giving-usd10k-as-forecasting-micro-grants)
 - [Looking back at 2021](https://forecasting.substack.com/p/looking-back-at-2021)
 - [Forecasting Postmortem: The Fall of Kabul](https://forecasting.substack.com/p/postmortem-the-fall-of-kabul) (paywalled)
 - [2020: Forecasting in Review](https://forecasting.substack.com/p/2020-forecasting-in-review)
@@ -21,6 +20,7 @@ As part of my research at the [Quantified Uncertainty Research Institute](https:
 - [Amplifying generalist research via forecasting – models of impact and challenges](https://forum.effectivealtruism.org/posts/ZCZZvhYbsKCRRDTct/part-1-amplifying-generalist-research-via-forecasting-models) and [part 2](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting).
 - [Real-Life Examples of Prediction Systems Interfering with the Real World](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)  
 - [Introducing Metaforecast: A Forecast Aggregator and Search Tool](https://forum.effectivealtruism.org/posts/tEo5oXeSNcB3sYr8m/introducing-metaforecast-a-forecast-aggregator-and-search)  
+- [Introduction to Fermi estimates](https://nunosempere.com/blog/2022/08/20/fermi-introduction/)
 
 I also have a few _minor pieces_:
 
@@ -39,6 +39,15 @@ I also mantain [this database](https://docs.google.com/spreadsheets/d/1XB1GHfizN
 
 ### Funding
 
-- (active) [We are giving $10k as forecasting micro-grants](https://forum.effectivealtruism.org/posts/oqFa8obfyEmvD79Jn/we-are-giving-usd10k-as-forecasting-micro-grants)
+I have occasionally advised philanthropic funders—mostly from the effective altruism community—on forecasting related topics and projects. 
+
+I have run a few contests:
+
 - [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)
-- I have also occasionally advised EA funders on forecasting related topics and projects.
+- [We are giving $10k as forecasting micro-grants](https://forum.effectivealtruism.org/posts/oqFa8obfyEmvD79Jn/we-are-giving-usd10k-as-forecasting-micro-grants)
+- [$1,000 Squiggle Experimentation Challenge](https://forum.effectivealtruism.org/posts/ZrWuy2oAxa6Yh3eAw/usd1-000-squiggle-experimentation-challenge)
+- [$5k challenge to quantify the impact of 80,000 hours' top career paths](https://forum.effectivealtruism.org/posts/noDYmqoDxYk5TXoNm/usd5k-challenge-to-quantify-the-impact-of-80-000-hours-top)
+
+### Squiggle
+
+I've done bunch of work around Squiggle, a language for creating quick probability estimates. You can read about this [here](https://forum.effectivealtruism.org/topics/squiggle).
