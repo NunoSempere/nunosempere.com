@@ -15,6 +15,8 @@ Some other asset classes I looked into:
 - Government bonds
 - Real state assets
 - Various financial instruments
+  - [Inflation protected bonds](https://www.bankofcanada.ca/markets/government-securities-auctions/calls-for-tenders-and-results/real-return-bonds/real-return-bonds-index-ratio/) (uncommon)
+  - [Inflation prediction markets](https://kalshi.com/forecasts/inflation) (restricted in volume)
 - Venture capitalist investments
 - A clan or family
 - Some other engine of value

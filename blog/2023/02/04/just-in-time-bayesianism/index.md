@@ -86,7 +86,7 @@ But now, with more and more encounters, the probability assigned by the second h
 
 ![](https://i.imgur.com/UntdNrR.png)
 
-In particular, you need to experience around as many interactions as you previously have without a dog for \(p(n) =\frac{2}{n+2}\) to halve. But note that this in expectation approximately produces another dog bite! Hence the optimal move might be to avoid encountering new evidence (because the chance of another dog bite is now too large), hence the trapped priors.
+In particular, you need to double the amount of interactions with a dog and then condition on them going positively (no bites) for \(p(n) =\frac{2}{n+2}\) to halve. But note that this in expectation approximately produces another two dog bites[^4]! Hence the optimal move might be to avoid encountering new evidence (because the chance of another dog bite is now too large), hence the trapped priors.
 
 #### ...philosophy of science
 
@@ -131,6 +131,8 @@ In conclusion, I sketched a simple variation of subjective Bayesianism that is a
 [^2]: In the limit, we would arrive at Solomonoff induction, a model of perfect inductive inference that assigns a probability to all computable hypothesis. [Here](http://www.vetta.org/documents/legg-1996-solomonoff-induction.pdf) is an explanation of Solomonoff induction[^3].
 
 [^3]: The author appears to be the [cofounder of DeepMind](https://en.wikipedia.org/wiki/Shane_Legg).
+
+[^4]: \(E[\text{new bites}] = n \cdot p(bite)  = n \cdot \frac{2}{n+2} \approx 2\). Note that this is ex-ante, as one is deciding whether to gather more evidence.
 
 <p>
   <section id='isso-thread'>
