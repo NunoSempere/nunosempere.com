@@ -41,11 +41,11 @@ But for probability densities, is it the case that
 
 $$ d(A \& B) = d(A) \cdot d(\text{B given A})\text{?} $$
 
-Well, yes, but I have to think about limits, wherein, as everyone knows, lie the workings of the devil. So I decided to use a probability distribution over 10,000 possible welfare points, rather than a probability density distribution.
+Well, yes, but I have to think about limits, wherein, as everyone knows, lie the workings of the devil. So I decided to use a probability distribution with 50k possible welfare points, rather than a probability density distribution.
 
 The second shortcut I am taking is to interpret Rethink Priorities's estimates as estimates of the relative value of humans and each species of animal—that is, to take their estimates as saying "a human is X times more valuable than a pig/chicken/shrimp/etc". But RP explicitly notes that they are not that, they are just estimates of the range that welfare can take, from the worst experience to the best experience. You'd still have to adjust according to what proportion of that range is experienced, e.g., according to how much suffering a chicken in a factory farm experiences as a proportion of its maximum suffering.
 
-And thirdly, I decided to do the Bayesian estimate based on RP's point estimates, rather than on their 90% confidence intervals. I do feel bad about this, because I've been pushing for more distributions, so it feels a shame to ignore RP's confidence intervals, which could be fitted into e.g., a beta or a lognormal distribution. At the end of this post, I revisit this shortcut.
+And thirdly, I decided to do the Bayesian estimate based on RP's point estimates, rather than on their 90% confidence intervals. I do feel bad about this, because I've been pushing for more distributions, so it feels a shame to ignore RP's confidence intervals, which could be fitted into e.g., a beta or a lognormal distribution. 
 
 So in short, my three shortcuts are:
 
@@ -79,13 +79,15 @@ So, when I think about how I disvalue chickens' suffering in comparison to how I
 To those specifications, my prior thus looks like this:
 
 ![Prior over human vs chicken relative values](https://i.imgur.com/cQKRZBb.png)
-**The lone red point is the probability I assign to 0 value**
+*<br>The lone red point is the probability I assign to 0 value*
 
 Zooming in into the blue points, they look like this:
 
 ![Prior over human vs chicken relative values -- zoomed in](https://i.imgur.com/1LQwt2A.png)
 
 As I mention before, note that I am not using a probability density, but rather lots of points. In particular, for this simulation, I'm using 50,000 points. This will become relevant later.
+
+Code to produce this chart and subsequent updates can be seen [here](https://git.nunosempere.com/personal/nunosempere.com/src/branch/master/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/.src/adjustment.R) and [here](https://github.com/NunoSempere/nunosempere.com/blob/master/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/.src/adjustment.R).
 
 ### Constructing the Bayes factor
 
@@ -104,7 +106,7 @@ $$ P(h|x) = P(h | xW) \cdot P(W) + P(h | x \overline{W}) \cdot (1-P(W)) $$
 
 What's the prior probability that RP's research has gone wrong? I don't know, it's a tricky domain with a fair number of moving pieces. On the other hand, RP is generally competent. I'm going to say 50%. Note that this is the prior probability, before seing the output of the research. Ideally I'd have prerecorded this.
 
-What's \( P(h | xW) \), the probability of getting \( h \) if RP's research has gone wrong? Well, I'm using 50,000 possible welfare values, so \( \frac{1}{50000} \) 
+What's \( P(h | xW) \), the probability of getting \( h \) if RP's research has gone wrong? Well, I'm using 50,000 possible welfare values, so \( \frac{1}{50000} \) might be a good enough approximation.
 
 Conversely, what is, \( P(h | x\overline{W} ) \) the probability of getting \( h \) if RP's research has gone right? Well, this depends on how far away \( h \) is from \( x \).
 
@@ -170,7 +172,7 @@ So, in conclusion, I presented a Bayesian adjustment to RP's estimates of the we
 
 In its writeup, RP writes:
 
-> “I don't share this project’s assumptions. Can't I just ignore the results?”
+> **“I don't share this project’s assumptions. Can't I just ignore the results?”**
 
 > We don’t think so. First, if unitarianism is false, then it would be reasonable to discount our estimates by some factor or other. However, the alternative—hierarchicalism, according to which some kinds of welfare matter more than others or some individuals’ welfare matters more than others’ welfare—is very hard to defend. (To see this, consider the many reviews of the most systematic defense of hierarchicalism, which identify deep problems with the proposal.)
 
@@ -181,7 +183,7 @@ In its writeup, RP writes:
 So my main takeaway is that that section is mostly wrong, you can totally ignore these results if you either:
 
 - have a strong prior that you don't care about certain animals, or, more specifically, that their welfare range is narrow.
-- assign a pretty high probability that RP's analysis has gone wrong at some point
+- assign a high enough probability that RP's analysis has gone wrong at some point
 
 As for future steps, I imagine that at some point in its work, RP will post numerical estimates of human vs animal values, of which their welfare ranges are but one of many components. If so, I'll probably redo this analysis with those factors. Besides that, it would also be neat to fit RP's 90% confidence interval to a distribution, and update on that distribution, not only on their point estimate.
 
