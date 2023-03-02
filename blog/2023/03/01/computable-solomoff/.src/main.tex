@@ -12,7 +12,7 @@
 \begin{frontmatter}
 
 
-\title{A computable version of Solomonoff induction}
+\title{A computable variant of Solomonoff induction}
 
 %% use optional labels to link authors explicitly to addresses:
 %% \author[label1,label2]{}
@@ -24,7 +24,7 @@
 \address[1]{Quantified Uncertainty Research Institute, Mexico}
 
 \begin{abstract}
-	I present a computable version of Solomonoff induction.
+	I present a computable variant of Solomonoff induction.
 \end{abstract}
 
 \begin{keyword}
@@ -37,9 +37,9 @@ Solomonoff \sep induction \sep computable
 \section{The key idea: arrive at the correct hypothesis in finite time}
 
 \begin{enumerate}
-	\item Start with a finite set of turing machines, $\{T_0, ..., T_n\}$
+	\item Start with a finite set of Turing machines, $\{T_0, ..., T_n\}$
 	\item If none of the $T_i$ predict your trail bits, $(B_0, ..., B_m)$, compute the first $m$ steps of Turing machine $T_{n+1}$. If $T_{n+1}$ doesn't predict them either, go to $T_{n+2}$, and so on\footnote{Here we assume that we have an ordering of Turing machines, i.e., that $T_i$ is simpler than $T_{(i+1)}$}
-	\item Observe the next bit, purge the machines from your set which don't predict it. If none predict it, GOTO 2.
+	\item Observe the next bit, purge the machines from your set which don't predict it. If none predict it, go to step 2.
 \end{enumerate}
 
 
@@ -53,18 +53,17 @@ QED.
 
 \section{Using the above scheme to arrive at a probability }
 
-Now, the problem with the above scheme is that if we use our set of turing machines to output a probability for the next bit
+Now, the problem with the above scheme is that if we use our set of Turing machines to output a probability for the next bit
 
 $$ P\Big(b_{m + 1} = 1 | (B_0, ..., B_m) \Big) := \frac{1}{n} \cdot \sum_0^n \Big(T_i(m+1) = 1\Big) $$
 
 then our probabilities are going to be very janky. For example, at step $ j - 1 $, that scheme would output a 0\% probability to the correct value of the next bit.
 
-To fix this, in step 2, we can require that there be not only one turing machine that predicts all past bits, but multiple of them. What multiple? Well, however many your compute and memory budgets allow. This would make your probabilities less janky. 
+To fix this, in step 2, we can require that there be not only one Turing machine that predicts all past bits, but multiple of them. How many? Well, however many your compute and memory budgets allow. This would make your probabilities less janky. 
 
 Interestingly, that scheme also suggests that there is a tradeoff between arriving at the correct hypothesis as fast as possible—in which case we would just implement the first scheme at full speed—and producing accurate probabilities—in which case it seems like we would use the modification just outlined.
 
-\section{A downside}
-
+\sectionHow many
 Note that a downside of the procedures outlined above is that at the point we arrive at the correct hypothesis, we don't know that this is the case.
 
 \section{An distracting epicycle: dealing with Turing machines that take too long or do not halt.}
@@ -84,7 +83,7 @@ But then in step 2 of our scheme, we never get to see what bits this program out
 This can easily be fixed as follows:
 
 \begin{enumerate}
-	\item Start with a finite set of live turing machines, $\{T_0, ..., T_n\}$, a compute budget $s$ and an empty cache of programs which take too long $C =\{\}$
+	\item Start with a finite set of live Turing machines, $\{T_0, ..., T_n\}$, a compute budget $s$ and an empty cache of programs which take too long $C =\{\}$
 	\item Run each $T_i$ for $s$ seconds. 
 	\item If none of them predict your trail bits, $(B_0, ..., B_m)$, within the given compute budget: 
 		\begin{enumerate}
@@ -95,7 +94,7 @@ This can easily be fixed as follows:
 			 \item Repeat steps 2-3 until you have one program which has predicted past bits within your compute budget. Eventually this program must exist, since the Turing machine which is producing your trail of bits is by construction computable and non-halting.\footnote{Or at least, it hasn't halted before producing the number of bits that you have seen so far.}
 			\item 
 		\end{enumerate}
-	\item Observe the next bit, purge the machines from your set which don't predict it. If none predict it, GOTO 2.
+	\item Observe the next bit, purge the machines from your set which don't predict it. If none predict it, go to 2.
 \end{enumerate}
 
 \end{document}

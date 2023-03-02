@@ -5,9 +5,9 @@ Thinking about [Just-in-time Bayesianism](https://nunosempere.com/blog/2023/02/0
 
 ### The key idea: arrive at the correct hypothesis in finite time
 
-1. Start with a finite set of turing machines, \(\{T_0, ..., T_n\}\)
+1. Start with a finite set of Turing machines, \(\{T_0, ..., T_n\}\)
 2. If none of the \(T_i\) predict your trail bits, \((B_0, ..., B_m)\), compute the first \(m\) steps of Turing machine \(T_{n+1}\). If \(T_{n+1}\) doesn't predict them either, go to \(T_{n+2}\), and so on[^1]
-3. Observe the next bit, purge the machines from your set which don't predict it. If none predict it, GOTO 2.
+3. Observe the next bit, purge the machines from your set which don't predict it. If none predict it, go to 2.
 
 Then in finite time, you will arrive at a set which only contains the simplest TM which describes the process generating your train of bits. Proof:
 
@@ -18,13 +18,13 @@ QED.
 
 ### Using the above scheme to arrive at a probability 
 
-Now, the problem with the above scheme is that if we use our set of turing machines to output a probability for the next bit
+Now, the problem with the above scheme is that if we use our set of Turing machines to output a probability for the next bit
 
 \[ P\Big(b_{m + 1} = 1 | (B_0, ..., B_m) \Big) := \frac{1}{n} \cdot \sum_0^n \Big(T_i(m+1) = 1\Big)  \]
 
 then our probabilities are going to be very janky. For example, at step \( j - 1 \), that scheme would output a 0% probability to the correct value of the next bit.
 
-To fix this, in step 2, we can require that there be not only one turing machine that predicts all past bits, but multiple of them. What multiple? Well, however many your compute and memory budgets allow. This would make your probabilities less janky. 
+To fix this, in step 2, we can require that there be not only one Turing machine that predicts all past bits, but multiple of them. What number? Well, however many your compute and memory budgets allow. This would make your probabilities less janky. 
 
 Interestingly, that scheme also suggests that there is a tradeoff between arriving at the correct hypothesis as fast as possible—in which case we would just implement the first scheme at full speed—and producing accurate probabilities—in which case it seems like we would have to use a tweak
 
@@ -44,7 +44,7 @@ But then in step 2 of our scheme, we never get to see what bits this program out
 
 This can easily be fixed as follows:
 
-1. Start with a finite set of live turing machines, \(\{T_0, ..., T_n\}\), a compute budget \( s \) and an empty cache of programs which take too long \( C =\{\} \)
+1. Start with a finite set of live Turing machines, \(\{T_0, ..., T_n\}\), a compute budget \( s \) and an empty cache of programs which take too long \( C =\{\} \)
 2. Run each \( T_i \) for \( s \) seconds. 
 3. If none of them predict your trail bits, \( (B_0, ..., B_m) \), within the given compute budget: 
    -  eliminate the ones who make incorrect predictions.
@@ -52,7 +52,7 @@ This can easily be fixed as follows:
    -  attempt to compute the first \( m \) steps of Turing machine \(T_{n+1} \) with \( s \) seconds of compute. If it makes correct predictions, keep it in the set of live machines, otherwise move it to the cache.
    -  increase the compute budget to \( s + 1 \) and run each machine in the cache for one additional second
    -  Repeat step 2 until you have one program which has predicted past bits within your compute budget. Eventually this program must exist, since the Turing machine which is producing your trail of bits is by construction computable and non-halting[^3].
-4. Observe the next bit, purge the machines from your set which don't predict it. If none predict it, GOTO 2.
+4. Observe the next bit, purge the machines from your set which don't predict it. If none predict it, go to 2.
 
 <p>
   <section id='isso-thread'>
