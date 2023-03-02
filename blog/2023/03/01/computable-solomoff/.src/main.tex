@@ -59,7 +59,7 @@ $$ P\Big(b_{m + 1} = 1 | (B_0, ..., B_m) \Big) := \frac{1}{n} \cdot \sum_0^n \Bi
 
 then our probabilities are going to be very janky. For example, at step $ j - 1 $, that scheme would output a 0\% probability to the correct value of the next bit.
 
-To fix this, in step 2, we can require that there be not only one Turing machine that predicts all past bits, but multiple of them. How many? Well, however many your compute and memory budgets allow. This would make your probabilities less janky. 
+To fix this, in step 2, we can require that there be not only one Turing machine that predicts all past bits, but many of them. How many? Well, however many your compute and memory budgets allow. This would make your probabilities less janky. 
 
 Interestingly, that scheme also suggests that there is a tradeoff between arriving at the correct hypothesis as fast as possible—in which case we would just implement the first scheme at full speed—and producing accurate probabilities—in which case it seems like we would use the modification just outlined.
 
@@ -92,7 +92,6 @@ This can easily be fixed as follows:
 			 \item attempt to compute the first $m$ steps of Turing machine $T_{n+1}$ with $s$ seconds of compute. If it makes correct predictions, keep it in the set of live machines, otherwise move it to the cache.
 			 \item increase the compute budget to $s + 1$ and run each machine in the cache for one additional second
 			 \item Repeat steps 2-3 until you have one program which has predicted past bits within your compute budget. Eventually this program must exist, since the Turing machine which is producing your trail of bits is by construction computable and non-halting.\footnote{Or at least, it hasn't halted before producing the number of bits that you have seen so far.}
-			\item 
 		\end{enumerate}
 	\item Observe the next bit, purge the machines from your set which don't predict it. If none predict it, go to 2.
 \end{enumerate}
