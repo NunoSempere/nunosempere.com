@@ -45,14 +45,14 @@ But then in step 2 of our scheme, we never get to see what bits this program out
 This can easily be fixed as follows:
 
 1. Start with a finite set of live turing machines, \(\{T_0, ..., T_n\}\), a compute budget \( s \) and an empty cache of programs which take too long \( C =\{\} \)
-1. Run each \( T_i \) for \( s \) seconds. 
-1. If none of them predict your trail bits, \( (B_0, ..., B_m) \), within the given compute budget: 
-  -  eliminate the ones who make incorrect predictions.
-  -  keep track of programs which didn't output anything in the cache.
-  -  attempt to compute the first \( m \) steps of Turing machine \(T_{n+1} \) with \( s \) seconds of compute. If it makes correct predictions, keep it in the set of live machines, otherwise move it to the cache.
-  -  increase the compute budget to \( s + 1 \) and run each machine in the cache for one additional second
-  -  Repeat step 2 until you have one program which has predicted past bits within your compute budget. Eventually this program must exist, since the Turing machine which is producing your trail of bits is by construction computable and non-halting.\footnote{Or at least, it hasn't halted before producing the number of bits that you have seen so far.}
-1. Observe the next bit, purge the machines from your set which don't predict it. If none predict it, GOTO 2.
+2. Run each \( T_i \) for \( s \) seconds. 
+3. If none of them predict your trail bits, \( (B_0, ..., B_m) \), within the given compute budget: 
+   -  eliminate the ones who make incorrect predictions.
+   -  keep track of programs which didn't output anything in the cache.
+   -  attempt to compute the first \( m \) steps of Turing machine \(T_{n+1} \) with \( s \) seconds of compute. If it makes correct predictions, keep it in the set of live machines, otherwise move it to the cache.
+   -  increase the compute budget to \( s + 1 \) and run each machine in the cache for one additional second
+   -  Repeat step 2 until you have one program which has predicted past bits within your compute budget. Eventually this program must exist, since the Turing machine which is producing your trail of bits is by construction computable and non-halting.\footnote{Or at least, it hasn't halted before producing the number of bits that you have seen so far.}
+4. Observe the next bit, purge the machines from your set which don't predict it. If none predict it, GOTO 2.
 
 <p>
   <section id='isso-thread'>
