@@ -6,7 +6,7 @@ Thinking about [Just-in-time Bayesianism](https://nunosempere.com/blog/2023/02/0
 ### The key idea: arrive at the correct hypothesis in finite time
 
 1. Start with a finite set of turing machines, \(\{T_0, ..., T_n\}\)
-2. If none of the \(T_i\) predict your trail bits, \((B_0, ..., B_m)\), compute the first \(m\) steps of Turing machine \(T_{n+1}\). If \(T_{n+1}\) doesn't predict them either, go to \(T_{n+2}\), and so on^1
+2. If none of the \(T_i\) predict your trail bits, \((B_0, ..., B_m)\), compute the first \(m\) steps of Turing machine \(T_{n+1}\). If \(T_{n+1}\) doesn't predict them either, go to \(T_{n+2}\), and so on[^1]
 3. Observe the next bit, purge the machines from your set which don't predict it. If none predict it, GOTO 2.
 
 Then in finite time, you will arrive at a set which only contains the simplest TM which describes the process generating your train of bits. Proof:
@@ -31,7 +31,6 @@ Interestingly, that scheme also suggests that there is a tradeoff between arrivi
 ### A distracting epicycle: dealing with Turing machines that take too long or do not halt.
 
 When thinking about Turing machines, one might consider one particular model, e.g., valid C programs. But in that case, it is easy to consider programs that do not halt, like:[^2]
-[^2]: Readers might find it amusing to run gcc loop.c and check it
 
 ```
 void main(){
@@ -63,4 +62,5 @@ This can easily be fixed as follows:
 
 
 
-^1: Here we assume that we have an ordering of Turing machines, i.e., that T_i is simpler than T_(i+1)
+[^1]: Here we assume that we have an ordering of Turing machines, i.e., that T_i is simpler than T_(i+1)
+[^2]: Readers might find it amusing to run gcc loop.c and check it
