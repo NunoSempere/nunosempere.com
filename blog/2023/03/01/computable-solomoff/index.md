@@ -51,7 +51,7 @@ This can easily be fixed as follows:
    -  keep track of programs which didn't output anything in the cache.
    -  attempt to compute the first \( m \) steps of Turing machine \(T_{n+1} \) with \( s \) seconds of compute. If it makes correct predictions, keep it in the set of live machines, otherwise move it to the cache.
    -  increase the compute budget to \( s + 1 \) and run each machine in the cache for one additional second
-   -  Repeat step 2 until you have one program which has predicted past bits within your compute budget. Eventually this program must exist, since the Turing machine which is producing your trail of bits is by construction computable and non-halting.\footnote{Or at least, it hasn't halted before producing the number of bits that you have seen so far.}
+   -  Repeat step 2 until you have one program which has predicted past bits within your compute budget. Eventually this program must exist, since the Turing machine which is producing your trail of bits is by construction computable and non-halting[^3].
 4. Observe the next bit, purge the machines from your set which don't predict it. If none predict it, GOTO 2.
 
 <p>
@@ -64,3 +64,4 @@ This can easily be fixed as follows:
 
 [^1]: Here we assume that we have an ordering of Turing machines, i.e., that T_i is simpler than T_(i+1)
 [^2]: Readers might find it amusing to run gcc loop.c and check it
+[^3]: Or at least, it hasn't halted before producing the number of bits that you have seen so far.}
