@@ -3,7 +3,7 @@ A Bayesian Adjustment to Rethink Priorities' Welfare Range Estimates
 
 I was meditating on [Rethink Priorities’ Welfare Range Estimates](https://forum.effectivealtruism.org/posts/Qk3hd6PrFManj8K6o/rethink-priorities-welfare-range-estimates):
 
-![](https://i.imgur.com/zJ2JqXE.jpg)
+![](https://i.imgur.com/jQR2r9k.jpg)
 
 Something didn't feel right. Suddenly, an apparition of E. T. Jaynes manifested itself, and exclaimed: <br><br>![](https://i.imgur.com/yUAG6oD.png)
 
@@ -57,7 +57,7 @@ These shortcuts mean that you can't literally take this Bayesian estimate seriou
 
 ### Focusing on chickens
 
-For the rest of the post, I will focus on chickens. Updates for other animals should be similar, and focusing on one example lighten my loads.
+For the rest of the post, I will focus on chickens. Updates for other animals should be similar, and focusing on one example makes my job easier.
 
 Coming back to Rethink Priorities' estimates:
 
