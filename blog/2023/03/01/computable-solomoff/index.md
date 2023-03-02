@@ -54,6 +54,9 @@ This can easily be fixed as follows:
    -  Repeat step 2 until you have one program which has predicted past bits within your compute budget. Eventually this program must exist, since the Turing machine which is producing your trail of bits is by construction computable and non-halting[^3].
 4. Observe the next bit, purge the machines from your set which don't predict it. If none predict it, go to 2.
 
+It is not clear to me whether all Turing machine models require this epicycle.
+
+
 <p>
   <section id='isso-thread'>
   <noscript>Javascript needs to be activated to view comments.</noscript>
