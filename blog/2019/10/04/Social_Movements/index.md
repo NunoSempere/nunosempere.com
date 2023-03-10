@@ -1,5 +1,5 @@
 Why do social movements fail: Two concrete examples.
-==============
+=====================================================
 
 Status: Time-capped analysis.
 

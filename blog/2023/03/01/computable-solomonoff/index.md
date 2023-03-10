@@ -1,4 +1,4 @@
-A computable version of Solomoff induction
+A computable version of Solomonoff induction
 ==========================================
 
 Thinking about [Just-in-time Bayesianism](https://nunosempere.com/blog/2023/02/04/just-in-time-bayesianism/) a bit more,  here is a computable approximation to Solomonoff Induction, which converges to the Turing machine generating your trail of bits in finite time. <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> <!-- Note: to correctly render this math, compile this markdown with /usr/bin/markdown -f fencedcode -f ext -f footnote -f latex $1 where /usr/bin/markdown is the discount markdown binary https://github.com/Orc/discount http://www.pell.portland.or.us/~orc/Code/discount/ --> 
