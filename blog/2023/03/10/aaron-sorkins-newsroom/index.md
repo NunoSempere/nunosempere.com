@@ -18,6 +18,8 @@ Inspired by:
 - [What Happens in The Dark Knight Rises](http://www.aaronsw.com/weblog/tdkr)
 - [and more](http://www.aaronsw.com/weblog/fullarchive)
 
+You can subscribe to these posts [here](https://nunosempere.com/.subscribe/)
+
 <p>
   <section id='isso-thread'>
   <noscript>Javascript needs to be activated to view comments.</noscript>

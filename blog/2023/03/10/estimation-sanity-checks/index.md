@@ -13,13 +13,15 @@ I like this so much because:
 
 ### Some examples
 
+Here are a few examples where I’ve found estimation to be useful for sanity-checking. I mention these because I think that the theoretical answer becomes stronger when paired with a few examples which display that dynamic in real life. 
+
 #### Photo Patch Foundation
 
 The [Photo Patch Foundation](https://photopatch.org/) is an organization which has received a [small amount of funding](https://www.openphilanthropy.org/grants/photo-patch-foundation-general-support-2019/) from Open Philanthropy:
 
 > Photo Patch has a website and an app that allows kids with incarcerated parents to send letters and pictures to their parents in prison for free. This diminishes barriers, helps families remain in touch, and reduces the number of children who have not communicated with their parents in weeks, months, or sometimes years.
 
-It takes [little digging](https://donorbox.org/patching-relationships-with-letters-photos-2) to figure out that their costs are $2.5/photo. If we take the [AMF numbers at all seriously](https://forum.effectivealtruism.org/posts/4Qdjkf8PatGBsBExK/adding-quantified-uncertainty-to-givewell-s-cost), it seems very likely that this is not a good deal. For example, for $2.5 you can deworm several kids in developing countries, or buy [a bit more](https://www.againstmalaria.com/DollarsPerNet.aspx) than one malaria net. Or, less intuitively, trading 0.5% chance of saving a statistical life for sending a photo to a prisoner seems like a pretty bad trade.
+It takes [little digging](https://donorbox.org/patching-relationships-with-letters-photos-2) to figure out that their costs are $2.5/photo. If we take the [AMF numbers at all seriously](https://forum.effectivealtruism.org/posts/4Qdjkf8PatGBsBExK/adding-quantified-uncertainty-to-givewell-s-cost), it seems very likely that this is not a good deal. For example, for $2.5 you can deworm several kids in developing countries, or buy [a bit more](https://www.againstmalaria.com/DollarsPerNet.aspx) than one malaria net. Or, less intuitively, trading 0.05% chance of saving a statistical life for sending a photo to a prisoner seems like a pretty bad trade--0.05% of a statistical life corresponds to 0.05/100 × 70 years × 365 = 12 statistical days.
 
 One can then do [somewhat more elaborate estimations](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on-criminal) about criminal justice reform.
 
@@ -53,6 +55,8 @@ Occasionally, I've seen some optimistic cost-effectiveness estimates by advocate
 ### Conclusion
 
 I explained why I like estimates as sanity checks: they are useful, cheap, and very defensible. I then gave several examples of dead-simple sanity checks, and in each case pointed to more elaborate follow-up estimates. 
+
+PS: You can subscribe to these posts [here](https://nunosempere.com/.subscribe/)
 
 <p>
   <section id='isso-thread'>

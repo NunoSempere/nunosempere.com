@@ -527,13 +527,13 @@ To conclude, commenters in the last post emphasized that one should not consider
 
 ## Appendix: A more complicated worked example.
 
-Suppose that you have two players, player a and Player B, and three charities: GiveDirectly, SCI, and the Not Quite Optimal Charity (NQOC).
+Suppose that you have two players, player a and Player B, and three charities: GiveDirectly, SCI, and the Not Quite Optimal Charity (NQOC). Then, if y is the value, and x is the amount of spending, suppose you have:
 
 | Charity | Value for A                       | Value for B |
 |---------|-----------------------------------|-------------|
-| GD      | y=x                               | y=x      |
+| GD      | y=x                               | y=x         |
 | SCI     | y=2x if x<10, y=x/2 + 15 if x>=10 | y=2x        |
-| NQOC    | 1/10                              | 1/5         |
+| NQOC    | y=1/10x                           | y=1/5x      |
 
 Or, in graph form:
 
@@ -571,3 +571,11 @@ In particular, if B donates only to SCI, then the value of cooperating is:
 Now, we have the interesting scenario in which A is willing to sell their share of the impact for `X/4 - 1/20`, but B is willing to buy it for more, that is, for `X - 1/10`. In this case, suppose that they come to a gentleman's agreement and decide that the fair price is `(X/4 - 1/20)/2 + (X - 1/10)/2`, which simplified, is equal to `(5 X)/8 - 3/40`.
 
 Now, player B then donates X to SCI and buys player A's certificates of impact for that donation (which are cheaper than continuing to donate). If they spend the million, then `X + (5 X)/8 - 3/40 = 1`, so X≈0.66, that is, 0.66 million are donated to SCI, whereas 0.34 million are spent buying certificates of impact from player A, which then donates that to GiveDirectly.
+
+<p>
+  <section id='isso-thread'>
+  <noscript>Javascript needs to be activated to view comments.</noscript>
+  </section>
+</p>
+
+
