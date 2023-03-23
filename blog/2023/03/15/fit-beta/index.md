@@ -5,10 +5,6 @@ Here is a tool for finding a beta distribution that fits your desired confidence
 E.g., to find a beta distribution whose 95% confidence interval is 0.2 to 0.8, 
 input 0.2, 0.8, and 0.95 in their respective fields below:
 
-<script>
-
-</script>
-
 <form action="/signup" method="post" id="fit-beta"> 
   <div class="field">
     <label for="ci_lower">Value at the lower end of your confidence interval</label>
