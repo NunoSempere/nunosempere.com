@@ -30,9 +30,9 @@ _Open Philanthropy staff reviewed this post prior to publication._
 
 ## Background information
 
-From 2013 to 2021, Open Philanthropy distributed $199,574,123 to [criminal justice reform](https://www.openphilanthropy.org/giving/grants?field_focus_area_target_id_selective=726) \[0\]. In 2015, they [hired Chloe Cockburn](https://www.openphilanthropy.org/blog/incoming-program-officer-criminal-justice-reform-chloe-cockburn) as a program officer, following a [“stretch goal”](https://www.openphilanthropy.org/blog/open-philanthropy-project-update-us-policy) for the year. They elaborated on their method and reasoning on [The Process of Hiring our First Cause-Specific Program Officer](https://www.openphilanthropy.org/blog/process-hiring-our-first-cause-specific-program-officer). 
+From 2013 to 2021, Open Philanthropy distributed $199,574,123 to [criminal justice reform](https://www.openphilanthropy.org/giving/grants?field_focus_area_target_id_selective=726) [0]. In 2015, they [hired Chloe Cockburn](https://www.openphilanthropy.org/blog/incoming-program-officer-criminal-justice-reform-chloe-cockburn) as a program officer, following a [“stretch goal”](https://www.openphilanthropy.org/blog/open-philanthropy-project-update-us-policy) for the year. They elaborated on their method and reasoning on [The Process of Hiring our First Cause-Specific Program Officer](https://www.openphilanthropy.org/blog/process-hiring-our-first-cause-specific-program-officer). 
 
-In that blog post, they described their expansion into the criminal justice reform space as substantially a “_bet on Chloe_”. Overall, the post was very positive about Chloe (more on red teams below). But the post expressed some reservations because “_Chloe has a generally different profile from the sorts of people GiveWell has hired in the past. In particular, she is probably less quantitatively inclined than most employees at GiveWell. This isn’t surprising or concerning - most GiveWell employees are Research Analysts, and we see the Program Officer role as calling for a different set of abilities. That said, it’s possible that different reasoning styles will lead to disagreement at times. We think of this as only a minor concern_.” In hindsight, it seems plausible to me that this relative lack of quantitative inclination played a role in Open Philanthropy making comparatively suboptimal grants in the criminal justice space \[1\]. 
+In that blog post, they described their expansion into the criminal justice reform space as substantially a “_bet on Chloe_”. Overall, the post was very positive about Chloe (more on red teams below). But the post expressed some reservations because “_Chloe has a generally different profile from the sorts of people GiveWell has hired in the past. In particular, she is probably less quantitatively inclined than most employees at GiveWell. This isn’t surprising or concerning - most GiveWell employees are Research Analysts, and we see the Program Officer role as calling for a different set of abilities. That said, it’s possible that different reasoning styles will lead to disagreement at times. We think of this as only a minor concern_.” In hindsight, it seems plausible to me that this relative lack of quantitative inclination played a role in Open Philanthropy making comparatively suboptimal grants in the criminal justice space [1]. 
 
 In mid-2019, Open Philanthropy published a blog post titled [GiveWell’s Top Charities Are (Increasingly) Hard to Beat](https://www.openphilanthropy.org/blog/givewells-top-charities-are-increasingly-hard-beat). It explained that, with [GiveWell’s expansion into researching more areas](https://blog.givewell.org/2019/02/07/how-givewells-research-is-evolving/), Open Philanthropy expected that there would be enough room for more funding for charities that were as good as GiveWell’s top charities. Thus, causes like Criminal Justice Reform looked less promising.
 
@@ -54,9 +54,9 @@ There are around 2M people in US prisons and jails. Some are highly dangerous, b
 
 Outlining a positive vision for reform is still an area of active work. Still, a first approximation might be as follows:
 
-Criminals should be punished in proportion to an estimate of the harm they have caused, times a factor to account for a less than 100% chance of getting caught, to ensure that crimes are not worth it in expectation. This is in opposition to otherwise disproportionate jail sentences caused by pressures on politicians to appear tough on crime. In addition, criminals then work to provide restitution to the victim, if the victim so desires, per some restorative justice framework \[2\].
+Criminals should be punished in proportion to an estimate of the harm they have caused, times a factor to account for a less than 100% chance of getting caught, to ensure that crimes are not worth it in expectation. This is in opposition to otherwise disproportionate jail sentences caused by pressures on politicians to appear tough on crime. In addition, criminals then work to provide restitution to the victim, if the victim so desires, per some restorative justice framework [2].
 
-In a best-case scenario, criminal justice reform could achieve somewhere between a 25% reduction in incarceration in the short-term and a 75% reduction in the longer term, bringing the incarceration rate down to only twice that of Spain \[4\], while maintaining the crime rate constant. Say that $2B to $20B, or 10x to 100x the amount that Open Philanthropy has already spent, would have a 1 to 10% chance of succeeding at that goal \[5\].
+In a best-case scenario, criminal justice reform could achieve somewhere between a 25% reduction in incarceration in the short-term and a 75% reduction in the longer term, bringing the incarceration rate down to only twice that of Spain [4], while maintaining the crime rate constant. Say that $2B to $20B, or 10x to 100x the amount that Open Philanthropy has already spent, would have a 1 to 10% chance of succeeding at that goal [5].
 
 ## What is the cost-effectiveness of criminal justice grants?
 
@@ -106,7 +106,7 @@ That model produces the following distribution:
 
 Note: `mean(cost)/mean(estimateQALYs)` is equal to $8160/QALY
 
-This model estimates that criminal justice reform buys one QALY \[6\](quality-adjusted life year) for $76k, on average. But the model is very uncertain, and its 90% confidence interval is $1.3k  to ~$290k per QALY. It assigns a 50% chance to it costing less than ~$19k. For a calculation that instead looks at more marginal impact, see [here](https://gist.github.com/NunoSempere/1718dbadfba4012d252d6b6118b72194).
+This model estimates that criminal justice reform buys one QALY [6](quality-adjusted life year) for $76k, on average. But the model is very uncertain, and its 90% confidence interval is $1.3k  to ~$290k per QALY. It assigns a 50% chance to it costing less than ~$19k. For a calculation that instead looks at more marginal impact, see [here](https://gist.github.com/NunoSempere/1718dbadfba4012d252d6b6118b72194).
 
 _EDIT 22/06/2022_**:** Commenters pointed out that the mean of `cost / estimateQALYs` in the chart above isn't the right quantity to look at in the chart above. `mean(cost)/mean(estimateQALYs)` is probably a better representation of "expected cost per QALY. That quantity is $8160/QALY for the above model. If one looks at `1/mean(estimateQALYs/cost)`, this is $5k per QALY. Overall I would instead recommend looking at the 95% confidence intervals, rather at the means.  See [this comment thread](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on-criminal?commentId=crJ9FLTKikzadqL36) for discussion. I've added notes below each model.
 
@@ -211,9 +211,9 @@ Some other sources of model error might be:
 
 Of these, I think that not modelling the cost to the US of keeping someone in prison, and not modelling recidivism are one of the weakest aspects of my current model. For a model which tries to incorporate these, see the appendix. So overall, there is likely a degree of model error. But I still think that the small models point to something meaningful. 
 
-We can also compare the estimates in this post with other estimates. A [lengthy report](https://www.openphilanthropy.org/files/Focus_Areas/Criminal_Justice_Reform/The_impacts_of_incarceration_on_crime_10.pdf) commissioned by Open Philanthropy on the impacts of incarceration on crime mostly concludes that **marginal** reduction in crime through more incarceration is non-existent—because the effects of reduced crime while prisoners are in prison are compensated by increased crime when they get out, proportional to the length of their sentence. But the report reasons about short-term effects and marginal changes, e.g., based on RCTs or natural experiments, rather than considering longer-term incentive landscape changes following systemic reform. So for the purposes of judging systemic reform rather than marginal changes, I am inclined to almost completely discount it \[7\]. That said, my unfamiliarity with the literature is likely one of the main weaknesses of this post. 
+We can also compare the estimates in this post with other estimates. A [lengthy report](https://www.openphilanthropy.org/files/Focus_Areas/Criminal_Justice_Reform/The_impacts_of_incarceration_on_crime_10.pdf) commissioned by Open Philanthropy on the impacts of incarceration on crime mostly concludes that **marginal** reduction in crime through more incarceration is non-existent—because the effects of reduced crime while prisoners are in prison are compensated by increased crime when they get out, proportional to the length of their sentence. But the report reasons about short-term effects and marginal changes, e.g., based on RCTs or natural experiments, rather than considering longer-term incentive landscape changes following systemic reform. So for the purposes of judging systemic reform rather than marginal changes, I am inclined to almost completely discount it [7]. That said, my unfamiliarity with the literature is likely one of the main weaknesses of this post. 
 
-Open Philanthropy’s [own initial casual cause estimations](https://docs.google.com/document/d/1GsE2_TNWn0x6MWL1PTdkZT2vQNFW8VFBslC5qjk4sgo/edit#) are much more optimistic. In a 2020 [interview](https://www.youtube.com/watch?t=2564&v=q4Z0Z-A_O5A&feature=youtu.be) with Chloe Cockburn, she mentions that Open Philanthropy estimates criminal justice reform to be around 1/4th as valuable as donations to top GiveWell charities, but that she is personally higher based on subjective factors \[8\].
+Open Philanthropy’s [own initial casual cause estimations](https://docs.google.com/document/d/1GsE2_TNWn0x6MWL1PTdkZT2vQNFW8VFBslC5qjk4sgo/edit#) are much more optimistic. In a 2020 [interview](https://www.youtube.com/watch?t=2564&v=q4Z0Z-A_O5A&feature=youtu.be) with Chloe Cockburn, she mentions that Open Philanthropy estimates criminal justice reform to be around 1/4th as valuable as donations to top GiveWell charities, but that she is personally higher based on subjective factors [8].
 
 For illustration, here are a few grants that I don’t think meet the funding bar of being comparable to AMF or GiveDirectly, based on casual browsing of their websites: 
 
@@ -228,7 +228,7 @@ For illustration, here are a few grants that I don’t think meet the funding ba
 
 The [last one](https://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/photo-patch-foundation-general-support-2019) struck me as being both particularly bad and relatively easy to evaluate: A letter [costs $2.5](https://donorbox.org/patching-relationships-with-letters-photos-2), about the same as [deworming several kids](https://docs.google.com/spreadsheets/d/12C6jPuPuTiq2U8pWCBoT9Az2kunEXGkm_k7cqSIKm_8/edit#gid=215029904) at $0.35 to $0.97 per deworming treatment. But sending a letter intuitively seems significantly less impactful.
 
-Conversely, larger grants, such as, for instance, [a $2.5M grant](https://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/color-of-change-education-fund-criminal-justice-reform-2019) to [Color Of Change](https://colorofchange.org/), are harder to casually evaluate. For example, that particular grant was given to support [prosecutorial accountability campaigns](https://www.winningjustice.org/) and to support Color Of Change’s [work with the film Just Mercy](https://web.archive.org/web/20200717023842/https://untiljusticeisreal.colorofchange.org/). And because the grant was 50% of Color of Change’s [budget for one year](https://projects.propublica.org/nonprofits/organizations/204496889), I imagine it also subsidized its subsequent activities, such as the [campaigns currently featured on its website](https://colorofchange.org/) \[10\], or the $415k [salary](https://projects.propublica.org/nonprofits/organizations/204496889) of its president \[11\]. So to the extent that the grant’s funds were used for prosecutorial accountability, they may have been more cost-effective, and to the extent that they were used for other purposes, less so. Overall, I don’t think that estimating the cost-effectiveness of larger grants as the cost-effectiveness of systemic change would be grossly unfair.
+Conversely, larger grants, such as, for instance, [a $2.5M grant](https://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/color-of-change-education-fund-criminal-justice-reform-2019) to [Color Of Change](https://colorofchange.org/), are harder to casually evaluate. For example, that particular grant was given to support [prosecutorial accountability campaigns](https://www.winningjustice.org/) and to support Color Of Change’s [work with the film Just Mercy](https://web.archive.org/web/20200717023842/https://untiljusticeisreal.colorofchange.org/). And because the grant was 50% of Color of Change’s [budget for one year](https://projects.propublica.org/nonprofits/organizations/204496889), I imagine it also subsidized its subsequent activities, such as the [campaigns currently featured on its website](https://colorofchange.org/) [10], or the $415k [salary](https://projects.propublica.org/nonprofits/organizations/204496889) of its president [11]. So to the extent that the grant’s funds were used for prosecutorial accountability, they may have been more cost-effective, and to the extent that they were used for other purposes, less so. Overall, I don’t think that estimating the cost-effectiveness of larger grants as the cost-effectiveness of systemic change would be grossly unfair.
 
 ## Why did Open Philanthropy donate to criminal justice in the first place?
 
@@ -255,7 +255,7 @@ For instance, per [Open Philanthropy’s estimations:](https://www.openphilanthr
 
 > _Each grant is subject to a cost-effectiveness calculation based on the following formula:_
 > 
-> _Number of years averted x $50,000 for prison or $100,000 for jail \[our valuation of a year of incarceration averted\] / 100 \[we aim to achieve at least 100x return on investment, and ideally much more\] - discounts for causation and implementation uncertainty and multiple attribution of credit > $ grant amount. Not all grants are susceptible to this type of calculation, but we apply it when feasible._
+> _Number of years averted x $50,000 for prison or $100,000 for jail [our valuation of a year of incarceration averted] / 100 [we aim to achieve at least 100x return on investment, and ideally much more] - discounts for causation and implementation uncertainty and multiple attribution of credit > $ grant amount. Not all grants are susceptible to this type of calculation, but we apply it when feasible._
 
 That is, Open Philanthropy’s lower bound for funding criminal justice reform was $500 to $1,000 per year of prison/jail avoided. Per this lower bound, criminal justice reform would be roughly as cost-effective as GiveDirectly. But this bound is much more optimistic than my estimates of the cost-effectiveness of criminal justice reform grants above.
 
@@ -314,13 +314,13 @@ In a 2016 blog post explaining worldview diversification, Holden Karnofsky [writ
 
 > _Currently, we tend to invest resources in each cause up to the point where it seems like there are strongly diminishing returns, or the point where it seems the returns are clearly worse than what we could achieve by reallocating the resources - whichever comes first_
 
-Under some assumptions explained in that post, namely that the amounts given to each cause area are balanced to ensure that the values of the marginal grants to each area are similar, worldview diversification would be approximately optimal even from an expected value perspective \[12\]. My impression is that this monitoring and rebalancing did not happen fast enough in the case of criminal justice reform.
+Under some assumptions explained in that post, namely that the amounts given to each cause area are balanced to ensure that the values of the marginal grants to each area are similar, worldview diversification would be approximately optimal even from an expected value perspective [12]. My impression is that this monitoring and rebalancing did not happen fast enough in the case of criminal justice reform.
 
 Incongruous as it might ring to my ears, it is also possible that optimizing the allocation of an additional $100M might not have been the most valuable thing for Open Philanthropy’s leadership to have been doing. For instance, exploring new areas, convincing or coordinating with additional billionaires or optimizing other parts of Open Philanthropy’s portfolio might have been more valuable. 
 
 ### The Social Harmony Hypothesis
 
-Firing people is hard. When you structured your bet on a cause area as a bet on a specific person, I imagine that resolving that bet as a negative would be awkward \[14\]. 
+Firing people is hard. When you structured your bet on a cause area as a bet on a specific person, I imagine that resolving that bet as a negative would be awkward [14]. 
 
 ### The Soft Landing Hypothesis
 
@@ -365,7 +365,7 @@ Instead, I would like to see:
 
 *   further analysis of alternatives to moral diversification,
 *   more frequent monitoring of whether the assumptions behind moral diversification still make sense,
-*   and a more regular rebalancing of the proportion of funds assigned to each cause according to the value of their marginal grants \[13\].
+*   and a more regular rebalancing of the proportion of funds assigned to each cause according to the value of their marginal grants [13].
 
 ### On Open Philanthropy’s Openness
 
@@ -403,10 +403,10 @@ Instead, have a forecasting system which is not restricted to Open Philanthropy 
 
 These questions might be operationalized as:
 
-*   _“In year \[x\], what probability will \[some mechanism\] assign to \[some belief\]?”_
-*   _“In year \[x\], what will Open Philanthropy’s best estimate of the value for grant \[y\] be?”_ + _“In year \[x\], what will be Open Philanthropy’s bar for funding be?”_.
-    *   Or, even simpler still, asking directly or _“in year \[x\], will Open Philanthropy regret having made grant \[y\]?”,_
-*   _“in year \[x\], will Open Philanthropy regret having made decision \[y\]?”,_
+*   _“In year [x], what probability will [some mechanism] assign to [some belief]?”_
+*   _“In year [x], what will Open Philanthropy’s best estimate of the value for grant [y] be?”_ + _“In year [x], what will be Open Philanthropy’s bar for funding be?”_.
+    *   Or, even simpler still, asking directly or _“in year [x], will Open Philanthropy regret having made grant [y]?”,_
+*   _“in year [x], will Open Philanthropy regret having made decision [y]?”,_
 
 There would be a few challenges in creating such a forecasting system in a way that would be useful to Open Philanthropy:
 
@@ -496,23 +496,23 @@ A review from Open Philanthropy on [the impacts of incarceration on crime](https
 
 ## Footnotes
 
-\[0\]. This number is $138.8 different than the $138.8M given in Open Philanthropy's [website](https://www.openphilanthropy.org/focus/criminal-justice-reform/), which is probably not up to date with their [grants database](https://www.openphilanthropy.org/grants/).
+[0]. This number is $138.8 different than the $138.8M given in Open Philanthropy's [website](https://www.openphilanthropy.org/focus/criminal-justice-reform/), which is probably not up to date with their [grants database](https://www.openphilanthropy.org/grants/).
 
-\[1\]. Note that this paragraph is written from my perspective doing a postmortem, rather than aiming to summarize what they thought at the time.
+[1]. Note that this paragraph is written from my perspective doing a postmortem, rather than aiming to summarize what they thought at the time.
 
-\[2\]. Note that restorative justice is normally suggested as a total replacement for punitive justice. But I think that pushing back punitive justice until it is incentive compatible and then applying restorative justice frameworks would also work, and would encounter less resistance.
+[2]. Note that restorative justice is normally suggested as a total replacement for punitive justice. But I think that pushing back punitive justice until it is incentive compatible and then applying restorative justice frameworks would also work, and would encounter less resistance.
 
-\[3\]. Subjective estimate based on the US having many more guns, a second amendment, a different culture, more of a drug problem.
+[3]. Subjective estimate based on the US having many more guns, a second amendment, a different culture, more of a drug problem.
 
-\[4\]. Subjective estimate; I think it would take 1-2 orders of magnitude more investment than the already given $2B.
+[4]. Subjective estimate; I think it would take 1-2 orders of magnitude more investment than the already given $2B.
 
-\[5\].  Note that QALYs refers to a specific [construct](https://en.wikipedia.org/wiki/Quality-adjusted_life_year). This has led people to [come up](https://forum.effectivealtruism.org/s/2nMw7ASQNQ35iAz4T) with extensions and new definitions, e.g., the WALY (wellbeing-adjusted), HALY (happiness-adjusted), DALY (disability-adjusted), and SALY (suffering-adjusted) life years. But throughout this post, I’m stretching that definition and mostly thinking about “QALYs as they should have been”.
+[5].  Note that QALYs refers to a specific [construct](https://en.wikipedia.org/wiki/Quality-adjusted_life_year). This has led people to [come up](https://forum.effectivealtruism.org/s/2nMw7ASQNQ35iAz4T) with extensions and new definitions, e.g., the WALY (wellbeing-adjusted), HALY (happiness-adjusted), DALY (disability-adjusted), and SALY (suffering-adjusted) life years. But throughout this post, I’m stretching that definition and mostly thinking about “QALYs as they should have been”.
 
-\[6\]. Initially, Squiggle was making these calculations using monte-carlo simulations. However, operations multiplying and dividing lognormals can be done analytically. I extracted the functionality to do so into Simple Squiggle, and then helped the main Squiggle branch compute the model analytically.   
+[6]. Initially, Squiggle was making these calculations using monte-carlo simulations. However, operations multiplying and dividing lognormals can be done analytically. I extracted the functionality to do so into Simple Squiggle, and then helped the main Squiggle branch compute the model analytically.   
   
 Simple Squiggle does validate the model as producing an interval of $1.3k to $290k. To check this, feed \`1000000000 \* (2 to 20) / ((1000000 \* 1.5 to 2.5) \* 0.25 to 0.75 \* 0.2 to 6 \* 5 to 50 \* 0.01 to 0.1 \* 0.5 to 1 )\` into it
 
-\[7\]. To elaborate on this, as far as I understand, to estimate the impact of incarceration, the reports' best source of evidence are randomized trials or natural experiments, e.g., harsher judges randomly assigned, arbitrary threshold changes resulting from changes in guidelines or policy, etc. But these methods will tend to estimate short-term changes, rather than longer term (e.g., intergenerational) changes. 
+[7]. To elaborate on this, as far as I understand, to estimate the impact of incarceration, the reports' best source of evidence are randomized trials or natural experiments, e.g., harsher judges randomly assigned, arbitrary threshold changes resulting from changes in guidelines or policy, etc. But these methods will tend to estimate short-term changes, rather than longer term (e.g., intergenerational) changes. 
 
 And I would give substantial weight to lighter sentencing in fact making it more worth it to commit crime. See Lagerros' [Unconscious Economics](https://www.lesswrong.com/posts/PrCmeuBPC4XLDQz8C/unconscious-economics).
 
@@ -520,8 +520,8 @@ This topic also has very large number of degrees of choice (e.g., see p. 133 on 
 
 The report has a "devil's advocate case". But I think that it could have been much harsher, by incorporating hard-to-estimate long-term incentive changes.
 
-\[8\]. Excerpt, with some light editing to exclude stutters: 
-With a lot of hedging and assumptions and guessing, I think that we can show that we were at around 250x, versus GiveWell, which is at more like 1000x \[9\]. So according to Open Philanthropy, if you're just like, what's the place where I can put my dollar that does the most good, you should give to GiveWell, I think.
+[8]. Excerpt, with some light editing to exclude stutters: 
+With a lot of hedging and assumptions and guessing, I think that we can show that we were at around 250x, versus GiveWell, which is at more like 1000x [9]. So according to Open Philanthropy, if you're just like, what's the place where I can put my dollar that does the most good, you should give to GiveWell, I think.
 
 That said, I would say well, first of all, if you feel that now's the time, now's a particular unique and important time to be working on this when there is a lot of traction, that puts a thumb on the scale more towards this. Deworming was very important 10 years ago, will be very important in 10 years. I think that's different than this issue, where you have this moments where we can actually make a lot of change, where a boost of cash is good.
 
@@ -531,16 +531,24 @@ And then third, that 250x is based on the assumption that a year of freedom from
 
 So, I'm telling you this, I don't say this to normal people, I have no idea what I'm talking about. But for EA folks, I think we're closer to 1000x than I've been able to show thus far. But if you want to be like "I'm helping the most that I can be certain about" yeah, for sure, go give your money to deworming, that's still probably true.
 
-\[9\]: "1000x" (resp. 250x) refers to being 1000 times (resp. 250 times) more cost-effective than giving a dollar to someone with $50k of annual income; see [here](https://www.openphilanthropy.org/blog/technical-updates-our-global-health-and-wellbeing-cause-prioritization-framework#New_moral_weights).
+[9]: "1000x" (resp. 250x) refers to being 1000 times (resp. 250 times) more cost-effective than giving a dollar to someone with $50k of annual income; see [here](https://www.openphilanthropy.org/blog/technical-updates-our-global-health-and-wellbeing-cause-prioritization-framework#New_moral_weights).
 
-\[10\]. As I was writing this, it featured campaigns calling for common carriers to drop Fox, and for Amazon and Twitch to carry out [racial equity audits](https://web.archive.org/web/20220531204618/https://colorofchange.org/). But these have since cycled through.
+[10]. As I was writing this, it featured campaigns calling for common carriers to drop Fox, and for Amazon and Twitch to carry out [racial equity audits](https://web.archive.org/web/20220531204618/https://colorofchange.org/). But these have since cycled through.
 
-\[11\]. It rose from $216k in 2016 to $415k in 2019. Honestly I'm not even sure this unjustified; he could probably be a very highly paid political consultant, and a high salary is in fact a strong signal that his funders think that he shouldn't be.
+[11]. It rose from $216k in 2016 to $415k in 2019. Honestly I'm not even sure this unjustified; he could probably be a very highly paid political consultant, and a high salary is in fact a strong signal that his funders think that he shouldn't be.
 
-\[12\]. This excludes considerations around how much to donate each year.
+[12]. This excludes considerations around how much to donate each year.
 
-\[13\]. A side effect of spinning off Just Impact with a very sizeable initial endowment is that the careers of the Open Philanthropy officers involved appear to continue progressing. Commenters pointed out that this might make it easier to hire talent. But coming from a forecasting background which has some emphasis in proper scoring rules, this seems personally unappealing.
+[13]. A side effect of spinning off Just Impact with a very sizeable initial endowment is that the careers of the Open Philanthropy officers involved appear to continue progressing. Commenters pointed out that this might make it easier to hire talent. But coming from a forecasting background which has some emphasis in proper scoring rules, this seems personally unappealing.
 
-\[14\]. Technically, according to the shape of the values of their grants and the expected future shape, not just the values of the marginal grant.
+[14]. Technically, according to the shape of the values of their grants and the expected future shape, not just the values of the marginal grant.
 
 I also considered suggesting a ruthless Hunger Games-style fight between the representatives of different cause areas, with the winner getting all the resources regardless of diminishing returns. But I concluded that this was likely not possible in practice, and also that the neartermists would probably be in better shape.
+
+<p>
+  <section id='isso-thread'>
+  <noscript>Javascript needs to be activated to view comments.</noscript>
+  </section>
+</p>
+
+
