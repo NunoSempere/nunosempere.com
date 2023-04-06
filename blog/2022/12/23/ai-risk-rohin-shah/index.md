@@ -13,7 +13,7 @@ An entity of arbitrary, God-like intelligence would be very scary. We already se
 
 If we had an artificial system that was as intelligent as von Neumann, this would be very scary, because it might be able to perform similar feats of science and engineering. Also, Moore's law is uncertain, but it seems likely that in a generation we could go from having just one artificial von Neuman to having many of it. This increases the stakes.
 
-### 2. Year and year we are approaching the limit: What comes after Comprehensive AI Systems?
+### 2. Year by year we are approaching the limit: What comes after Comprehensive AI Systems?
 
 We can think about how the world would look like in 2030-2035 if many tasks are delegated to successors of GPT-3. In this world, interfaces between many services and AI systems exist, and these are used to affect real-world systems. For example, I might routinely use GPT-3 to edit my texts, translations might be performed in real time through speech recognition, or [automatic threat detection](https://www.lesswrong.com/posts/vDvKWdCCNo9moNcMr/us-military-global-information-dominance-experiments) and deployment might be used by the world's military.
 

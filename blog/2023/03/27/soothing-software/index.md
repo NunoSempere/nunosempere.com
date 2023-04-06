@@ -59,7 +59,7 @@ Here is an image showing the newsboat feed for Matt Levine's newsletter:
 
 ### tarsnap (paid)
 
-[tarsnap](https://www.tarsnap.com/) offers "online backups for the truly paranoid", which appeals to me. I'm backing up everything on my computer every hour, while excluding e.g., `node_modules` and a few large filetypes and folders. I find this soothing because it means that if my computer dies, I've lost nothing of importance.
+[tarsnap](https://www.tarsnap.com/) offers "online backups for the truly paranoid", which appeals to me. I'm backing up everything on my computer every hour, while excluding e.g., node_modules and a few large filetypes and folders. I find this soothing because it means that if my computer dies, I've lost nothing of importance.
 
 ### teddit
 

@@ -1,7 +1,7 @@
 Some estimation work in the horizon
 ===================================
 
-This document outlines some estimation work in altruistic estimation that seems currently doable. Some of these might be attempted by, for example, my team at the Quantified Uncertainty Research Institute. But together they add up to more work than what our small team can accomplish.
+This post outlines some work in altruistic estimation that seems currently doable. Some of it might be pursued by, for example, my team at the Quantified Uncertainty Research Institute. But together this work adds up to more than what our small team can achieve.
 
 Two downsides of this post are that a) it looks at things that are more salient to me, and doesn't comprehensively review all estimation work being done, and b) it could use more examples.
 
