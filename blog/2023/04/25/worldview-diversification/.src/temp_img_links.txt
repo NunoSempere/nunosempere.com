@@ -1,0 +1,10 @@
+.src/values-1.png
+.src/values-2.png
+.src/values-3.png
+.src/comparison-1.png
+.src/comparison-2.png
+.src/year-1.png
+.src/year-2.png
+.src/comparison-year-2.png
+.src/comparison-both-years.png
+.src/comparison-contradiction.png

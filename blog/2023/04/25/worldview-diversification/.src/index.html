@@ -1,0 +1,66 @@
+<h1 id="notes-on-worldview-diversification">Notes on worldview diversification</h1>
+<h2 id="the-main-flaw-clearly-stated">The main flaw, clearly stated</h2>
+<h3 id="deducing-bounds-for-relative-values-from-revealed-preferences">Deducing bounds for relative values from revealed preferences</h3>
+<p>Suppose that you order the ex-ante values of grants in different cause areas. The areas could be global health and development, animal welfare, longtermism, etc. And their values could be given in QALYs, sentience-adjusted QALYs, or expected reduction in existential risk.</p>
+<p>For simplicity, let us just pick the case where there are two cause areas:</p>
+<p><img src=".src/values-1.png" /></p>
+<p>More undilluted shades represent more valuable grants (e.g., larger reductions per dollar: of human suffering, animal suffering or existential risk), and lighter shades represent less valuable grants. Due to diminishing marginal returns, I've drawn the most valuable grants as smaller, though this doesn't particularly matter.</p>
+<p>Now, we can augment the picture by also considering the marginal grants which didn't get funded.</p>
+<p><img src=".src/values-2.png" /></p>
+<p>In particular, imagine that the marginal grant which didn't get funded for cause #1 has the same size as the marginal grant that did get funded for cause #2 (this doesn't affect the thrust of the argument, it just makes it more apparent):</p>
+<p><img src=".src/values-3.png" /></p>
+<p>Now, from this, we can deduce some bounds on relative values:</p>
+<p><img src=".src/comparison-1.png" /></p>
+<p>In words rather than in shades of colour, this would be:</p>
+<ul>
+<li>Spending L1 dollars at cost-effectiveness A greens/$ is better than spending L1 dollars at cost-effectiveness B reds/$</li>
+<li>Spending L2 dollars at cost-effectiveness X reds/$ is better than spending L2 dollars at cost-effectiveness Y greens/$</li>
+</ul>
+<p>Or, dividing by L1 and L2,</p>
+<ul>
+<li>A greens is better than B reds</li>
+<li>X reds is better than Y reds</li>
+</ul>
+<p>In colors, this would correspond to all four squares having the same size:</p>
+<p><img src=".src/comparison-2.png" /></p>
+<p>Giving some values, this could be:</p>
+<ul>
+<li>10 greens is better than 2 reds</li>
+<li>3 reds is better than 5 greens</li>
+</ul>
+<p>So simplifying a bit, we could deduce that 6 reds &gt; 10 greens &gt; 2 reds</p>
+<h3 id="but-now-there-comes-a-new-year">But now there comes a new year</h3>
+<p>But the above was for one year. Now comes another year, with its own set of grants. But we are keeping the amount we allocate to each area constant.</p>
+<p><img src=".src/year-1.png" /></p>
+<p>It's been a less promising year for green, and a more promising year for red, . So this means that some of the stuff that wasn't funded last year for green is funded now, and some of the stuff that was funded last year for red isn't funded now:</p>
+<p><img src=".src/year-2.png" /></p>
+<p>Now we can do the same comparisons as the last time:</p>
+<p><img src=".src/comparison-year-2.png" /></p>
+<p>And when we compare them against the previous year</p>
+<p><img src=".src/comparison-both-years.png" /></p>
+<p>we notice that there is a contradiction</p>
+<p><img src=".src/comparison-contradiction.png" /></p>
+<h2 id="why-is-the-above-a-problem">Why is the above a problem</h2>
+<p>The above is a problem not only because there is an inconsistency, but because there is a pareto improvement: transfer funding from cause area #2 to cause #1 in the first year, and viceversa in year #2, and you will get both more green and more red. It is also an inelegant state of affairs to be in, which is a strong hint that more Pareto improvements like the above can happen.</p>
+<p>[to do: review of when this happened in OPs history]</p>
+<p>With this in mind, we can review some alternatives.</p>
+<h2 id="review-of-alternatives">Review of alternatives</h2>
+<h3 id="keep-a-moral-parliament-approach-but-allow-for-trades-in-funding">Keep a "moral parliament" approach, but allow for trades in funding.</h3>
+<p>Worldview diversification might stem from a moral-parliament style set of values, where one's values aren't best modelled as a unitary agent, but rather as a parliament of diverse agents. And yet, the pareto improvement argument still binds. A solution might be to start with a moral parliament, but allow trades in funding from different constituents of the parliament. More generally, one might imagine that given a parliament, that parliament might <em>choose</em> to become a unitary agent, and adopt a fixed, prenegotiated exchange rate between red and green.</p>
+<h3 id="calculate-and-equalize-relative-values">Calculate and equalize relative values</h3>
+<p>Alternatively, worldview diversification can be understood as an attempt to approximate expected value given a limited ability to estimate relative values. If so, then the answer might be to notice that worldview-diversification is a fairly imperfect approximation to any kind of utilitarian/consequentialist expected value maximization, and to try to more perfectly approximate utilitarian/consequentialist expected value maximization. This would involve estimating the relative values of projects in different areas, and attempting to equalize marginal values across cause areas and across years.</p>
+<h3 id="to-do-more-options">[To do: more options]</h3>
+<h2 id="challenges">Challenges</h2>
+<p>Throughout, we have assumed that we can estimate:</p>
+<ul>
+<li>the ex-ante value of different grants and options</li>
+<li>the relative values of progress across different cause areas</li>
+</ul>
+<p>The problem with this is that this is currently not possible. My impression is that estimation:</p>
+<ul>
+<li>is pretty advanced for global health and development and adjacent cause areas</li>
+<li>is nascent for animal welfare and suffering</li>
+<li>is very rudimentary for speculative longtermism cause areas</li>
+</ul>
+<p>My recommendation here would be to invest in relative value estimation, across the Quantified Uncertainty Research Institute (the organization that I work at), possibly Rethink Priorities if they have capacity, academia, etc.</p>
+<p>One problem here is that after this estimation is investigated and implemented, the efficiency gains might not be worth the money spent on estimation. My sense is that would not be the case, because OP is a large foundation with billions of dollars and this work would cost &lt; $10M. But it's a live option</p>
