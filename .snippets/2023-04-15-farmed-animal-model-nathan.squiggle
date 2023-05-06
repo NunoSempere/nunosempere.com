@@ -1,0 +1,53 @@
+// Fish (salmon)
+value_happy_salmon_year_in_human_qalys = 0.001 to 0.01
+value_tortured_salmon_year_in_human_qalys = -(0.002 to 0.02)
+value_farmed_salmon_year_in_human_qalys = -0.02 to 0.01 
+// ^ purely subjective estimates
+lifetime_salmon = 2 to 3
+// https://thehumaneleague.org.uk/article/how-long-do-salmon-live
+weight_salmon = 3.5 to 5 // kilograms 
+// ^ https://www.wildcoastsalmon.com/salmonlifecycle
+calories_per_kilogram_of_salmon_meat = 1700 to 2100
+calories_salmon = weight_salmon * calories_per_kilogram_of_salmon_meat
+// ^ see <https://www.quora.com/How-many-calories-are-in-1kg-of-salmon>
+
+salmon_estimates = {
+  name: "salmon",
+	value_year_in_human_qalys: value_farmed_salmon_year_in_human_qalys,
+  weight: weight_salmon,
+	calories: calories_salmon,
+	lifetime: lifetime_salmon
+}
+
+/* Fish Welfare Initiative 
+
+Sources: 
+- https://www.fishwelfareinitiative.org/
+- https://forum.effectivealtruism.org/posts/T5fSphiK6sQ6hyptX/opinion-estimating-invertebrate-sentience#Peter_Hurford
+- https://forum.effectivealtruism.org/posts/Qk3hd6PrFManj8K6o/rethink-priorities-welfare-range-estimates
+- https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/
+
+Key simplification: assume that all fish are salmon. This is inaccurate, because salmon is a very particular & expensive species of fish. But I think it's ok to start with. Later I could easily add different species.
+
+*/
+
+fish_potentially_helped = 1M to 2M
+shrimp_potentially_helped = 1M to 2M
+improvement_as_proportion_of_lifetime = 0.05 to 0.5
+
+value_fwi_fish = 
+  fish_potentially_helped * 
+	improvement_as_proportion_of_lifetime * 
+	(value_happy_salmon_year_in_human_qalys / salmon_estimates.lifetime)
+
+value_of_shrimp_in_fish = (0.3 to 1)
+// ^ very uncertain, subjective
+
+value_fwi_shrimp = 
+  shrimp_potentially_helped * 
+	improvement_as_proportion_of_lifetime * 
+	(value_happy_salmon_year_in_human_qalys / salmon_estimates.lifetime) *
+  value_of_shrimp_in_fish
+
+value_fwi_so_far = value_fwi_fish + value_fwi_shrimp
+

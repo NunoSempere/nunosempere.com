@@ -7,7 +7,7 @@ I consider a simple version of "worldview diversification": allocating a set amo
 
 More elaborate versions of worldview diversification are probably able to fix this flaw, for example by instituting trading between the different worldview&mdash;thought that trading does ultimately have to happen. However, I view those solutions as hacks, and I suspect that the problem I outline in this post is indicative of deeper problems with the overall approach of worldview diversification.
 
-This post could have been part of a larger review of EA (Effective Altruism) in general and Open Philanthropy in particular, but I sent a grant request to the EA Infrastructure Fund about it and it doesn't look to be materializing, so that's probably not happening.
+This post could have been part of a larger review of EA (Effective Altruism) in general and Open Philanthropy in particular. I sent a grant request to the EA Infrastructure Fund on that topic, but alas it doesn't to be materializing, so that's probably not happening.
 
 ### The main flaw: inconsistent relative values
 
