@@ -4,19 +4,28 @@ Most of my research can be found [on the EA Forum](https://forum.effectivealtrui
 
 Besides forecasting (of probabilities), a major thread in my research is estimation (of values). Pieces related to this topic are:
 
-- [An experiment eliciting relative estimates for Open Philanthropy’s 2018 AI safety grants](https://forum.effectivealtruism.org/posts/EPhDMkovGquHtFq3h/an-experiment-eliciting-relative-estimates-for-open)
-- [Valuing research works by eliciting comparisons from EA researchers](https://forum.effectivealtruism.org/posts/hrdxf5qdKmCZNWTvs/valuing-research-works-by-eliciting-comparisons-from-ea)
-- [A Critical Review of Open Philanthropy’s Bet On Criminal Justice Reform](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on-criminal)
 - [Five steps for quantifying speculative interventions](https://forum.effectivealtruism.org/posts/3hH9NRqzGam65mgPG/five-steps-for-quantifying-speculative-interventions)
-- [External Evaluation of the EA Wiki](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki)  
-- [Pathways to impact for forecasting and evaluation](https://forum.effectivealtruism.org/posts/oXrTQpZyXkEbTBfB6/pathways-to-impact-for-forecasting-and-evaluation)  
-- [Simple comparison polling to create utility functions](https://forum.effectivealtruism.org/posts/9hQFfmbEiAoodstDA/simple-comparison-polling-to-create-utility-functions)  
-- [An estimate of the value of Metaculus questions](https://forum.effectivealtruism.org/posts/zyfeDfqRyWhamwTiL/an-estimate-of-the-value-of-metaculus-questions)   
-- [Building Blocks of Utility Maximization](https://forum.effectivealtruism.org/posts/8XWi8FBkCuKfgPLMZ/building-blocks-of-utility-maximization)  
+- [A Critical Review of Open Philanthropy’s Bet On Criminal Justice Reform](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on-criminal)
+- [An experiment eliciting relative estimates for Open Philanthropy’s 2018 AI safety grants](https://forum.effectivealtruism.org/posts/EPhDMkovGquHtFq3h/an-experiment-eliciting-relative-estimates-for-open)
+- [A flaw in a simple version of worldview diversification](https://nunosempere.com/blog/2023/04/25/worldview-diversification/)
 - [Shallow evaluations of longtermist organizations](https://forum.effectivealtruism.org/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations)  
 - [2018-2019 Long Term Future Fund Grantees: How did they do?](https://forum.effectivealtruism.org/posts/Ps8ecFPBzSrkLC6ip/2018-2019-long-term-future-fund-grantees-how-did-they-do)  
-- [What should the norms around privacy and evaluation in the EA community be?](https://forum.effectivealtruism.org/posts/4mgBR5fwJ9AZeugZC/what-should-the-norms-around-privacy-and-evaluation-in-the)  
+- [Find a beta distribution that fits your desired confidence interval](https://nunosempere.com/blog/2023/03/15/fit-beta/)
+- [Valuing research works by eliciting comparisons from EA researchers](https://forum.effectivealtruism.org/posts/hrdxf5qdKmCZNWTvs/valuing-research-works-by-eliciting-comparisons-from-ea)
+- [External Evaluation of the EA Wiki](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki)  
+- [Use a less coarse analysis of AMF beneficiary age and consider counterfactual deaths](https://nunosempere.com/blog/2022/09/28/granular-AMF/)
+- [Simple comparison polling to create utility functions](https://forum.effectivealtruism.org/posts/9hQFfmbEiAoodstDA/simple-comparison-polling-to-create-utility-functions)  
+- [A Bayesian Adjustment to Rethink Priorities' Welfare Range Estimates](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)
 - [Relative Impact of the First 10 EA Forum Prize Winners](https://forum.effectivealtruism.org/posts/pqphZhx2nJocGCpwc/relative-impact-of-the-first-10-ea-forum-prize-winners)  
+- [An estimate of the value of Metaculus questions](https://forum.effectivealtruism.org/posts/zyfeDfqRyWhamwTiL/an-estimate-of-the-value-of-metaculus-questions)   
+- [Some estimation work in the horizon](https://nunosempere.com/blog/2023/03/20/estimation-in-the-horizon/)
+- [Estimation for sanity checks](https://nunosempere.com/blog/2023/03/10/estimation-sanity-checks/)
+- [Pathways to impact for forecasting and evaluation](https://forum.effectivealtruism.org/posts/oXrTQpZyXkEbTBfB6/pathways-to-impact-for-forecasting-and-evaluation)  
+- [Building Blocks of Utility Maximization](https://forum.effectivealtruism.org/posts/8XWi8FBkCuKfgPLMZ/building-blocks-of-utility-maximization)  
+- [Brief evaluations of top-10 billionnaires](https://nunosempere.com/blog/2022/10/21/brief-evaluations-of-top-10-billionnaires/) 
+- [Use of "I'd bet" on the EA Forum is mostly metaphorical](https://nunosempere.com/blog/2023/03/02/metaphorical-bets/)
+- [Things you should buy, quantified](https://nunosempere.com/blog/2023/04/06/things-you-should-buy-quantified/)
+
 
 Relatedly, I have an interest in _red teaming_,
 
@@ -33,7 +42,6 @@ _Shapley values_:
 - [Shapley Values and Philanthropic Coordination Theory](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and) 
 - [A Shapley Value Calculator](http://shapleyvalue.com/)  
 
-
 _Economic models of social movement growth_:
 
 - [A Model of Patient Spending and Movement Building](https://forum.effectivealtruism.org/posts/FXPaccMDPaEZNyyre/a-model-of-patient-spending-and-movement-building)
@@ -49,8 +57,19 @@ _Categorization of new causes_:
 _Technological discontinuities_:
 
 - [A prior for technological discontinuities](https://www.lesswrong.com/posts/FaCqw2x59ZFhMXJr9/a-prior-for-technological-discontinuities)
-- [AI race considerations in a report by the U.S. House Committee on Armed Services](https://www.lesswrong.com/posts/87aqBTkhTgfzhu5po/ai-race-considerations-in-a-report-by-the-u-s-house)  
 - [Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)  
+
+_AI-related_
+
+- [My highly personal skepticism braindump on existential risk from artificial intelligence](https://nunosempere.com/blog/2023/01/23/my-highly-personal-skepticism-braindump-on-existential-risk/)
+- [A concern about the "evolutionary anchor" of Ajeya Cotra's report](https://nunosempere.com/blog/2022/08/10/evolutionary-anchor/)
+- [There will always be a Voigt-Kampff test](https://nunosempere.com/blog/2023/01/21/there-will-always-be-a-voigt-kampff-test/)
+- [A basic argument for AI risk](https://nunosempere.com/blog/2022/12/23/ai-risk-rohin-shah/)
+- [Can GPT-3 produce new ideas? Partially automating Robin Hanson and others](https://nunosempere.com/blog/2023/01/11/can-gpt-produce-ideas/)
+- [Review of Epoch's *Scaling transformative autoregressive models*](https://nunosempere.com/blog/2023/04/28/expert-review-epoch-direct-approach/)
+- [Straightforwardly eliciting probabilities from GPT-3](https://nunosempere.com/blog/2023/02/09/straightforwardly-eliciting-probabilities-from-gpt-3/)
+- [Military Global Information Dominance Experiments](https://www.lesswrong.com/posts/vDvKWdCCNo9moNcMr/us-military-global-information-dominance-experiments)  
+- [AI race considerations in a report by the U.S. House Committee on Armed Services](https://www.lesswrong.com/posts/87aqBTkhTgfzhu5po/ai-race-considerations-in-a-report-by-the-u-s-house)  
 
 _The fate of social movements_:
 
