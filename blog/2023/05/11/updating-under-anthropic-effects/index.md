@@ -5,7 +5,7 @@ Updating in the face of  anthropic effects is possible
 
 ### Motivating example
 
-You are a dinosaur astronomer about to encounter a sequence of big and small meteorites. If you see a big meteorite, you and your whole kin die. So far you have seen *n* small meteorites. What is your best guess as to the probability that you will next see a big meteorite?<br><br>![artist rendition of giant meteorite hitting the Earth](https://upload.wikimedia.org/wikipedia/commons/e/e6/%D0%9C%D0%B5%D1%82%D0%B5.jpg)
+You are a dinosaur astronomer about to encounter a sequence of big and small meteorites. If you see a big meteorite, you and your whole kin die. So far you have seen *n* small meteorites. What is your best guess as to the probability that you will next see a big meteorite?<br><br>![artist rendition of giant meteorite hitting the Earth](https://i.imgur.com/YXapu3R.png)
 
 In this example, there is an [anthropic effect going on](https://forum.effectivealtruism.org/topics/anthropic-shadow). Your attempt to estimate the frequency of big meteorites is made difficult by the fact that when you see a big meteorite, you immediately die. Or, in other words, no matter what the frequency of big meteorites is, conditional on you still being alive, you'd expect to only have seen small meteorites so far. For instance, if you had reason to believe that around 90% of meteorites are big, you'd still expect to only have seen small meteorites so far.
 
