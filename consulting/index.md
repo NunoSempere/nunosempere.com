@@ -75,6 +75,6 @@ My anti-client on the other hand would be someone who has already made up their 
 ###  Further details
 
 - I am very amenable to taking on projects that would require more than one person, because I am able to bring in collaborators. I would discuss this with the potential client beforehand.
-- Operationally, payouts may go either to the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/) (a 503c charity in the US), or to myself directly, to be decided.
+- Operationally, payouts may go either to the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/) (a 503c charity in the US), or to my own consultancy, Shapley Maximizers ÖU, to be decided.
 
 [^1]: Note that I don't think all crypto projects are grifty, and I in fact view crypto as a pretty promising area of innovation. It's just that for the last couple years if you wanted to grift, crypto was a good place to do so. And in fact a crypto project that wanted to figure out how to produce more value in the world and capture some fraction of it could be a great client.

@@ -1,5 +1,7 @@
 ## Gossip
 
+_2023/05/6_: I have added a [consulting](/consulting) page.
+
 _2023/01/29_: I've updated the forecasting and research pages in this website, they should now be a bit more up to date.
 
 _2022/12/09_: Holden Karnofsky doesn't [answer comments](https://twitter.com/NunoSempere/status/1601256399056424960).
