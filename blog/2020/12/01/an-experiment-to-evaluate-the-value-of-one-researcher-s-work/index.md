@@ -11,7 +11,7 @@ As my primary conclusion, I found that assessing the relative value of projects 
 
 The reader can see my results [here](https://docs.google.com/spreadsheets/d/1BGmkDrQzDCYdMXEvIv7DhMusG-7EwBTkz8MiaEBq9VE/edit#gid=0), though I’d like to note that they’re preliminary and experimental, as is the rest of this post. Towards the end of this post, there is a section which mentions more caveats.
 
-![](.images/16bb08699adfac73a6545a3e056f19480a486da7.png)
+![](https://images.nunosempere.com/blog/2020/12/01/an-experiment-to-evaluate-the-value-of-one-researcher-s-work/16bb08699adfac73a6545a3e056f19480a486da7.png)
 
 Related work:
 

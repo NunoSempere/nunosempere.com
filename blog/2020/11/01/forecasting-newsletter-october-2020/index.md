@@ -70,7 +70,7 @@ Boeing [releases](https://www.fool.com/investing/2020/10/15/boeings-commercial-m
 
 The [World Agricultural Supply and Demand Estimates](https://www.usda.gov/oce/commodity/wasde) is a monthly report by the US Department of Agriculture. It provides monthly estimates and past figures for crops worldwide, and for livestock production in the US specifically (meat, poultry, dairy), which might be of interest to the animal suffering movement. It also provides estimates of the past reliability of those forecasts. The October report can be found [here](https://www.usda.gov/oce/commodity/wasde/wasde1020.pdf), along with a summary [here](https://www.feedstuffs.com/markets/usda-raises-meat-poultry-production-forecast). The image below presents the 2020 and 2021 predictions, as well as the 2019 numbers:
 
-![](.images/c1fa5c2d58e4b0b76d0c7afab896ee89a7289559.png)
+![](https://images.nunosempere.com/blog/2020/11/01/forecasting-newsletter-october-2020/c1fa5c2d58e4b0b76d0c7afab896ee89a7289559.png)
 
 The Atlantic considers scenarios under which [Trump refuses to concede](https://www.theatlantic.com/magazine/archive/2020/11/what-if-trump-refuses-concede/616424/). Warning: very long, very chilling.
 

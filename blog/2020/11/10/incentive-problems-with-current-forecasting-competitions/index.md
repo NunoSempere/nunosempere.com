@@ -13,7 +13,7 @@ For example if only the top forecaster wins a prize, you might want to predict a
 
 Consider for example [this prediction contest](https://predictingpolitics.com/2020/08/02/the-predictions-are-in/), which only had a prize for #1. The following question asks about the margin Biden would win or lose Georgia by:
 
-![](.images/f736a63590b98d329a456b5ff1cc055da86d416c.png)
+![](https://images.nunosempere.com/blog/2020/11/10/incentive-problems-with-current-forecasting-competitions/f736a63590b98d329a456b5ff1cc055da86d416c.png)
 
 Then the most likely scenario might be a close race, but the prediction which would have maximized your odds of coming in #1st might be much more extremized, because other predictors are more tightly packed in the middle.
 
