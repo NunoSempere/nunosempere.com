@@ -73,7 +73,7 @@ I also had a payout for insightful comments, such that the nth most upvoted comm
 
 Note that the projects were _not_ chosen so as to maximize impact, but rather as to maximize information about whether their value could be predicted.
 
-![](.images/0e2bfcbc0fa993098421b08b67af411ec30e8ffb.png)
+![](https://images.nunosempere.com/blog/2020/11/22/predicting-the-value-of-small-altruistic-projects-a-proof-of/0e2bfcbc0fa993098421b08b67af411ec30e8ffb.png)
 
 We observe that:
 
@@ -96,7 +96,7 @@ Predictions:
 *   Centered 50% confidence interval: 33 to 74
 *   Centered 95% confidence interval: 11 to 111
 
-![](.images/4a4419c6711561edc7b61a8c0633da2717c0913f.png)
+![](https://images.nunosempere.com/blog/2020/11/22/predicting-the-value-of-small-altruistic-projects-a-proof-of/4a4419c6711561edc7b61a8c0633da2717c0913f.png)
 
 Actual upvotes after one month: 31
 
@@ -114,7 +114,7 @@ Predictions:
 *   Centered 50% confidence interval: 28 to 68
 *   Centered 95% confidence interval: 9 to 106
 
-![](.images/a71da8f5dd6340d4f81828cb1cb5b20b292c3188.png)
+![](https://images.nunosempere.com/blog/2020/11/22/predicting-the-value-of-small-altruistic-projects-a-proof-of/a71da8f5dd6340d4f81828cb1cb5b20b292c3188.png)
 
 Actual upvotes after one month: 20 for the [first post](https://www.lesswrong.com/posts/yWmmYLCJft7u7XL5o/some-examples-of-technology-timelines), 49 for the [second one](https://www.lesswrong.com/posts/FaCqw2x59ZFhMXJr9/a-prior-for-technological-discontinuities). I'm taking 49 as the resolution.
 
@@ -132,7 +132,7 @@ Predictions:
 *   Centered 50% confidence interval: 15 to 57
 *   Centered 95% confidence interval: 4 to 91
 
-![](.images/e1d6f9b8bfd27b8f9102143b112b9d9c7fc75fb7.png)
+![](https://images.nunosempere.com/blog/2020/11/22/predicting-the-value-of-small-altruistic-projects-a-proof-of/e1d6f9b8bfd27b8f9102143b112b9d9c7fc75fb7.png)
 
 Actual upvotes after one month: 22
 
@@ -150,7 +150,7 @@ Predictions:
 *   Centered 50% confidence interval: 17 to 60
 *   Centered 95% confidence interval: 6 to 102
 
-![](.images/7da9d104143c060272f96cbd12bcc27e2c71dbf9.png)
+![](https://images.nunosempere.com/blog/2020/11/22/predicting-the-value-of-small-altruistic-projects-a-proof-of/7da9d104143c060272f96cbd12bcc27e2c71dbf9.png)
 
 Actual upvotes after one month: 20
 
@@ -167,7 +167,7 @@ Predictions:
 *   Centered 50% confidence interval: 19 to 59
 *   Centered 95% confidence interval: 7 to 92
 
-![](.images/89ff6294dfe357bfebc3640584d42060934103c4.png)
+![](https://images.nunosempere.com/blog/2020/11/22/predicting-the-value-of-small-altruistic-projects-a-proof-of/89ff6294dfe357bfebc3640584d42060934103c4.png)
 
 Actual upvotes after one month: 27
 
@@ -182,7 +182,7 @@ A further idea was my proposal for my Summer Research Fellowship at FHI, though 
 *   Centered 50% confidence interval: 24 to 70
 *   Centered 95% confidence interval: 10 to 103
 
-![](.images/9e6a4434c603e9fd94e9a6819fff247011a5ab93.png)
+![](https://images.nunosempere.com/blog/2020/11/22/predicting-the-value-of-small-altruistic-projects-a-proof-of/9e6a4434c603e9fd94e9a6819fff247011a5ab93.png)
 
 I take these data-points as further evidence that this setup is interesting or worth it; arguably a major take-away for this project is “a fairly simple forecasting system is able to produce a project which gets accepted to the FHI summer fellowship.” Because the program got ~300 [applications](https://forum.effectivealtruism.org/posts/EPGdwe6vsCY7A9HPa/review-of-fhi-s-summer-research-fellowship-2020), but only 27 participants were accepted, this puts this forecasting setup on the top 9% of applicants in terms of some fuzzy “optimization power” (though this is a simplification, because the project proposal was probably one of many factors.)
 
