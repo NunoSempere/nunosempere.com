@@ -8,9 +8,9 @@ _2022/12/09_: Holden Karnofsky doesn't [answer comments](https://twitter.com/Nun
 
 _2022/11/20_: I've updated my tally of EA funding @ [Some data on the stock of EA™ funding](https://nunosempere.com/blog/2022/11/20/brief-update-ea-funding/). It's possible that the comparison with the now absent FTX funding might be enlightening to readers.
 
-![](https://i.imgur.com/RwD1pP9.png)
+![](https://images.nunosempere.com/gossip/open_philanthropy_grants_stacked_with_amounts.png)
 
-![](https://i.imgur.com/OZwHMtV.png)
+![](https://images.nunosempere.com/gossip/open_philanthropy_grants_lt_labeled.png)
 
 _2022/10/31_: I've added an [email subscription option](https://nunosempere.com/.subscribe/) for this blog, as well as for [samotsvety.org](https://samotsvety.org/.subscribe/).
 
@@ -38,6 +38,6 @@ _2022/02/20_: At the recommendation of Misha Yagudin, I buy around $1.5k worth o
 
 _2022/02/18_: I write about what my computer setup looks like, [here](https://forum.effectivealtruism.org/posts/dzPtGwEFiqCFFGLhH/as-an-independent-researcher-what-are-the-biggest?commentId=PeP9LojYxxoWGnJQL)
 
-<p><img src="/gossip/computer-setup.jpg" alt="image of my computer setup" class="img-medium-center"> </p>
+<p><img src="https://images.nunosempere.com/gossip/computer-setup.jpg" alt="image of my computer setup" class="img-medium-center"> </p>
 
 PS: I am also on [Twitter](https://twitter.com/NunoSempere).
