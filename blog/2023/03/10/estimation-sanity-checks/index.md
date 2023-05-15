@@ -45,7 +45,7 @@ Occasionally, I've seen some optimistic cost-effectiveness estimates by advocate
 
 #### Other examples
 
-- You can see the revival of LessWrong pretty clearly if you look at the [number of votes per year](https://i.imgur.com/sPA5IAZ.png). Evaluating the value of that revival is much harder, but one first sanity check is to see whether there was some revival being done.
+- You can see the revival of LessWrong pretty clearly if you look at the [number of votes per year](https://nunosempere.com/blog/2021/06/24/shallow-evaluations-of-longtermist-organizations/). Evaluating the value of that revival is much harder, but one first sanity check is to see whether there was some revival being done.
 - When evaluating small purchases, sometimes the cost of the item is much lower than the cost of thinking about it, or the cost of the time one would spend using the item (e.g., for me, the cost of a hot chocolate is smaller than the cost of sitting down to enjoy a hot chocolate). I usually take this as a strong sign that the price shouldn't be the main consideration for those types of purchase, and that I should remember that I am no longer a poor student.
 - Some causes, like rare diseases, are not going to pass a cost-effectiveness sanity check, because they affect too few people.
 - If you spend a lot of time in front of a computer, or having calls, the cost of better computer equipment and a better microphone is most likely worth it. I wish I'd internalized this sooner.

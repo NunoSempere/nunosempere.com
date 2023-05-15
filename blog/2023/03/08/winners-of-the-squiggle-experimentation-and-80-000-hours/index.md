@@ -17,7 +17,7 @@ From the [announcement post](https://forum.effectivealtruism.org/posts/ZrWuy2oA
 
 Tanae adds uncertainty estimates to each step in GiveWell’s estimate for AMF in the Democratic Republic of Congo, and ends up with this endline estimate for lives saved (though not other effects):
 
-<img src="https://i.imgur.com/QBAO2Ui.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/03/08/winners-of-the-squiggle-experimentation-and-80-000-hours/3e128b50fb993cfd0cd0a477d32b387ff776f9cb.png" class='.img-medium-center'>
 
 [**@drwahl**](https://forum.effectivealtruism.org/users/drwahl?mention=user)**'s** [**Cost-effectiveness analysis for the Lead Exposure Elimination Project in Malawi**](https://forum.effectivealtruism.org/posts/BK7ze3FWYu38YbHwo/squiggle-experimentation-challenge-cea-leep-malawi)
 
@@ -27,7 +27,7 @@ Dan creates a probabilistic estimate for the effectiveness of the Lead Exposure
 
 Erich creates a Squiggle model to estimate the number of future EA billionaires. His estimate looks like this:
 
-<img src="https://i.imgur.com/3Hq9KuH.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/03/08/winners-of-the-squiggle-experimentation-and-80-000-hours/08a3f6a3b7651e434c0c4201ab2f4f47a02eb32b.png" class='.img-medium-center'>
 
 That is, he is giving a 5-10% probability of negative billionaire growth, i.e., of losing a billionaire, as, in fact, happened. In hindsight, this seems like a neat example of quantification capturing some relevant tail risk. 
 

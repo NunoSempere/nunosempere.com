@@ -11,19 +11,19 @@ I have this concept of my mind of "soothing software", a cluster of software whi
 
 [lf](https://github.com/gokcehan/lf) is a terminal file manager, similar to [ranger](https://ranger.github.io/) and probably less powerful than [Midnight commander](https://midnight-commander.org/timeline). You can navigate, copy, cut or delete files, or enter into an editor. 
 
-![](https://i.imgur.com/3TQyxz9.png)
+![](https://images.nunosempere.com/blog/2023/03/27/soothing-software/lf-screenshot.png)
 
 ### werc
 
 [werc](https://werc.cat-v.org/) is the software which runs this website. It was a pain to get up and running, but I find it soothing to edit my posts directly in markdown, and to know what each part of my server is doing:
 
-![](https://i.imgur.com/X6bNWoY.png)
+![](https://images.nunosempere.com/blog/2023/03/27/soothing-software/werc-setup.png)
 
 ### vim/neovim
 
 [neovim](https://neovim.io/) is a successor to [vim](https://www.vim.org/). It's a text editor: it allows me to write, anvigate and manipulate text. And through various plugins, it allows for wide-ranging customization, syntax highlighting, autocomplete, and so on. Though its plugins do have set-up costs. I am writting this post in neovim.
 
-![](https://i.imgur.com/UWQCf5I.png)
+![](https://images.nunosempere.com/blog/2023/03/27/soothing-software/nvim-screenshot.png)
 
 Unlike its traditional rival, [Emacs](https://www.gnu.org/software/emacs/), vim/neovim is pretty much just a text editor, rather than an ersatz operating system, hence the need for...
 
@@ -31,11 +31,11 @@ Unlike its traditional rival, [Emacs](https://www.gnu.org/software/emacs/), vim/
 
 [tmux](https://github.com/tmux/tmux) is a "terminal multiplexer", i.e., a program that divides a terminal into tabs and parts. Here is a screenshot:
 
-![](https://i.imgur.com/Kisw18E.png)
+![](https://images.nunosempere.com/blog/2023/03/27/soothing-software/tmux-3.png)
 
 and here is it annotated:
 
-![](https://i.imgur.com/AFlTtgJ.png)
+![](https://images.nunosempere.com/blog/2023/03/27/soothing-software/tmux-annotated.png)
 
 Normally instead of a blogpost I would have a diary tab open, but I didn't want to show my diary. The point is, though, that tmux makes it very easy to spin up tabs and to subdivide my screen, and then to return to just one window.
 
@@ -45,13 +45,13 @@ Normally instead of a blogpost I would have a diary tab open, but I didn't want 
 
 Here is an image showing the newsboat feed for Matt Levine's newsletter:
 
-![](https://i.imgur.com/xDYwBpC.png)
+![](https://images.nunosempere.com/blog/2023/03/27/soothing-software/newsboat.png)
 
 ### moc
 
 [moc](moc.daper.net) (music-on-console) is a console audio player. It just does its job competently. Recently I figured out that you can save the current playlist into a file, and then [reload that playlist](https://moc.daper.net/node/1368), which made me happy.
 
-![](https://i.imgur.com/SJ7Fgdg.png)
+![](https://images.nunosempere.com/blog/2023/03/27/soothing-software/moc.png)
 
 ### postmark (paid)
 
@@ -65,13 +65,13 @@ Here is an image showing the newsboat feed for Matt Levine's newsletter:
 
 [teddit](https://codeberg.org/teddit/teddit) is an alternative frontend to Reddit. I am hosting my own instance [here](https://teddit.nunosempere.com/); people reading this are welcome to use it. I consider the UX to be much superior to the normal reddit interface.
 
-![](https://i.imgur.com/VVxYBM8.png)
+![](https://images.nunosempere.com/blog/2023/03/27/soothing-software/teddit-3.png)
 
 ### rose / rosenrot
 
 [rose](https://github.com/mini-rose/rose) is a minimal browser based on webkit2 and gtk. [rosenrot](https://github.com/NunoSempere/rosenrot-browser) is my version of it, which has accumulated some cruft I like. I find it soothing to know what many parts of the code are doing, and to be able to add my own custom functionality.
 
-![](https://i.imgur.com/VVxYBM8.png)
+![](https://images.nunosempere.com/blog/2023/03/27/soothing-software/teddit-3.png)
 <figcaption>Teddit, as displayed in the rose browser</figcaption>
 
 ### prt

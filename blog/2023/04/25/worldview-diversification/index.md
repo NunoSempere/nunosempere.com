@@ -19,21 +19,21 @@ Suppose that you order the ex-ante values of grants in different cause areas. Th
 
 For simplicity, let us just pick the case where there are two cause areas:
 
-<img src="https://i.imgur.com/c75M8Yp.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/values-1.png" class='.img-medium-center'>
 
 More undilluted shades represent more valuable grants (e.g., larger reductions per dollar: of human suffering, animal suffering or existential risk), and lighter shades represent less valuable grants. Due to diminishing marginal returns, I've drawn the most valuable grants as smaller, though this doesn't particularly matter.
 
 Now, we can augment the picture by also considering the marginal grants which didn't get funded. 
 
-<img src="https://i.imgur.com/pGO5N9o.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/values-2.png" class='.img-medium-center'>
 
 In particular, imagine that the marginal grant which didn't get funded for cause #1 has the same size as the marginal grant that did get funded for cause #2 (this doesn't affect the thrust of the argument, it just makes it more apparent):
 
-<img src="https://i.imgur.com/WDl7kCc.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/values-3.png" class='.img-medium-center'>
 
 Now, from this, we can deduce some bounds on relative values:
 
-<img src="https://i.imgur.com/ay7k0Pm.png" class='img-frontpage-center'>
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/comparison-1.png" class='.img-medium-center'>
 
 In words rather than in shades of colour, this would be:
 
@@ -47,7 +47,7 @@ Or, dividing by L1 and L2,
 
 In colors, this would correspond to all four squares having the same size:
 
-<img src="https://i.imgur.com/sr7HcaE.png" class='img-frontpage-center'>
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/comparison-2-black-border.png" class='.img-medium-center'>
 
 Giving some values, this could be:
 
@@ -60,23 +60,22 @@ From this we could deduce that 6 reds > 10 greens > 2 reds, or that one green is
 
 But the above was for one year. Now comes another year, with its own set of grants. But we are keeping the amount we allocate to each area constant.
 
-<img src="https://i.imgur.com/KzU6jOu.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/year-1.png" class='.img-medium-center'>
 
 It's been a less promising year for green, and a more promising year for red, . So this means that some of the stuff that wasn't funded last year for green is funded now, and some of the stuff that was funded last year for red isn't funded now:
 
-<img src="https://i.imgur.com/BYGfKm9.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/year-2.png" class='.img-medium-center'>
 
 Now we can do the same comparisons as the last time:
 
-<img src="https://i.imgur.com/cbjaD4n.png" class='img-frontpage-center'>
-
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/comparison-year-2.png" class='.img-medium-center'>
 And when we compare them against the previous year
 
-<img src="https://i.imgur.com/qFBfhrY.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/comparison-both-years.png" class='.img-medium-center'>
 
 we notice that there is an inconsistency.
 
-<img src="https://i.imgur.com/2ppt9Jt.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/04/25/worldview-diversification/comparison-contradiction.png" class='.img-medium-center'>
 
 ### Why is the above a problem
 

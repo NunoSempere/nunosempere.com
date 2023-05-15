@@ -1,6 +1,5 @@
 ## In 2023...
 
-- [Me in 2022](https://nunosempere.com/2023/01/03/me-in-2022)
 - [Forecasting Newsletter for November and December 2022](https://nunosempere.com/2023/01/07/forecasting-newsletter-november-december-2022)
 - [Can GPT-3 produce new ideas? Partially automating Robin Hanson and others](https://nunosempere.com/2023/01/11/can-gpt-produce-ideas)
 - [Prevalence of belief in "human biodiversity" amongst self-reported EA respondents in the 2020 SlateStarCodex Survey](https://nunosempere.com/2023/01/16/hbd-ea)
@@ -20,3 +19,13 @@
 - [Winners of the Squiggle Experimentation and 80,000 Hours Quantification Challenges](https://nunosempere.com/2023/03/08/winners-of-the-squiggle-experimentation-and-80-000-hours)
 - [What happens in Aaron Sorkin's *The Newsroom*](https://nunosempere.com/2023/03/10/aaron-sorkins-newsroom)
 - [Estimation for sanity checks](https://nunosempere.com/2023/03/10/estimation-sanity-checks)
+- [Find a beta distribution that fits your desired confidence interval](https://nunosempere.com/2023/03/15/fit-beta)
+- [Some estimation work in the horizon](https://nunosempere.com/2023/03/20/estimation-in-the-horizon)
+- [Soothing software](https://nunosempere.com/2023/03/27/soothing-software)
+- [What is forecasting?](https://nunosempere.com/2023/04/03/what-is-forecasting)
+- [Things you should buy, quantified](https://nunosempere.com/2023/04/06/things-you-should-buy-quantified)
+- [General discussion thread](https://nunosempere.com/2023/04/08/general-discussion-april)
+- [A Soothing Frontend for the Effective Altruism Forum ](https://nunosempere.com/2023/04/18/forum-frontend)
+- [A flaw in a simple version of worldview diversification](https://nunosempere.com/2023/04/25/worldview-diversification)
+- [Review of Epoch's *Scaling transformative autoregressive models*](https://nunosempere.com/2023/04/28/expert-review-epoch-direct-approach)
+- [Updating in the face of  anthropic effects is possible](https://nunosempere.com/2023/05/11/updating-under-anthropic-effects)

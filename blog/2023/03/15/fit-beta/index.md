@@ -77,7 +77,7 @@ those purposes. I hope that with this tool such practices will come to and end.<
 You can read more about how this utility works [here](https://github.com/quantified-uncertainty/fit-beta.git).
 Advanced users will particularly enjoy the [npm package](https://www.npmjs.com/package/fit-beta).
 
-<p><img src="https://i.imgur.com/3uQgbcw.png" style="width: 20%;">
+<p><img src="https://images.nunosempere.com/quri/logo.png" style="width: 20%;">
 <br>
 This is a project of the <a href="https://quantifieduncertainty.org/">Quantified Uncertainty Research Institute</a>.</p>
 

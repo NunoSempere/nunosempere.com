@@ -3,9 +3,9 @@ A Bayesian Adjustment to Rethink Priorities' Welfare Range Estimates
 
 I was meditating on [Rethink Priorities’ Welfare Range Estimates](https://forum.effectivealtruism.org/posts/Qk3hd6PrFManj8K6o/rethink-priorities-welfare-range-estimates):
 
-![](https://i.imgur.com/jQR2r9k.jpg)
+![](https://images.nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/rp-estimates-cropped.jpg)
 
-Something didn't feel right. Suddenly, an apparition of E. T. Jaynes manifested itself, and exclaimed: <br><br>![](https://i.imgur.com/yUAG6oD.png)
+Something didn't feel right. Suddenly, an apparition of E. T. Jaynes manifested itself, and exclaimed: <br><br>![](https://images.nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/ignore-the-prior.png)
 
 The way was clear. I should:
 
@@ -61,13 +61,13 @@ For the rest of the post, I will focus on chickens. Updates for other animals sh
 
 Coming back to Rethink Priorities' estimates:
 
-![](https://i.imgur.com/iExw3mP.jpg)
+![](https://images.nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/rp-estimates.jpg)
 
 Chickens have a welfare range 0.332, i.e., 33.2% as wide as that of humans, according to RP's estimate. 
 
 Remember that RP has wide confidence intervals here, so that number in isolation produces a somewhat misleading impression:
 
-![](https://i.imgur.com/nNbYFOp.png)
+![](https://images.nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/90-ci.png)
 
 ### Constructing a prior
 
@@ -78,12 +78,12 @@ So, when I think about how I disvalue chickens' suffering in comparison to how I
 
 To those specifications, my prior thus looks like this:
 
-![Prior over human vs chicken relative values](https://i.imgur.com/cQKRZBb.png)
+![Prior over human vs chicken relative values](https://images.nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/prior.png)
 *<br>The lone red point is the probability I assign to 0 value*
 
 Zooming in into the blue points, they look like this:
 
-![Prior over human vs chicken relative values -- zoomed in](https://i.imgur.com/1LQwt2A.png)
+![Prior over human vs chicken relative values -- zoomed in](https://images.nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/prior-zoomed-in.png)
 
 As I mention before, note that I am not using a probability density, but rather lots of points. In particular, for this simulation, I'm using 50,000 points. This will become relevant later.
 
@@ -115,7 +115,7 @@ Conversely, what is, \( P(h | x\overline{W} ) \) the probability of getting \( h
 
 With this, we can construct \( P(h | x) \). It looks as follows:
 
-![probability of h conditional on x, for various xs](https://i.imgur.com/ALZ8SO4.png)
+![probability of h conditional on x, for various xs](https://images.nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/p_h_x_update.png)
 
 The wonky increase at the end is because those points don't have as many other points within one order of magnitude of their position. And the sudden drop off is at 0.0332, which is more than one order of magnitude away from the 0.332 estimate. To avoid this, I could have used a function smoother than "one order of magnitude away", and I could have used a finer grained mesh, not just 50k points evenly distributed. But I don't think this ends up mattering much.
 
@@ -129,9 +129,9 @@ That is, our original probability that RP would end up with an estimate of 0.332
 
 With \(P(x)\) and \( \frac{P(h|x)}{P(h)} \) in hand, we can now construct \( P(x|h) \), and it looks as follows:
 
-![posterior](https://i.imgur.com/cy3cTPH.png)
+![posterior](https://images.nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/posterior.png)
 
-![posterior -- zoomed in](https://i.imgur.com/OFhGen3.png)
+![posterior -- zoomed in](https://images.nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/posterior-zoomed-in.png)
 
 ### Getting a few indicators.
 

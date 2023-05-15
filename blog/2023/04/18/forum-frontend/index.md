@@ -15,7 +15,7 @@ https://forum.nunosempere.com/posts/[post id]/[optional post slug]
 
 An [example post](https://forum.nunosempere.com/posts/fz6NdW4i25FZoRQyz/use-of-i-d-bet-on-the-ea-forum-is-mostly-metaphorical)---chosen to be a link post so that you can see both the article and the comments---looks like this: 
 
-![](https://i.imgur.com/qlLCR2i.png)
+![](https://images.nunosempere.comblog/2023/04/18/forum-frontend/forum-post.png)
 
 ### Notes 
 
