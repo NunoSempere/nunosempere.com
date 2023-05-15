@@ -5,7 +5,7 @@ This post outlines some work in altruistic estimation that seems currently doabl
 
 Two downsides of this post are that a) it looks at things that are more salient to me, and doesn't comprehensively review all estimation work being done, and b) it could use more examples.
 
-<img src="https://images.nunosempere.comblog/2023/03/20/estimation-in-the-horizon/saruman.png" alt="Saruman in Isengard looking at an army of orcs" class="img-medium-center" />
+<img src="https://images.nunosempere.com/blog/2023/03/20/estimation-in-the-horizon/saruman.png" alt="Saruman in Isengard looking at an army of orcs" class="img-medium-center" />
 *<br>Saruman in Isengard looking at an army of orcs*
 
 ## Directions 

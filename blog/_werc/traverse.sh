@@ -1,4 +1,4 @@
-year=2023
+year="$1" ## bash traverse.sh 2019
 
 echo "## In $year..."
 echo

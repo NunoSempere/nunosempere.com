@@ -1,7 +1,7 @@
 Updating in the face of  anthropic effects is possible
 ======================================================
 
-*Status: Trivial point worth writting up clearly.*
+*Status: Simple point worth writting up clearly.*
 
 ### Motivating example
 

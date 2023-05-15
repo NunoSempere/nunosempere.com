@@ -1,13 +1,13 @@
 ## In 2020...
 
-- [A review of two free online MIT Global Poverty courses](https://nunosempere.com/2020/01/15/MIT_EDX_Review)
-- [A review of two books on survey-making](https://nunosempere.com/2020/03/01/Survey_Making)
-- [Shapley Values II: Philantropic Coordination Theory & other miscellanea.](https://nunosempere.com/2020/03/10/Shapley_Values_II)
-- [New Cause Proposal: International Supply Chain Accountability](https://nunosempere.com/2020/04/01/International_Supply_Chain)
-- [Forecasting Newsletter: April 2020](https://nunosempere.com/2020/04/30/Forecasting_Newsletter_2020_04)
-- [Forecasting Newsletter: May 2020.](https://nunosempere.com/2020/05/31/forecasting-newsletter-may-2020)
-- [Forecasting Newsletter: June 2020.](https://nunosempere.com/2020/07/01/forecasting-newsletter-june-2020)
-- [Forecasting Newsletter: July 2020.](https://nunosempere.com/2020/08/01/forecasting-newsletter-july-2020)
+- [A review of two free online MIT Global Poverty courses](https://nunosempere.com/2020/01/15/mit-edx-review)
+- [A review of two books on survey-making](https://nunosempere.com/2020/03/01/survey-making)
+- [Shapley Values II: Philantropic Coordination Theory & other miscellanea.](https://nunosempere.com/2020/03/10/shapley-values-ii)
+- [New Cause Proposal: International Supply Chain Accountability](https://nunosempere.com/2020/04/01/international-supply-chain-accountability)
+- [Forecasting Newsletter: April 2020](https://nunosempere.com/2020/04/30/forecasting-newsletter-2020-04)
+- [Forecasting Newsletter: May 2020.](https://nunosempere.com/2020/05/31/forecasting-newsletter-2020-05)
+- [Forecasting Newsletter: June 2020.](https://nunosempere.com/2020/07/01/forecasting-newsletter-2020-06)
+- [Forecasting Newsletter: July 2020.](https://nunosempere.com/2020/08/01/forecasting-newsletter-2020-07)
 - [Forecasting Newsletter: August 2020. ](https://nunosempere.com/2020/09/01/forecasting-newsletter-august-2020)
 - [Forecasting Newsletter: September 2020. ](https://nunosempere.com/2020/10/01/forecasting-newsletter-september-2020)
 - [Forecasting Newsletter: October 2020.](https://nunosempere.com/2020/11/01/forecasting-newsletter-october-2020)
@@ -18,4 +18,3 @@
 - [Forecasting Newsletter: November 2020.](https://nunosempere.com/2020/12/01/forecasting-newsletter-november-2020)
 - [What are good rubrics or rubric elements to evaluate and predict impact?](https://nunosempere.com/2020/12/03/what-are-good-rubrics-or-rubric-elements-to-evaluate-and)
 - [Big List of Cause Candidates](https://nunosempere.com/2020/12/25/big-list-of-cause-candidates)
-
