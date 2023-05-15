@@ -106,7 +106,7 @@ And an extra property:
 
 are enough to force the Shapley value function to take the form it takes:
 
-![](.images/aeef390de90cb7c6fe07fcad852578fbebe162b1.svg)
+![](https://images.nunosempere.com/blog/2019/10/10/shapley-formula.svg)
 
 At this point, the reader may want to consult [Wikipedia](https://en.wikipedia.org/wiki/Shapley_value) to familiarize themselves with the mathematical formalism, or, for a book-length treatment, [_The Shapley value: Essays in honor of Lloyd S. Shapley_](http://www.library.fa.ru/files/Roth2.pdf). Ultimately, a quick way to understand it is as "the function uniquely determined by the properties above".
 
