@@ -15,9 +15,9 @@ In [Shapley values: Better than counterfactuals](https://forum.effectivealtruism
 *   We propose several speculative forms of Shapley values: Shapley values + Moments of Consciousness, Shapley Values + Decision Theory, Shapley Values + Expected Value
 *   We conclude with some complimentary (and yet obligatory) ramblings about Shapley Values, Goodhart's law, and Stanovich's disrationalia.
 
-Because this post is long, images will be interspersed throughout to clearly separate sections and provide rest for tired eyes. This is an habit I have from my blogging days, though which I have not seen used in this forum.
+Because this post is long,https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii will be interspersed throughout to clearly separate sections and provide rest for tired eyes. This is an habit I have from my blogging days, though which I have not seen used in this forum.
 
-![](.images/bc4a6add2d82c0297031b883af215a4dff297d94.png)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/bc4a6add2d82c0297031b883af215a4dff297d94.png)
 
 ## Philantropic Coordination Theory:
 
@@ -42,7 +42,7 @@ If we try to calculate the Shapley value in this case, we notice that it depends
 
 In any case, their Shapley values are:
 
-![](.images/0b51c9065e85902d93abc4de5c676a162431fd9e.png) ![](.images/48294ee8a66ec565a22576254823d2292d1d6f7b.png)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/0b51c9065e85902d93abc4de5c676a162431fd9e.png) ![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/48294ee8a66ec565a22576254823d2292d1d6f7b.png)
 
 One can understand this as follows: Player A has Value({A}) already in their hand, and Player B has Value({B}), and they're considering whether to cooperate. If they do, then the surplus from cooperating is Value({A,B}) - (Value({A}) + Value({B})), and it get's shared equally:
 
@@ -136,7 +136,7 @@ Note that, because GiveWell's alternative is known, GiveWell doesn't have to see
 *   When buying a certificate of impact, the donor would in fact be willing to pay _more_ than $1, because $1 dollar can't get him that much value any more, due to diminishing returns. Similarly, GiveWell would be willing to sell it for _less_ than $1, because of the same reasons; once diminishing returns start setting in, they would have to donate less than $1 to their best alternative to get the equivalent of $1 dollar of donations to SCI. I've thus pretended that in this market with one seller and one buyer, the price is agreed to be $1. Another solution would be to have an efficient market in certificates of impact.
 *   The value certificate equilibrium is very similar regardless of whether one is thinking in terms of Shapley values or counterfactuals. I feel, but can't prove, that Shapley values add a kind of clarity and crispness to the reasoning, if only because they force you to consider all the moving parts.
 
-![](.images/14578566a70fe4029fdf4fc0b37253dce1b735d2.jpg)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/14578566a70fe4029fdf4fc0b37253dce1b735d2.jpg)
 
 ## Shapley values of forecasters.
 
@@ -202,7 +202,7 @@ while the new forecaster gets rewarded in proportion to
 
 This still preserves some of the same incentives as above, though in this case, attribution becomes more tricky. Further, anecdotically, seeing someone's distribution before updating gives more information than seeing someone's distribution after they've updated, so just seeing the contrast between g(0) and g(1) might be useful to future forecasters.
 
-![](.images/4bf82fbcce46ac1e5520ce4070c8883525c80bde.jpg)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/4bf82fbcce46ac1e5520ce4070c8883525c80bde.jpg)
 
 ## A value attribution impossibility theorem.
 
@@ -279,7 +279,7 @@ With that in mind, one of the most interesting facts about Arrow's impossibility
 
 As such, I'm hedging my bets: impossibility theorems must be taken with a grain of salt; they can be stepped over if their assumptions do not hold.
 
-![](.images/3edb1377c2726d6123865c43360d67c08adb9aca.jpg)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/3edb1377c2726d6123865c43360d67c08adb9aca.jpg)
 
 ## Parfit's [_Five Mistakes in Moral Mathematics_](http://www.stafforini.com/docs/Parfit%20-%20Five%20mistakes%20in%20moral%20mathematics.pdf).
 
@@ -289,7 +289,7 @@ The Indian Mathematician Brahmagupta describes the solution to the quadratic equ
 
 to describe the solution to the quadratic equation ax^2 + bx = c.
 
-![](.images/5c7efddde4aa1a7119a15d93783f6c682d7212cf.svg)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/5c7efddde4aa1a7119a15d93783f6c682d7212cf.svg)
 
 I read Parfit's piece with the same admiration, sadness and sorrow with which I read the above paragraph. On the one hand, he is oftent clearly right. On the other hand, he's just working with very rudimentary tools: mere words.
 
@@ -356,7 +356,7 @@ Overall, I think that Shapley values do pretty well on the problems posed by Par
 
 > (C7) Even if an act harms no one, this act may be wrong because it is one of a set of acts that together harm other people. Similarly, even if some act benefits no one, it can be what someone ought to do, because it is one of a set of acts that together benefit other people.
 
-![](.images/c1c6470e1f4712d38d21ce31a6a2a4baa3671ab9.jpg)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/c1c6470e1f4712d38d21ce31a6a2a4baa3671ab9.jpg)
 
 ## Shapley value puzzles
 
@@ -433,7 +433,7 @@ Calculate the Shapley values for:
 *   You (Emma)
 *   Lucy
 
-![](.images/16fb6f6948ae9600cee6ae878a46ea21172e3821.jpg)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/16fb6f6948ae9600cee6ae878a46ea21172e3821.jpg)
 
 ## Speculative Shapley extensions.
 
@@ -478,7 +478,7 @@ If you the agent's information for those expected values, this allows you to pun
 
 However, Shapley values are probably be too unsophisticated to be used in situations which are primarily about social incentives.
 
-![](.images/8260e1c392a2a710e9421817175e84156922de3d.jpeg)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/8260e1c392a2a710e9421817175e84156922de3d.jpeg)
 
 ## Some complimentary (and yet obligatory) ramblings about Shapley Values, Goodhart's law, and Stanovich's disrationalia.
 
@@ -537,7 +537,7 @@ Suppose that you have two players, player a and Player B, and three charities: G
 
 Or, in graph form:
 
-![](.images/b640f8bfd4ce1e54a632d7bb4a3c4bd9e9695418.jpg)
+![](https://images.nunosempere.com/blog/2020/03/10/shapley-values-ii/b640f8bfd4ce1e54a632d7bb4a3c4bd9e9695418.jpg)
 
 Caveat:
 

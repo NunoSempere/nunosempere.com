@@ -115,7 +115,7 @@ Ordered in subjective order of importance:
 
 *   The International Energy Agency had terrible forecasts on solar photo-voltaic energy production, until [recently](https://pv-magazine-usa.com/2020/07/12/has-the-international-energy-agency-finally-improved-at-forecasting-solar-growth/):
     
-    > ![](.images/7244132c6380f86a5fc5327b5c6abb70e741097a.jpg)
+    > ![](https://images.nunosempere.com/blog/2020/08/01/forecasting-newsletter-2020-07/7244132c6380f86a5fc5327b5c6abb70e741097a.jpg)
     
     > ...It’s a scenario assuming current policies are kept and no new policies are added.
     
@@ -241,7 +241,7 @@ Ordered in subjective order of importance:
     
 *   [Taleb](https://forecasters.org/blog/2020/06/14/on-single-point-forecasts-for-fat-tailed-variables/): _On single point forecasts for fat tailed variables_. Leitmotiv: Pandemics are fat-tailed.
     
-    > ![](.images/d263195904a7942604599ff703fcb71f28d0a156.png) ![](.images/860ccc6875dd7044a884708cd8c34c6bb3d70506.png)
+    > ![](https://images.nunosempere.com/blog/2020/08/01/forecasting-newsletter-2020-07/d263195904a7942604599ff703fcb71f28d0a156.png) ![](https://images.nunosempere.com/blog/2020/08/01/forecasting-newsletter-2020-07/860ccc6875dd7044a884708cd8c34c6bb3d70506.png)
     
     > We do not need more evidence under fat tailed distributions — it is there in the properties themselves (properties for which we have ample evidence) and these clearly represent risk that must be killed in the egg (when it is still cheap to do so). Secondly, unreliable data — or any source of uncertainty — should make us follow the most paranoid route. \[...\] more uncertainty in a system makes precautionary decisions very easy to make (if I am uncertain about the skills of the pilot, I get off the plane).
     

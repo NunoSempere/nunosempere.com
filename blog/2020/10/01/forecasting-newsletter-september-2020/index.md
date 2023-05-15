@@ -179,7 +179,7 @@ The Foresight Insitute organizes weekly talks; here is one with Samo Burja on [l
 
 Last, but not least, Ozzie Gooen on [Multivariate estimation & the Squiggly language](https://www.lesswrong.com/posts/kTzADPE26xh3dyTEu/multivariate-estimation-and-the-squiggly-language):
 
-![](.images/fef39d9a14a8ca8986c984ba2f8227d1581d9421.jpg)
+![](https://images.nunosempere.com/blog/2020/10/01/forecasting-newsletter-september-2020/fef39d9a14a8ca8986c984ba2f8227d1581d9421.jpg)
 
 ---
 

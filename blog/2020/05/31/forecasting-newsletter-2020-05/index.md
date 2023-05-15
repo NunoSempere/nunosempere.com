@@ -105,7 +105,7 @@ This month they've organized a flurry of activities, most notably:
 
 PredictIt is a prediction platform restricted to US citizens, but also accessible with a VPN. This month, they present a map about the electoral college result in the USA. States are colored according to the market prices:
 
-![](..images/654d6212cd170b9287738a89bd6b4535248ed6e1.png)
+![](https://images.nunosempere.com/blog/2020/05/31/forecasting-newsletter-2020-05/654d6212cd170b9287738a89bd6b4535248ed6e1.png)
 
 Some of the predictions I found most interesting follow. The market probabilities can be found below; the engaged reader might want to write down their own probabilities and then compare.
 
@@ -259,7 +259,7 @@ This section contains items which have recently come to my attention, but which 
     > Our judges in this study were eight individuals, carefully selected for their expertise as handicappers. Each judge was presented with a list of 88 variables culled from the past performance charts. He was asked to indicate which five variables out of the 88 he would wish to use when handicapping a race, if all he could have was five variables. He was then asked to indicate which 10, which 20, and which 40 he would use if 10, 20, or 40 were available to him.
     
     > We see that accuracy was as good with five variables as it was with 10, 20, or 40. The flat curve is an average over eight subjects and is somewhat misleading. Three of the eight actually showed a decrease in accuracy with more information, two improved, and three stayed about the same. All of the handicappers became more confident in their judgments as information increased.  
-    > ![](..images/e8ac191e43364ff35bdc19361dd92c9a74e7109a.png)
+    > ![](https://images.nunosempere.com/blog/2020/05/31/forecasting-newsletter-2020-05/e8ac191e43364ff35bdc19361dd92c9a74e7109a.png)
     
     *   The study contains other nuggets, such as:
     *   An experiment on trying to predict the outcome of a given equation. When the feedback has a margin of error, this confuses respondents.

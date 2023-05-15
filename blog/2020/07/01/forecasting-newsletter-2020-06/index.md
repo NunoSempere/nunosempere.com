@@ -1,8 +1,6 @@
 Forecasting Newsletter: June 2020.
 ==============
 
-# Forecasting Newsletter. June 2020.
-
 ## Highlights
 
 1.  Facebook launches [Forecast](https://www.forecastapp.net/), a community for crowdsourced predictions.
