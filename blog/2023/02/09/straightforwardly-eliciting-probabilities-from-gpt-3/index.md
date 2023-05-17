@@ -16,7 +16,7 @@ At the end of 2023, will Vladimir Putin be President of Russia? [Yes/No]
 
 Then we can compare the relative probabilities of completion to the “Yes,” “yes,” “No” and “no” tokens. This requires a bit of care. Note that we are not making the same query 100 times and looking at the frequencies, but rather asking for the probabilities directly:
 
-<img src="https://i.imgur.com/oNcbTGR.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/02/09/straightforwardly-eliciting-probabilities-from-gpt-3/8068e241ee54d2338d0c92616c6b688a9bf5927a.png" class='.img-medium-center'>
 
 You can see a version of this strategy implemented [here](https://github.com/quantified-uncertainty/gpt-predictions/blob/master/src/prediction-methods/predict-logprobs.js).
 
@@ -97,13 +97,13 @@ You can see the first two strategies applied to SlateStarCodex in [this Google 
 
 Overall, the probabilities outputted by GPT appear to be quite mediocre as of 2023-02-06, and so I abandoned further tweaks.
 
-<img src="https://i.imgur.com/jNrnGdU.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/02/09/straightforwardly-eliciting-probabilities-from-gpt-3/ce57a6365ad20e549c52913ee9f20cc866d0cdb5.png" class='.img-medium-center'>
 
 In the above image, I think that we are in the first orange region, where the returns to fine-tuning and tweaking just aren’t that exciting. Though it is also possible that having tweaks and tricks ready might help us identify that the curve is turning steeper a bit earlier.
 
 ### Acknowledgements
 
-<img src="https://i.imgur.com/3uQgbcw.png" style="width: 20%;">
+<img src="https://images.nunosempere.com/quri/logo.png" style="width: 20%;">
 <br>
 This is a project of the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/). Thanks to Ozzie Gooen and Adam Papineau for comments and suggestions.
 

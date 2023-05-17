@@ -30,7 +30,7 @@ Now, as that subjective Bayesian observes a sequence of coin tosses, he might en
 
 Now, this could be fixed by adding more hypotheses, for instance some probability density to each possible bias. This would work for the example of a coin toss, but might not work for more complex real-life examples: representing many hypothesis about the war in Ukraine or about technological progress in their fullness would be too much for humans.[^2]
 
-<img src="https://i.imgur.com/vqc48uT.png" alt="pictorial depiction of the Bayesian algorithm"  style="display: block; margin-left: auto; margin-right: auto; width: 30%;" >
+<img src="https://images.nunosempere.com/blog/2023/02/04/just-in-time-bayesianism/bayes-1.png" alt="pictorial depiction of the Bayesian algorithm"  style="display: block; margin-left: auto; margin-right: auto; width: 30%;" >
 
 So on the one hand, if our set of hypothesis is too narrow, we risk not incorporating a hypothesis that reflects the real world. But on the other hand, if we try to incorporate too many hypothesis, our mind explodes because it is too tiny. Whatever shall we do?
 
@@ -40,7 +40,7 @@ So on the one hand, if our set of hypothesis is too narrow, we risk not incorpor
 
 By analogy, I define just-in-time Bayesianism as a variant of subjective Bayesian where inference is initially performed over a limited number of hypothesis, but if and when these hypothesis fail to be sufficiently predictive of the world, more are searched for and past Bayesian inference is recomputed. This would look as follows:
 
-<img src="https://i.imgur.com/CwLA5EG.png" alt="pictorial depiction of the JIT Bayesian algorithm"  style="display: block; margin-left: auto; margin-right: auto; width: 50%;" >
+<img src="https://images.nunosempere.com/blog/2023/02/04/just-in-time-bayesianism/bayes-jit.png" alt="pictorial depiction of the JIT Bayesian algorithm"  style="display: block; margin-left: auto; margin-right: auto; width: 50%;" >
 
 I intuit that this method could be used to run a version of Solomonoff induction that converges to the correct hypothesis that describes a computable phenomenon in a finite (but still enormous) amount of time. More generally, I intuit that just-in-time Bayesianism will have some nice convergence guarantees.
 
@@ -84,7 +84,7 @@ Now, because the first hypothesis assigns very low probability to what the man h
 
 But now, with more and more encounters, the probability assigned by the second hypothesis, will be as \(\frac{2}{n+2}\), where \(n\) is the number of times the man interacts with a dog. But this goes down very slowly:
 
-![](https://i.imgur.com/UntdNrR.png)
+![](https://images.nunosempere.com/blog/2023/02/04/just-in-time-bayesianism/laplace.png)
 
 In particular, you need to double the amount of interactions with a dog and then condition on them going positively (no bites) for \(p(n) =\frac{2}{n+2}\) to halve. But note that this in expectation approximately produces another two dog bites[^4]! Hence the optimal move might be to avoid encountering new evidence (because the chance of another dog bite is now too large), hence the trapped priors.
 
