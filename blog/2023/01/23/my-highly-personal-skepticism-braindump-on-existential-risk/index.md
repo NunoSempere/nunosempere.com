@@ -130,11 +130,11 @@ One particular dynamic that I’ve seen some gung-ho AI risk people mention is t
 
 So, in illustration, the overall balance could look something like:
 
-<img src="https://i.imgur.com/ziJqSn9.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/01/23/my-highly-personal-skepticism-braindump-on-existential-risk/6ba8263af80738f19258cfd36e07fe103ee9920d.png" class='.img-medium-center'>
 
 Whereas the individual matchup could look something like:
 
-<img src="https://i.imgur.com/thdBH3n.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/01/23/my-highly-personal-skepticism-braindump-on-existential-risk/6504f6dc78d9518c7e266f44d3c5b10797313af3.png" class='.img-medium-center'>
 
 And so you would expect the natural belief dynamics stemming from that type of matchup. 
 
@@ -272,7 +272,7 @@ This is all.
 
 # Acknowledgements
 
-<img src="https://i.imgur.com/hv8GEDS.jpg" class='img-frontpage-center'>
+<img src="https://images.nunosempere.com/samotsvety/samotsvety-quri-logo.jpg" class='img-frontpage-center'>
 
 I am grateful to the [Samotsvety](https://samotsvety.org/) forecasters that have discussed this topic with me, and to Ozzie Gooen for comments and review. The above post doesn't necessarily represent the views of other people at the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/), which nonetheless supports my research.
 

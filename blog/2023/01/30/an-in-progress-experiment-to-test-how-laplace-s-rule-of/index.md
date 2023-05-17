@@ -15,7 +15,7 @@ The dataset I’m using can be seen [here](https://docs.google.com/spreadsheets
 
 I estimate the probability that a randomly chosen conjecture will be solved as follows:
 
-<img src="https://i.imgur.com/M9jfZva.jpg" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2023/01/30/an-in-progress-experiment-to-test-how-laplace-s-rule-of/f12eb79ade3f66662ed56d37788d427548155944.png" class='.img-medium-center'>
 
 That is, the probability that the conjecture will first be solved in the year _n_ is the probability given by Laplace conditional on it not having been solved any year before.
 
@@ -29,19 +29,19 @@ Using the above probabilities, we can, through sampling, estimate the number of 
 
 ### For three years
 
-**<img src="https://i.imgur.com/0kK1I9Y.png" class='.img-medium-center'>**
+**<img src="https://images.nunosempere.com/blog/2023/01/30/an-in-progress-experiment-to-test-how-laplace-s-rule-of/4dd8ee1e01b25ea2c31b46a0be1253eaa5915991.png" class='.img-medium-center'>**
 
 If we calculate the 90% and the 98% confidence intervals, these are respectively (6 to 16) and (4 to 18) problems solved in the next three years.
 
 ### For five years
 
-**<img src="https://i.imgur.com/K4ES5A9.png" class='.img-medium-center'>**
+**<img src="https://images.nunosempere.com/blog/2023/01/30/an-in-progress-experiment-to-test-how-laplace-s-rule-of/536ebf8c1400e1d3035042a8409b15f34b13095b.png" class='.img-medium-center'>**
 
 If we calculate the 90% and the 98% confidence intervals, these are respectively (11 to 24) and (9 to 27) problems solved in the next five years.
 
 ### For ten years
 
-**<img src="https://i.imgur.com/ZiFtIP5.png" class='.img-medium-center'>**
+**<img src="https://images.nunosempere.com/blog/2023/01/30/an-in-progress-experiment-to-test-how-laplace-s-rule-of/0684cd87d78a4d4e1344051966ab41a9e47a683b.png" class='.img-medium-center'>**
 
 If we calculate the 90% and the 98% confidence intervals, these are respectively (23 to 40) and (20 to 43) problems solved in the next five years.
 
@@ -75,7 +75,7 @@ The reason why I didn’t do this myself is that step 2. would be fairly time in
 
 ## Acknowledgements
 
-**<img src="https://i.imgur.com/WUqgilk.png" class='img-frontpage-center'>**
+**<img src="https://images.nunosempere.com/quri/logo.png" class='img-frontpage-center'>**
 
 This is a project of the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/) (QURI). Thanks to Ozzie Gooen and Nics Olayres for giving comments and suggestions. 
 

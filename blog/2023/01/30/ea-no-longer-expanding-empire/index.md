@@ -5,7 +5,7 @@ In early 2022, the Effective Altruism movement was triumphant. Sam Bankman-Fried
 
 Now the situation looks different. Samo Burja has this interesting book on [Great Founder Theory][0] , from which I’ve gotten the notion of an “expanding empire”. In an expanding empire, like a startup, there are new opportunities and land to conquer, and members can be rewarded with parts of the newly conquered land. The optimal strategy here is _unity_ . EA in 2022 was just that, a united social movement playing together against the cruelty of nature and history.
 
-![](https://i.imgur.com/3SfMuU1.jpg)
+![](https://images.nunosempere.com/blog/2023/01/30/ea-no-longer-expanding-empire/ship.jpg)
 *<br>Imagine the Spanish empire, without the empire.*
 
 My sense is that the tendency for EA in 2023 and going forward will be less like that. Funding is now more limited, not only because the FTX empire collapsed, but also because the stock market collapsed, which means that Open Philanthropy—now the main funder once again—also has less money. With funding drying, EA will now have to economize and prioritize between different causes. And with economizing in the background, internecine fights become more worth it, because the EA movement isn’t trying to grow the pie together, but rather each part will be trying to defend its share of the pie. Fewer shared offices will exist all over the place, fewer regrantors to fund moonshots. More frugality. So EA will become more like a bureaucracy and less like a startup. You get the idea.
