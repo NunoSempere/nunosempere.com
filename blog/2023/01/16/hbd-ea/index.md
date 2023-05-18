@@ -5,7 +5,7 @@ Note: This post presents some data which might inform downstream questions, rath
 
 ## Graph
 
-![](https://i.imgur.com/xYy9frR.png)
+![](https://images.nunosempere.com/blog/2023/01/16/hbd-ea/q_hbd_eas.png)
 
 ## Discussion
 
@@ -42,7 +42,7 @@ The above calculation outputs 0.4025..., which, in a sense, means that SSC surve
 
 ### Comparison with all SSC respondents
 
-![](https://i.imgur.com/h7vllAm.png)
+![](https://images.nunosempere.com/blog/2023/01/16/hbd-ea/q_hbd_all.png)
 
 ## Code to replicate this
 

@@ -16,7 +16,7 @@ Originally published here: [https://quri.substack.com/p/interim-update-on-our-wo
 - In addition to the EA forum post, there is also an [Airtable](https://airtable.com/shrndjfwgDrv9eiYK) sheet, with filters for promisingness and other characteristics. This hasn't been updated since the original iteration in 2020. Initially, it was an experiment that could have been built upon, but it ended up being messier and thus abandoned.
     
 
-![](https://i.imgur.com/ne6D4Ps.png)
+![](https://images.nunosempere.com/blog/2023/01/19/interim-update-cause-candidates/airtable-cause-candidates.png)
 
 ## As of now:
 
