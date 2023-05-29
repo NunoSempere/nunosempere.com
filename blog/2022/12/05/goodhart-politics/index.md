@@ -19,7 +19,7 @@ So each side is skilled at articulating its opponent's weakeness, but is not as 
 
 The root of the problem is that both sides of this debate are in the wrong. Each side contains an [inherent rhetorical contradiction](https://en.wikipedia.org/wiki/Aporia#Definitions): they advocate for an imperfect mechanism that doesn't always prioritize human flourishing, while not realizing the degree to which it will not. This is my diagnosis for the current political stalemate.
 
-![Three arrows pointing in roughly the same direction, but with small differences. Two arrows represent two ideologies, another represents human flourishing. Although the human flourishing arrows and the ideology arrows seem close, they eventually start to diverge.](https://i.imgur.com/tlCqq4q.png)
+![Three arrows pointing in roughly the same direction, but with small differences. Two arrows represent two ideologies, another represents human flourishing. Although the human flourishing arrows and the ideology arrows seem close, they eventually start to diverge.](https://images.nunosempere.com/blog/2022/12/05/goodhart-politics/diagram-1.png)
 
 ### Proposed solutions
 
