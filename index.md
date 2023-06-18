@@ -5,7 +5,7 @@ I'm Nu&#xF1;o Sempere. I [do research](https://quantifieduncertainty.org/), [wri
 ### Highlights
 
 1. [Estimating value](https://forum.effectivealtruism.org/s/AbrRsXM2PrCrPShuZ): How do we get to expected value calculations?
-2. [Forecasting Newsletter](https://forecasting.substack.com/): What is up in the world of forecasting?
+2. [Consulting](https://nunosempere.com/consulting/): Do you want to pay me well to produce value in the world?
 3. [Metaforecast](https://metaforecast.org/): A search engine for probabilities
 
 ### Readers might also wish to...

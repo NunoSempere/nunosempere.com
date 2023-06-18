@@ -1,0 +1,111 @@
+<h1>People&rsquo;s choices determine a partial ordering over people&rsquo;s desirability</h1>
+
+<p>Consider:</p>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+<p>$$ \delta_{i}(a, b) = \begin{cases}
+    -1 \text{ if person i has chosen person b over person a} \\
+    0 \text{ if person i has not made a choice between person a and person b} \\
+    1 \text{ if person i has chosen person a over person b}
+\end{cases}
+$$
+$$ a \le b \text{ iff } \sum_{i} \delta_{i}(a, b) &lt; 0$$</p>
+
+<h3>Is this a partial ordering?</h3>
+
+<p>For a relationship to be a <a href="https://en.wikipedia.org/wiki/Partially_ordered_set#Partial_orders">partial ordering</a>, it has to be the case that:</p>
+
+<p>$$ a \le a \text{ (Reflexivity)} $$
+$$ (a \le b) \land (b \le a) \implies a = b \text{ (Antisymmetry)}$$
+$$ (a \le b) \land (b \le c) \implies a \le c \text{ (Transitivity)}$$</p>
+
+<p><strong>Antisymmetry</strong></p>
+
+<p>We do get antisymmetry, since it can&rsquo;t be the case that both of</p>
+
+<p>$$ \sum_{i=0}^n \delta_i(a, b) &lt; 0 $$
+$$ \sum_{i=0}^n \delta_i(b, a) = - \sum_{i=0}^n \delta_i(a, b) &lt; 0 $$</p>
+
+<p><strong>Reflexivity</strong></p>
+
+<p>We can also get reflexivity, by dictating that \( a \le a \).</p>
+
+<p><strong>Transitivity</strong></p>
+
+<p>We don&rsquo;t get transitivity for free, because you could have a rock-papers-scissors situation. For example, consider a situation where you have a, an attractive celebrity, b, the less attractive but still pretty cool friend of that celebrity, and c, the husband of a&rsquo;s childhood sweetheart. Then:</p>
+
+<ul>
+<li>\( b \le a \), because of the people who choose between a and b, they mostly choose a</li>
+<li>\( c \le b \), because of the people who choose between b and c, they mostly choose b</li>
+<li>\( a \le c \), because the only person who chooses between a and c is c&rsquo;s wife, who chooses c</li>
+</ul>
+
+
+<p>And if fact you do see this kind of thing in <a href="https://en.wikipedia.org/wiki/Alternative_mating_strategy#Common_side-blotched_lizard_%28Uta_stansburiana%29">some animals</a>.</p>
+
+<blockquote><p>With regard to their throat color, the males of the common side-blotched lizard can also be distinguished into three morphotypes which compete against each other for reproduction. Males with an orange-colored throat aggressively claim a large territory for themselves to build a harem. Meanwhile, the males with a blue-colored throat are less dominant, but guard their mating partner from other males. Finally, males with a yellow-colored throat mimic the female phenotype and rely on a sneaking strategy. From that polymorphism, a rock-paper-scissor like game emerges: the dominant orange-colored males take females from the blue-colored males by force, the blue-colored males are able to protect their females from the yellow-colored males, which in turn are able to sneak into the harem of orange-colored males.
+&ndash;Wikipedia, <a href="https://en.wikipedia.org/wiki/Alternative_mating_strategy#Common_side-blotched_lizard_%28Uta_stansburiana%29">Alternative mating strategy: Common side-blotched lizard</a></p></blockquote>
+
+<p>Even worse, you might still have a situation where</p>
+
+<ul>
+<li>70% of people are indifferent between a and b, and 30% prefer a</li>
+<li>70% of people are indifferent between b and c, and 30% prefer b</li>
+<li>70% of people are indifferent between c and a, and 30% prefer c</li>
+</ul>
+
+
+<h3>Attaining transitivity</h3>
+
+<p>However, we might have the intuition that these types of loops are <em>rare</em>. And so we can define a second relationship:</p>
+
+<div style="margin-right: 5em;">
+$$\begin{eqnarray} 
+a \le_2 b \text{ iff } \nonumber \\ 
+&\text{ there exists some chain such that } a \le x_1 \le ... \le x_n \le b \text{, possibly just } a \le b \tag{1} \\
+&\text{ AND there is no chain such that } b \le x_1 \le ... \le x_n \le a \tag{2} \\
+&\text{ AND there is no chain such that } c \le y_1 \le ... \le y_l \le a \le x_1 \le ... \le x_m \le b \le z_1 \le ... \le z_n \le c \tag{3}\\
+\end{eqnarray}$$
+</div>
+
+
+<p>So basically, we synthetically force transitivity, but we remove the places where there are loops, to preserve antisymmetry.</p>
+
+<p>Now, if \(a \le_2 b\) and \(b \le_2 c \), then \( a \le_2 c \), because we can concatenate the chains from (1), and staring at the other two properties should also convince the reader that they are fulfilled.</p>
+
+<h3>How does this look?</h3>
+
+<p>So now we have a partial ordering. There is no absolute highest or lowest point, but there is some notion of higher and lower:</p>
+
+<p><img src="https://images.nunosempere.com/blog/2023/06/17/ordering-romance/relative-ordering2.png" alt="" /></p>
+
+<p>Blue and green might be two partially overlapping social groups, red a separate clique, and purple someone who married their childhood sweetheart.</p>
+
+<h3>But why think about this?</h3>
+
+<p>I think grounding thoughts on people&rsquo;s choices has the potential to cut through a bunch of bullshit and platitudes. Personally, I am interested in occasionally using these concepts to make inferences about what people&rsquo;s future chances and choices are. For example, I want to be able to notice that past romantic success is correlated with future romantic success, or to notice that some actions result in sliding down the graph induced by people&rsquo;s choices, or pay some attention to what characteristics correlate with being up in the graph.</p>
+
+<hr />
+
+<h3>Some details</h3>
+
+<p>The choice by person \(i\) for \(b\) over \(a\) could be explicit, e.g., if there was an explicit moment in which the decision was made. Or it could be implicit, e.g., if person \(i\) could have chosen to go after \(a\) but chose to go after \(b\) instead. You could also have levels of indirection, e.g. &ldquo;if a prediction market was formed on whether \(i\) would choose \(a\) or \(b\) if the opportunity presented itself, would option \(b\) be above 50%?&rdquo;.</p>
+
+<p>The advantage of the explicit version is that it&rsquo;s well defined: people sometimes choose someone over someone else. The problem with it is that people don&rsquo;t do that often, so that set of relationships will be very sparse. In contrast, the advantage of the implicit version is that it&rsquo;s less sparse, but it comes at the cost of a fair amount of hand-waving, and it&rsquo;s not clear that we should care about it, given that it represent choices that people wouldn&rsquo;t naturally make.</p>
+
+<hr />
+
+<p>equal if there is some loop
+So you can&rsquo;t have even a partial ordering, when considering the pseudo-ordering determined by people&rsquo;s <em>actual</em> choices.</p>
+
+<p>That said, we could try to consider the pseudo-ordering determined by people&rsquo;s <em>hypothetical</em> choices, e.g., as would be predicted by a prediction market. In particular, consider</p>
+
+<p>$$ a \le b \text{ iff } \sum_{i=0}^n \delta_i(a, b) &lt; \sum_{i=0}^n \delta_i(b, a)  $$
+$$ \delta_i(a, b) = \text{ 1 if person i would choose a over b, 0 otherwise }$$</p>
+
+<p>Then we <em>still</em> don&rsquo;t get transitivity, since we can&rsquo;t necessarily assume that people decide rationally, i.e.,, according to VNM axioms, or even without having cyclical preferences.</p>

@@ -1,7 +1,7 @@
 Relative values for animal suffering and ACE Top Charities
 ==========================================================
 
-tl;dr: In this post, I present relative estimates for animal suffering and 2022 top Animal Charity Evaluators (ACE) charities. I am doing this to showcase a new tool from the Quantified Uncertainty Research Institute (QURI) and to present an alternative to ACE's current rubric-based approach.
+tl;dr: I present relative estimates for animal suffering and 2022 top Animal Charity Evaluators (ACE) charities. I am doing this to showcase a new tool from the Quantified Uncertainty Research Institute (QURI) and to present an alternative to ACE's current rubric-based approach.
 
 ### Introduction and goals
 
@@ -32,8 +32,6 @@ There is also a view plotting [uncertainty vs value](https://relative-values-git
 #### Expected quality of the model
 
 I expect these estimates to have numerous flaws. Previously, I worked on an aggregator for forecasts called Metaforecast, as part of which I assigned a “stars rating” to quickly signal the expected quality of probabilities from different platforms. If I applied that same rating here, these estimates would have a stars quality rating of one out of five possible stars, at most.
-
-One particular flaw that reviewers highlighted is that these estimates are in terms of what I value, after short amount of reflection——as opposed to e.g., what the whole Effective Altruism community would value after a whole lot of reflection, or as opposed to any particular fleshed-out philosophical view. I mostly chose to do this for speed. Future estimates in this vain might want to something more sophisticated, like letting the user input their own values, or letting the user choose between several philosophical views, or aggregate them.
 
 One key insufficiency of these estimates is that they estimate what I personally value after a short amount of reflection. They don't necessarily represent what the entire Effective Altruism community or any particular philosophical viewpoint might value after in-depth reflection. I chose this approach mainly for efficiency. Future iterations might adopt a more sophisticated approach, such as allowing users to input their own values, or selecting from several philosophical perspectives, or aggregating them.
 
@@ -187,7 +185,7 @@ z = x * y (z/x) / y
 
 I’ve usually shortened SampleSet.fromDist to just “ss.”
 
-As a note of caution, note that mantaining correlations while having mixtures of different distributions is more tricky.
+As a note of caution, note that maintaining correlations while having mixtures of different distributions is more tricky.
 
 ### Conclusion
 
@@ -196,7 +194,7 @@ This post presents a model that starts with very rough estimates of the value of
 The motives for doing that were:
 
 - To showcase some tooling recently built at QURI
-- To show one possible path for having quantified estimates for speculative projects—as opposed to the rubric-based approach that organizations like ACE or Charity Entrepeneurship use.
+- To show one possible path for having quantified estimates for speculative projects—as opposed to the rubric-based approach that organizations like ACE or Charity Entrepreneurship use.
 
 ### Acknowledgements
 
