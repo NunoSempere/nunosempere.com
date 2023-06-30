@@ -5,7 +5,7 @@ WILL MACAVOY is an aging news anchor who, together with his capable but amoral e
 
 Over the course of three seasons, MACKENZIE MCHALE imprints her idealistic and principled journalistic style on an inexperienced news team, whom she mentors and cultivates. She also infects MACAVOY and DON KEEFER, who, given the chance also choose to report newsworthy events over populistic gossip. All the while, CHARLIE SKINNER insulates that budding team from pressures from the head honchos to optimize for views and to not antagonize poweful political figures, like the Koch brothers. His power isn't infinite, but it is ENOUGH to make the new team, despite trials and tribulations, flourish. 
 
--><iframe title="You know how? We just decided to." src="https://video.nunosempere.com/videos/embed/e8cc8e0b-1605-41fc-a809-27b294197d23" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="1200" height="700" frameborder="0"></iframe><-
+-><iframe title="You know how? We just decided to." src="https://video.nunosempere.com/videos/embed/e8cc8e0b-1605-41fc-a809-27b294197d23" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" frameborder="0" style="width: 100%; height: 50vw" ></iframe><-
 
 Towards the end of the series, the work of the underlings ends up convincing the head honchos, LEANA and REESE LANSING, that having news reporting that is not crap is something that they, too, desire, and that they are willing to sacrifice some profits to nourish. This becomes relevant when the parent company confronts a hostile takeover, and the LANSINGS have to make a conscious choice to exert their efforts to preserve their news division, which they have come to cherish as a valuable public good.
 
