@@ -1,7 +1,7 @@
 Sometimes you give to the commons, and sometimes you take from the commons
 ==========================================================================
 
-Sometimes you give to the commons, and sometimes you take from the commons. And through this giving and taking, people are able to smooth consumption. This is good because getting more ressources from the commons when you temporarily have fewer of them is more positive than giving ressources away when you temporarily have more of them. <figure> <img src="https://i.imgur.com/eiwMyEI.jpg"><br><figcaption> Engraving depicting the curse of [Tantalus](https://en.wikipedia.org/wiki/Tantalus) </figcaption> </figure>
+Sometimes you give to the commons, and sometimes you take from the commons. And through this giving and taking, people are able to smooth consumption. This is good because getting more ressources from the commons when you temporarily have fewer of them is more positive than giving ressources away when you temporarily have more of them. <figure> <img src="https://images.nunosempere.com/blog/2022/10/17/the-commons/tantalus.jpg"><br><figcaption> Engraving depicting the curse of [Tantalus](https://en.wikipedia.org/wiki/Tantalus) </figcaption> </figure>
 
 Anyways, a phenomenon I've noticed is that sometimes, you can only give to the commons, but you can't take from the commons. This is dysfunctional, and defeats the whole purpose of the commons.
 

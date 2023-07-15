@@ -25,7 +25,7 @@ Browse past newsletters [here](https://forecasting.substack.com/), or view this
 
 ### PredictIt, Kalshi & the CFTC
 
-<img src="https://i.imgur.com/6k0Oz4A.jpg" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2022/10/12/forecasting-newsletter-september-2022/simpsons.jpg" class='.img-medium-center'>
 
 America, Land of the Free
 
@@ -109,7 +109,7 @@ Nostalgebraist looks at [AI forecasting one year in](https://nostalgebraist.tum
 
 [Samotsvety Forecasting](https://samotsvety.org/), my forecasting group, looks at the probability of [various AI catastrophes](https://forum.effectivealtruism.org/posts/EG9xDM8YRz4JN4wMN/samotsvety-s-ai-risk-forecasts) in the future, and at the [risk of a nuclear bomb being used](https://forum.effectivealtruism.org/posts/2nDTrDPZJBEerZGrk/samotsvety-nuclear-risk-update-october-2022) ([a](https://web.archive.org/web/20221012124008/https://forum.effectivealtruism.org/posts/2nDTrDPZJBEerZGrk/samotsvety-nuclear-risk-update-october-2022)) in the coming months (see also a [follow-up](https://forum.effectivealtruism.org/posts/8k9iebTHjdRCmzR5i/overreacting-to-current-events-can-be-very-costly) by Kelsey Piper).
 
-<img src="https://i.imgur.com/rPuKJCg.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2022/10/12/forecasting-newsletter-september-2022/russia-nuclear-weapon.png" class='.img-medium-center'>
 
 Taken from [Polymarket](https://polymarket.com/market/will-russia-use-a-nuclear-weapon-before-2023). Note that money is worth less in the event of a nuclear war.
 
