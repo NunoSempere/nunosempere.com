@@ -39,7 +39,7 @@ Metaculus [erroneously resolved](https://nitter.it/daniel_eth/status/15768425032
 
 An edition of the [Manifold Markets newsletter](https://news.manifold.markets/p/above-the-fold-visualising-market) ([a](https://web.archive.org/web/20221115163946/https://news.manifold.markets/p/above-the-fold-visualising-market)) includes this neat visualization of a group of markets through time:
 
-[<img src="https://i.imgur.com/36ev880.gif" class='.img-medium-center'>](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6a94b58-5e91-4645-ac9d-51465d75cd84_1440x450.gif)
+<img src="https://images.nunosempere.com/blog/2022/11/15/forecasting-newsletter-for-october-2022/manifold.gif" class='.img-medium-center'>
 
 Manifold's [newsletter](https://news.manifold.markets/p/above-the-fold-visualising-market) ([a](https://web.archive.org/web/20221115163946/https://news.manifold.markets/p/above-the-fold-visualising-market)) also has further updates, including on their bot for Twitch. They continue to have a high development speed.
 
@@ -69,7 +69,7 @@ The [$5k challenge to quantify the impact of 80,000 hours' top career paths](htt
 
 Katja Grace looks at her [calibration in 1000 predictions](https://worldspiritsockpuppet.substack.com/p/calibration-of-a-thousand-predictions) ([a](https://web.archive.org/web/20221115164233/https://worldspiritsockpuppet.substack.com/p/calibration-of-a-thousand-predictions)):
 
-[<img src="https://i.imgur.com/FHAGMbl.png" class='.img-medium-center'>](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65bf5450-edef-4e2d-bd1e-c8ee9fbca01a_648x630.png)
+<img src="https://images.nunosempere.com/blog/2022/11/15/forecasting-newsletter-for-october-2022/calibration-katja-grace.png" class='.img-medium-center'>
 
 Callum McDougall writes [Six (and a half) intuitions for KL divergence](https://www.perfectlynormal.co.uk/blog-kl-divergence) ([a](https://web.archive.org/web/20221112073956/https://www.perfectlynormal.co.uk/blog-kl-divergence)).
 
@@ -83,7 +83,7 @@ I came across this really neat explanation of Markov Chain Monte Carlo: [Markov 
 
 Sam Nolan &co create estimates [explicitly quantifying](https://forum.effectivealtruism.org/posts/Nb2HnrqG4nkjCqmRg/quantifying-uncertainty-in-givewell-ceas) ([a](https://archive.ph/0kY8q)) the uncertainty in GiveWell’s cost-effectiveness analyses.
 
-[<img src="https://i.imgur.com/1VifplX.png" class='.img-medium-center'>](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93e54c3d-f5df-495a-90e8-d3dc3482e2ef_1462x567.png)
+<img src="https://images.nunosempere.com/blog/2022/11/15/forecasting-newsletter-for-october-2022/probability-distributions-givewell.png" class='.img-medium-center'>
 
 ---
 

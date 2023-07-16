@@ -7,7 +7,7 @@ Following up on [Simple estimation examples in Squiggle](https://forum.effectiv
 
 As well as in the [playground](https://www.squiggle-language.com/playground), Squiggle can also be used inside [VS Code](https://code.visualstudio.com/), after one installs [this extension](https://github.com/quantified-uncertainty/squiggle/tree/develop/packages/vscode-ext), following the instructions [here](https://github.com/quantified-uncertainty/squiggle/blob/develop/packages/vscode-ext/README.md). This is more convenient when working with more advanced models because models can be more quickly saved, and the overall experience is nicer.
 
-<img src='https://i.imgur.com/ldmrmmX.png' class='.img-medium-center'>
+<img src='https://images.nunosempere.com/blog/2022/10/10/five-slightly-more-hardcore-squiggle-models/squiggle-vscode.png' class='.img-medium-center'>
 
 ## Models
 
@@ -49,11 +49,11 @@ xriskThroughAps(t) = advancedPowerSeekingAIBy(t) * xriskIfAPS(t)
 
 This produces the cumulative and instantaneous probability of “advanced power-seeking AI” by/at each point in time:
 
-<img src='https://i.imgur.com/7wlIKtp.png' class='.img-medium-center'>
+<img src='https://images.nunosempere.com/blog/2022/10/10/five-slightly-more-hardcore-squiggle-models/squiggle-charts-agi.png' class='.img-medium-center'>
 
 And then, assuming a constant 95% probability of x-risk given advanced power-seeking AGI, we can get the probability of such risk by every point in time:
 
-<img src='https://i.imgur.com/hPuGhUE.png' class='.img-medium-center'>
+<img src='https://images.nunosempere.com/blog/2022/10/10/five-slightly-more-hardcore-squiggle-models/probability-ai-xrisk-at-each-point-in-time.png' class='.img-medium-center'>
 
 Now, the fun is that the x-risk is in fact not constant. If AGI happened tomorrow we’d be much less prepared than if it happens in 70 years, and a better model would incorporate that. 
 
@@ -64,7 +64,7 @@ For individual forecasts, rather than for models which combine different forecas
 In the [preceding post](https://forum.effectivealtruism.org/posts/vh3YvCKnCBp6jDDFd/simple-estimation-examples-in-squiggle#Expected_value_for_a_list_of_things__complexity___2_10_), I presented some quick relative estimates for possible career pathways. Shortly after that, Benjamin Todd reached out about estimating the value of various career pathways he was considering. As a result, I created [this more complicated spreadsheet](https://docs.google.com/spreadsheets/d/1QATMTzLUdmxBqD2snhiAkH-_KvwbhGdlYaU8Ho7kjDY/edit?usp=sharing):  
  
 
-<img src='https://i.imgur.com/MT1aVtk.png' class='.img-medium-center'>
+<img src='https://images.nunosempere.com/blog/2022/10/10/five-slightly-more-hardcore-squiggle-models/benjamin-todd.png' class='.img-medium-center'>
 
 You can see a higher quality version of this image here: <[https://i.imgur.com/hvq0SeM.png](https://www.google.com/url?q=https://i.imgur.com/hvq0SeM.png&sa=D&source=docs&ust=1665398336469760&usg=AOvVaw1SMBMKFOfTRKgaOAsxR9np)\>
 
@@ -103,13 +103,12 @@ valueOfInterventionInPopulation(num_beneficiaries, population_age_distribution, 
 
 Then we are saying that we are reaching 1000 people, whose age distribution looks like this:
 
-<img src='https://i.imgur.com/GvyMyqW.png' class='.img-medium-center'>
-
-This could use a bit more work to resemble an actual population pyramid.
+<img src='https://images.nunosempere.com/blog/2022/10/10/five-slightly-more-hardcore-squiggle-models/population-pyramid.png' class='.img-medium-center'>
+<figcaption>This could use a bit more work to resemble an actual population pyramid.</figcaption>
 
 and that the benefit is just the remaining life expectancy. This produces the following estimate, in person-years:
 
-<img src='https://i.imgur.com/BSbneRi.png' class='.img-medium-center'>
+<img src='https://images.nunosempere.com/blog/2022/10/10/five-slightly-more-hardcore-squiggle-models/amf-person-years.png' class='.img-medium-center'>
 
 But the assumptions we have used aren’t very realistic. We are essentially assuming that we are creating clones of people at different ages, and that they wouldn’t die until the end of their natural 40 to 50-year lifespan.
 
@@ -203,7 +202,7 @@ That is, we are modelling this example intervention of halving child mortality, 
 
 But for reference, the distribution’s impact looks as follows:
 
-<img src="https://i.imgur.com/bejosHk.png" class='.img-medium-center'>
+<img src="https://images.nunosempere.com/blog/2022/10/10/five-slightly-more-hardcore-squiggle-models/probability-ai-xrisk-at-each-point-in-time.png" class='.img-medium-center'>
 
 ### Calculate optimal allocation given diminishing marginal values
 
@@ -267,7 +266,7 @@ The code is a bit too large to simply paste into an EA Forum post, but it can be
 
 We can also look at the impact that various interventions have on our toy world, with further details [here](https://docs.google.com/spreadsheets/d/1WnplTYJJMeh0zXVUTPBaihE7n1kneW5LDidLvJcGcv4/edit?usp=sharing):
 
-<img src='https://i.imgur.com/HCg2g5r.png' class='.img-medium-center'>
+<img src='https://images.nunosempere.com/blog/2022/10/10/five-slightly-more-hardcore-squiggle-models/toy-world.png' class='.img-medium-center'>
 
 We see that of the sample interventions, increasing population growth by 0.5% has the highest impact. But 0.5%/year is a pretty large amount, and it would be pretty difficult to engineer. So further work could look at the relative difficulty of each of those interventions. Still, that table may serve to make a qualitative argument that interventions such as increasing population growth, economic growth, or reducing existential risk, are probably more valuable than directly increasing consumption.
 

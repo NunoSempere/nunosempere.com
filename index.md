@@ -10,4 +10,4 @@ I'm Nu&#xF1;o Sempere. I [do research](https://quantifieduncertainty.org/), [wri
 
 ### Readers might also wish to...
 
-...read the [gossip](/gossip) page, visit my [blog](/blog), or [sign up for my newsletter](/.subscribe).
+...read the [gossip](/gossip) page, visit my [blog](/blog), or [sign up for my newsletter](/.newsletter)

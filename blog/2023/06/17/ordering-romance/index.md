@@ -1,11 +1,19 @@
 People's choices determine a partial ordering over people's desirability
 ========================================================================
 
-Consider:
+Consider the following relationship:
+
+
+
+
+
+
+
+
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-$$ \delta_{i}(a, b) = \begin{cases}    -1 \text{ if person i has chosen person b over person a} \\ 0 \text{ if person i has not made a choice between person a and person b} \\    1 \text{ if person i has chosen person a over person b} \end{cases} $$
+$$ \delta_{i}(a, b) = \begin{cases}    -1 \text{ if person i has chosen person b over person a} \\ 0 \text{ if person i has not made a choice between person a and person b} \\    1 \text{ if person i has chosen person a over person b} \end{cases} $$</div>
 $$ a \le b \text{ iff } \sum_{i} \delta_{i}(a, b) < 0$$
 
 ### Is this a partial ordering?

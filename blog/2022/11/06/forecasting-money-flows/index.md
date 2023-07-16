@@ -5,7 +5,7 @@ This list of forecasting organizations includes:
 
 *   A brief description of each organization
 *   A monetary estimate of value. This can serve as a rough but hard-to-fake proxy of value. Sometimes this is a flow (e.g., budget per year), and sometimes this is an estimate of total value (e.g., valuation).
-* A more subjective, rough, and verbal estimate of how much value the organization produces. <p><figure><img src="https://i.imgur.com/gqCTHMq.png" class="img-frontpage-center"><br><figcaption>DALLE: "crystal ball surrounded by money, photorealistic"</figcaption></figure></p>
+* A more subjective, rough, and verbal estimate of how much value the organization produces. <p><figure><img src="https://images.nunosempere.com/blog/2022/11/06/forecasting-money-flows/crystall-ball.png" class="img-frontpage-center"><br><figcaption>DALLE: "crystal ball surrounded by money, photorealistic"</figcaption></figure></p>
 
 This started as a breadth first evaluation of the forecasting system, and to some extent it still is, i.e., it might be useful to get a rough sense of the ecosystem as a whole. After some discussion on whether very rough evaluations [are worth it](https://nunosempere.com/blog/2022/10/27/are-flimsy-evaluations-worth-it/) ([a](http://web.archive.org/web/20221031125900/https://nunosempere.com/blog/2022/10/27/are-flimsy-evaluations-worth-it/)), people who prefer their evaluations to have a high threshold of quality and polish might want to either ignore this post or just pay attention to the monetary estimates.
 
