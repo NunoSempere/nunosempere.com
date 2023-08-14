@@ -30,7 +30,7 @@
 %   cat $h
 
     %($"extraHeaders%)
-    <script data-isso="//comments.nunosempere.com/"   src="//comments.nunosempere.com/js/embed.min.js"></script>
+    <script data-isso="//comments.nunosempere.com/" data-isso-max-comments-top="inf" data-isso-max-comments-nested="inf" data-isso-postbox-text-text-en="On the Internet, nobody knows you are a dog" src="//comments.nunosempere.com/js/embed.min.js"></script>
 
 % # To add math
 % # <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>

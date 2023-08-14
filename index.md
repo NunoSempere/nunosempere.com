@@ -1,4 +1,4 @@
-I'm Nu&#xF1;o Sempere. I [do research](https://quantifieduncertainty.org/), [write software](https://github.com/NunoSempere/), and [predict the future](https://samotsvety.org/).
+I'm Nu&#xF1;o Sempere. I [do research](https://nunosempere.com/blog), [write software](https://github.com/NunoSempere/), and [predict the future](https://samotsvety.org/).
 
 <img src="https://images.nunosempere.com/top/me.jpg" alt="image of myself" class="img-frontpage-center"> 
 
@@ -10,4 +10,4 @@ I'm Nu&#xF1;o Sempere. I [do research](https://quantifieduncertainty.org/), [wri
 
 ### Readers might also wish to...
 
-...read the [gossip](/gossip) page, visit my [blog](/blog), or [sign up for my newsletter](/.newsletter)
+...read the [gossip](/gossip) page, visit my [blog](/blog). 
