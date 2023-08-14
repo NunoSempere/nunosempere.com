@@ -21,21 +21,21 @@ squiggle.c
 
 You can follow some example usage in the examples/ folder
 
-1. In the [1st example](examples/01_one_sample/example.c), we define a small model, and draw one sample from it
-2. In the [2nd example](examples/02_many_samples/example.c), we define a small model, and return many samples
-3. In the [3rd example](examples/03_gcc_nested_function/example.c), we use a gcc extension—nested functions—to rewrite the code from point 2. in a more linear way.
-4. In the [4th example](examples/04_sample_from_cdf_simple/example.c), we define some simple cdfs, and we draw samples from those cdfs. We see that this approach is slower than using the built-in samplers, e.g., the normal sampler.
-5. In the [5th example](examples/05_sample_from_cdf_beta/example.c), we define the cdf for the beta distribution, and we draw samples from it. 
-6. In the [6th example](examples/06_gamma_beta/example.c), we take samples from simple gamma and beta distributions, using the samplers provided by this library.
-7. In the [7th example](examples/07_ci_beta/example.c), we get the 90% confidence interval of a beta distribution
-8. The [8th example](examples/08_nuclear_war/example.c) translates the models from Eli and Nuño from [Samotsvety Nuclear Risk Forecasts — March 2022](https://forum.nunosempere.com/posts/KRFXjCqqfGQAYirm5/samotsvety-nuclear-risk-forecasts-march-2022#Nu_o_Sempere) into squiggle.c, then creates a mixture from both, and returns the mean probability of death per month and the 90% confidence interval.
-8. The [9th example](examples/09_burn_10kg_fat/example.c) estimates how many minutes per day I would have to jump rope in order to lose 10kg of fat in half a year. 
+1. In the [1st example](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/examples/01_one_sample/example.c), we define a small model, and draw one sample from it
+2. In the [2nd example](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/examples/02_many_samples/example.c), we define a small model, and return many samples
+3. In the [3rd example](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/examples/03_gcc_nested_function/example.c), we use a gcc extension—nested functions—to rewrite the code from point 2. in a more linear way.
+4. In the [4th example](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/examples/04_sample_from_cdf_simple/example.c), we define some simple cdfs, and we draw samples from those cdfs. We see that this approach is slower than using the built-in samplers, e.g., the normal sampler.
+5. In the [5th example](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/examples/05_sample_from_cdf_beta/example.c), we define the cdf for the beta distribution, and we draw samples from it. 
+6. In the [6th example](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/examples/06_gamma_beta/example.c), we take samples from simple gamma and beta distributions, using the samplers provided by this library.
+7. In the [7th example](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/examples/07_ci_beta/example.c), we get the 90% confidence interval of a beta distribution
+8. The [8th example](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/examples/08_nuclear_war/example.c) translates the models from Eli and Nuño from [Samotsvety Nuclear Risk Forecasts — March 2022](https://forum.nunosempere.com/posts/KRFXjCqqfGQAYirm5/samotsvety-nuclear-risk-forecasts-march-2022#Nu_o_Sempere) into squiggle.c, then creates a mixture from both, and returns the mean probability of death per month and the 90% confidence interval.
+8. The [9th example](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/examples/09_burn_10kg_fat/example.c) estimates how many minutes per day I would have to jump rope in order to lose 10kg of fat in half a year. 
 
 ## Commentary
 
 ### squiggle.c is short
 
-[squiggle.c](squiggle.c) is less than 500 lines of C. The reader could just read it and grasp its contents.
+[squiggle.c](https://git.nunosempere.com/personal/squiggle.c/src/branch/master/squiggle.c) is less than 500 lines of C. The reader could just read it and grasp its contents.
 
 ### Core strategy
 

@@ -29,11 +29,11 @@ But one could also imagine a society of extremely capable humans that were all u
 
 To some extent, classic science-fiction provides templates of lives lived more like the second paragraph, rather than like the first. My personal understanding of the concept of privilege, in the social justice sense, has an element of richer kids having access to better strategies to imitate: learning English, creating one's own business, making friends who are productive in a capitalist society, and so on. But this still falls very much short of peak awesomeness.
 
-This might suggests that it could be of value to create and promote literature and media that gives sketches of strategies and life trajectories that could be fruitfully imitated, that are better than existing life templates. One such piece might be [A Message to Garcia](https://courses.csail.mit.edu/6.803/pdf/hubbard1899.pdf).
+This might suggest that it could be of value to create and promote literature and media that gives sketches of strategies and life trajectories that could be fruitfully imitated, that are better than existing life templates. One such piece might be [A Message to Garcia](https://courses.csail.mit.edu/6.803/pdf/hubbard1899.pdf).
 
 Possible next steps:
 
-1. Anayyze Effective Altruism, its goals and actions, through the lense of Girard's theory of mimesis.
+1. Analyze Effective Altruism, its goals and actions, through the lens of Girard's theory of mimesis.
 2. Greatly increase the production of beneficial memes. Attempt to narrate a better humanity into existence.
 3. Make bibliographies and life histories of great people more widely available.
 4. Interview a few of the most formidable people you can get your hands on.
@@ -42,11 +42,11 @@ Possible next steps:
 
 ### 1.2. Role models
 
-I can pinpoint the people who had the most influence on my proffessional career. They are a bit older than me, and I had good enough models of their work that I could at times steal some of their strategies.
+I can pinpoint the people who had the most influence on my professional career. They are a bit older than me, and I had good enough models of their work that I could at times steal some of their strategies.
 
 Some of the strategies I've copied are: explore the rationality community, get into EA, become an independent researcher, go to a summer fellowship at the Future of Humanity Institute, work on forecasting research, or incorporate programming into research. And so at a conference earlier last year, it turned out that I was not the only Spanish effective altruist forecasting researcher/programmer with a beard. But I'm more disagreeable, less social, and less into AI than both Jacob and Jaime, and don't work on the same sub-field, which means that I can't implement quite the same strategies. And so as time goes on, it becomes harder for me to find mentors or role models, i.e., people I know well enough and are similar enough that I can mimic their strategies.
 
-In general, seems plausible that people's role models could have a large influence on their life trajectories. So perhaps we could make people better, harder, faster, stronger, by bringing better role models to their attention, or by more directly matching them with better mentors.
+In general, it seems plausible that people's role models could have a large influence on their life trajectories. So perhaps we could make people better, harder, faster, stronger, by bringing better role models to their attention, or by more directly matching them with better mentors.
 
 I think that substantial efforts could be fruitfully spent in this area.
 
@@ -64,19 +64,19 @@ I think that this fear of powerful humans is more a symptom than a cause. Still,
 
 It's also possible that the fear of powerful humans was pretty much justified in the past, in which case I would instead want to see better ways to align powerful humans, or some thinking about whether powerful humans in our current environment do in expectation more harm than good. 
 
-One story one could tell is that in previous century powerful people mostly were so because they had power directly over their servants, slaves and serfs—but that in the current capitalist market economy, powerful humans mostly are so because they have produced great value. But looking at, for instance, Bill Gates, I actually don't know whether Microsoft has done more harm than good compared to what would otherwise have happened.
+One story one could tell is that in previous centuries powerful people mostly were so because they had power directly over their servants, slaves and serfs—but that in the current capitalist market economy, powerful humans mostly are so because they have produced great value. But looking at, for instance, Bill Gates, I actually don't know whether Microsoft has done more harm than good compared to what would otherwise have happened.
 
 There are other possible stories in this vein, e.g., maybe trying to become more formidable requires removing some type of load-bearing constraint, but then once that is removed, people fall into existential dread or into psychopathy. I mostly don't buy it though.
 
 Possible next steps:
 
 - Figure out whether powerful humans do more good or more harm in our current environment
-- If they powerful humans do more good than harm, work to change the perceptions of power so that becoming greatly powerful seems more desirable, and work on becoming greatly more powerful ourselves.
+- If the powerful humans do more good than harm, work to change the perceptions of power so that becoming greatly powerful seems more desirable, and work on becoming greatly more powerful ourselves.
 - If they do more harm than good in general, figure whether we in particular want to be more powerful, or more meek.
 
 ## 2. Value tradeoffs
 
-There are many things humans can want besides being really formidable, like niceness, welcomingness, humility, status, tranquility, stability, job security or comfort. This might a legitimate value difference. But sometimes humans do mypically go down the path of lower formidability in a way which will sabotage their future ambitions.
+There are many things humans can want besides being really formidable, like niceness, welcomingness, humility, status, tranquility, stability, job security or comfort. This might be a legitimate value difference. But sometimes humans do myopically go down the path of lower formidability in a way which will sabotage their future ambitions.
 
 ### 2.1. For want on an asshole, shit accumulated: Frank feedback probably an underprovided public good.
 
@@ -101,22 +101,22 @@ Here are a few dynamics I've noticed around criticism, ordered as bullet points:
 2. Recipients of criticism often don't care about its content.
 3. Recipients of criticism often perceive it as an attack.
 4. If the target of criticism can choose what standard of criticism is acceptable, they will tend to choose very high standards.
-5. Targets of criticism can insulate themselves against criticism by pointing out that its form or shape—as oppposed to its content—is flawed
+5. Targets of criticism can insulate themselves against criticism by pointing out that its form or shape—as opposed to its content—is flawed
 6. Producing criticism which deals with the above is expensive.
 7. In practice, producing criticism ends up being expensive.
 8. People also fear appearing disagreeable.
 9. In practice, "doing criticism well" has a strong component of acknowledging and appeasing power.
 8. Overall, this results in a suboptimal amount of criticism being produced, in contrast with the socially optimal rate.
-9. A solution to this is [Crocker's Rules](http://sl4rg/crocker.html): Publizicing one's willingness to receive more flawed criticism.
-10. At an institutional level, Crocker's rules would have to be adopted by those ultimately resposible for a given thing.
+9. A solution to this is [Crocker's Rules](http://sl4.org/crocker.html): Publicizing one's willingness to receive more flawed criticism.
+10. At an institutional level, Crocker's rules would have to be adopted by those ultimately responsible for a given thing.
 11. Many times, there isn't someone who is ultimately responsable for things. Though sometimes there is a CEO or a board of directors.
 12. When Crocker's rules are adopted, malicious, or merely status-seeking actors could exploit them to tarnish reputations or to quickly raise their status at the expense of others.
-13. In practice, my sense is that the balance of things still points towards Crocker's rules being beneficial
+13. In practice, my sense is that the balance of things still points towards Crocker's rules being beneficial.
 14. While people who care should adopt Crocker's rules, this isn't enough to deal with all the bullshit, and so more steps are needed.
 
 ### 2.2. The "hardcore optimizer" hypothesis
 
-Here is something which I've been thinking about as the "hardocore optimizer hypothesis":
+Here is something which I've been thinking about as the "hardcore optimizer hypothesis":
 
 > An actor which is under no constraints is infinitely more powerful than one neutered by many restrictions
 
@@ -124,11 +124,11 @@ Here are some constraints that I think that Open Philanthropy (a large foundatio
 
 - Legality: They are choosing not to take actions which would be illegal according to the US law.
 - The Overton Window: They are choosing for their actions to not be "beyond the pale" according to the 21st century American lefty milieu.
-- Responsability and loyalty towards their own staff: They are choosing to keep their staff around from year to year, rather than aggressively restructuring.
-- Responsability and loyalty towards past grantees: Open Philanthropy will choose to exit a cause area gracefully, rather than leaving it at once.
+- Responsibility and loyalty towards their own staff: They are choosing to keep their staff around from year to year, rather than aggressively restructuring.
+- Responsibility and loyalty towards past grantees: Open Philanthropy will choose to exit a cause area gracefully, rather than leaving it at once.
 - The "optimization is dangerous" constraint: They are choosing to not go full-steam on any one perspective, but rather to proceed cautiously and hedge their bets.
 - Bounded trust: Open Philanthropy takes long to trust people, which means that they have limited staff which has limited attention and is often busy.
-- Explainability: Open Philanthropy employees lower down the totem pole probably can't take actions or recommend grants that their superiors can't understand
+- Explainability: Open Philanthropy employees lower down the totem pole probably can't take actions or recommend grants that their superiors can't understand.
 - Do not look like assholes: Open Philanthropy generally wants to appear to be nice people.
 
 And here are a few actions that I think are unavailable to Open Philanthropy because of the above constraints:
@@ -137,10 +137,10 @@ And here are a few actions that I think are unavailable to Open Philanthropy bec
 - The Overton Window: Peter Thiel supported Trump in the Republican primary, and thereafter got some amount of influence in the beginning of the Trump administration.
 - Responsability and loyalty towards their own staff: This cuts off the option to have a Bridgewater-style churn, where you rate people intensely and then fire the bottom ¿10%? of the population every year.
 - Responsability and loyalty towards past grantees: This increases the cost of entering a new area, and thus cuts off the possibility of exploring many areas at once with fewer strings attached.
-- The "optimization is dangerous" constraint: Personally I would love to see investment in advanced forecasting and evaluation systems that would seek to equalize the values of marginal grants across cause ares. But this doesn't jibe with their "wordview diversification" approach, and so it isn't happening, or is happening slowly rather than having happened fast already.
-- Bounded trust: Open Philanthropy isn't willing to have a regranting sytem, like that of the FTX Future Fund. Their forecasting grantmaking in the past has also been sluggish and improvable.
+- The "optimization is dangerous" constraint: Personally I would love to see investment in advanced forecasting and evaluation systems that would seek to equalize the values of marginal grants across cause areas. But this doesn't jibe with their "wordview diversification" approach, and so it isn't happening, or is happening slowly rather than having happened fast already.
+- Bounded trust: Open Philanthropy isn't willing to have a regranting system, like that of the FTX Future Fund. Their forecasting grantmaking in the past has also been sluggish and improvable.
 - Explainability: Hard to give an example here, since I don't really have that much insight into their inner workings.
-- Do not look like assholes: This restricts OpenPhilanthropy's ability to call out people on bullshit, offer large monetary bets, or generally disagree with the Democratic party.
+- Do not look like assholes: This restricts Open Philanthropy's ability to call out people on bullshit, offer large monetary bets, or generally disagree with the Democratic party.
 
 And so by the time you are bound by half of those constraints, you might end up moving slowly and suboptimally. Perhaps this explains how come Open Philanthropy donated to Hypermind—a forecasting platform which I know for having a really terrible UX which didn't allow for wide enough distributions, and using an [aggregation method which ignored probabilities below 5%](https://docs.google.com/document/d/1fRg7twB2RLAc-Ey8NUj5qFUJCg-dp3yb/edit) for [predicting the state of AI in 2030](https://prod.hypermind.com/ngdp/en/showcase2/showcase.html?sc=AI2030). Instead, they could have invested in the early iteration of Manifold Markets, an innovative venture by former Google engineers with an UX infinitely superior to that of Hypermind. 
 
@@ -150,7 +150,7 @@ Hypermind isn't 60% as valuable as Manifold, it's maybe 0.1% to 2%. I think that
 
 So cultural templates discourage us from being more formidable, and then value tradeoffs and self-imposed constraints diminish our ability to influence the world. My primary suggestion is to not trade formidability and truth-seeking for other values, like comfort and social harmony—or at least to make that tradeoff consciously and sparingly.
 
-I haven't yet considered leaders. Leaders can inspire, coordinate and direct a movement. And yet sometimes we don't get the leaders we need, but have to work with those we have right now. It's not clear to me how to discuss the topic tactfully, without character-asssassinating anyone. So I'm leaving the topic alone for now.
+I haven't yet considered leaders. Leaders can inspire, coordinate and direct a movement. And yet sometimes we don't get the leaders we need, but have to work with those we have right now. It's not clear to me how to discuss the topic tactfully, without character-assassinating anyone. So I'm leaving the topic alone for now.
 
 In the meantime, the hypotheses that I've covered don't seem exhaustive. So I'm really curious about readers' own thoughts. Comments are open.
 
