@@ -248,7 +248,7 @@ Std of lognormal(0.644931, 4.795860): 39976300.711166, vs expected std: 18577298
 delta: -18537322405.459286, relative delta: -463.707799
 ```
 
-What is happening in this case is that you are taking a normal, like normal(-0.195240, 4.883106), and you are exponentiating it to arrive at a lognormal. But normal(-0.195240, 4.883106) is going to have some noninsignificant weight on, say, 18. But exp(18) = 39976300, and points like it are going to end up a nontrivial amount to the analytical mean and standard deviation, even though they have little probability mass.
+What is happening in this case is that you are taking a normal, like normal(-0.195240, 4.883106), and you are exponentiating it to arrive at a lognormal. But normal(-0.195240, 4.883106) is going to have some noninsignificant weight on, say, 18. But exp(18) = 39976300, and points like it are going to end up a nontrivial amount to the analytical mean and standard deviation, even though they have little probability mass&period;
 
 The reader can also check that for more plausible real-world values, like those fitting a lognormal to a really wide 90% confidence interval from 10 to 10k, errors aren't eggregious:
 
