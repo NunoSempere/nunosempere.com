@@ -78,9 +78,7 @@ Just-in-time Bayesianism would explain this as follows.
     \end{cases}
 \]
 
-The second estimate is the estimate produced by [Laplace's law](https://en.wikipedia.org/wiki/Rule_of_succession)---an instance of Bayesian reasoning given an ignorance prior---given one "success" (a dog biting a human) and \(n\) "failures" (a dog not biting a human).
-
-Now, because the first hypothesis assigns very low probability to what the man has experienced, a whole bunch of the probability goes to the second hypothesis. Note that the prior degree of credence to assign to this second hypothesis *isn't* governed by Bayes' law, and so one can't do a straightforward Bayesian update. 
+The second estimate is the estimate produced by [Laplace's law](https://en.wikipedia.org/wiki/Rule_of_succession)---an instance of Bayesian reasoning given an ignorance prior---given one "success" (a dog biting a human) and \(n\) "failures" (a dog not biting a human). <p>Now, because the first hypothesis assigns very low probability to what the man has experienced, a whole bunch of the probability goes to the second hypothesis. Note that the prior degree of credence to assign to this second hypothesis *isn't* governed by Bayes' law, and so one can't do a straightforward Bayesian update.</p>
 
 But now, with more and more encounters, the probability assigned by the second hypothesis, will be as \(\frac{2}{n+2}\), where \(n\) is the number of times the man interacts with a dog. But this goes down very slowly:
 
