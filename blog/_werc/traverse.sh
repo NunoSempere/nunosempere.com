@@ -7,7 +7,7 @@ for dir in */*/*
 do
 	index_path="$(pwd)/$dir/index.md"
 	title="$(cat $index_path | head -n 1)"
-	url="https://nunosempere.com/$year/$dir"
+	url="https://nunosempere.com/blog/$year/$dir"
 	# echo $dir
 	# echo $index_path
 	# echo $title

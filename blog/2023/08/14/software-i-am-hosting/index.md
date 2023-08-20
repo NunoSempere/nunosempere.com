@@ -1,4 +1,4 @@
-Software I am making available to my corner of the internet
+Webpages I am making available to my corner of the internet
 ===========================================================
 
 Here is a list of internet services that I make freely available to friends and allies, broadly defined—if you are reading this, you qualify. These are ordered roughly in order of usefulness. 
