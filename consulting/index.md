@@ -42,9 +42,21 @@ For a smaller example, in the past I've really enjoyed doing subjective estimate
 
 I am happy to host workshops, or advise on tournament or forecasting platform design. If you are looking for specific forecasts, you probably want to hire [Samotsvety](https://samotsvety.org/) instead, which can be reached out at info@samotsvety.org.
 
+### Management as a service
+
+Here is a service that I've enjoyed providing:
+
+- I meet up with someone for around one hour once a week.
+- We talk about what that person has done for the past week, and we schedule what the person is going to be doing next week.
+- We talk about what they could have done better, how they could do better in the future, and through any important decisions that the person is making.
+
+I've enjoyed providing this service to a few entrepreneurial-minded people who are doing projects independently, or who are managing their own organizations independently. They seem to value having someone who keeps track of what they're doing and keeping them accountable, someone to bounce ideas off, and the opportunity to take some time each week to reflect on what they've been doing. They also appreciate me in particular being incisive.
+
+If the above sounds interesting, I'm happy to be reached out to.
+
 ### Rates
 
-I deeply value getting hired for more hours, because each engagement has some overhead cost. Therefore, I am deeply discounting buying a larger number of hours.
+I value getting hired for more hours, because each engagement has some overhead cost. Therefore, I am discounting buying a larger number of hours.
 
 | # of hours | Cost  | Example                                                                                        |
 |------------|-------|------------------------------------------------------------------------------------------------|
@@ -72,9 +84,9 @@ My anti-client on the other hand would be someone who has already made up their 
 > 
 > &mdash;Jaime Sevilla
 
+
 ###  Further details
 
 - I am very amenable to taking on projects that would require more than one person, because I am able to bring in collaborators. I would discuss this with the potential client beforehand.
-- Operationally, payouts may go either to the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/) (a 503c charity in the US), or to my own consultancy, Shapley Maximizers ÖU, to be decided.
 
 [^1]: Note that I don't think all crypto projects are grifty, and I in fact view crypto as a pretty promising area of innovation. It's just that for the last couple years if you wanted to grift, crypto was a good place to do so. And in fact a crypto project that wanted to figure out how to produce more value in the world and capture some fraction of it could be a great client.
