@@ -1,9 +1,7 @@
 Incorporate keeping track of accuracy into X (previously Twitter)
 ====
 
-**tl;dr**: Incorporate keeping track of accuracy into X[^1]. This contributes to the goal of making X the chief source of information, and strengthens humanity by providing better epistemic incentives and better mechanisms to separate the wheat from the chaff in terms of getting at the truth together.
-
-[^1]: previously Twitter
+**tl;dr**: Incorporate keeping track of accuracy into X<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. This contributes to the goal of making X the chief source of information, and strengthens humanity by providing better epistemic incentives and better mechanisms to separate the wheat from the chaff in terms of getting at the truth together.
 
 ## Why do this?
 
@@ -17,9 +15,7 @@ Incorporate keeping track of accuracy into X (previously Twitter)
 
 ## Core functionality
 
-I think that you can distill the core of keeping track of accuracy to three elements[^2]: predict, resolve, and tally. You can see a minimal implementation of this functionality in <60 lines of bash [here](https://github.com/NunoSempere/PredictResolveTally/tree/master).
-
-[^2]: Ok, four, if we count question creation and prediction as distinct. But I like [PRT](https://bw.vern.cc/worm/wiki/Parahuman_Response_Team) as an acronym.
+I think that you can distill the core of keeping track of accuracy to three elements<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>: predict, resolve, and tally. You can see a minimal implementation of this functionality in <60 lines of bash [here](https://github.com/NunoSempere/PredictResolveTally/tree/master).
 
 ### predict
 
@@ -67,9 +63,7 @@ On top of that starting point, you can also do more elaborate things:
 
 [Here](https://arxiv.org/abs/2106.11248) is a review of some mistakes people have previously made when scoring these kinds of forecasts. For example, if you have some per-question accuracy reward, people will gravitate towards forecasting on easier rather than on more useful questions. These kinds of considerations are important, particularly since they will determine who will be at the top of some scoring leaderboard, if there is any such. Generally, [Goodhart's law](https://arxiv.org/abs/1803.04585) is going to be a problem here. But again, having *some* tallying mechanism seems way better than the current information environment. 
 
-Once you have some tallying—whether a calibration chart, a score from a proper scoring rule, or some profit it Musk-Bucks[^3], such a tally could:
-
-[^3]: Using real dollars is probably illegal/too regulated in America.
+Once you have some tallying—whether a calibration chart, a score from a proper scoring rule, or some profit it Musk-Bucks<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>, such a tally could:
 
 - be semi-prominently displayed so that people can look to it when deciding how much to trust an account, 
 - be used by X's algorithm to show more accurate accounts a bit more at the margin,
@@ -81,6 +75,18 @@ When dealing with catastrophes, wars, discoveries, and generally with events tha
 ## Conclusion
 
 X can do this. It would help with its goal of outcompeting other sources of information, and it would do this fair and square by improving humanity's collective ability to get at the truth. I don't know what other challenges and plans Musk has in store for X, but I would strongly consider adding this functionality to it.
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+previously Twitter<a href="#fnref:1" rev="footnote">&#8617;</a></li>
+<li id="fn:2">
+Ok, four, if we count question creation and prediction as distinct. But I like <a href="https://bw.vern.cc/worm/wiki/Parahuman_Response_Team">PRT</a> as an acronym.<a href="#fnref:2" rev="footnote">&#8617;</a></li>
+<li id="fn:3">
+Using real dollars is probably illegal/too regulated in America.<a href="#fnref:3" rev="footnote">&#8617;</a></li>
+</ol>
+</div>
 
 <p>
   <section id='isso-thread'>

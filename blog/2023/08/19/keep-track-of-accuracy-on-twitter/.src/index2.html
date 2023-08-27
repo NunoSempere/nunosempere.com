@@ -1,0 +1,199 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+    <title>Incorporate keeping track of accuracy into X (previously Twitter)</title>
+
+    <link rel="stylesheet" href="/pub/style/style.css" type="text/css" media="screen, handheld" title="default">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <meta property="og:image" content="https://cards.nunosempere.com/api/dynamic-image?endpoint=/blog/2023/08/19/keep-track-of-accuracy-on-twitter/">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Measure is unceasing" />
+    <meta name="twitter:description" content="Incorporate keeping track of accuracy into X (previously Twitter)" />
+    <meta name="twitter:url" content="https://nunosempere.com/" />
+    <meta name="twitter:image" content="https://cards.nunosempere.com/api/dynamic-image?endpoint=/blog/2023/08/19/keep-track-of-accuracy-on-twitter/" />
+    <meta name="twitter:site" content="@NunoSempere" />
+
+
+
+    
+    <script data-isso="//comments.nunosempere.com/" data-isso-max-comments-top="inf" data-isso-max-comments-nested="inf" data-isso-postbox-text-text-en="On the Internet, nobody knows you are a dog" src="//comments.nunosempere.com/js/embed.min.js"></script>
+
+
+</head>
+<body>
+
+<header>
+    <h1><a href="/">Measure is unceasing </a><span id="headerSubTitle"></span></h1>
+</header>
+
+    <nav id="side-bar" class="hidden-mobile">
+        <div>
+<ul>
+<li><a href="/blog/" class="thisPage">&raquo;<i> blog/</i></a></li>
+<li><ul>
+<li><a href="/blog/2019/">&rsaquo; 2019/</a></li>
+<li><a href="/blog/2020/">&rsaquo; 2020/</a></li>
+<li><a href="/blog/2021/">&rsaquo; 2021/</a></li>
+<li><a href="/blog/2022/">&rsaquo; 2022/</a></li>
+<li><a href="/blog/2023/" class="thisPage">&raquo;<i> 2023/</i></a></li>
+<li><ul>
+<li><a href="/blog/2023/01/">&rsaquo; 01/</a></li>
+<li><a href="/blog/2023/02/">&rsaquo; 02/</a></li>
+<li><a href="/blog/2023/03/">&rsaquo; 03/</a></li>
+<li><a href="/blog/2023/04/">&rsaquo; 04/</a></li>
+<li><a href="/blog/2023/05/">&rsaquo; 05/</a></li>
+<li><a href="/blog/2023/06/">&rsaquo; 06/</a></li>
+<li><a href="/blog/2023/07/">&rsaquo; 07/</a></li>
+<li><a href="/blog/2023/08/" class="thisPage">&raquo;<i> 08/</i></a></li>
+<li><ul>
+<li><a href="/blog/2023/08/01/">&rsaquo; 01/</a></li>
+<li><a href="/blog/2023/08/14/">&rsaquo; 14/</a></li>
+<li><a href="/blog/2023/08/19/" class="thisPage">&raquo;<i> 19/</i></a></li>
+<li><ul>
+<li><a href="/blog/2023/08/19/keep-track-of-accuracy-on-twitter/" class="thisPage">&raquo;<i> keep track of accuracy on twitter/</i></a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><a href="/consulting/">&rsaquo; consulting/</a></li>
+<li><a href="/forecasting/">&rsaquo; forecasting/</a></li>
+<li><a href="/gossip/">&rsaquo; gossip/</a></li>
+<li><a href="/misc/">&rsaquo; misc/</a></li>
+<li><a href="/research/">&rsaquo; research/</a></li>
+<li><a href="/software/">&rsaquo; software/</a></li>
+</ul>
+        </div>
+    </nav>
+
+<article>
+<h1>Incorporate keeping track of accuracy into X (previously Twitter)</h1>
+
+<p><strong>tl;dr</strong>: Incorporate keeping track of accuracy into X<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. This contributes to the goal of making X the chief source of information, and strengthens humanity by providing better epistemic incentives and better mechanisms to separate the wheat from the chaff in terms of getting at the truth together.</p>
+
+<h2>Why do this?</h2>
+
+<p><img src="https://images.nunosempere.com/blog/2023/08/19/keeping-track-of-accuracy-on-twitter/michael-dragon.png" alt="St Michael Killing the Dragon - public domain, via Wikimedia commons" style="width: 30% !important"/></p>
+
+
+<ul>
+<li>Because it can be done</li>
+<li>Because keeping track of accuracy allows people to separate the wheat from the chaff at scale, which would make humanity more powerful, more <a href="https://nunosempere.com/blog/2023/07/19/better-harder-faster-stronger/">formidable</a>.</li>
+<li>Because it is an asymmetric weapon, like community notes, that help the good guys who are trying to get at what is true much more than the bad guys who are either not trying to do that or are bad at it.</li>
+<li>Because you can&rsquo;t get better at learning true things if you aren&rsquo;t trying, and current social media platforms are, for the most part, not incentivizing that trying.</li>
+<li>Because rival organizations&mdash;like the New York Times, Instagram Threads, or school textbooks&mdash;would be made more obsolete by this kind of functionality.</li>
+</ul>
+
+
+<h2>Core functionality</h2>
+
+<p>I think that you can distill the core of keeping track of accuracy to three elements<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>: predict, resolve, and tally. You can see a minimal implementation of this functionality in &lt;60 lines of bash <a href="https://github.com/NunoSempere/PredictResolveTally/tree/master">here</a>.</p>
+
+<h3>predict</h3>
+
+<p>make a prediction. This prediction could take the form of</p>
+
+<ol>
+<li>a yes/no sentence, like &ldquo;By 2030, I say that Tesla will be worth $1T&rdquo;</li>
+<li>a probability, like &ldquo;I say that there is a 70% chance that by 2030, Tesla will be worth $1T&rdquo;</li>
+<li>a range, like &ldquo;I think that by 2030, Tesla&rsquo;s market cap will be worth between $800B and $5T&rdquo;</li>
+<li>a probability distribution, like &ldquo;Here is my probability distribution over how likely each possible market cap of Tesla is by 2030&rdquo;</li>
+<li>more complicated options, e.g., a forecasting function that gives an estimate of market cap at every point in time.</li>
+</ol>
+
+
+<p>I think that the sweet spot is on #2: asking for probabilities. #1 doesn&rsquo;t capture that we normally have uncertainty about events—e.g., in the recent superconductor debacle, we were not completely sure one way or the other until the end—, and it is tricky to have a system which scores both #3-#5 and #2. Particularly at scale, I would lean towards recommending using probabilities rather than something more ambitious, at first.</p>
+
+<p>Note that each example gave both a statement that was being predicted, and a date by which the prediction is resolved.</p>
+
+<h3>resolve</h3>
+
+<p>Once the date of resolution has been reached, a prediction can be marked as true/false/ambiguous. Ambiguous resolutions are bad, because the people who have put effort into making a prediction feel like their time has been wasted, so it is good to minimize them.</p>
+
+<p>You can have a few distinct methods of resolution. Here are a few:</p>
+
+<ul>
+<li>Every question has a question creator, who resolves it</li>
+<li>Each person creates and resolves their own predictions</li>
+<li>You have a community-notes style mechanism for resolving questions</li>
+<li>You have a jury of randomly chosen peers who resolves the prediction</li>
+<li>You have a jury of previously trusted members, who resolves the question</li>
+<li>You can use a <a href="https://en.wikipedia.org/wiki/Keynesian_beauty_contest">Keynesian Beauty Contest</a>, like Kleros or UMA, where judges are rewarded for agreeing with the majority opinion of other judges. This disincentivizes correct resolutions for unpopular-but-true questions, so I would hesitate before using it.</li>
+</ul>
+
+
+<p>Note that you can have resolution methods that can be challeged, like the lower court/court of appeals/supreme court system in the US. For example, you could have a system where initially a question is resolved by a small number of randomly chosen jurors, but if someone gives a strong signal that they object to the resolution—e.g., if they pay for it, or if they spend one of a few &ldquo;appeals&rdquo; tokens—then the question is resolved by a larger pool of jurors.</p>
+
+<p>Note that the resolution method will shape the flavour of your prediction functionality, and constrain the types of questions that people can forecast on. You can have a more anarchic system, where everyone can instantly create a question and predict on it. Then, people will create many more questions, but perhaps they will have a bias towards resolving questions in their own favour, and you will have slightly duplicate questions. Then you will get something closer to <a href="https://manifold.markets/">Manifold Markets</a>. Or you could have a mechanism where people propose questions and these are made robust to corner cases in their resolution criteria by volunteers, and then later resolved by a jury of volunteers. Then you will get something like <a href="https://www.metaculus.com/">Metaculus</a>, where you have fewer questions but these are of higher quality and have more reliable resolutions.</p>
+
+<p>Ultimately, I&rsquo;m not saying that the resolution method is unimportant. But I think there is a temptation to nerd out too much about the specifics, and having some resolution method that is transparently outlined and shipping it quickly seems much better than getting stuck at this step.</p>
+
+<h3>tally</h3>
+
+<p>Lastly, present the information about what proportion of people&rsquo;s predictions come true. E.g., of the times I have predicted a 60% likelihood of something, how often has it come true? Ditto for other percentages. These are normally binned to produce a calibration chart, like the following:</p>
+
+<p><img src="https://images.nunosempere.com/blog/2023/08/19/keeping-track-of-accuracy-on-twitter/calibrationChart2.png" alt="my calibration chart from Good Judgment Open" /></p>
+
+<p>On top of that starting point, you can also do more elaborate things:</p>
+
+<ul>
+<li>You can have a summary statistic—a proper scoring rule, like the Brier score or a log score—that summarizes how good you are at prediction &ldquo;in general&rdquo;. Possibly this might involve comparing your performance to the performance of people who predicted in the same questions.</li>
+<li>Previously, you could have allowed people to bet against each other. Then, their profits would indicate how good they are. I think this might be too complicated at Twitter style, at least at first.</li>
+</ul>
+
+
+<p><a href="https://arxiv.org/abs/2106.11248">Here</a> is a review of some mistakes people have previously made when scoring these kinds of forecasts. For example, if you have some per-question accuracy reward, people will gravitate towards forecasting on easier rather than on more useful questions. These kinds of considerations are important, particularly since they will determine who will be at the top of some scoring leaderboard, if there is any such. Generally, <a href="https://arxiv.org/abs/1803.04585">Goodhart&rsquo;s law</a> is going to be a problem here. But again, having <em>some</em> tallying mechanism seems way better than the current information environment.</p>
+
+<p>Once you have some tallying—whether a calibration chart, a score from a proper scoring rule, or some profit it Musk-Bucks<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>, such a tally could:</p>
+
+<ul>
+<li>be semi-prominently displayed so that people can look to it when deciding how much to trust an account,</li>
+<li>be used by X&rsquo;s algorithm to show more accurate accounts a bit more at the margin,</li>
+<li>provide an incentive for people to be accurate,</li>
+<li>provide a way for people who want to become more accurate to track their performance</li>
+</ul>
+
+
+<p>When dealing with catastrophes, wars, discoveries, and generally with events that challenge humanity&rsquo;s ability to figure out what is going on, having these mechanisms in place would help humanity make better decisions about who to listen to: to listen not to who is loudest but to who is most right.</p>
+
+<h2>Conclusion</h2>
+
+<p>X can do this. It would help with its goal of outcompeting other sources of information, and it would do this fair and square by improving humanity&rsquo;s collective ability to get at the truth. I don&rsquo;t know what other challenges and plans Musk has in store for X, but I would strongly consider adding this functionality to it.</p>
+
+<p>
+  <section id='isso-thread'>
+  <noscript>javascript needs to be activated to view comments.</noscript>
+  </section>
+</p>
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+previously Twitter<a href="#fnref:1" rev="footnote">&#8617;</a></li>
+<li id="fn:2">
+Ok, four, if we count question creation and prediction as distinct. But I like <a href="https://bw.vern.cc/worm/wiki/Parahuman_Response_Team">PRT</a> as an acronym.<a href="#fnref:2" rev="footnote">&#8617;</a></li>
+<li id="fn:3">
+Using real dollars is probably illegal/too regulated in America.<a href="#fnref:3" rev="footnote">&#8617;</a></li>
+</ol>
+</div>
+
+</article>
+
+<footer class="hidden-mobile">
+<br class="doNotDisplay doNotPrint" />
+
+<div style="margin-right: auto;">Powered by <a href="http://werc.cat-v.org/">werc</a>, <a href="https://alpinelinux.org/">alpine</a> and <a href="https://nginx.org/en/">nginx</a></div>
+
+<!-- TODO: wait until duckduckgo indexes site
+<form action="https://duckduckgo.com/" method="get">
+  <input type="hidden" name="sites" value="nunosempere.com">
+  <input type="search" name="q">
+  <input type="submit" value="Search">
+</form>
+-->
+</footer>
+</body></html>

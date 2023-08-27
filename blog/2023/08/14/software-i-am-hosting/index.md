@@ -67,6 +67,10 @@ Proportional approval voting is a bit tricky to generalize to choosing candidate
 
 A frontend for [Royal Road](https://www.royalroad.com/), a site which hosts online fiction but which has grown pretty cluttered. Reuses a whole lot of the code from forum.nunosempere.com.
 
+### wikiless.nunosempere.com (added 27/08/2023)
+
+A [frontend](https://wikiless.nunosempere.com/) for Wikipedia. 
+
 ### gatitos.nunosempere.com
 
 Shows a photo of two cute cats:

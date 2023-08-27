@@ -1,5 +1,7 @@
 ## Gossip
 
+_2023/08/21_: I've gotten [$50k](https://manifund.org/NunoSempere) to regrant through Manifund. For now, pitches welcome: I can be contacted at nuno dot sempere dot lh at protonmail dot com.
+
 _2023/05/6_: I have added a [consulting](/consulting) page.
 
 _2023/01/29_: I've updated the forecasting and research pages in this website, they should now be a bit more up to date.
