@@ -60,10 +60,12 @@ I value getting hired for more hours, because each engagement has some overhead 
 
 | # of hours | Cost  | Example                                                                                        |
 |------------|-------|------------------------------------------------------------------------------------------------|
-| 1 hour     | ~$200       | Talk to me for an hour about a project you want my input on, organize a forecasting workshop |
-| 10 hours   | ~$1.5k      | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
-| 100 hours  | ~$10k       | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
+| 1 hour     | ~$250†       | Talk to me for an hour about a project you want my input on, organize a forecasting workshop |
+| 10 hours   | ~$2k      | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
+| 100 hours  | ~$15k       | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
 | 1000 hours | reach out  | Large research project, an ambitious report on a novel topic, the current iteration of [metaforecast](https://metaforecast.org) |
+
+†: or a 10% chance of $2k. 1h just has too high of an administrative burden to be worth it alone. 
 
 ### Description of client
 
