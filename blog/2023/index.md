@@ -37,3 +37,4 @@
 - [squiggle.c](https://nunosempere.com/blog/2023/08/01/squiggle.c)
 - [Webpages I am making available to my corner of the internet](https://nunosempere.com/blog/2023/08/14/software-i-am-hosting)
 - [Incorporate keeping track of accuracy into X (previously Twitter)](https://nunosempere.com/blog/2023/08/19/keep-track-of-accuracy-on-twitter)
+- [Quick thoughts on Manifund's application to Open Philanthropy](https://nunosempere.com/blog/2023/09/05/manifund-open-philanthropy)

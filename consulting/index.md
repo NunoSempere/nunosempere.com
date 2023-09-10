@@ -56,16 +56,15 @@ If the above sounds interesting, I'm happy to be reached out to.
 
 ### Rates
 
-I value getting hired for more hours, because each engagement has some overhead cost. Therefore, I am discounting buying a larger number of hours.
+I value getting hired for more hours, because each engagement has some negotiation, preparation and administrative burden. Therefore, I am discounting buying a larger number of hours.
 
 | # of hours | Cost  | Example                                                                                        |
 |------------|-------|------------------------------------------------------------------------------------------------|
-| 1 hour     | ~$250†       | Talk to me for an hour about a project you want my input on, organize a forecasting workshop |
-| 10 hours   | ~$2k      | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
-| 100 hours  | ~$15k       | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
+| 1 hour (discounted)    | $100       | You, an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
+| 2 hours     | $500 \|\| 10% chance of $4k      | You, a titan of industry, talk with me for an hour about a project you want my input on, before which I spend an hour thinking about it. Or, you have me organize a forecasting workshop for your underlings, etc. |
+| 10 hours   | $2k      | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
+| 100 hours  | $15k       | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
 | 1000 hours | reach out  | Large research project, an ambitious report on a novel topic, the current iteration of [metaforecast](https://metaforecast.org) |
-
-†: or a 10% chance of $2k. 1h just has too high of an administrative burden to be worth it alone. 
 
 ### Description of client
 
