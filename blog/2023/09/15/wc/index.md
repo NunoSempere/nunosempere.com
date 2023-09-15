@@ -14,7 +14,7 @@ The Unix utility wc counts words. You can make simple, non-POSIX compatible vers
 
 ## Comparison with other versions of wc
 
-The [version of wc.c](https://git.nunosempere.com/personal/wc/src/branch/master/src/wc.c) in this repository sits at 44 lines. It decides to read from stdin if the number of arguments fed to it is otherwise zero, and uses the linux read function to read character by character. It doesn't have flags, instead, there are further utilities in the src/extra/ folder for counting characters and lines, sitting at 32 and 35 lines of code, respectively. This version also has little error checking.
+The [version of wc.c](https://git.nunosempere.com/personal/wc/src/branch/master/src/wc.c) in this repository sits at 44 lines. It decides to read from stdin if the number of arguments fed to it is otherwise zero, and uses the standard C function getc to read character by character. It doesn't have flags, instead, there are further utilities in the src/extra/ folder for counting characters and lines, sitting at 32 and 35 lines of code, respectively. This version also has little error checking.
 
 [Here](https://github.com/dspinellis/unix-history-repo/blob/Research-V7-Snapshot-Development/usr/src/cmd/wc.c) is a version of wc from UNIX V7, at 86 lines. It allows for counting characters, words and lines. I couldn't find a version in UNIX V6, so I'm guessing this is one of the earliest versions of this program. It decides to read from stdin if the number of arguments fed to it is zero, and reads character by character using the standard C getc function.
 
