@@ -1,13 +1,14 @@
-Consulting
-==========
+<img src="https://images.nunosempere.com/consulting/shapley.png" class="img-frontpage-center">
 
-This page presents my core competencies, my consulting rates, my description of my ideal client, two testimonials, and a few further thoughts. I can be reached out to at nuno.semperelh@protonmail.com.
+Shapley Maximizers is a niche estimation, evaluation and impact auditing consultancy run by myself, Nuño Sempere, but increasingly also with support from collaborators. This page presents our core competencies, consulting rates, description of ideal clients, two testimonials, and a few further thoughts. 
+
+In short, we are looking to support smallish people and projects who are already producing value, and who want to add clarity and improve their prioritization through estimation, measure and good judgment. You can reach out to to nuno.semperelh@protonmail.com.
 
 ### Core competencies
 
-#### Researching: 
+#### Research
 
-Some past research outputs that I am proud of are 
+Some past research outputs:
 
 - [Incentive Problems With Current Forecasting Competitions.](https://forum.effectivealtruism.org/posts/ztmBA8v6KvGChxw92/incentive-problems-with-current-forecasting-competitions)
 - [Real-Life Examples of Prediction Systems Interfering with the Real World (Predict-O-Matic Problems)](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)
