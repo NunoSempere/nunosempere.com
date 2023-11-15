@@ -1,6 +1,6 @@
 <img src="https://images.nunosempere.com/consulting/shapley.png" class="img-frontpage-center">
 
-Shapley Maximizers is a niche estimation, evaluation and impact auditing consultancy run by myself, Nuño Sempere, but increasingly also with support from collaborators. This page presents our core competencies, consulting rates, description of ideal clients, two testimonials, and a few further thoughts. 
+Shapley Maximizers is a niche estimation, evaluation and impact auditing consultancy run by myself, Nuño Sempere, but increasingly also with support from collaborators. This page presents our core competencies, consulting rates, description of ideal clients, testimonials, and a few further thoughts. 
 
 In short, we are looking to support smallish people and projects who are already producing value, and who want to add clarity and improve their prioritization through estimation, measure and good judgment. You can reach out to to nuno.semperelh@protonmail.com.
 
@@ -43,29 +43,21 @@ For a smaller example, in the past I've really enjoyed doing subjective estimate
 
 I am happy to host workshops, or advise on tournament or forecasting platform design. If you are looking for specific forecasts, you probably want to hire [Samotsvety](https://samotsvety.org/) instead, which can be reached out at info@samotsvety.org.
 
-### Management as a service
+### Advice to individuals
 
-Here is a service that I've enjoyed providing:
-
-- I meet up with someone for around one hour once a week.
-- We talk about what that person has done for the past week, and we schedule what the person is going to be doing next week.
-- We talk about what they could have done better, how they could do better in the future, and through any important decisions that the person is making.
-
-I've enjoyed providing this service to a few entrepreneurial-minded people who are doing projects independently, or who are managing their own organizations independently. They seem to value having someone who keeps track of what they're doing and keeping them accountable, someone to bounce ideas off, and the opportunity to take some time each week to reflect on what they've been doing. They also appreciate me in particular being incisive.
-
-If the above sounds interesting, I'm happy to be reached out to.
+On occasion, I've enjoyed talking with entrepreneurial individuals about how they could make better career decisions, or better prioritization in the work they are already doing. In some cases this has lead to ongoing engagements. If you have a need for incisive advice on your career, feel free to reach out.
 
 ### Rates
 
 I value getting hired for more hours, because each engagement has some negotiation, preparation and administrative burden. Therefore, I am discounting buying a larger number of hours.
 
-| # of hours | Cost  | Example                                                                                        |
-|------------|-------|------------------------------------------------------------------------------------------------|
-| 1 hour (discounted)    | $100       | You, an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
-| 2 hours     | $500 \|\| 10% chance of $4k      | You, a titan of industry, talk with me for an hour about a project you want my input on, before which I spend an hour thinking about it. Or, you have me organize a forecasting workshop for your underlings, etc. |
-| 10 hours   | $2k      | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
-| 100 hours  | $15k       | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
-| 1000 hours | reach out  | Large research project, an ambitious report on a novel topic, the current iteration of [metaforecast](https://metaforecast.org) |
+| Size of project | Cost | ~hours | Example |
+| --- | --- | --- | --- | 
+| One-off (discounted)  | $100  | 1h |  You, an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
+| One-off   | $500      | 2h    | You, a titan of industry, talk with me for one about a project you want my input on, before which I spend a few hours of preparation. Or, you have me organize a two-hour forecasting workshop and a one hour chat with your underlings etc. |
+| Focused   | $2k       | 10h   | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
+| In-depth  | $15k      | 100h  | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), many [shallow evaluations](https://forum.nunosempere.com/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations), or an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
+| Custom    | reach out | 1000h | Large research project, an ambitious report on a novel topic, the current iteration of [metaforecast](https://metaforecast.org) |
 
 ### Description of client
 
@@ -85,6 +77,12 @@ My anti-client on the other hand would be someone who has already made up their 
 > We hired Nuño to review a complex article about AI and forecasting. He delivered promptly, and we found his work insightful.
 > 
 > &mdash;Jaime Sevilla
+
+<br>
+
+> Nuño took on an extremely underspecified and wicked problem and delivered to everyone's satisfaction. If you're reading this page you probably already know about his relentless clarity, but you might not be aware of how much he cares about the work and how good at reading people he is.
+> 
+> &mdash;Gavin Leech
 
 
 ###  Further details
