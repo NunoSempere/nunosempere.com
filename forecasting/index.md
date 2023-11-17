@@ -1,10 +1,16 @@
 ## Forecasting
 
+> Magic ball tell us all.
+> 
+> — Misha Yagudin
+
+### Samotsvety
+
 My forecasting group is known as Samotsvety. You can read more about it [here](https://samotsvety.org/).
 
 ### Newsletter
 
-I am perhaps most well-known for my monthly forecasting _newsletter_. It can be found both [on Substack](https://forecasting.substack.com/) and [on the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7). Besides its mothly issues, I've also written:
+I was reasonably well-known for my monthly forecasting _newsletter_. It can be found both [on Substack](https://forecasting.substack.com/) and [on the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7). Besides its mothly issues, I've also written:
 
 - [Tracking the money flows in forecasting](https://nunosempere.com/blog/2022/11/06/forecasting-money-flows/)
 - [Looking back at 2021](https://forecasting.substack.com/p/looking-back-at-2021)
@@ -13,7 +19,7 @@ I am perhaps most well-known for my monthly forecasting _newsletter_. It can be 
 
 ### Research
 
-As part of my research at the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/), and previously as an independent researcher, I have a few _in depth pieces_ on forecasting:
+I have a few _in depth pieces_ on forecasting, many written during my time at the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/), and previously as an independent researcher, 
 
 - [Alignment Problems With Current Forecasting Platforms](https://arxiv.org/abs/2106.11248)  
 - [Amplifying generalist research via forecasting – models of impact and challenges](https://forum.effectivealtruism.org/posts/ZCZZvhYbsKCRRDTct/part-1-amplifying-generalist-research-via-forecasting-models) and [part 2](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting).
@@ -22,9 +28,13 @@ As part of my research at the [Quantified Uncertainty Research Institute](https:
 - [Introducing Metaforecast: A Forecast Aggregator and Search Tool](https://forum.effectivealtruism.org/posts/tEo5oXeSNcB3sYr8m/introducing-metaforecast-a-forecast-aggregator-and-search)  
 - [Introduction to Fermi estimates](https://nunosempere.com/blog/2022/08/20/fermi-introduction/)
 - [Pathways to impact for forecasting and evaluation](https://forum.effectivealtruism.org/posts/oXrTQpZyXkEbTBfB6/pathways-to-impact-for-forecasting-and-evaluation)
+- [Hurdles of using forecasting as a tool for making sense of AI progress](https://nunosempere.com/blog/2023/11/07/hurdles-forecasting-ai/)
 
 I also have a few _minor pieces_:
 
+- [Betting and consent](https://nunosempere.com/blog/2023/06/26/betting-consent/)
+- [Incorporate keeping track of accuracy into X (previously Twitter)](https://nunosempere.com/blog/2023/08/19/keep-track-of-accuracy-on-twitter/)
+- [Use of “I’d bet” on the EA Forum is mostly metaphorical](https://nunosempere.com/blog/2023/03/02/metaphorical-bets/)
 - [Metaforecast update: Better search, capture functionality, more platforms.](https://www.lesswrong.com/posts/5hugQzRhdGYc6ParJ/metaforecast-update-better-search-capture-functionality-more)
 - [Incentive Problems With Current Forecasting Competitions](https://forum.effectivealtruism.org/posts/ztmBA8v6KvGChxw92/incentive-problems-with-current-forecasting-competitions) 
 - [Impact markets as a mechanism for not loosing your edge](https://nunosempere.com/blog/2023/02/07/impact-markets-sharpen-your-edge/)
@@ -44,18 +54,19 @@ I also mantain [this database](https://docs.google.com/spreadsheets/d/1XB1GHfizN
 - [Just-in-time Bayesianism](https://nunosempere.com/blog/2023/02/04/just-in-time-bayesianism/)
 - [A computable version of Solomonoff induction](https://nunosempere.com/blog/2023/03/01/computable-solomonoff/)
 
+I also discussed some of these considerations in [Hurdles of using forecasting as a tool for making sense of AI progress](https://nunosempere.com/blog/2023/11/07/hurdles-forecasting-ai/). They turn out to be important.
+
 ### Funding
 
 I have occasionally advised philanthropic funders—mostly from the effective altruism community—on forecasting related topics and projects. 
-
-I have run a few contests:
 
 - [$5k challenge to quantify the impact of 80,000 hours' top career paths](https://nunosempere.com/blog/2022/09/23/usd5k-challenge-to-quantify-the-impact-of-80-000-hours-top/)
 - [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)
 - [We are giving $10k as forecasting micro-grants](https://forum.effectivealtruism.org/posts/oqFa8obfyEmvD79Jn/we-are-giving-usd10k-as-forecasting-micro-grants)
 - [$1,000 Squiggle Experimentation Challenge](https://forum.effectivealtruism.org/posts/ZrWuy2oAxa6Yh3eAw/usd1-000-squiggle-experimentation-challenge)
 - [$5k challenge to quantify the impact of 80,000 hours' top career paths](https://forum.effectivealtruism.org/posts/noDYmqoDxYk5TXoNm/usd5k-challenge-to-quantify-the-impact-of-80-000-hours-top)
+- I'm in the process of regranting $50k on [Manifund](https://manifund.org/NunoSempere)
 
 ### Squiggle
 
-I've done bunch of work around Squiggle, a language for creating quick probability estimates. You can read about this [here](https://forum.effectivealtruism.org/topics/squiggle).
+I did a bunch of work around Squiggle, a language for creating quick probability estimates. You can read about this [here](https://forum.effectivealtruism.org/topics/squiggle). Unsatisfied with it, I [tried out many different languages](https://git.nunosempere.com/personal/time-to-botec) and [wrote my own version in C](https://git.nunosempere.com/personal/squiggle.c).
