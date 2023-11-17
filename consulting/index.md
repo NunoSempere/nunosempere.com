@@ -2,7 +2,7 @@
 
 Shapley Maximizers is a niche estimation, evaluation and impact auditing consultancy run by myself, Nuño Sempere, but increasingly also with support from collaborators. This page presents our core competencies, consulting rates, description of ideal clients, testimonials, and a few further thoughts. 
 
-In short, we are looking to support smallish people and projects who are already producing value, and who want to add clarity and improve their prioritization through estimation, measure and good judgment. You can reach out to to nuno.semperelh@protonmail.com.
+In short, we are looking to support people and smallish organizations who are already producing value, and who want to add clarity and improve their prioritization through estimation, measure and good judgment. You can reach out to to nuno.semperelh@protonmail.com.
 
 ### Core competencies
 
@@ -52,12 +52,12 @@ On occasion, I've enjoyed talking with entrepreneurial individuals about how the
 I value getting hired for more hours, because each engagement has some negotiation, preparation and administrative burden. Therefore, I am discounting buying a larger number of hours.
 
 | Size of project | Cost | ~hours | Example |
-| --- | --- | --- | --- | 
-| One-off (discounted)  | $100  | 1h |  You, an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
-| One-off   | $500      | 2h    | You, a titan of industry, talk with me for one about a project you want my input on, before which I spend a few hours of preparation. Or, you have me organize a two-hour forecasting workshop and a one hour chat with your underlings etc. |
-| Focused   | $2k       | 10h   | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
-| In-depth  | $15k      | 100h  | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), many [shallow evaluations](https://forum.nunosempere.com/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations), or an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
-| Custom    | reach out | 1000h | Large research project, an ambitious report on a novel topic, the current iteration of [metaforecast](https://metaforecast.org) |
+| ------- | ---------- | ----- | --- | 
+| One-off (discounted) | $100  | 1h |  You, an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
+| Small   | $500       | 2h    | You, a titan of industry, pick my bran about a project you want my input on, before which I spend a few hours of preparation. Or, you have me organize a two-hour forecasting workshop and a one hour chat with your underlings. |
+| Focused | $2k        | 10h   | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
+| Major   | $15k       | 100h  | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), many [shallow evaluations](https://forum.nunosempere.com/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations), or an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
+| Custom  | reach out  | 1000h | Large research project, an ambitious report on a novel topic, the current iteration of [metaforecast](https://metaforecast.org) |
 
 ### Description of client
 

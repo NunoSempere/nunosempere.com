@@ -87,7 +87,9 @@ I'm not sure that gratuitous incompatibility is so bad if it leads to utilities 
   - [ ] Or, generally find a minimalistic kernel that could use some simple coreutils.
 - [ ] Add man pages?
 - [ ] Pitch to lwn.net as an article?
-- [ ] Come back to writting these in zig.
+- [ ] Come back to writting these in zig
+- [ ] ...
+
 
 ## Done or discarded
 
@@ -113,3 +115,10 @@ I'm not sure that gratuitous incompatibility is so bad if it leads to utilities 
 - [ ] ~~Could use zig? => Not for now~~
 - [ ] ~~Maybe make some pull requests, if I'm doing something better? => doesn't seem like it~~
 - [ ] ~~Write man files?~~
+
+<p>
+  <section id='isso-thread'>
+    <noscript>javascript needs to be activated to view comments.</noscript>
+  </section>
+</p>
+

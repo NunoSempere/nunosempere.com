@@ -5,9 +5,7 @@ Brief thoughts on CEA's stewardship of the EA Forum
 
 <p><em>tl;dr</em>: Once, the EA forum was a lean, mean machine. But it has become more bloated over time, and I don&rsquo;t like it. Separately, I don&rsquo;t think it&rsquo;s worth the roughly $2M/year<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> it costs, although I haven&rsquo;t modelled this in depth.</p>
 
-<h3>The EA forum frontpage through time.</h3>
-
-<p>In <a href="https://web.archive.org/web/20181115134712/https://forum.effectivealtruism.org/">2018-2019</a>, the EA forum was a lean and mean machine:</p>
+<h3>The EA forum frontpage through time.</h3> <p>In <a href="https://web.archive.org/web/20181115134712/https://forum.effectivealtruism.org/">2018-2019</a>, the EA forum was a lean and mean machine:</p>
 
 <p><img src="https://images.nunosempere.com/blog/2023/10/02/ea-forum-2018-2019.png" alt="" /></p>
 
@@ -76,7 +74,7 @@ Brief thoughts on CEA's stewardship of the EA Forum
 <p>If you are a CEA director or middle manager, you might have thought about this more than I have. Still, you might want to:</p>
 
 <ul>
-<li>Consider going back to ~1 developer and ~1 content person; save &amp;gt$1M/year of your and your donors' money. My sense is that you are probably going to have to do this anyways, since you will probably not get enough money from donors<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>, to continue your current course.<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup></li>
+<li>Consider going back to ~1 developer and ~1 content person; save &gt;$1M/year of your and your donors' money. My sense is that you are probably going to have to do this anyways, since you will probably not get enough money from donors<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>, to continue your current course.<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup></li>
 <li>Consider characterizing the EA forum&rsquo;s team role to be one of lightly shepharding discussion, not leading it or defining it.</li>
 <li>Consider reflecting on which incentives led to the creation of a larger EA Forum team. For example, Google has well-known incentives around managers being rewarded for leading larger teams to develop new products, and doesn&rsquo;t value maintenance, leading to a continuous churn and sunsetting of Google products. Might something similar, though at a lower scale, have happened here?</li>
 <li>As a distant fourth point, consider opening up authentication mechanisms so that users can make comments and posts using open-source frontends. This was previously doable through the greaterwrong frontend, but is no longer possible. It&rsquo;s possible that this might not be possible with your current software stack, or be too difficult, though.</li>

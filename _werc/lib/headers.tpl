@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 % if(test -f $sitedir/_werc/pub/style.css)
 %    echo '    <link rel="stylesheet" href="/_werc/pub/style.css" type="text/css" media="screen" title="default">'
-
+    <link rel="alternate" type="application/rss+xml" title="RSS for Measure is Unceasing" href="/blog/index.rss" />
     <meta charset="UTF-8">
 % # Legacy charset declaration for backards compatibility with non-html5 browsers.
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
