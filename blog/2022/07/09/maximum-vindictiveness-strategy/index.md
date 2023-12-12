@@ -14,4 +14,4 @@ One consideration here is that:
 - Implementing the maximum vindictiveness strategy could dissuade malicious actors from targetting you
 - But it has a cost once you are targetted: Peter Thiel could just hire some really badass lawyers, but for me to have a close to comparable effect, I'd have to spend 5-10% of my hours awake implementing revenge.
 
-Ultimately, I think that I am the sort of person that would take the maximum vindictiveness. In particular, because of its cost after-the-fact, maximum vindictiveness is probably an under-provided public good.
+Ultimately, I think that I am the sort of person that would choose the maximum vindictiveness response when the dice rolls that way. In particular, because of its cost after-the-fact, maximum vindictiveness is probably an under-provided public good.

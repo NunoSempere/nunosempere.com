@@ -4,10 +4,7 @@ I'm Nu&#xF1;o Sempere. I [do research](https://nunosempere.com/blog), [write sof
 
 ### Highlights
 
-1. [Estimating value](https://forum.effectivealtruism.org/s/AbrRsXM2PrCrPShuZ): How do we get to expected value calculations?
+1. [Estimating value](https://nunosempere.com/research/#value-estimation): How do we get to expected value calculations?
 2. [Consulting](https://nunosempere.com/consulting/): Do you want to pay me well to produce value in the world?
-3. [Metaforecast](https://metaforecast.org/): A search engine for probabilities
+3. [Blog](https://nunosempere.com/blog/): What is on my mind these days?
 
-### Readers might also wish to...
-
-...read the [gossip](/gossip) page, visit my [blog](/blog). 

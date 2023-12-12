@@ -2,7 +2,7 @@ For forecasting related research, see [forecasting](/forecasting)
 
 ## Current projects
 
-I'm currently doing [private consulting](https://nunosempere.com/consulting/), and writting up my desillusionment with EA:
+I'm currently doing [private consulting](https://nunosempere.com/consulting/), and writting up my disillusionment with EA:
 
 - [Some melancholy about the value of my work depending on decisions by others beyond my control](https://nunosempere.com/blog/2023/07/13/melancholy/)
 - [Why are we not harder, better, faster, stronger?](https://nunosempere.com/blog/2023/07/19/better-harder-faster-stronger/)
@@ -11,7 +11,7 @@ I'm currently doing [private consulting](https://nunosempere.com/consulting/), a
 
 ## Past projects
 
-_Estimation of values_
+<p id="value-estimation"><em>Estimation of values</em></p> 
 
 I spent a few years of my life grappling with EA (effective altruism) being nominally about doing the most good, but it not having good tools to identify and prioritize across possible interventions. Eventually I gave up when I got it through my thick head that despite my earlier hopes, there wasn't much demand for the real version of this—as opposed to the fake version of pretending to evaluate stuff, and pretending to be "impact oriented". Still, I think it's an interesting body of research.
 
