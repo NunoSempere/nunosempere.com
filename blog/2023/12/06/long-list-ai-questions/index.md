@@ -643,7 +643,7 @@ Note: these questions make extensive use of [this alignment overview](https://ww
 - ★★★ (UF, FE) How much will the US federal government spend on alignment research by 2027/2032/2037/2050? 
   - Resolves to the best estimate by [resolution council]
 
-- ★★★ (UF, FE) How much will the EU and EU governments spend on alignment research by 2027/2032/2037/2050? 
+- ★★★ (UF, FE) How much will the US and EU governments spend on alignment research by 2027/2032/2037/2050? 
   - Resolves to the best estimate by [resolution council]
 
 - ★★★ (UF, FE) How much will the Chinese government spend on alignment research by 2027/2032/2037/2050? 
@@ -1323,7 +1323,7 @@ Governments, if so, which ones? small companies or large companies? US or Chines
 
 - ★ AI Index 6: Relative AI Skill Penetration The US / China / India / UK / Israel / Canada / South Korea / Germany will have a value of y in 2025/2030/2035
 
-- ★ How much money will the US/EU and EU governments put into providing compute to academic AI researchers by 2027/2030/2035? 
+- ★ How much money will the US and EU governments put into providing compute to academic AI researchers by 2027/2030/2035? 
 
 - ★★★ (FT) Will the [US/Chinese] [government/military] openly announce a project with the goal of building AI "as capable/intelligent as a human" by 2026/2030/2045?
   - Note: "Openly announce" would require some operationalization. In particular, it's not clear how to access all the things that the US government "announces".
