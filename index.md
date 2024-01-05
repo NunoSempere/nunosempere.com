@@ -1,4 +1,4 @@
-I'm Nu&#xF1;o Sempere. I [do research](https://nunosempere.com/blog), [write software](https://github.com/NunoSempere/), and [predict the future](https://samotsvety.org/).
+I'm Nu&#xF1;o Sempere. I [do research](https://nunosempere.com/blog), [write software](https://git.nunosempere.com/), and [predict the future](https://samotsvety.org/).
 
 <img src="https://images.nunosempere.com/top/me.jpg" alt="image of myself" class="img-frontpage-center"> 
 
