@@ -49,15 +49,20 @@ On occasion, I've enjoyed talking with entrepreneurial individuals about how the
 
 ### Rates
 
-I value getting hired for more hours, because each engagement has some negotiation, preparation and administrative burden. Therefore, I am discounting buying a larger number of hours.
-
 | Size of project | Cost | ~hours | Example |
 | ------- | ---------- | ----- | --- | 
-| One-off (discounted) | $100  | 1h |  You, an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
-| Small   | $500       | 2h    | You, a titan of industry, pick my brain about a project you want my input on, before which I spend a few hours of preparation. Or, you have me organize a two-hour forecasting workshop and a one hour chat with your underlings. |
+| One-off (discounted) | $50  | 1h |  You, an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
+| One-off (well-off professional)  | $150 | 1h  | You, a well-off proffessional, pick my brain about a project for an hour. |
+| One-off (titan of industry) | $500 | 2h  | You, a titan of industry, pick my brain about a project for an hour about a topic of your choice, before which I spend an hour of preparation. |
+| Forecasting workshop workshop | $500 | 1h  | I organize a two hour workshop (+ preparation time) and give it to your underlings. Online, otherwise cost of travel not included. |
 | Focused | $2k        | 10h   | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
 | Major   | $15k       | 100h  | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), many [shallow evaluations](https://forum.nunosempere.com/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations), or an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
 | Custom  | reach out  | 1000h | Large research project, an ambitious report on a novel topic, the current iteration of [metaforecast](https://metaforecast.org) |
+
+Notes on prices:
+
+- Each engagement has some negotiation, preparation and administrative burden. This means that I prefer longer engagements. 
+- Clients not of the landed gentry have proved hesitant to pay $500 for an hour of advice (+30 mins negotiation, +30 mins bookkeeping, +1h of prep, +chance of a rescheduling, +more things that make the cost of an engagement add up).
 
 ### Description of client
 
@@ -88,5 +93,6 @@ My anti-client on the other hand would be someone who has already made up their 
 ###  Further details
 
 - I am very amenable to taking on projects that would require more than one person, because I am able to bring in collaborators. I would discuss this with the potential client beforehand.
+- My thoughts on unpaid work are: I'm pretty averse to it. I understand that there are high transaction costs for small engagements. But there is infinite demand for me working for free. I will very occasionally do it, particularly around mentorship, personal writting, or cool open source projects. If you are easily googleable as a millionnaire, I don't get why you'd ask me to do unpaid work (counter: II; a perspective would be welcome). Working for free has for me like a pretty high bar (currently: [setting up an emergency response team](https://alert-team.org/)). Many projects don't meet my bar for promisingness when unpaid, but they do meet my bar when paid such that I can dedicate the ressources I earn to projects of my choice (e.g., that emergency response team).
 
 [^1]: Note that I don't think all crypto projects are grifty, and I in fact view crypto as a pretty promising area of innovation. It's just that for the last couple years if you wanted to grift, crypto was a good place to do so. And in fact a crypto project that wanted to figure out how to produce more value in the world and capture some fraction of it could be a great client.
