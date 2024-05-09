@@ -11,6 +11,7 @@ In short, we are looking to support people and smallish organizations who are al
 Some past research outputs:
 
 - [Incentive Problems With Current Forecasting Competitions.](https://forum.effectivealtruism.org/posts/ztmBA8v6KvGChxw92/incentive-problems-with-current-forecasting-competitions)
+- [Hurdles of using forecasting as a tool for making sense of AI progress](https://nunosempere.com/blog/2023/04/28/expert-review-epoch-direct-approach/)
 - [Real-Life Examples of Prediction Systems Interfering with the Real World (Predict-O-Matic Problems)](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)
 - [A prior for technological discontinuities](https://www.lesswrong.com/posts/FaCqw2x59ZFhMXJr9/a-prior-for-technological-discontinuities)
 - [Better scoring rules](https://github.com/SamotsvetyForecasting/optimal-scoring)
@@ -36,6 +37,7 @@ Do you want me to evaluate a project, estimate its value, and suggest ways you c
 - [2018-2019 Long-Term Future Fund Grantees: How did they do?](https://forum.effectivealtruism.org/posts/Ps8ecFPBzSrkLC6ip/2018-2019-long-term-future-fund-grantees-how-did-they-do)
 - [External Evaluation of the EA Wiki](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki).
 - [An experiment eliciting relative estimates for Open Philanthropy’s 2018 AI safety grants](https://forum.effectivealtruism.org/posts/EPhDMkovGquHtFq3h/an-experiment-eliciting-relative-estimates-for-open).
+- [Unflattering aspects of Effective Altruism](https://nunosempere.com/blog/2024/03/05/unflattering-aspects-of-ea/)
 
 For a smaller example, in the past I've really enjoyed doing subjective estimates of the value of different career pathways ([1](https://docs.google.com/spreadsheets/d/1QHBaCjf17C1VF_-su-7xHqz1UCwFrlPyCojiN1xzCi0/edit#gid=0), [2](https://docs.google.com/spreadsheets/d/1qvNGkpt9ztOfIYEPXAXJT62wiPQFG9CKm8yGlSHO1Yo/edit#gid=0)).
 
@@ -62,7 +64,7 @@ On occasion, I've enjoyed talking with entrepreneurial individuals about how the
 Notes on prices:
 
 - Each engagement has some negotiation, preparation and administrative burden. This means that I prefer longer engagements. 
-- Clients not of the landed gentry have proved hesitant to pay $500 for an hour of advice (+30 mins negotiation, +30 mins bookkeeping, +1h of prep, +chance of a rescheduling, +more things that make the cost of an engagement add up).
+- Clients not of the landed gentry are hesitant to pay for an hour of advice (+20 mins negotiation, +10 mins bookkeeping, +1h of prep, +chance of a rescheduling, +more things that make the cost of an engagement add up). This means that even the well-off professional price is a bit discounted.
 
 ### Description of client
 
@@ -88,7 +90,6 @@ My anti-client on the other hand would be someone who has already made up their 
 > Nuño took on an extremely underspecified and wicked problem and delivered to everyone's satisfaction. If you're reading this page you probably already know about his relentless clarity, but you might not be aware of how much he cares about the work and how good at reading people he is.
 > 
 > &mdash;Gavin Leech
-
 
 ###  Further details
 
