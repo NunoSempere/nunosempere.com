@@ -13,7 +13,7 @@ Alternative Visions of Effective Altruism
 
 <p><i>Alternating consulting and cultivating the forecasting community:</i></p>
 
-<blockquote><p>You work on consulting as a generally talented jack-of-all-tradesn, and you keep track of what&rsquo;s up in the forecasting community, which you then write up in a pretty well-read newsletter. You think that a few of the most impactful moves you&rsquo;ve made in the last few years might have been about giving honest encouragement to new people in the space trying out new projects—though you don&rsquo;t really know whether that was counterfactually valuable. Otherwise you subsidize a bit of your own independent research with the money you earn from consulting. Over time, you develop a community of people working on stuff that&rsquo;s similar to yours.</p></blockquote>
+<blockquote><p>You work on consulting as a generally talented jack-of-all-trades, and you keep track of what&rsquo;s up in the forecasting community, which you then write up in a pretty well-read newsletter. You think that a few of the most impactful moves you&rsquo;ve made in the last few years might have been about giving honest encouragement to new people in the space trying out new projects—though you don&rsquo;t really know whether that was counterfactually valuable. Otherwise you subsidize a bit of your own independent research with the money you earn from consulting. Over time, you develop a community of people working on stuff that&rsquo;s similar to yours.</p></blockquote>
 
 <p><i>Jane Street trader to make bets on global health:</i></p>
 
