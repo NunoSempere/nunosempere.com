@@ -53,16 +53,17 @@ On occasion, I've enjoyed talking with entrepreneurial individuals about how the
 
 | Size of project | Cost | ~hours | Example |
 | ------- | ---------- | ----- | --- | 
-| One-off (discounted) | $50  | 1h |  You, an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
-| One-off (well-off professional)  | $150 | 1h  | You, a well-off proffessional, pick my brain about a project for an hour. |
+| One-off (discounted) | $50  | 1h |  You, a student or an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
+| One-off (well-off professional)  | $200 | 1h  | You, a well-off proffessional, pick my brain about a project for an hour. |
 | One-off (titan of industry) | $500 | 2h  | You, a titan of industry, pick my brain about a project for an hour about a topic of your choice, before which I spend an hour of preparation. |
-| Forecasting workshop workshop | $500 | 1h  | I organize a two hour workshop (+ preparation time) and give it to your underlings. Online, otherwise cost of travel not included. |
+| Forecasting workshop workshop | $1.5 | 2h  | I organize a two hour workshop and give it to your underlings. Online, otherwise cost of travel not included. |
 | Focused | $2k        | 10h   | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
-| Major   | $15k       | 100h  | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki), many [shallow evaluations](https://forum.nunosempere.com/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations), or an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
+| Major   | $20k       | 100h  | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on-criminal), many [shallow evaluations](https://forum.nunosempere.com/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations), or an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
 | Custom  | reach out  | 1000h | Large research project, an ambitious report on a novel topic, the current iteration of [metaforecast](https://metaforecast.org) |
 
-Notes on prices:
+A few notes:
 
+- Something that has worked well for me in the past has been to open a tab on an initial engagement, and then bill the client later, either when I've done more work for them, or when I set some dedicated time to do operations more efficiently. 
 - Each engagement has some negotiation, preparation and administrative burden. This means that I prefer longer engagements. 
 - Clients not of the landed gentry are hesitant to pay for an hour of advice (+20 mins negotiation, +10 mins bookkeeping, +1h of prep, +chance of a rescheduling, +more things that make the cost of an engagement add up). This means that even the well-off professional price is a bit discounted.
 
