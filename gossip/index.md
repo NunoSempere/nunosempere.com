@@ -1,5 +1,7 @@
 ## Gossip
 
+_2024/06/27_: I've been running [Sentinel](https://sentinel-team.org/blog). I'm very excited about it. 
+
 _2024/03/31_: Demand for free work is infinite, so I've added a section about it to my consulting page. I edited, financed and now published [A Gentle Introduction to Risk Frameworks Beyond Forecasting](https://forecasting.substack.com/p/a-gentle-introduction-to-risk-frameworks)!
 
 _2024/02/28_: Consulting is going extremely well, and I'm putting some of the resulting slack into [ALERT](https://alert-team.org/). I remain happy to be reached out to at nuno dot semperelh at protonmail.com. I also have a draft criticizing aspects of EA I'd love to get some feedback on.
