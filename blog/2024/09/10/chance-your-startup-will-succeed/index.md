@@ -7,7 +7,7 @@ The U.S. Bureau of Labor Statistics [shares data](https://www.bls.gov/bdm/us_age
 
 The BLS also shares data [disaggregated by industry](https://www.bls.gov/bdm/bdmage.htm). For instance, for the [information](https://www.bls.gov/bdm/us_age_naics_51_table7.txt) or [technical services](https://www.bls.gov/bdm/us_age_naics_54_table7.txt) fields. But the numbers look pretty similar for all industry (with agriculture dying substantially less often and mining dying substantially more often)
 
-![](./by-industry.png)
+![](https://i.imgur.com/Lya5QvP.png)
 
 ### The data is unreliable for Venture Capital
 
