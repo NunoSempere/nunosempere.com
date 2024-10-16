@@ -11,7 +11,12 @@ My initial script had to be improved a fair bit, since not all cities had infobo
 
 The resulting spreadsheet can be found [here](./src/List_of_cities_with_over_one_million_inhabitants_with_areas_manual.csv). 
 
-All in all, metropolitan areas add up to 1.57M km2. The total surface of the Earth is 510M, so "very urban" share per our operationalization above corresponds to 0.31% of it.
+All in all, metropolitan areas with more than 1M people add up to 1.57M km2. The total surface of the Earth is 510M km2, so "very urban" share per our operationalization above corresponds to 0.31% of it. In that area live 1.39B people, or around 17% of the human population.
 
+<p>
+  <section id='isso-thread'>
+  <noscript>javascript needs to be activated to view comments.</noscript>
+  </section>
+</p>
 
 
