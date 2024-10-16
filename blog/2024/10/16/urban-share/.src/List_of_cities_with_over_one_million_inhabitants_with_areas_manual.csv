@@ -1,0 +1,469 @@
+City,Country,Inhabitants,Continent,Year,City definition,Area (km2)
+Shanghai,China,"21,909,814",Asia,2020,Province-level city (urban),14922.7
+Delhi,India,"20,591,874",Asia,2021,Municipal corporation/Union territory,1484
+Karachi,Pakistan,"20,382,881",Asia,2023,Metropolitan corporation,3527
+Beijing,China,"18,960,744",Asia,2020,Province-level city (urban),12796.5
+Shenzhen,China,"17,444,609",Asia,2020,Sub-provincial City (urban),1997
+Guangzhou,China,"16,096,724",Asia,2020,Sub-provincial City (urban),20144.1
+Lagos,Nigeria,"15,946,000",Africa,2023,Metropolis,2706.7
+Istanbul,Turkey,"15,907,951",Asia/Europe,2022,Metropolitan municipality,5343.22
+Kinshasa,DR Congo,"14,565,700",Africa,2020,Province-level city,9965
+Bangalore,India,"14,254,786",Asia,2021,Municipal corporation,8005
+Tokyo,Japan,"14,047,594",Asia,2020,Metropolitan Prefecture,13452
+Chengdu,China,"13,568,357",Asia,2020,Sub-provincial City (urban),4558.8
+Mumbai,India,"13,127,825",Asia,2021,Municipal corporation,6328
+Moscow,Russia,"13,010,112",Europe,2021,Federal city,48360
+Lahore,Pakistan,"13,004,135",Asia,2023,Metropolitan corporation/District,1772
+São Paulo,Brazil,"11,451,999",South America,2022,Municipio,53369.61
+Tianjin,China,"11,052,404",Asia,2020,Province-level city (urban),5609.9
+Jakarta,Indonesia,"10,562,088",Asia,2020,Special Capital Region,7076.31
+Wuhan,China,"10,494,879",Asia,2020,Sub-provincial City (urban),8494.41
+Dhaka,Bangladesh,"10,278,882",Asia,2022,City corporation (DNCC/DSCC),2569.55
+Hyderabad,India,"10,269,000",Asia,2021,Municipal corporation,7257
+Lima,Peru,"10,004,141",South America,2022,Metropolitan municipality,2819.3
+Chennai,India,"9,722,974",Asia,2021,Municipal corporation,5904
+Dongguan,China,"9,644,871",Asia,2020,Prefecture-level city (urban),19870.4
+Cairo,Egypt,"9,606,916",Africa,2022,City,2734
+Seoul,South Korea,"9,586,195",Asia,2020,Special city (Teukbyeolsi),12685
+Chongqing,China,"9,580,810",Asia,2020,Province-level city (urban),5472.8
+Xi'an,China,"9,392,938",Asia,2020,Sub-provincial City (urban),4903.9
+Hangzhou,China,"9,236,032",Asia,2020,Sub-provincial City (urban),8107.9
+Mexico City,Mexico,"9,209,944",North America,2020,Distrito Federal,7866
+Luanda,Angola,"9,079,800",Africa,2022,Province,1876
+Foshan,China,"9,042,509",Asia,2020,Prefecture-level city (urban),19870.4
+Tehran,Iran,"9,039,000",Asia,2021,Municipality (city),2235
+London,United Kingdom,"8,866,180",Europe,2022,Region,8382
+Bangkok,Thailand,"8,833,400",Asia,2019,Province-level city,7761.6
+New York City,United States,"8,335,897",North America,2022,City,1223.59
+Ahmedabad,India,"8,253,226",Asia,2021,Municipal corporation,1866
+Bogotá,Colombia,"7,732,161",South America,2020,Distrito Capital,1587
+Surat,India,"7,567,538",Asia,2021,Municipal corporation,722
+Nanjing,China,"7,519,814",Asia,2020,Sub-provincial City (urban),6587
+Hong Kong,China,"7,498,100",Asia,2023,Special administrative region,2754.97
+Shenyang,China,"7,026,358",Asia,2020,Sub-provincial City (urban),4222.2
+Ho Chi Minh City,Vietnam,"7,004,921",Asia,2019,Province-level municipality (urban),30595
+Riyadh,Saudi Arabia,"6,924,566",Asia,2022,Municipality (city),1973
+Baghdad,Iraq,"6,719,476",Asia,2018,Municipality (city),673
+Zhengzhou,China,"6,461,013",Asia,2020,Prefecture-level city (urban),4271.4
+Rio de Janeiro,Brazil,"6,211,223",South America,2022,Municipio,4539.8
+Qingdao,China,"6,165,279",Asia,2020,Prefecture-level city (urban),5171.4
+Kolkata,India,"6,112,874",Asia,2020,Municipal corporation,1886.67
+Singapore,Singapore,"6,040,000",Asia,2024,Sovereign state,735.6
+Suzhou,China,"5,892,892",Asia,2020,Prefecture-level city (urban),12493
+Changsha,China,"5,630,256",Asia,2020,Prefecture-level city (urban),3911.1
+Abidjan,Côte d'Ivoire,"5,616,633",Africa,2021,City (Ville),2119
+Saint Petersburg,Russia,"5,601,911",Europe,2021,Federal city,1439
+Jinan,China,"5,452,335",Asia,2020,Sub-provincial City (urban),3304
+Dar es Salaam,Tanzania,"5,383,728",Africa,2022,Region-level city,1493
+Kunming,China,"5,273,144",Asia,2020,Prefecture-level city (urban),2622
+Alexandria,Egypt,"5,263,542",Africa,2021,City,1661
+Harbin,China,"5,242,897",Asia,2020,Sub-provincial City (urban),10204.8
+Sydney,Australia,"5,231,147",Australia,2021,Metropolis,12367.7
+Santiago,Chile,"5,220,161",South America,2017,Metropolis,641.28
+Ankara,Turkey,"5,186,002",Asia,2022,City,24521
+Shijiazhuang,China,"5,090,440",Asia,2020,Prefecture-level city (urban),2664.2
+Hefei,China,"5,055,978",Asia,2020,Prefecture-level city (urban),7055.6
+Melbourne,Australia,"5,031,195",Australia,2022,Metropolis,9993
+Dalian,China,"4,913,879",Asia,2020,Sub-provincial City (urban),3169.2
+Johannesburg,South Africa,"4,803,262",Africa,2022,Metropolitan municipality,1642.6
+Cape Town,South Africa,"4,772,846",Africa,2022,Metropolitan municipality,2461
+Nairobi,Kenya,"4,750,100",Africa,2023,Consolidated city-county,696.1
+Yangon,Myanmar,"4,728,524",Asia,2014,Municipality (city),10170
+Kano,Nigeria,"4,648,400",Africa,2022,Metropolis,499
+Xiamen,China,"4,617,251",Asia,2020,Sub-provincial City (urban),4290.84
+Nanning,China,"4,582,703",Asia,2020,Prefecture-level city (urban),5264
+Changchun,China,"4,557,356",Asia,2020,Sub-provincial City (urban),1855.00
+Kabul,Afghanistan,"4,434,600",Asia,2020,Municipality (city),1028.24
+Giza,Egypt,"4,367,343",Africa,2021,City,98.4
+Taiyuan,China,"4,303,673",Asia,2020,Prefecture-level city (urban),2787
+Durban,South Africa,"4,239,901",Africa,2022,Metropolitan municipality,2556
+Bamako,Mali,"4,227,569",Africa,2022,Region-level city,245.0
+Jaipur,India,"4,067,826",Asia,2021,Municipal corporation,467
+Ekurhuleni,South Africa,"4,066,691",Africa,2022,Metropolitan municipality,1975
+Tshwane,South Africa,"4,040,315",Africa,2022,Metropolitan municipality,6298
+New Taipei City,Taiwan,"4,030,954",Asia,2020,Special municipality,2052.57
+Guiyang,China,"4,021,275",Asia,2020,Prefecture-level city (urban),2403.4
+Wuxi,China,"3,956,985",Asia,2020,Prefecture-level city (urban),4628
+Pune,India,"3,891,823",Asia,2021,Municipal corporation,484.61
+Shantou,China,"3,890,169",Asia,2020,Prefecture-level city (urban),9297.1
+Ibadan,Nigeria,"3,875,000",Africa,2023,Urban area,1680
+Ürümqi,China,"3,864,136",Asia,2020,Prefecture-level city (urban),14577
+Los Angeles,United States,"3,849,297",North America,2021,City,1290.6
+Zhongshan,China,"3,841,873",Asia,2020,Prefecture-level city (urban),19870.4
+Abuja,Nigeria,"3,840,000",Africa,2023,Urban area,1476
+Lucknow,India,"3,790,274",Asia,2021,Municipal corporation,631
+Yokohama,Japan,"3,777,491",Asia,2020,Designated city,437.38
+Berlin,Germany,"3,735,164",Europe,2022,State/Urban district,30546
+Ningbo,China,"3,731,203",Asia,2020,Prefecture-level city (urban),2461.8
+Fuzhou,China,"3,723,454",Asia,2020,Prefecture-level city (urban),12231.9
+Jeddah,Saudi Arabia,"3,712,917",Asia,2022,Municipality (city),2485
+Faisalabad,Pakistan,"3,691,999",Asia,2023,Metropolitan corporation,1326.08
+Casablanca,Morocco,"3,640,000",Africa,2023,Municipality (city),1117
+Hanoi,Vietnam,"3,605,364",Asia,2019,Province-level municipality (urban),24314.7
+Nanchang,China,"3,518,975",Asia,2020,Prefecture-level city (urban),4588
+Addis Ababa,Ethiopia,"3,480,229",Africa,2022,Chartered city,527
+Port Harcourt,Nigeria,"3,480,000",Africa,2023,Urban area,1900
+Busan,South Korea,"3,349,016",Asia,2020,Metropolitan city (Gwangyeoksi),770.04
+Madrid,Spain,"3,305,408",Europe,2021,Municipio,604.31
+Dubai,United Arab Emirates,"3,291,166",Asia,2019,Metropolis,1994
+Chittagong,Bangladesh,"3,227,246",Asia,2022,City corporation,655.74
+Kanpur,India,"3,203,932",Asia,2021,Municipal corporation,3155
+Changzhou,China,"3,187,315",Asia,2020,Prefecture-level city (urban),4384.58
+Santo Domingo,Dominican Republic,"3,143,079",North America,2022,City,2770.00
+Pyongyang,North Korea,"3,133,000",Asia,2022,Directly governed city,3194
+Buenos Aires,Argentina,"3,120,612",South America,2022,Distrito Federal,4758
+Lanzhou,China,"3,012,577",Asia,2020,Prefecture-level city (urban),1112.9
+Mashhad,Iran,"3,001,184",Asia,2016,Municipality (city),351
+Nantong,China,"2,987,600",Asia,2020,Prefecture-level city (urban),2840
+Surabaya,Indonesia,"2,972,801",Asia,2022,City (Kota),5925
+Quezon City,Philippines,"2,960,048",Asia,2020,City (Lungsod),171.71
+Tashkent,Uzbekistan,"2,956,384",Asia,2023,Municipality (city),6400
+Kyiv,Ukraine,"2,952,301",Europe,2022,City with special status,839
+İzmir,Turkey,"2,948,160",Asia,2022,City,12012
+Incheon,South Korea,"2,945,454",Asia,2020,Metropolitan city (Gwangyeoksi),1062.63
+Nagpur,India,"2,940,000",Asia,2021,Municipal corporation,393.50
+Kumasi,Ghana,"2,907,000",Africa,2017,Urban area,299
+Algiers,Algeria,"2,902,000",Africa,2023,Urban area,1190
+Mbuji-Mayi,DR Congo,"2,892,000",Africa,2023,Urban area,135.12
+Xuzhou,China,"2,845,552",Asia,2020,Prefecture-level city (urban),2347
+Taichung,Taiwan,"2,820,787",Asia,2020,Special municipality,2214.90
+Brasília,Brazil,"2,817,381",South America,2022,Municipio,5802
+Lubumbashi,DR Congo,"2,812,000",Africa,2023,Urban area,747
+Toronto,Canada,"2,794,356",North America,2021,City,5905.71
+Douala,Cameroon,"2,768,400",Africa,2015,Municipality (city),923
+Kaohsiung,Taiwan,"2,765,932",Asia,2020,Special municipality,363
+Yaoundé,Cameroon,"2,765,600",Africa,2015,Municipality (city),180
+Osaka,Japan,"2,752,412",Asia,2020,Designated city,225.21
+Zibo,China,"2,750,312",Asia,2020,Prefecture-level city (urban),4748
+Rome,Italy,"2,748,109",Europe,2023,Comune,1285.41
+Linyi,China,"2,743,843",Asia,2020,Prefecture-level city (urban),2293.3
+Chicago,United States,"2,696,555",North America,2021,City,607.44
+Gazipur,Bangladesh,"2,674,697",Asia,2022,City corporation,329.23
+Guayaquil,Ecuador,"2,665,392",South America,2022,Municipio,2493.86
+Dakar,Senegal,"2,646,503",Africa,2013,City,535
+Baku,Azerbaijan,"2,616,948",Asia,2019,Municipality (city),2140
+Taipei,Taiwan,"2,602,418",Asia,2020,Special municipality,1059
+Damascus,Syria,"2,584,771",Asia,2023,Urban area,105
+Wenzhou,China,"2,582,017",Asia,2020,Prefecture-level city (urban),1243.4
+Brisbane,Australia,"2,568,927",Australia,2021,Metropolis,15842
+Tangshan,China,"2,549,968",Asia,2020,Prefecture-level city (urban),3874
+Sanaa,Yemen,"2,545,000",Asia,2017,City,126
+Bandung,Indonesia,"2,527,854",Asia,2021,City (Kota),1876.8
+Lusaka,Zambia,"2,526,100",Africa,2018,Municipality (city),360
+Medellín,Colombia,"2,519,592",South America,2020,Municipio,1152
+Gujranwala,Pakistan,"2,511,118",Asia,2023,Metropolitan corporation,3198
+Ouagadougou,Burkina Faso,"2,485,600",Africa,2018,Municipality (city),2805
+Bekasi,Indonesia,"2,468,448",Asia,2021,City (Kota),213.12
+Indore,India,"2,463,588",Asia,2020,Municipal corporation,1200
+Medan,Indonesia,"2,435,252",Asia,2020,City (Kota),2831.97
+Fortaleza,Brazil,"2,428,708",South America,2022,Municipio,7440.053
+Salvador,Brazil,"2,417,678",South America,2022,Municipio,4375.123
+Daegu,South Korea,"2,410,700",Asia,2020,Metropolitan city (Gwangyeoksi),1499.51
+Omdurman,Sudan,"2,395,159",Africa,2022,Municipality (city),614.9
+Mecca,Saudi Arabia,"2,385,509",Asia,2022,Municipality (city),1200
+Hohhot,China,"2,373,399",Asia,2020,Prefecture-level city (urban),4830.1
+Haikou,China,"2,349,239",Asia,2020,Prefecture-level city (urban),2280
+Bhopal,India,"2,337,000",Asia,2021,Municipal corporation,648.24
+Shaoxing,China,"2,333,080",Asia,2020,Prefecture-level city (urban),8107.9
+Nagoya,Japan,"2,332,176",Asia,2020,Designated city,326.45
+Mogadishu,Somalia,"2,330,700",Africa,2019,Region,127
+Patna,India,"2,321,000",Asia,2023,Municipal corporation,600
+Belo Horizonte,Brazil,"2,315,560",South America,2022,Municipio,9459.1
+Houston,United States,"2,302,878",North America,2022,City,1740
+Accra,Ghana,"2,291,352",Africa,2023,Urban area,3245
+Rawalpindi,Pakistan,"2,284,014",Asia,2023,Metropolitan Corporation,311
+Phnom Penh,Cambodia,"2,281,951",Asia,2019,Autonomous municipality,3858
+Taoyuan,Taiwan,"2,268,807",Asia,2020,Special municipality,1220.95
+Cali,Colombia,"2,264,427",South America,2020,Municipio,619
+Luoyang,China,"2,230,661",Asia,2020,Prefecture-level city (urban),1402.3
+Zhuhai,China,"2,207,090",Asia,2020,Prefecture-level city (urban),19870.4
+Liuzhou,China,"2,204,841",Asia,2020,Prefecture-level city (urban),3559.4
+Aleppo,Syria,"2,203,025",Asia,2023,Urban area,190
+Perth,Australia,"2,192,229",Australia,2021,Metropolis,6417.9
+Lomé,Togo,"2,188,376",Africa,2022,Urban area,280
+Agra,India,"2,185,000",Asia,2023,Municipal corporation,121
+Multan,Pakistan,"2,169,915",Asia,2023,Metropolitan corporation,560
+Almaty,Kazakhstan,"2,161,797",Asia,2022,Municipality (city),9395
+Brazzaville,Republic of the Congo,"2,145,783",Africa,2023,Department,588
+Havana,Cuba,"2,137,847",North America,2022,Municipio/Province,728.26
+Baotou,China,"2,104,114",Asia,2020,Prefecture-level city (urban),953.5
+Paris,France,"2,102,650",Europe,2023,Département/Commune,18940.7
+Handan,China,"2,095,134",Asia,2020,Prefecture-level city (urban),12068
+Huizhou,China,"2,090,578",Asia,2020,Prefecture-level city (urban),1488.5
+Caracas,Venezuela,"2,089,012",South America,2019,Distrito Capital,4715.1
+Manaus,Brazil,"2,063,689",South America,2022,Municipio,11401.092
+Bursa,Turkey,"2,051,464",Asia,2022,City,17806
+Weifang,China,"2,044,028",Asia,2021,Prefecture-level city (urban),3746.6
+Vienna,Austria,"2,005,760",Europe,2024,State/City,414.78
+Minsk,Belarus,"1,995,471",Europe,2023,Municipality (city),409.53
+Kuala Lumpur,Malaysia,"1,982,112",Asia,2020,Federal capital city/federal territory,2243.27
+Sapporo,Japan,"1,973,395",Asia,2020,Designated city,1121.26
+Khartoum,Sudan,"1,974,647",Africa,2023,Municipality (city),1010
+Khartoum Bahri,Sudan,"1,968,601",Africa,2015,Municipality (city),40
+Isfahan,Iran,"1,961,260",Asia,2016,Municipality (city),551
+Faridabad,India,"1,957,869",Asia,2021,Municipal corporation,189.9
+Benin City,Nigeria,"1,953,000",Africa,2023,Urban area,1204
+Baoding,China,"1,940,384",Asia,2020,Prefecture-level city (urban),1840
+Santa Cruz de la Sierra,Bolivia,"1,903,398",South America,2022,Municipio,1345
+Tangerang,Indonesia,"1,895,486",Asia,2020,City (Kota),164.55
+Depok,Indonesia,"1,893,321",Asia,2021,City (Kota),199.91
+Hamburg,Germany,"1,888,879",Europe,2022,State/Urban district,755.22
+Tainan,Taiwan,"1,874,917",Asia,2020,Special municipality,2191.65
+Warsaw,Poland,"1,860,281",Europe,2021,City with powiat right,6100.43
+Manila,Philippines,"1,846,513",Asia,2020,City (Lungsod),619.57
+Thane,India,"1,841,448",Asia,2011,Municipal corporation,147
+Peshawar,Pakistan,"1,837,741",Asia,2023,Metropolitan Corporation,1257
+Amman,Jordan,"1,812,059",Asia,2015,Municipality (city),1680
+Tijuana,Mexico,"1,810,645",North America,2020,Locality (Localidad),1392.5
+Datong,China,"1,809,505",Asia,2020,Prefecture-level city (urban),976
+Huai'an,China,"1,804,611",Asia,2020,Prefecture-level city (urban),3202.6
+Yantai,China,"1,802,700",Asia,2020,Prefecture-level city (urban),13739.9
+Jiangmen,China,"1,795,459",Asia,2020,Prefecture-level city (urban),20968.7
+Adana,Turkey,"1,779,463",Asia,2022,City,2280
+Ganzhou,China,"1,778,132",Asia,2020,Prefecture-level city (urban),5316.8
+Davao City,Philippines,"1,776,949",Asia,2020,City (Lungsod),3964.95
+Curitiba,Brazil,"1,773,718",South America,2022,Municipio,15416.9
+Quito,Ecuador,"1,776,364",South America,2022,Municipio,4217.95
+Montreal,Canada,"1,762,949",North America,2021,City,4604.26
+Monrovia,Liberia,"1,761,032",Africa,2022,Urban area,194.25
+Maracaibo,Venezuela,"1,752,602",South America,2019,Municipio,1393
+Kigali,Rwanda,"1,745,555",Africa,2022,Province-level city,730
+Visakhapatnam,India,"1,730,320",Asia,2011,Municipal corporation,7328.86
+Pimpri-Chinchwad,India,"1,729,359",Asia,2011,Municipal corporation,181
+Bucharest,Romania,"1,716,961",Europe,2021,County/city,1803
+Semarang,Indonesia,"1,688,133",Asia,2022,City (Kota),5453.99
+Xiangyang,China,"1,686,403",Asia,2020,Prefecture-level city (urban),3672.9
+Belgrade,Serbia,"1,685,563",Europe,2021,District,3234.96
+Budapest,Hungary,"1,682,426",Europe,2022,Komitat/city,6917
+Gaziantep,Turkey,"1,680,723",Asia,2022,City,2250
+Kampala,Uganda,"1,680,600",Africa,2020,Municipality (city),8451.9
+Xining,China,"1,677,177",Asia,2020,Prefecture-level city (urban),2892.7
+Zunyi,China,"1,675,245",Asia,2020,Prefecture-level city (urban),1304
+Palembang,Indonesia,"1,668,848",Asia,2020,City (Kota),352.51
+Vadodara,India,"1,666,703",Asia,2011,Municipal corporation,420.33
+Caloocan,Philippines,"1,661,584",Asia,2020,City (Lungsod),55.80
+Conakry,Guinea,"1,660,973",Africa,2014,Municipality (city),450
+Barcelona,Spain,"1,655,956",Europe,2023,Municipio,101.4
+Kunshan,China,"1,652,159",Asia,2020,County-level city (urban),927.68
+Varanasi,India,"1,652,000",Asia,2023,Municipal corporation,163.8
+Beirut,Lebanon,"1,650,000",Asia,2017,Urban area,67
+Phoenix,United States,"1,644,409",North America,2022,City,1344.94
+Ecatepec de Morelos,Mexico,"1,643,623",North America,2020,Locality (Localidad),156.2
+Ghaziabad,India,"1,636,068",Asia,2011,Municipal corporation,210
+Novosibirsk,Russia,"1,633,595",Asia,2021,Municipality (city),502.7
+Auckland,New Zealand,"1,628,900",Oceania,2018,Unitary Authority,605.67
+Ludhiana,India,"1,613,878",Asia,2011,Municipal corporation,310
+Fukuoka,Japan,"1,612,392",Asia,2020,Designated city,343.39
+Daqing,China,"1,604,027",Asia,2020,Prefecture-level city (urban),2734.6
+Kisangani,DR Congo,"1,602,144",Africa,2016,Urban area,1910
+Wuhu,China,"1,598,165",Asia,2020,Prefecture-level city (urban),1172.9
+Karaj,Iran,"1,592,492",Asia,2016,Municipality (city),162
+León,Mexico,"1,579,803",North America,2020,Locality (Localidad),1219.67
+Philadelphia,United States,"1,567,258",North America,2022,Consolidated city-county,369.59
+Shiraz,Iran,"1,565,572",Asia,2016,Municipality (city),240
+Tabriz,Iran,"1,558,693",Asia,2016,Municipality (city),1500
+Yekaterinburg,Russia,"1,544,376",Asia,2022,Municipality (city),1111
+Navi Mumbai,India,"1,543,000",Asia,2023,Municipal corporation,344
+Puebla,Mexico,"1,542,232",North America,2020,Locality (Localidad),2392.4
+Putian,China,"1,539,389",Asia,2020,Prefecture-level city (urban),2284
+Ulaanbaatar,Mongolia,"1,539,252",Asia,2021,Province/City,4704
+Kawasaki,Japan,"1,538,262",Asia,2020,Designated city,143.01
+Kōbe,Japan,"1,525,152",Asia,2020,Designated city,557.02
+Qinhuangdao,China,"1,520,199",Asia,2020,Prefecture-level city (urban),2122.9
+Zhuzhou,China,"1,510,148",Asia,2020,Prefecture-level city (urban),11262
+Jilin,China,"1,509,292",Asia,2020,Prefecture-level city (urban),3663.9
+Munich,Germany,"1,505,254",Europe,2022,Urban district,310.71
+Ciudad Juárez,Mexico,"1,501,551",North America,2020,Locality (Localidad),321.19
+Recife,Brazil,"1,494,586",South America,2022,Municipio,2768
+Harare,Zimbabwe,"1,491,740",Africa,2022,Municipality (city),982.3
+Daejeon,South Korea,"1,488,435",Asia,2020,Metropolitan city (Gwangyeoksi),539.85
+Hyderabad,Pakistan,"1,487,098",Asia,2023,Metropolitan corporation,7257
+Nashik,India,"1,486,973",Asia,2011,Municipal corporation,267
+Yiwu,China,"1,481,384",Asia,2020,County-level city (urban),1105.48
+Anshan,China,"1,480,332",Asia,2020,Prefecture-level city (urban),3997.8
+Gwangju,South Korea,"1,477,573",Asia,2020,Metropolitan city (Gwangyeoksi),501.24
+Quanzhou,China,"1,469,157",Asia,2020,Prefecture-level city (urban),4274.5
+Kyōto,Japan,"1,463,723",Asia,2020,Designated city,827.83
+Cixi,China,"1,457,510",Asia,2020,Prefecture-level city (urban),2861.43
+San Antonio,United States,"1,451,853",North America,2021,City,1307.00
+Goiânia,Brazil,"1,437,366",South America,2022,Municipio,789
+Makassar,Indonesia,"1,423,877",Asia,2020,City (Kota),2666.63
+Kharkiv,Ukraine,"1,421,125",Europe,2022,Municipality (city),3223
+Pointe-Noire,Republic of the Congo,"1,420,612",Africa,2023,Department,2134
+Tai’an,China,"1,416,591",Asia,2020,Prefecture-level city (urban),2086.8
+Medina,Saudi Arabia,"1,411,599",Asia,2022,Municipality (city),22900
+Nanyang,China,"1,407,616",Asia,2020,Prefecture-level city (urban),1988
+Porto Alegre,Brazil,"1,404,269",South America,2022,Município,496.827
+Quetta,Pakistan,"1,401,362",Asia,2023,Metropolitan corporation,3501
+Zhanjiang,China,"1,400,709",Asia,2020,Prefecture-level city (urban),1720.3
+Chandigarh,India,"1,379,895",Asia,2021,Union territory,114
+Dammam,Saudi Arabia,"1,386,166",Asia,2022,Municipality (city),1471
+Guadalajara,Mexico,"1,385,621",North America,2020,Locality (Localidad),2734
+San Diego,United States,"1,381,611",North America,2021,City,964.56
+Amritsar,India,"1,381,193",Asia,2023,Municipal corporation,139
+Montevideo,Uruguay,"1,380,432",South America,2016,Municipality (city),200.72
+Konya,Turkey,"1,365,287",Asia,2022,City,6600
+Mossul,Iraq,"1,361,819",Asia,2018,Municipality (city),180
+Guilin,China,"1,361,244",Asia,2020,Prefecture-level city (urban),5041
+Prague,Czech Republic,"1,357,326",Europe,2023,Obec (city),11425
+Astana,Kazakhstan,"1,354,507",Asia,2022,Municipality (city),810.2
+South Tangerang,Indonesia,"1,354,350",Asia,2020,City (Kota),164.85
+Milan,Italy,"1,354,196",Europe,2023,Comune,181.76
+Yancheng,China,"1,353,475",Asia,2020,Prefecture-level city (urban),16920.83
+Zaozhuang,China,"1,349,883",Asia,2020,Prefecture-level city (urban),1008.9
+Taizhou,China,"1,348,327",Asia,2020,Prefecture-level city (urban),2372
+Shangrao,China,"1,342,220",Asia,2020,Prefecture-level city (urban),2555
+Basra,Iraq,"1,340,827",Asia,2018,Municipality (city),181
+Jiangyin,China,"1,331,352",Asia,2020,County-level city (urban),2415.5
+Tegucigalpa,Honduras,"1,326,460",North America,2023,Municipio,1502
+Nouakchott,Mauritania,"1,324,700",Africa,2022,Capital district,1000
+Saitama,Japan,"1,324,025",Asia,2020,Designated city,217.43
+Antalya,Turkey,"1,322,766",Asia,2022,City,20591
+Antananarivo,Madagascar,"1,321,269",Africa,2020,Municipality (city),85
+Guwahati,India,"1,319,000",Asia,2023,Municipal corporation,1528
+Córdoba,Argentina,"1,317,298",South America,2010,Urban settlement,576
+Adelaide,Australia,"1,313,927",Australia,2017,Metropolis,3259.8
+Mombasa,Kenya,"1,311,860",Africa,2023,Consolidated city-county,219.9
+Meerut,India,"1,309,023",Asia,2011,Municipal corporation,450
+Kazan,Russia,"1,308,660",Europe,2021,Municipality (city),425.3
+Maoming,China,"1,307,802",Asia,2020,Prefecture-level city (urban),2714
+Calgary,Canada,"1,306,784",North America,2021,City,5098.68
+Belém,Brazil,"1,303,403",South America,2022,Município,1059.40
+Heze,China,"1,293,767",Asia,2020,Prefecture-level city (urban),1416
+Guarulhos,Brazil,"1,291,771",South America,2022,Municipio,318.68
+Dallas,United States,"1,288,457",North America,2021,City,999.2
+Rajkot,India,"1,286,995",Asia,2011,Municipal corporation,170
+Onitsha,Nigeria,"1,285,000",Africa,2018,Urban area,1965
+Yichang,China,"1,284,305",Asia,2020,Prefecture-level city (urban),4192
+Barranquilla,Colombia,"1,275,264",South America,2020,Municipio,154
+Sharjah,United Arab Emirates,"1,274,749",Asia,2015,Urban area,235.5
+Sofia,Bulgaria,"1,274,290",Europe,2021,Province-level city,10738
+Xinxiang,China,"1,271,350",Asia,2020,Prefecture-level city (urban),3390
+Abu Dhabi,United Arab Emirates,"1,266,189",Asia,2016,Urban area,972
+Zapopan,Mexico,"1,257,547",North America,2020,Locality (Localidad),893.15
+Nanchong,China,"1,254,455",Asia,2020,Prefecture-level city (urban),2527.8
+Chaozhou,China,"1,254,007",Asia,2020,Prefecture-level city (urban),9297.1
+Bukavu,DR Congo,"1,249,000",Africa,2023,Urban area,45
+Kalyan-Dombivli,India,"1,246,381",Asia,2011,Municipal corporation,137.15
+Bareilly,India,"1,245,000",Asia,2023,Municipal corporation,123
+Jieyang,China,"1,242,906",Asia,2020,Prefecture-level city (urban),5240.5
+Shubra El Kheima,Egypt,"1,240,289",Africa,2021,City,30.0
+Huainan,China,"1,238,488",Asia,2020,Prefecture-level city (urban),1989.7
+Port-au-Prince,Haiti,"1,234,742",North America,2019,Municipality (city),158.50
+Fès,Morocco,"1,233,000",Africa,2023,Municipality (city),320
+Changshu,China,"1,230,599",Asia,2020,County-level city (urban),1264
+Mysore,India,"1,229,000",Asia,2023,Municipal corporation,156
+Fushun,China,"1,228,890",Asia,2020,Prefecture-level city (urban),4222.2
+Nizhny Novgorod,Russia,"1,226,076",Europe,2021,Municipality (city),514.56
+Mandalay,Myanmar,"1,225,546",Asia,2014,Municipality (city),163.84
+Guatemala City,Guatemala,"1,221,739",North America,2023,Municipio,997
+Vasai-Virar,India,"1,221,233",Asia,2011,Municipal corporation,311
+Suwon,South Korea,"1,210,150",Asia,2020,Specific city (Si),121.04
+Qom,Iran,"1,201,158",Asia,2016,Municipality (city),50
+Hiroshima,Japan,"1,200,754",Asia,2020,Designated city,906.68
+Qingyuan,China,"1,197,581",Asia,2020,Prefecture-level city (urban),3652.3
+Batam,Indonesia,"1,196,396",Asia,2020,City (Kota),1915
+Kaifeng,China,"1,193,802",Asia,2020,Prefecture-level city (urban),1848.5
+Srinagar,India,"1,192,792",Asia,2011,Municipal corporation,766
+Xianyang,China,"1,192,776",Asia,2020,Prefecture-level city (urban),10213
+Fuyang,China,"1,191,810",Asia,2020,Prefecture-level city (urban),1844
+Nelson Mandela Bay (Gqeberha),South Africa,"1,190,496",Africa,2022,Metropolitan municipality,1959
+Chelyabinsk,Russia,"1,189,525",Asia,2021,Municipality (city),530
+Jiaxing,China,"1,188,321",Asia,2020,Prefecture-level city (urban),986.9
+Anyang,China,"1,187,772",Asia,2020,Prefecture-level city (urban),2392
+Krasnoyarsk,Russia,"1,187,771",Asia,2021,Municipality (city),348
+Doha,Qatar,"1,186,023",Asia,2020,Municipality,132
+Hengyang,China,"1,185,130",Asia,2020,Prefecture-level city (urban),543
+Tbilisi,Georgia,"1,184,818",Asia,2020,Region-level city,726
+Ahvaz,Iran,"1,184,788",Asia,2016,Municipality (city),185
+Schymkent,Kazakhstan,"1,184,113",Asia,2022,Municipality (city),1170
+Tripoli,Libya,"1,176,000",Africa,2022,Urban settlement,1507
+Samara,Russia,"1,173,299",Europe,2021,Municipality (city),541.382
+Jinjiang,China,"1,172,827",Asia,2020,County-level city (urban),721.7
+Aurangabad,India,"1,171,330",Asia,2011,Municipal corporation,141
+Kananga,DR Congo,"1,169,000",Africa,2015,Urban area,743
+Bandar Lampung,Indonesia,"1,166,066",Asia,2020,City (Kota),183.77
+Lilongwe,Malawi,"1,162,500",Africa,2023,Municipality (city),727.79
+Dhanbad,India,"1,161,561",Asia,2011,Municipal corporation,577
+Naypyidaw,Myanmar,"1,160,242",Asia,2014,Union Territory,7054.37
+Yinchuan,China,"1,159,457",Asia,2010,Prefecture-level city (urban),3919.9
+Iribarren (Barquisimeto),Venezuela,"1,159,062",South America,2019,Município,276
+Kaduna,Nigeria,"1,158,000",Africa,2023,Urban area,431
+Rizhao,China,"1,147,175",Asia,2020,Prefecture-level city (urban),1507
+Ufa,Russia,"1,144,809",Europe,2021,Municipality (city),707.93
+Monterrey,Mexico,"1,142,952",North America,2020,Locality (Localidad),7657.5
+Rostov-on-Don,Russia,"1,142,162",Europe,2021,Municipality (city),348.5
+Campinas,Brazil,"1,139,047",South America,2022,Município,3645
+Birmingham,United Kingdom,"1,157,603",Europe,2022,Metropolitan Borough/City,902
+Dazhou,China,"1,135,817",Asia,2020,Prefecture-level city (urban),3137
+Ulsan,South Korea,"1,135,423",Asia,2020,Metropolitan City (Gwangyeoksi),1057.136
+Luzhou,China,"1,128,479",Asia,2020,Prefecture-level city (urban),981.7
+Omsk,Russia,"1,125,695",Asia,2022,Municipality (city),572.9
+Yueyang,China,"1,125,448",Asia,2020,Prefecture-level city (urban),721.0
+Zhenjiang,China,"1,123,813",Asia,2020,Prefecture-level city (urban),1084.8
+Bishkek,Kyrgyzstan,"1,120,827",Asia,2022,Municipality (city),386.0
+Prayagraj,India,"1,117,094",Asia,2011,Municipal corporation,365
+Islamabad,Pakistan,"1,108,872",Asia,2023,Metropolitan corporation,906.50
+Baoji,China,"1,107,702",Asia,2020,Prefecture-level city (urban),3670.3
+Mwanza,Tanzania,"1,104,521",Africa,2022,Municipality (city),50
+Maputo,Mozambique,"1,080,277",Africa,2017,Province-level city,347.69
+Yibin,China,"1,100,737",Asia,2020,Prefecture-level city (urban),1131
+Changde,China,"1,100,719",Asia,2020,Prefecture-level city (urban),2752
+Krasnodar,Russia,"1,099,344",Asia,2021,Municipality (city),200
+Sendai,Japan,"1,096,704",Asia,2020,Designated city,786.30
+Chifeng,China,"1,093,068",Asia,2020,Prefecture-level city (urban),6125
+N'Djamena,Chad,"1,092,000",Africa,2012,Municipality (city),166
+Yerevan,Armenia,"1,091,700",Asia,2021,Region-level city,223
+Diyarbakır,Turkey,"1,087,786",Asia,2022,City,2410
+Tanger,Morocco,"1,087,000",Africa,2020,Municipality (city),124
+Panama City,Panama,"1,086,990",North America,2023,District,2560.8
+Cologne,Germany,"1,084,858",Europe,2022,Urban district,405.15
+Huzhou,China,"1,083,953",Asia,2020,Prefecture-level city (urban),860.42
+Suqian,China,"1,081,559",Asia,2020,Prefecture-level city (urban),2108
+Wanzhou,China,"1,078,149",Asia,2020,District (urban),3457
+Bengbu,China,"1,077,704",Asia,2020,Prefecture-level city (urban),613.7
+Yangzhou,China,"1,077,531",Asia,2010,Prefecture-level city (urban),2310
+Ranchi,India,"1,073,440",Asia,2011,Municipal corporation,652.02
+Nezahualcóyotl,Mexico,"1,072,676",North America,2020,Locality (Localidad),63.74
+Howrah,India,"1,072,161",Asia,2011,Municipal corporation,450.65
+Lu’an,China,"1,069,940",Asia,2020,Prefecture-level city (urban),4127.5
+Ottawa,Canada,"1,068,821",North America,2021,City,6767.41
+Yongin,South Korea,"1,066,975",Asia,2020,Specific city (Si),591.32
+Coimbatore,India,"1,061,447",Asia,2011,Municipal corporation,696.25
+Managua,Nicaragua,"1,061,054",North America,2022,Municipio,267
+Voronezh,Russia,"1,057,681",Europe,2021,Municipality (city),601
+Zhangjiagang,China,"1,055,893",Asia,2020,County-level city (urban),2415.5
+Jabalpur,India,"1,054,336",Asia,2011,Municipal corporation,263.49
+Gwalior,India,"1,053,505",Asia,2011,Municipal corporation,414
+Vijayawada,India,"1,048,240",Asia,2011,Municipal corporation,8603.32
+Salé,Morocco,"1,048,000",Africa,2023,Municipality (city),80
+Changzhi,China,"1,047,461",Asia,2020,Prefecture-level city (urban),818
+Pingdingshan,China,"1,045,966",Asia,2020,Prefecture-level city (urban),1771
+Goyang,South Korea,"1,045,497",Asia,2020,Specific city (Si),286.1
+Bogor,Indonesia,"1,043,070",Asia,2020,City (Kota),111.39
+Jinhua,China,"1,040,948",Asia,2020,Prefecture-level city (urban),2049.5
+Mersin,Turkey,"1,040,507",Asia,2022,City,1708.6
+São Luís,Brazil,"1,037,775",South America,2022,Municipio,827.141
+Zhaoqing,China,"1,035,810",Asia,2020,Prefecture-level city (urban),2892
+Asmara,Eritrea,"1,035,000",Africa,2022,Urban area,45
+Perm,Russia,"1,034,002",Europe,2021,Municipality (city),799.68
+Jodhpur,India,"1,033,918",Asia,2011,Municipal corporation,241
+Matola,Mozambique,"1,032,197",Africa,2017,Municipality (city),373
+Shangqiu,China,"1,031,123",Asia,2020,Prefecture-level city (urban),3255
+Qiqihar,China,"1,029,522",Asia,2020,Prefecture-level city (urban),970.3
+Changwon,South Korea,"1,029,389",Asia,2020,Specific city (Si),747.12
+Cartagena,Colombia,"1,028,736",South America,2020,Municipio,597.7
+Volgograd,Russia,"1,028,036",Europe,2021,Municipality (city),859.35
+Niamey,Niger,"1,026,848",Africa,2012,Municipality (city),239.30
+Jinzhou,China,"1,021,478",Asia,2020,Prefecture-level city (urban),3323.6
+Tshikapa,DR Congo,"1,020,468",Africa,2023,Urban area,38
+Liaocheng,China,"1,020,430",Asia,2020,Prefecture-level city (urban),1254
+Madurai,India,"1,016,885",Asia,2011,Municipal corporation,303.97
+Xinyang,China,"1,014,843",Asia,2020,Prefecture-level city (urban),3665.9
+Yuyao,China,"1,013,866",Asia,2020,County-level city (urban),2861.4
+Rui’an,China,"1,012,731",Asia,2020,County-level city (urban),1271
+Edmonton,Canada,"1,010,899",North America,2021,City,9416.19
+Odesa,Ukraine,"1,010,537",Europe,2022,Municipality (city),3656
+Raipur,India,"1,010,087",Asia,2011,Municipal corporation,503.67
+Vientiane,Laos,"1,009,300",Asia,2023,Province-level Prefecture,3920
+Kota,India,"1,001,365",Asia,2011,Municipal corporation,527
