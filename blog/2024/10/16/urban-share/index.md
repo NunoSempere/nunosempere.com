@@ -1,4 +1,4 @@
-The share of the surface of the earth very urban areas is roughly ~1.7%
+The share of the surface of the earth in very urban areas is roughly ~0.3%
 =======================================================
 
 The share of the surface of the Earth which is very urban turns out to be a recurring question when estimating various catastrophic risks, like asteroids or volcanoes. Once we estimate the frequency of such events, we want to estimate the chance that they'd hit an urban area. 
