@@ -1,4 +1,4 @@
-## Forecasting
+## Forecastinhttps://git.nunosempere.com/NunoSempere/fermig
 
 > Magic ball tell us all.
 > 
@@ -12,6 +12,7 @@ My forecasting group is known as Samotsvety. You can read more about it [here](h
 
 I was reasonably well-known for my monthly forecasting _newsletter_. It can be found both [on Substack](https://forecasting.substack.com/) and [on the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7). Besides its mothly issues, I've also written:
 
+- [The State of Forecasting in 2024: Dynamics, Challenges, Hopes](https://forecasting.substack.com/p/the-state-of-forecasting-dynamics)
 - [Tracking the money flows in forecasting](https://nunosempere.com/blog/2022/11/06/forecasting-money-flows/)
 - [Looking back at 2021](https://forecasting.substack.com/p/looking-back-at-2021)
 - [Forecasting Postmortem: The Fall of Kabul](https://forecasting.substack.com/p/postmortem-the-fall-of-kabul) (paywalled)
@@ -47,7 +48,7 @@ I also have a few _minor pieces_:
 - [Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  
 - [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
 
-I also mantain [this database](https://docs.google.com/spreadsheets/d/1XB1GHfizNtVYTOAD_uOyBLEyl_EV7hVtDYDXLQwgT7k/edit#gid=0) of prediction markets.
+I also mantained [this database](https://docs.google.com/spreadsheets/d/1XB1GHfizNtVYTOAD_uOyBLEyl_EV7hVtDYDXLQwgT7k/edit#gid=0) of prediction markets.
 
 ### Bayesianism fundamentals
 
@@ -69,4 +70,4 @@ I have occasionally advised philanthropic funders—mostly from the effective al
 
 ### Squiggle
 
-I did a bunch of work around Squiggle, a language for creating quick probability estimates. You can read about this [here](https://forum.effectivealtruism.org/topics/squiggle). Unsatisfied with it, I [tried out many different languages](https://git.nunosempere.com/personal/time-to-botec) and [wrote my own version in C](https://git.nunosempere.com/personal/squiggle.c).
+I did a bunch of work around Squiggle, a language for creating quick probability estimates. You can read about this [here](https://forum.effectivealtruism.org/topics/squiggle). Unsatisfied with it, I [tried out many different languages](https://git.nunosempere.com/personal/time-to-botec) and [wrote my own version in C](https://git.nunosempere.com/personal/squiggle.c), and later in [go](https://git.nunosempere.com/NunoSempere/fermi).
