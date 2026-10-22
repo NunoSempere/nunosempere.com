@@ -51,25 +51,29 @@ On occasion, I've enjoyed talking with entrepreneurial individuals about how the
 
 ### Rates
 
-| Size of project | Cost | ~hours | Example |
-| ------- | ---------- | ----- | --- | 
-| One-off (discounted) | $50  | 1h |  You, a student or an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
-| One-off (well-off professional)  | $200 | 1h  | You, a well-off proffessional, pick my brain about a project for an hour. |
-| One-off (titan of industry) | $500 | 2h  | You, a titan of industry, pick my brain about a project for an hour about a topic of your choice, before which I spend an hour of preparation. |
-| Forecasting workshop workshop | $1.5k | 2h  | I organize a two hour workshop and give it to your underlings. Online, otherwise cost of travel not included. |
-| Focused | $2k        | 10h   | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, [this Bayesian adjustment to Rethink Priorities](https://nunosempere.com/blog/2023/02/19/bayesian-adjustment-to-rethink-priorities-welfare-range-estimates/)  |
-| Major   | $20k       | 100h  | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on-criminal), many [shallow evaluations](https://forum.nunosempere.com/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations), or an early version of [metaforecast](https://metaforecast.org), two editions of the [forecasting newsletter](https://forecasting.substack.com/) |
-| Custom  | reach out  | 1000h | Large research project, an ambitious report on a novel topic, the current iteration of [metaforecast](https://metaforecast.org) |
-
-A few notes:
+**Some important notes**:
 
 - Something that has worked well for me in the past has been to open a tab on an initial engagement, and then bill the client later, either when I've done more work for them, or when I set some dedicated time to do operations more efficiently. 
-- Each engagement has some negotiation, preparation and administrative burden. This means that I prefer longer engagements. 
+- Each engagement has some negotiation, preparation and administrative burden. This means that I prefer longer engagements and open tabs rather than immediate billing. More specifically, I currently greatly prefer $5K-$20K projects over single conversations.
 - Clients not of the landed gentry are hesitant to pay for an hour of advice (+20 mins negotiation, +10 mins bookkeeping, +1h of prep, +chance of a rescheduling, +more things that make the cost of an engagement add up). This means that even the well-off professional price is a bit discounted.
+- I am happy to receive equity in projects
+- Feel free to haggle with those numbers if you are poor but keep in mind that the demand for free hours of my time is infinite. You might have better luck nerd-snipping me on twitter.
+
+| Size of project | Cost | Example |
+| ------- | ---------- | ----- | --- | 
+| One-off (discounted) | $50  | You, a student or an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
+| Close friends rate | $100  | You, a close friend for years, want my input on a career or life decision. |
+| One-off (well-off professional)  | $300 | You, a well-off proffessional, pick my brain about a project |
+| One-off (most important decision of your life)  | $1,000 | You, a stranger from the internet, want my help modelling and thinking about the most important decision of your career (so far) |
+| One-off (titan of industry) | $15k | You, a titan of industry, pick my brain about a project throughout a week about a topic of your choice |
+| Forecasting workshop | $2-5k | I organize a workshop and give it to your underlings. Online, otherwise cost of travel not included. |
+| Focused | $5k        | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, designing  your organization's impact evaluation approach. |
+| Major   | $20k-$100K    | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on  -criminal), many [shallow evaluations](https://forum.nunosempere.com/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations), or an early version of [metaforecast](https://metaforecast.org), several editions of the [forecasting newsletter](https://forecasting.substack.com/), an estimate of the energy composition of datacenters together with my forecasting team, an MVP of an AI resilience organization |
+| Custom  | reach out  | 1000h | Large research project, an ambitious report on a novel topic, the current iteration of [Sentinel](https://blog.sentinel-team.org/) |
 
 ### Description of client
 
-My ideal client would be someone or some organization who is producing value in the world, and which wants me to identify ways they could do even better in an open-ended way. Because this context would be assumed to be highly collaborative, they would have a high tolerance for disagreeableness. A close second would be someone who is making an important decision commissioning me to estimate the value of the different options they are considering. 
+My ideal client would be someone or some organization who is producing value in the world, and which wants me to identify ways they could do even better in an open-ended way. Because this context would be assumed to be highly collaborative, they would have a high tolerance for disagreeableness. A close second would be someone who is making an important decision commissioning me to estimate the value of the different options they are considering, or their chance of success.
 
 My anti-client on the other hand would be someone who has already made up their mind, and who wants me to rubber-stamp their decisions, like a grifty crypto project[^1] asking for help writting up a grant to an EA grantmaker, or someone commissioning an evaluation that they will ignore, or a forecast that doesn't feed into any decisions.
 
@@ -95,6 +99,7 @@ My anti-client on the other hand would be someone who has already made up their 
 ###  Further details
 
 - I am very amenable to taking on projects that would require more than one person, because I am able to bring in collaborators. I would discuss this with the potential client beforehand.
-- My thoughts on unpaid work are: I'm pretty averse to it. I understand that there are high transaction costs for small engagements. But there is infinite demand for me working for free. I will very occasionally do it, particularly around mentorship, personal writting, or cool open source projects. If you are easily googleable as a millionnaire, I don't get why you'd ask me to do unpaid work (counter: II; a perspective would be welcome). Working for free has for me like a pretty high bar (currently: [setting up an emergency response team](https://alert-team.org/)). Many projects don't meet my bar for promisingness when unpaid, but they do meet my bar when paid such that I can dedicate the ressources I earn to projects of my choice (e.g., that emergency response team).
+- My thoughts on unpaid work are: I'm pretty averse to it. I understand that there are high transaction costs for small engagements. But there is infinite demand for me working for free. I will very occasionally do it, particularly around mentorship, personal writting, or cool open source projects. If you are easily googleable as a millionnaire, I don't get why you'd ask me to do unpaid work (counter: IIII). Working for free has for me like a pretty high bar (currently: [running a foresight and emergency response team](https://sentinel-team.org/)). Many projects don't meet my bar for promisingness when unpaid, but they do meet my bar when paid such that I can dedicate the ressources I earn to projects of my choice (e.g., that emergency response team).
 
 [^1]: Note that I don't think all crypto projects are grifty, and I in fact view crypto as a pretty promising area of innovation. It's just that for the last couple years if you wanted to grift, crypto was a good place to do so. And in fact a crypto project that wanted to figure out how to produce more value in the world and capture some fraction of it could be a great client.
+

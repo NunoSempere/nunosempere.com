@@ -31,7 +31,7 @@ Previous literature on the EA forum:
 *   [What to do with people?](https://forum.effectivealtruism.org/posts/oNY76m8DDWFiLo7nH/what-to-do-with-people), which proposes a hierarchical networked structure. In contrast, the structure I propose in the latter sections is modular and decentralized.
 *   [Prediction Augmented Evaluation Systems](https://www.lesswrong.com/posts/kMmNdHpQPcnJgnAQF/prediction-augmented-evaluation-systems), which proposes the general idea of which this experiment is an example. Holomanga also had a similar idea.
 
-Thanks to Andis Draguns, Jacob Lagerros, Ray, Ozzie Gooen, Misha Yagudin, Cadillion, Gavin Leech, Datscilly and Holomanga for taking part in this project as forecasters; congratulations to Gavin Leech for overall being the most accurate forecaster. Thanks to Ozzie Gooen et. al. for creating foretold, to Jaime Sevilla for providing feedback on ideas, and to Jacob Lagerros for encouragement and funding. Thanks to various people on the EA Editing and Review Facebook group for feedback. 
+Thanks to Andis Draguns, terraform, Ray, Ozzie Gooen, Misha Yagudin, Cadillion, Gavin Leech, Datscilly and Holomanga for taking part in this project as forecasters; congratulations to Gavin Leech for overall being the most accurate forecaster. Thanks to Ozzie Gooen et. al. for creating foretold, to Jaime Sevilla for providing feedback on ideas, and to terraform for encouragement and funding. Thanks to various people on the EA Editing and Review Facebook group for feedback. 
 
 ## Experiment design.
 
@@ -250,4 +250,4 @@ If you would be interested in participating in a scaled-up version of this exper
 
 ---
 
-Conflict of interest: I've worked in the past as a paid contractor for foretold/Ozzie Gooen. Jacob Lagerros provided 2/3rds of the payout funding.
+Conflict of interest: I've worked in the past as a paid contractor for foretold/Ozzie Gooen. terraform provided 2/3rds of the payout funding.

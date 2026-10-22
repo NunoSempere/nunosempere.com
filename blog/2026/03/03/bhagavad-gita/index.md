@@ -1,5 +1,5 @@
-What happens in the Bhagavad Gita
-=================================
+For less capable people He wrote the Mahābhārata
+=================================================
 
 Our hero, Arjuna, finds himself in a position of either fighting his cousins, who have gone to war against him, or losing his kingdom and abandoning his duty as a warrior. As he surveys the battlefield, he turns to Krishna, who is taking the form of his charioteer, and inquires about how to make this decision and the nature of the good life.
 

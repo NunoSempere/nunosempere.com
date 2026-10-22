@@ -514,7 +514,7 @@ Simple Squiggle does validate the model as producing an interval of $1.3k to $29
 
 [7]. To elaborate on this, as far as I understand, to estimate the impact of incarceration, the reports' best source of evidence are randomized trials or natural experiments, e.g., harsher judges randomly assigned, arbitrary threshold changes resulting from changes in guidelines or policy, etc. But these methods will tend to estimate short-term changes, rather than longer term (e.g., intergenerational) changes. 
 
-And I would give substantial weight to lighter sentencing in fact making it more worth it to commit crime. See Lagerros' [Unconscious Economics](https://www.lesswrong.com/posts/PrCmeuBPC4XLDQz8C/unconscious-economics).
+And I would give substantial weight to lighter sentencing in fact making it more worth it to commit crime. See Birds' [Unconscious Economics](https://www.lesswrong.com/posts/PrCmeuBPC4XLDQz8C/unconscious-economics).
 
 This topic also has very large number of degrees of choice (e.g., see p. 133 on lowballing the cost of murder on account of it being rare), which I am inclined to be suspicious about. 
 
