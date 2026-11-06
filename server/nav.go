@@ -43,7 +43,11 @@ func (s *Server) navTree(reqPath string) string {
 			if hiddenName(name) || forbiddenName(name) || filteredFile(name) {
 				continue
 			}
-			if isDir(filepath.Join(abs, name)) {
+			full := filepath.Join(abs, name)
+			if !s.inRoot(full) {
+				continue
+			}
+			if isDir(full) {
 				set[path.Join(d, name)+"/"] = true
 			} else if hasPageExt(name) {
 				set[path.Join(d, stripPageExt(name))] = true
@@ -109,7 +113,11 @@ func (s *Server) dirListing(reqPath string) string {
 			if hiddenName(name) || forbiddenName(name) || filteredFile(name) {
 				continue
 			}
-			if isDir(filepath.Join(abs, name)) {
+			full := filepath.Join(abs, name)
+			if !s.inRoot(full) {
+				continue
+			}
+			if isDir(full) {
 				names = append(names, name+"/")
 			} else {
 				names = append(names, stripPageExt(name))

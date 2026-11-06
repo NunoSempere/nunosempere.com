@@ -5,8 +5,6 @@ import (
 	"compress/gzip"
 	"fmt"
 	"html"
-	"io"
-	"net/http"
 	"os"
 	"path"
 	"path/filepath"
@@ -39,7 +37,7 @@ func (s *Server) children(dirRel string) []child {
 		}
 		full := filepath.Join(abs, name)
 		st, err := os.Stat(full)
-		if err != nil {
+		if err != nil || !s.inRoot(full) {
 			continue
 		}
 		c := child{abs: full, isDir: st.IsDir(), lastmod: st.ModTime().Format("2006-01-02")}
@@ -108,6 +106,10 @@ func (s *Server) sitemapDir(dirRel string, r *sitemapResult, b *strings.Builder)
 }
 
 func (s *Server) buildSitemap() *sitemapResult {
+	return s.gen.get("sitemap", func() any { return s.buildSitemapUncached() }).(*sitemapResult)
+}
+
+func (s *Server) buildSitemapUncached() *sitemapResult {
 	r := &sitemapResult{}
 	var b strings.Builder
 	b.WriteString("<h1>Site map</h1>\n\n")
@@ -121,11 +123,9 @@ func (s *Server) sitemapPage() string {
 	return s.buildSitemap().html
 }
 
-// serveSitemapTxt serves /sitemap.txt: one URL per line.
-func (s *Server) serveSitemapTxt(w http.ResponseWriter) {
-	r := s.buildSitemap()
-	w.Header().Set("Content-Type", "text/plain; charset=utf-8")
-	_, _ = io.WriteString(w, strings.Join(r.urls, "\n")+"\n")
+// sitemapTxt is /sitemap.txt: one URL per line.
+func (s *Server) sitemapTxt() []byte {
+	return []byte(strings.Join(s.buildSitemap().urls, "\n") + "\n")
 }
 
 func (r *sitemapResult) xmlDocument() []byte {
@@ -139,24 +139,20 @@ func (r *sitemapResult) xmlDocument() []byte {
 	return b.Bytes()
 }
 
-// serveSitemapXML serves /sitemap.xml, and /sitemap.gz as its gzipped form
-// (the URL werc used to publish).
-func (s *Server) serveSitemapXML(w http.ResponseWriter, gzipped bool) {
-	doc := s.buildSitemap().xmlDocument()
-	if !gzipped {
-		w.Header().Set("Content-Type", "application/xml; charset=utf-8")
-		_, _ = w.Write(doc)
-		return
-	}
-	w.Header().Set("Content-Type", "application/gzip")
-	zw := gzip.NewWriter(w)
-	_, _ = zw.Write(doc)
+// sitemapXML is /sitemap.xml.
+func (s *Server) sitemapXML() []byte { return s.buildSitemap().xmlDocument() }
+
+// sitemapGz is /sitemap.gz, the URL werc used to publish the XML sitemap.
+func (s *Server) sitemapGz() []byte {
+	var b bytes.Buffer
+	zw := gzip.NewWriter(&b)
+	_, _ = zw.Write(s.sitemapXML())
 	_ = zw.Close()
+	return b.Bytes()
 }
 
-// serveRobots serves a default robots.txt pointing crawlers at the sitemap,
-// used only when the site has no robots.txt file of its own.
-func (s *Server) serveRobots(w http.ResponseWriter) {
-	w.Header().Set("Content-Type", "text/plain; charset=utf-8")
-	fmt.Fprintf(w, "User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n", s.baseURL)
+// robots is a default robots.txt pointing crawlers at the sitemap, used only
+// when the site has no robots.txt file of its own.
+func (s *Server) robots() []byte {
+	return []byte(fmt.Sprintf("User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n", s.baseURL))
 }

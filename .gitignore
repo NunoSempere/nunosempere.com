@@ -1,5 +1,9 @@
+# generated site
+build/
+# compiled server binary
+server/webserver
+# private / unfinished content inside source/
 .secret/
 .wip/*
 blug.md
-_server/webserver
-.more/
+source/.more

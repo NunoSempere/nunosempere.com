@@ -6,7 +6,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"html"
-	"net/http"
 	"os"
 	"path/filepath"
 	"regexp"
@@ -39,7 +38,7 @@ func (s *Server) allPosts(blog string) []post {
 	var posts []post
 	for _, m := range matches {
 		name := filepath.Base(m)
-		if hiddenName(name) || forbiddenName(name) || !isDir(m) {
+		if hiddenName(name) || forbiddenName(name) || !s.browsable(m) {
 			continue
 		}
 		rel := s.relPath(m) + "/"
@@ -135,6 +134,10 @@ var (
 // own, as werc's per-iteration pipeline did, with headings demoted (h1->h3,
 // h2+ -> i).
 func (s *Server) blogIndex(blog string) string {
+	return s.gen.get("index:"+blog, func() any { return s.blogIndexUncached(blog) }).(string)
+}
+
+func (s *Server) blogIndexUncached(blog string) string {
 	var b strings.Builder
 	b.WriteString("<p style=\"font-size: 25px;\"><a href=\"index.rss\">RSS Feed</a>, <a href=\"../sitemap\">all content</a></p>\n")
 
@@ -187,7 +190,12 @@ func cdata(s string) string {
 	return "<![CDATA[" + strings.ReplaceAll(s, "]]>", "]]]]><![CDATA[>") + "]]>"
 }
 
-func (s *Server) serveRSS(w http.ResponseWriter, blog, reqPath string) {
+// rss renders the RSS 2.0 feed (werc's rss20.tpl).
+func (s *Server) rss(blog, reqPath string) []byte {
+	return s.gen.get("rss:"+reqPath, func() any { return s.rssUncached(blog, reqPath) }).([]byte)
+}
+
+func (s *Server) rssUncached(blog, reqPath string) []byte {
 	cfg := s.config()
 	posts := s.postList(blog)
 	self := s.baseURL + reqPath
@@ -213,11 +221,15 @@ func (s *Server) serveRSS(w http.ResponseWriter, blog, reqPath string) {
 		b.WriteString("        </item>\n")
 	}
 	b.WriteString("    </channel>\n</rss>\n")
-	w.Header().Set("Content-Type", "text/xml; charset=utf-8")
-	_, _ = w.Write(b.Bytes())
+	return b.Bytes()
 }
 
-func (s *Server) serveAtom(w http.ResponseWriter, blog, reqPath string) {
+// atom renders the Atom feed (werc's atom.tpl).
+func (s *Server) atom(blog, reqPath string) []byte {
+	return s.gen.get("atom:"+reqPath, func() any { return s.atomUncached(blog, reqPath) }).([]byte)
+}
+
+func (s *Server) atomUncached(blog, reqPath string) []byte {
 	cfg := s.config()
 	posts := s.postList(blog)
 	self := s.baseURL + reqPath
@@ -244,11 +256,15 @@ func (s *Server) serveAtom(w http.ResponseWriter, blog, reqPath string) {
 		b.WriteString("    </entry>\n\n")
 	}
 	b.WriteString("</feed>\n")
-	w.Header().Set("Content-Type", "application/atom+xml; charset=utf-8")
-	_, _ = w.Write(b.Bytes())
+	return b.Bytes()
 }
 
-func (s *Server) serveJSONFeed(w http.ResponseWriter, blog, reqPath string) {
+// jsonFeed renders the JSON Feed (werc's jsonfeed.tpl).
+func (s *Server) jsonFeed(blog, reqPath string) []byte {
+	return s.gen.get("json:"+reqPath, func() any { return s.jsonFeedUncached(blog, reqPath) }).([]byte)
+}
+
+func (s *Server) jsonFeedUncached(blog, reqPath string) []byte {
 	cfg := s.config()
 	type item struct {
 		ID          string `json:"id"`
@@ -278,8 +294,6 @@ func (s *Server) serveJSONFeed(w http.ResponseWriter, blog, reqPath string) {
 			Published:   p.pubDate().Format(time.RFC3339),
 		})
 	}
-	w.Header().Set("Content-Type", "application/json; charset=utf-8")
-	enc := json.NewEncoder(w)
-	enc.SetIndent("", "  ")
-	_ = enc.Encode(feed)
+	out, _ := json.MarshalIndent(feed, "", "  ")
+	return append(out, '\n')
 }

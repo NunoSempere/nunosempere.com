@@ -69,15 +69,63 @@ func (s *Server) relPath(abs string) string {
 	return "/" + filepath.ToSlash(rel)
 }
 
-func escapeGlob(p string) string {
-	var b strings.Builder
-	for _, c := range p {
-		if strings.ContainsRune(`*?[\`, c) {
-			b.WriteByte('\\')
-		}
-		b.WriteRune(c)
+// inRoot reports whether abs, with symlinks resolved, lies inside the site
+// directory. With -follow-symlinks every existing path qualifies.
+func (s *Server) inRoot(abs string) bool {
+	if s.followSymlinks {
+		return true
 	}
-	return b.String()
+	resolved, err := filepath.EvalSymlinks(abs)
+	if err != nil {
+		return false
+	}
+	return resolved == s.rootResolved || strings.HasPrefix(resolved, s.rootResolved+string(filepath.Separator))
+}
+
+// servable reports whether abs is a regular file inside the site directory.
+func (s *Server) servable(abs string) bool {
+	return isFile(abs) && s.inRoot(abs)
+}
+
+// browsable reports whether abs is a directory inside the site directory.
+func (s *Server) browsable(abs string) bool {
+	return isDir(abs) && s.inRoot(abs)
+}
+
+// ttlCache memoises generated pages for a short time so that a flood of
+// requests for the blog index, feeds or sitemaps cannot make the server walk
+// the content tree over and over.
+type ttlCache struct {
+	mu  sync.Mutex
+	ttl time.Duration
+	m   map[string]ttlEntry
+}
+
+type ttlEntry struct {
+	at  time.Time
+	val any
+}
+
+func newTTLCache(ttl time.Duration) *ttlCache {
+	return &ttlCache{ttl: ttl, m: map[string]ttlEntry{}}
+}
+
+// get returns the cached value for key, or builds and stores it.
+func (c *ttlCache) get(key string, build func() any) any {
+	if c.ttl <= 0 {
+		return build()
+	}
+	c.mu.Lock()
+	e, ok := c.m[key]
+	c.mu.Unlock()
+	if ok && time.Since(e.at) < c.ttl {
+		return e.val
+	}
+	v := build()
+	c.mu.Lock()
+	c.m[key] = ttlEntry{at: time.Now(), val: v}
+	c.mu.Unlock()
+	return v
 }
 
 func isDir(p string) bool {
@@ -320,8 +368,7 @@ func (s *Server) findBlogs() []string {
 			return nil
 		}
 		if d.IsDir() {
-			switch d.Name() {
-			case ".git", "_server":
+			if d.Name() == ".git" {
 				return filepath.SkipDir
 			}
 			return nil

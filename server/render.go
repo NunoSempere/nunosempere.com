@@ -4,7 +4,6 @@ import (
 	"bytes"
 	"html"
 	"html/template"
-	"net/http"
 	"os"
 	"regexp"
 	"strings"
@@ -33,7 +32,8 @@ type pageData struct {
 	Footer       template.HTML
 }
 
-func (s *Server) renderPage(w http.ResponseWriter, status int, pg *pageData) {
+// renderPage wraps a body in the page template: header, sidebar, footer.
+func (s *Server) renderPage(pg *pageData) ([]byte, error) {
 	cfg := s.config()
 	pg.SiteTitle = cfg.Title
 	pg.SiteSubTitle = cfg.SubTitle
@@ -45,12 +45,9 @@ func (s *Server) renderPage(w http.ResponseWriter, status int, pg *pageData) {
 
 	var buf bytes.Buffer
 	if err := s.page.Execute(&buf, pg); err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
-		return
+		return nil, err
 	}
-	w.Header().Set("Content-Type", "text/html; charset=utf-8")
-	w.WriteHeader(status)
-	_, _ = w.Write(buf.Bytes())
+	return buf.Bytes(), nil
 }
 
 // --- markdown ---------------------------------------------------------------
