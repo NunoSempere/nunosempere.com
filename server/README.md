@@ -61,8 +61,8 @@ The stylesheet (`pub/style/style.css`) and the page template
 - A `.generated-by-webserver` marker. The build refuses to empty a non-empty
   directory that lacks it.
 
-Files over 25 MB are copied but reported, because Cloudflare Pages rejects
-them.
+Files over 25 MiB are left out of the build and reported, because Cloudflare
+rejects deployments that contain them.
 
 ### Cloudflare
 
@@ -78,7 +78,8 @@ code, with trailing-slash handling and `404.html` like the live server.
 - From your machine: `npm install -g wrangler`, `wrangler login` once, then
   `make deploy`. This uploads whatever is in the working tree.
 
-Cloudflare rejects files over 25 MB and deployments over 20,000 files.
+Cloudflare rejects deployments over 20,000 files; files over 25 MiB are
+skipped by the build.
 
 ## Behaviour carried over from werc
 

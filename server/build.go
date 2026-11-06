@@ -17,8 +17,9 @@ import (
 // that build refuses to wipe a directory it did not create.
 const marker = ".generated-by-webserver"
 
-// largeFile is Cloudflare Pages' per-file limit; bigger files are reported.
-const largeFile = 25 * 1024 * 1024
+// maxFileSize is Cloudflare's per-asset limit (25 MiB). Bigger files are left
+// out of the static build and reported, since the deploy would be rejected.
+const maxFileSize = 25 * 1024 * 1024
 
 // build writes the whole site as static files into out: a rendered
 // index.html for every URL the server would answer, copies of every other
@@ -40,7 +41,7 @@ func (s *Server) build(out string) error {
 	}
 
 	var stats struct{ pages, files int }
-	var large []string
+	var skipped []string
 	write := func(rel string, data []byte) error {
 		dst := filepath.Join(out, filepath.FromSlash(rel))
 		if err := os.MkdirAll(filepath.Dir(dst), 0o755); err != nil {
@@ -124,8 +125,9 @@ func (s *Server) build(out string) error {
 					stats.files++
 				}
 			default:
-				if st, err := os.Stat(full); err == nil && st.Size() > largeFile {
-					large = append(large, fmt.Sprintf("%s (%d MB)", rel+name, st.Size()/1024/1024))
+				if st, err := os.Stat(full); err == nil && st.Size() > maxFileSize {
+					skipped = append(skipped, fmt.Sprintf("%s (%d MiB)", rel+name, st.Size()/1024/1024))
+					continue
 				}
 				if err := copyFile(full, filepath.Join(out, filepath.FromSlash(rel), name)); err != nil {
 					return err
@@ -177,8 +179,8 @@ func (s *Server) build(out string) error {
 		return err
 	}
 	log.Printf("built %s: %d pages rendered, %d files copied", out, stats.pages, stats.files)
-	for _, l := range large {
-		log.Printf("warning: %s exceeds the 25 MB Cloudflare Pages file limit", l)
+	for _, f := range skipped {
+		log.Printf("warning: left out %s: larger than Cloudflare's 25 MiB asset limit", f)
 	}
 	return nil
 }
