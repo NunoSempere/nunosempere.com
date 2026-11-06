@@ -10,12 +10,13 @@ My forecasting group is known as Samotsvety. You can read more about it [here](h
 
 ### Newsletter
 
-I was reasonably well-known for my monthly forecasting _newsletter_. It can be found both [on Substack](https://forecasting.substack.com/) and [on the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7). Besides its mothly issues, I've also written:
+I was reasonably well-known for my monthly forecasting _newsletter_. It can be found both [on Substack](https://forecasting.substack.com/) and [on the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7). Besides its mothly issues, I've also published:
 
 - [Tracking the money flows in forecasting](https://nunosempere.com/blog/2022/11/06/forecasting-money-flows/)
 - [Looking back at 2021](https://forecasting.substack.com/p/looking-back-at-2021)
 - [Forecasting Postmortem: The Fall of Kabul](https://forecasting.substack.com/p/postmortem-the-fall-of-kabul) (paywalled)
 - [2020: Forecasting in Review](https://forecasting.substack.com/p/2020-forecasting-in-review)
+-  [A Gentle Introduction to Risk Frameworks Beyond Forecasting](https://forecasting.substack.com/p/a-gentle-introduction-to-risk-frameworks)
 - [Aggressively reorienting the forecasting community towards AI resilience](https://forecasting.substack.com/p/aggressively-reorienting-the-forecasting)
 
 ### Research
@@ -66,7 +67,7 @@ I have occasionally advised philanthropic funders—mostly from the effective al
 - [We are giving $10k as forecasting micro-grants](https://forum.effectivealtruism.org/posts/oqFa8obfyEmvD79Jn/we-are-giving-usd10k-as-forecasting-micro-grants)
 - [$1,000 Squiggle Experimentation Challenge](https://forum.effectivealtruism.org/posts/ZrWuy2oAxa6Yh3eAw/usd1-000-squiggle-experimentation-challenge)
 - [$5k challenge to quantify the impact of 80,000 hours' top career paths](https://forum.effectivealtruism.org/posts/noDYmqoDxYk5TXoNm/usd5k-challenge-to-quantify-the-impact-of-80-000-hours-top)
-- I'm in the process of regranting $50k on [Manifund](https://manifund.org/NunoSempere)
+- I regranted $50k on [Manifund](https://manifund.org/NunoSempere)
 
 ### Squiggle
 

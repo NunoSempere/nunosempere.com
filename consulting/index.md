@@ -1,4 +1,6 @@
+<!---
 <img src="https://images.nunosempere.com/consulting/shapley.png" class="img-frontpage-center">
+-->
 
 I've run a niche estimation, evaluation and impact auditing consultancy for the last few years. This page presents our core competencies, consulting rates, description of ideal clients, testimonials, and a few further thoughts. In short, we are looking to support people and smallish organizations who are already producing value, and who want to add clarity and improve their prioritization through estimation, measure and good judgment. You can reach out to to hello@nunosempere.com.
 
