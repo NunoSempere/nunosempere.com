@@ -2,14 +2,18 @@ For forecasting related research, see [forecasting](/forecasting)
 
 ## Current projects
 
-I'm currently doing [private consulting](https://nunosempere.com/consulting/), and writting up my disillusionment with EA:
+I am putting most of my time these days into [Sentinel](https://sentinel-team.org/). You might enjoy our [public minutes](https://blog.sentinel-team.org/), which are a small part of what we do but its most outward-facing one.
+
+## Past projects
+
+<p id="ea-disillusionment"><em>My disillusionment with EA</em></p>
 
 - [Some melancholy about the value of my work depending on decisions by others beyond my control](https://nunosempere.com/blog/2023/07/13/melancholy/)
 - [Why are we not harder, better, faster, stronger?](https://nunosempere.com/blog/2023/07/19/better-harder-faster-stronger/)
 - [Brief thoughts on CEA’s stewardship of the EA Forum](https://nunosempere.com/blog/2023/10/15/ea-forum-stewardship/)
 - [Hurdles of using forecasting as a tool for making sense of AI progress](https://nunosempere.com/blog/2023/11/07/hurdles-forecasting-ai/)
-
-## Past projects
+- [Alternative Visions of Effective Altruism](https://nunosempere.com/blog/2023/12/27/alternative-visions-of-ea/)
+- [Unflattering aspects of Effective Altruism](https://nunosempere.com/blog/2024/03/05/unflattering-aspects-of-ea/)
 
 <p id="value-estimation"><em>Estimation of values</em></p> 
 
