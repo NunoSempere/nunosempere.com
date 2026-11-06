@@ -96,6 +96,33 @@ func (s *Server) navTree(reqPath string) string {
 	return b.String()
 }
 
+// topNav lists the top-level sections in one line, for small screens where
+// the sidebar tree is hidden. The current section is marked like in the tree.
+func (s *Server) topNav(reqPath string) string {
+	abs := s.localPath("/")
+	entries, err := os.ReadDir(abs)
+	if err != nil {
+		return ""
+	}
+	var items []string
+	for _, e := range entries {
+		name := e.Name()
+		full := filepath.Join(abs, name)
+		if hiddenName(name) || forbiddenName(name) || !s.inRoot(full) || !isDir(full) {
+			continue
+		}
+		href := "/" + name + "/"
+		label := html.EscapeString(strings.NewReplacer("-", " ", "_", " ").Replace(name))
+		if strings.HasPrefix(reqPath+"/", href) {
+			items = append(items, fmt.Sprintf("<a href=\"%s\" class=\"thisPage\">%s</a>", href, label))
+		} else {
+			items = append(items, fmt.Sprintf("<a href=\"%s\">%s</a>", href, label))
+		}
+	}
+	sort.Strings(items)
+	return strings.Join(items, "\n")
+}
+
 // dirListing implements werc's dir_listing_handler for directories that have
 // no index page.
 func (s *Server) dirListing(reqPath string) string {

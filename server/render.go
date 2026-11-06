@@ -28,6 +28,7 @@ type pageData struct {
 	SiteSubTitle string
 	ExtraHeaders template.HTML
 	Nav          template.HTML
+	TopNav       template.HTML
 	Body         template.HTML
 	Footer       template.HTML
 }
@@ -41,6 +42,7 @@ func (s *Server) renderPage(pg *pageData) ([]byte, error) {
 		pg.PageTitle = strings.TrimSpace(cfg.Title + " " + cfg.SubTitle)
 	}
 	pg.Nav = template.HTML(s.navTree(pg.ReqPath))
+	pg.TopNav = template.HTML(s.topNav(pg.ReqPath))
 	pg.Footer = template.HTML(s.footer())
 
 	var buf bytes.Buffer

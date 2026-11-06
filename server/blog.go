@@ -139,7 +139,7 @@ func (s *Server) blogIndex(blog string) string {
 
 func (s *Server) blogIndexUncached(blog string) string {
 	var b strings.Builder
-	b.WriteString("<p style=\"font-size: 25px;\"><a href=\"index.rss\">RSS Feed</a>, <a href=\"../sitemap\">all content</a></p>\n")
+	b.WriteString("<p><a href=\"index.rss\">RSS Feed</a>, <a href=\"../sitemap\">all content</a></p>\n")
 
 	for _, p := range s.postList(blog) {
 		lines := postLines(p, postCut)
@@ -147,7 +147,7 @@ func (s *Server) blogIndexUncached(blog string) string {
 			lines[0] = fmt.Sprintf("[%s](%s) (%s)", lines[0], p.url, p.date)
 		}
 		lines = append(lines, "",
-			fmt.Sprintf("<p style=\"text-align: left; margin-right: 10%%; font-size: 28px;\"><a style=\"text-decoration: none;\" href=\"%s\"><b>&rarr;</b> &#42604; ...</a></p>", p.url),
+			fmt.Sprintf("<p style=\"text-align: left; margin-right: 10%%; font-size: 1.12em;\"><a style=\"text-decoration: none;\" href=\"%s\"><b>&rarr;</b> &#42604; ...</a></p>", p.url),
 			"", "")
 		if len(lines) > indexCut {
 			lines = lines[:indexCut]
