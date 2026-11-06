@@ -36,8 +36,10 @@ The stylesheet (`pub/style/style.css`) and the page template
   directory, and `/foo.html`, `/foo/index`, `/foo.` redirect to the canonical URL.
 - Names starting with `.` or `_` are served but never listed in the sidebar,
   directory listings or sitemap (so `.secret/…` keeps working).
-- `/sitemap` renders the site map and rewrites `sitemap.txt` and `sitemap.gz`
-  in the site root; both are also regenerated at startup.
+- `/sitemap` renders the site map page. `/sitemap.xml`, `/sitemap.txt`,
+  `/sitemap.gz` and a default `/robots.txt` are generated on demand from the
+  same tree walk; nothing is written to disk. A real file of the same name in
+  the site root takes precedence.
 - Raw files (`.md`, scripts, images, pdfs) are served directly, text-like
   files as `text/plain` like before.
 - `_server/` and `.git/` are never served.

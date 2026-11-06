@@ -4,9 +4,9 @@
 > 
 > — Misha Yagudin
 
-### Samotsvety
+### Samotsvety & Sentinel
 
-My forecasting group is known as Samotsvety. You can read more about it [here](https://samotsvety.org/).
+My forecasting group is known as Samotsvety. You can read more about it [here](https://samotsvety.org/). I also run [Sentinel](https://blog.sentinel-team.org/), which is more specialized on existential risks in particular.
 
 ### Newsletter
 
@@ -16,6 +16,7 @@ I was reasonably well-known for my monthly forecasting _newsletter_. It can be f
 - [Looking back at 2021](https://forecasting.substack.com/p/looking-back-at-2021)
 - [Forecasting Postmortem: The Fall of Kabul](https://forecasting.substack.com/p/postmortem-the-fall-of-kabul) (paywalled)
 - [2020: Forecasting in Review](https://forecasting.substack.com/p/2020-forecasting-in-review)
+- [Aggressively reorienting the forecasting community towards AI resilience](https://forecasting.substack.com/p/aggressively-reorienting-the-forecasting)
 
 ### Research
 

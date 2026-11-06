@@ -79,9 +79,6 @@ func main() {
 	s.initMarkdown()
 
 	log.Printf("serving %s on http://%s (blogs: %v)", s.root, *addr, s.blogs)
-	if err := s.writeSitemapFiles(); err != nil {
-		log.Printf("sitemap: %v", err)
-	}
 
 	srv := &http.Server{
 		Addr:              *addr,
@@ -185,6 +182,25 @@ func (s *Server) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	case isDir(local):
 		redirect(w, r, reqPath+"/")
 		return
+	}
+
+	// Machine-readable sitemaps and a default robots.txt, generated on demand.
+	// A real file of the same name in the site root wins.
+	if !isFile(local) {
+		switch reqPath {
+		case "/sitemap.txt":
+			s.serveSitemapTxt(w)
+			return
+		case "/sitemap.xml":
+			s.serveSitemapXML(w, false)
+			return
+		case "/sitemap.gz":
+			s.serveSitemapXML(w, true)
+			return
+		case "/robots.txt":
+			s.serveRobots(w)
+			return
+		}
 	}
 
 	pg := &pageData{ReqPath: reqPath, PageTitle: titleFromPath(reqPath)}

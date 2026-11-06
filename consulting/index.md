@@ -1,8 +1,6 @@
 <img src="https://images.nunosempere.com/consulting/shapley.png" class="img-frontpage-center">
 
-Shapley Maximizers is a niche estimation, evaluation and impact auditing consultancy run by myself, Nuño Sempere, but increasingly also with support from collaborators. This page presents our core competencies, consulting rates, description of ideal clients, testimonials, and a few further thoughts. 
-
-In short, we are looking to support people and smallish organizations who are already producing value, and who want to add clarity and improve their prioritization through estimation, measure and good judgment. You can reach out to to nuno.semperelh@protonmail.com.
+I've run a niche estimation, evaluation and impact auditing consultancy for the last few years. This page presents our core competencies, consulting rates, description of ideal clients, testimonials, and a few further thoughts. In short, we are looking to support people and smallish organizations who are already producing value, and who want to add clarity and improve their prioritization through estimation, measure and good judgment. You can reach out to to hello@nunosempere.com.
 
 ### Core competencies
 
@@ -43,37 +41,32 @@ For a smaller example, in the past I've really enjoyed doing subjective estimate
 
 #### Forecasting
 
-I am happy to host workshops, or advise on tournament or forecasting platform design. If you are looking for specific forecasts, you probably want to hire [Samotsvety](https://samotsvety.org/) instead, which can be reached out at info@samotsvety.org.
+I am happy to host workshops, or advise on tournament or forecasting platform design. I have also have a deep expertise on [global risks](https://blog.sentinel-team.org/).
 
 ### Advice to individuals
 
-On occasion, I've enjoyed talking with entrepreneurial individuals about how they could make better career decisions, or better prioritization in the work they are already doing. In some cases this has lead to ongoing engagements. If you have a need for incisive advice on your career, feel free to reach out.
+I've enjoyed talking with entrepreneurial individuals about how they could make better career decisions, or better prioritization in the work they are already doing. In some cases this has lead to ongoing engagements. If you have a need for incisive advice on your career, feel free to reach out. I've also enjoyed advising and mentoring people when they have something promising but haven't yet found product-market fit.
 
 ### Rates
 
-**Some important notes**:
+Some boundaries and notes:
 
-- Something that has worked well for me in the past has been to open a tab on an initial engagement, and then bill the client later, either when I've done more work for them, or when I set some dedicated time to do operations more efficiently. 
-- Each engagement has some negotiation, preparation and administrative burden. This means that I prefer longer engagements and open tabs rather than immediate billing. More specifically, I currently greatly prefer $5K-$20K projects over single conversations.
-- Clients not of the landed gentry are hesitant to pay for an hour of advice (+20 mins negotiation, +10 mins bookkeeping, +1h of prep, +chance of a rescheduling, +more things that make the cost of an engagement add up). This means that even the well-off professional price is a bit discounted.
-- I am happy to receive equity in projects
-- Feel free to haggle with those numbers if you are poor but keep in mind that the demand for free hours of my time is infinite. You might have better luck nerd-snipping me on twitter.
+- I enjoy working on things that are self-reinforcing, and as a result tend to seek higher rates
+- Each engagement has some negotiation, preparation and administrative burden. This means that I prefer longer engagements and open tabs rather than immediate billing. More specifically, I currently greatly prefer $3K-$20K projects over single conversations
+- I am happy to finance engagements, e.g., to get paid after a given milestone or over time
+- I do not do work-like tasks for people who themselves are on the clock for free
 
-| Size of project | Cost | Example |
-| ------- | ---------- | ----- | --- | 
-| One-off (discounted) | $50  | You, a student or an early career person, talk with me for an hour about a career decision you are about to make, about a project you want my input on, etc.  |
-| Close friends rate | $100  | You, a close friend for years, want my input on a career or life decision. |
-| One-off (well-off professional)  | $300 | You, a well-off proffessional, pick my brain about a project |
-| One-off (most important decision of your life)  | $1,000 | You, a stranger from the internet, want my help modelling and thinking about the most important decision of your career (so far) |
-| One-off (titan of industry) | $15k | You, a titan of industry, pick my brain about a project throughout a week about a topic of your choice |
+| Example project | Cost | Notes | 
+| --------------- | ---- | ----- | 
+| Helping you with an important career decision | $300 to $1K | I've enjoyed doing this! | 
 | Forecasting workshop | $2-5k | I organize a workshop and give it to your underlings. Online, otherwise cost of travel not included. |
-| Focused | $5k        | Research that draws on my topics of expertise, where I have already thought about the topic, and just have to write it down. For example, designing  your organization's impact evaluation approach. |
-| Major   | $20k-$100K    | An [evaluation of an organization](https://forum.effectivealtruism.org/posts/h2N9qEbvQ6RHABcae/a-critical-review-of-open-philanthropy-s-bet-on  -criminal), many [shallow evaluations](https://forum.nunosempere.com/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations), or an early version of [metaforecast](https://metaforecast.org), several editions of the [forecasting newsletter](https://forecasting.substack.com/), an estimate of the energy composition of datacenters together with my forecasting team, an MVP of an AI resilience organization |
-| Custom  | reach out  | 1000h | Large research project, an ambitious report on a novel topic, the current iteration of [Sentinel](https://blog.sentinel-team.org/) |
+| Wargaming workshop | $1-3K | I simulate a scenario for you or your organization, have you run it and discuss afterwards. | 
+| Helping you start up your own xrisk organization | $15-20K | | 
+| Evaluate the impact of your organization | $30K-$100K | --- |  
 
 ### Description of client
 
-My ideal client would be someone or some organization who is producing value in the world, and which wants me to identify ways they could do even better in an open-ended way. Because this context would be assumed to be highly collaborative, they would have a high tolerance for disagreeableness. A close second would be someone who is making an important decision commissioning me to estimate the value of the different options they are considering, or their chance of success.
+My ideal client would be someone or some organization who is producing value in the world, and which wants me to identify ways they could do even better in an open-ended way. Because this context would be assumed to be highly collaborative, they would have a high tolerance for disagreeableness. A close second would be someone who is making an important life decision commissioning me to estimate the value of the different options they are considering, or their chance of success. Recently, I have particularly enjoyed advising people on whether they should marry their current partner, or what they should do after leaving their current organization.
 
 My anti-client on the other hand would be someone who has already made up their mind, and who wants me to rubber-stamp their decisions, like a grifty crypto project[^1] asking for help writting up a grant to an EA grantmaker, or someone commissioning an evaluation that they will ignore, or a forecast that doesn't feed into any decisions.
 
@@ -96,10 +89,14 @@ My anti-client on the other hand would be someone who has already made up their 
 > 
 > &mdash;Gavin Leech
 
+> When I was deciding what I ought to do, one of the most useful hours I spent was on a call with 
+@NunoSempere laying out my options and evaluating them in real time. 
+> &mdash;@CharlesD353
+
 ###  Further details
 
 - I am very amenable to taking on projects that would require more than one person, because I am able to bring in collaborators. I would discuss this with the potential client beforehand.
-- My thoughts on unpaid work are: I'm pretty averse to it. I understand that there are high transaction costs for small engagements. But there is infinite demand for me working for free. I will very occasionally do it, particularly around mentorship, personal writting, or cool open source projects. If you are easily googleable as a millionnaire, I don't get why you'd ask me to do unpaid work (counter: IIII). Working for free has for me like a pretty high bar (currently: [running a foresight and emergency response team](https://sentinel-team.org/)). Many projects don't meet my bar for promisingness when unpaid, but they do meet my bar when paid such that I can dedicate the ressources I earn to projects of my choice (e.g., that emergency response team).
+- My thoughts on unpaid work are: I'm pretty averse to it. I understand that there are high transaction costs for small engagements. But there is infinite demand for me working for free. I will very occasionally do it, particularly around mentorship, personal writting, or cool open source projects. If you are easily googleable as a millionnaire, I don't get why you'd ask me to do unpaid work (counter: IIIII). Working for free has for me like a pretty high bar (currently: [running a foresight and emergency response team](https://sentinel-team.org/)). Many projects don't meet my bar for promisingness when unpaid, but they do meet my bar when paid such that I can dedicate the ressources I earn to projects of my choice (e.g., that xrisk team).
 
 [^1]: Note that I don't think all crypto projects are grifty, and I in fact view crypto as a pretty promising area of innovation. It's just that for the last couple years if you wanted to grift, crypto was a good place to do so. And in fact a crypto project that wanted to figure out how to produce more value in the world and capture some fraction of it could be a great client.
 

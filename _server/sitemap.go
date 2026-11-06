@@ -1,9 +1,12 @@
 package main
 
 import (
+	"bytes"
 	"compress/gzip"
 	"fmt"
 	"html"
+	"io"
+	"net/http"
 	"os"
 	"path"
 	"path/filepath"
@@ -113,45 +116,47 @@ func (s *Server) buildSitemap() *sitemapResult {
 	return r
 }
 
-// sitemapPage renders /sitemap and refreshes sitemap.txt and sitemap.gz in the
-// site root, as werc's template did.
+// sitemapPage renders the human-readable /sitemap page.
 func (s *Server) sitemapPage() string {
+	return s.buildSitemap().html
+}
+
+// serveSitemapTxt serves /sitemap.txt: one URL per line.
+func (s *Server) serveSitemapTxt(w http.ResponseWriter) {
 	r := s.buildSitemap()
-	if err := s.writeSitemap(r); err != nil {
-		fmt.Fprintln(os.Stderr, "sitemap:", err)
-	}
-	return r.html
+	w.Header().Set("Content-Type", "text/plain; charset=utf-8")
+	_, _ = io.WriteString(w, strings.Join(r.urls, "\n")+"\n")
 }
 
-func (s *Server) writeSitemapFiles() error {
-	return s.writeSitemap(s.buildSitemap())
-}
-
-func (s *Server) writeSitemap(r *sitemapResult) error {
-	if len(r.urls) == 0 {
-		return nil
-	}
-	txt := filepath.Join(s.root, "sitemap.txt")
-	if err := writeAtomic(txt, []byte(strings.Join(r.urls, "\n")+"\n")); err != nil {
-		return err
-	}
-	var gz strings.Builder
-	zw := gzip.NewWriter(&gz)
-	fmt.Fprintf(zw, "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n")
+func (r *sitemapResult) xmlDocument() []byte {
+	var b bytes.Buffer
+	b.WriteString("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n")
 	for _, x := range r.xml {
-		fmt.Fprintln(zw, x)
+		b.WriteString(x)
+		b.WriteByte('\n')
 	}
-	fmt.Fprintln(zw, "</urlset>")
-	if err := zw.Close(); err != nil {
-		return err
-	}
-	return writeAtomic(filepath.Join(s.root, "sitemap.gz"), []byte(gz.String()))
+	b.WriteString("</urlset>\n")
+	return b.Bytes()
 }
 
-func writeAtomic(dst string, data []byte) error {
-	tmp := dst + ".tmp"
-	if err := os.WriteFile(tmp, data, 0o644); err != nil {
-		return err
+// serveSitemapXML serves /sitemap.xml, and /sitemap.gz as its gzipped form
+// (the URL werc used to publish).
+func (s *Server) serveSitemapXML(w http.ResponseWriter, gzipped bool) {
+	doc := s.buildSitemap().xmlDocument()
+	if !gzipped {
+		w.Header().Set("Content-Type", "application/xml; charset=utf-8")
+		_, _ = w.Write(doc)
+		return
 	}
-	return os.Rename(tmp, dst)
+	w.Header().Set("Content-Type", "application/gzip")
+	zw := gzip.NewWriter(w)
+	_, _ = zw.Write(doc)
+	_ = zw.Close()
+}
+
+// serveRobots serves a default robots.txt pointing crawlers at the sitemap,
+// used only when the site has no robots.txt file of its own.
+func (s *Server) serveRobots(w http.ResponseWriter) {
+	w.Header().Set("Content-Type", "text/plain; charset=utf-8")
+	fmt.Fprintf(w, "User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n", s.baseURL)
 }
