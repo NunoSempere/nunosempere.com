@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+    <title>{{.PageTitle}}</title>
+
+    <link rel="stylesheet" href="/pub/style/style.css" type="text/css" media="screen, handheld" title="default">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="alternate" type="application/rss+xml" title="RSS for Measure is Unceasing" href="/blog/index.rss" />
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <meta property="og:image" content="https://cards.nunosempere.com/api/dynamic-image?endpoint={{.ReqPath}}">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Measure is unceasing" />
+    <meta name="twitter:description" content="{{.PageTitle}}" />
+    <meta name="twitter:url" content="https://nunosempere.com/" />
+    <meta name="twitter:image" content="https://cards.nunosempere.com/api/dynamic-image?endpoint={{.ReqPath}}" />
+    <meta name="twitter:site" content="@NunoSempere" />
+
+    {{.ExtraHeaders}}
+    <script data-isso="//comments.nunosempere.com/" data-isso-max-comments-top="inf" data-isso-max-comments-nested="inf" data-isso-postbox-text-text-en="On the Internet, nobody knows you are a dog" src="//comments.nunosempere.com/js/embed.min.js"></script>
+
+</head>
+<body>
+<header>
+    <h1><a href="/">{{.SiteTitle}} </a><span id="headerSubTitle">{{.SiteSubTitle}}</span></h1>
+</header>
+
+    <nav id="side-bar" class="hidden-mobile">
+        <div>
+{{.Nav}}
+        </div>
+    </nav>
+
+<article>
+{{.Body}}
+</article>
+
+<footer class="hidden-mobile">
+{{.Footer}}
+</footer>
+</body></html>

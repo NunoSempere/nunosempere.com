@@ -7,4 +7,4 @@ I'm Nu&#xF1;o Sempere. I [predict the future](https://samotsvety.org/), [write s
 1. [Sentinel minutes](https://blog.sentinel-team.org/): What might escalate to a global risk this week? 
 2. [Blog](https://nunosempere.com/blog/): What is on my mind these days?
 3. [Estimating value](https://nunosempere.com/research/#value-estimation): How do we get to expected value calculations?
-4. [Consulting](https://nunosempere.com/consulting/): Do you want to pay me well to produce value in the world? 
+4. [Consulting](https://nunosempere.com/consulting/): Do you want to pay me well to solve your problems?

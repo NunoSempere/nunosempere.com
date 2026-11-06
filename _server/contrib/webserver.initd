@@ -1,0 +1,25 @@
+#!/sbin/openrc-run
+# OpenRC service for the nunosempere.com Go web server.
+# Install: cp webserver.initd /etc/init.d/webserver; chmod 755 /etc/init.d/webserver
+#          rc-update add webserver default; rc-service webserver start
+
+name="webserver"
+description="nunosempere.com web server"
+
+: ${WEBSERVER_BIN:=/home/www/bin/webserver}
+: ${WEBSERVER_ROOT:=/home/www/nunosempere.com}
+: ${WEBSERVER_ADDR:=127.0.0.1:8080}
+: ${WEBSERVER_USER:=www}
+
+command="$WEBSERVER_BIN"
+command_args="-root $WEBSERVER_ROOT -addr $WEBSERVER_ADDR"
+command_user="$WEBSERVER_USER"
+command_background="yes"
+pidfile="/run/${RC_SVCNAME}.pid"
+output_log="/var/log/${RC_SVCNAME}.log"
+error_log="/var/log/${RC_SVCNAME}.log"
+
+depend() {
+    need net
+    before nginx
+}
