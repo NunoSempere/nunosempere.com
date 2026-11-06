@@ -64,13 +64,21 @@ The stylesheet (`pub/style/style.css`) and the page template
 Files over 25 MB are copied but reported, because Cloudflare Pages rejects
 them.
 
-### Cloudflare Pages
+### Cloudflare
 
-Create a Pages project with direct upload, install `wrangler`, log in once with
-`wrangler login`, then `make deploy` (set `PROJECT=` if the project is not
-called `nunosempere-com`). Pages redirects `/foo` to `/foo/` when
-`foo/index.html` exists and serves `404.html` for missing pages, so no
-`_redirects` file is needed.
+`../wrangler.jsonc` declares `build/` as the static assets of a Worker with no
+code, with trailing-slash handling and `404.html` like the live server.
+
+- Git integration: in the Cloudflare dashboard, Workers & Pages, Create,
+  import the repository. Build command
+  `cd server && go build -o webserver . && ./webserver -root ../source -build ../build`,
+  deploy command `npx wrangler deploy`, environment variable `GO_VERSION=1.26`.
+  Every push then redeploys. Only committed files are deployed, so gitignored
+  directories such as `.secret/` are not published this way.
+- From your machine: `npm install -g wrangler`, `wrangler login` once, then
+  `make deploy`. This uploads whatever is in the working tree.
+
+Cloudflare rejects files over 25 MB and deployments over 20,000 files.
 
 ## Behaviour carried over from werc
 

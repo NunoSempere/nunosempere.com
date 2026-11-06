@@ -2,7 +2,7 @@
 #
 #   make            build the generator and produce the static site in build/
 #   make serve      run the development server on http://127.0.0.1:8080
-#   make deploy     upload build/ to Cloudflare Pages (needs wrangler, see server/README.md)
+#   make deploy     upload build/ to Cloudflare (needs wrangler; config in wrangler.jsonc)
 #   make test       go vet + unit tests
 #   make clean      remove build/ and the binary
 
@@ -11,7 +11,6 @@ BIN      = server/webserver
 SOURCE   = source
 BUILD    = build
 ADDR    ?= 127.0.0.1:8080
-PROJECT ?= nunosempere-com
 
 .PHONY: all site bin serve deploy test clean
 
@@ -29,7 +28,7 @@ serve: $(BIN)
 	$(BIN) -root $(SOURCE) -addr $(ADDR)
 
 deploy: site
-	wrangler pages deploy $(BUILD) --project-name $(PROJECT)
+	wrangler deploy
 
 test:
 	cd server && $(GO) vet ./... && $(GO) test ./...

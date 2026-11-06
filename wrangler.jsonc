@@ -1,0 +1,15 @@
+// Cloudflare configuration: serve build/ as static assets from a Worker with
+// no code of its own. Used by "wrangler deploy" and by Cloudflare's Git
+// integration (Workers & Pages -> Create -> import a repository).
+{
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+  "name": "nunosempere-com",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./build",
+    // Serve /foo/ for foo/index.html and redirect /foo to /foo/, like werc did.
+    "html_handling": "auto-trailing-slash",
+    // Serve build/404.html with a 404 status for unknown paths.
+    "not_found_handling": "404-page"
+  }
+}
