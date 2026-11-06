@@ -1,4 +1,4 @@
-I'm Nu&#xF1;o Sempere. I [predict the future](https://samotsvety.org/), [mitigate catastrophes](https://sentinel-team.org/), and build businesses.
+I'm Nu&#xF1;o Sempere. I [predict the future](https://samotsvety.org/), [mitigate catastrophes](https://sentinel-team.org/), and occasionally build businesses.
 
 <!---
 <img src="https://images.nunosempere.com/top/me2.jpg" alt="image of myself" class="img-frontpage-center"> 
