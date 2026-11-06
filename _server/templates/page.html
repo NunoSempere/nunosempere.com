@@ -18,7 +18,21 @@
     <meta name="twitter:site" content="@NunoSempere" />
 
     {{.ExtraHeaders}}
-    <script data-isso="//comments.nunosempere.com/" data-isso-max-comments-top="inf" data-isso-max-comments-nested="inf" data-isso-postbox-text-text-en="On the Internet, nobody knows you are a dog" src="//comments.nunosempere.com/js/embed.min.js"></script>
+    <!-- isso comments: loaded after the page has finished loading, and only
+         on pages that have a comment thread, so an unreachable comments
+         server never delays the page. -->
+    <script>
+    window.addEventListener("load", function () {
+      if (!document.getElementById("isso-thread")) return;
+      var s = document.createElement("script");
+      s.src = "//comments.nunosempere.com/js/embed.min.js";
+      s.setAttribute("data-isso", "//comments.nunosempere.com/");
+      s.setAttribute("data-isso-max-comments-top", "inf");
+      s.setAttribute("data-isso-max-comments-nested", "inf");
+      s.setAttribute("data-isso-postbox-text-text-en", "On the Internet, nobody knows you are a dog");
+      document.body.appendChild(s);
+    });
+    </script>
 
 </head>
 <body>

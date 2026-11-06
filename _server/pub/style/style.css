@@ -10,8 +10,25 @@ body {
   font-family: "Computer Modern Serif", serif;
 }
 */
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Inconsolata");
+/* Inconsolata (SIL Open Font License), self-hosted so that no third-party
+ * request blocks rendering. Variable weight 200-900, latin + latin-ext.
+ * font-display: swap renders text in the fallback monospace immediately. */
+@font-face {
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url("/pub/fonts/inconsolata/inconsolata-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url("/pub/fonts/inconsolata/inconsolata-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
 
 /* Body */
 
@@ -210,16 +227,44 @@ blockquote::before{
   top:-10px;
 }
 
-/* Code bloocks */
-pre { 
-  background-color: #eeeeee; 
-  border: 2px solid; 
-  overflow-x: auto; 
+/* Code */
+
+code,
+pre,
+kbd,
+samp {
+  font-family: "Inconsolata", monospace;
 }
-pre, 
-code { 
+
+/* Inline code: a quiet grey chip that sits in the line of text. */
+code {
+  background-color: #eeeeee;
+  padding: 0.05em 0.3em;
+  border-radius: 3px;
+  font-size: 0.95em;
+}
+
+/* Code blocks: same grey as blockquotes, a thin rule instead of a heavy
+ * border, a little more room inside, and horizontal scroll when needed. */
+pre {
+  background-color: #f0f0f0;
+  border: 1px solid #d0d0d0;
+  border-left: 4px solid #333;
+  border-radius: 3px;
+  padding: 0.8em 1em;
+  margin: 1em 0;
+  overflow-x: auto;
+  line-height: 1.35;
+  font-size: 0.9em;
+  tab-size: 4;
+}
+
+pre code {
   display: block;
-  padding: 0.5em; 
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  font-size: inherit;
 }
 
 /* Lists */

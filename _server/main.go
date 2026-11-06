@@ -189,10 +189,13 @@ func (s *Server) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 	pg := &pageData{ReqPath: reqPath, PageTitle: titleFromPath(reqPath)}
 
-	// Body handlers, in werc's order of precedence.
+	// Body handlers, in werc's order of precedence. Blog year/month/day
+	// archives are generated and take precedence over hand-written indexes.
 	var body string
 	handled := true
 	switch {
+	case s.isArchive(s.blogFor(reqPath), reqPath) && strings.HasSuffix(local, string(filepath.Separator)+"index"):
+		body, pg.PageTitle = s.blogArchive(s.blogFor(reqPath), reqPath)
 	case isFile(local + ".md"):
 		html, title := s.renderMarkdownFile(local + ".md")
 		body = html

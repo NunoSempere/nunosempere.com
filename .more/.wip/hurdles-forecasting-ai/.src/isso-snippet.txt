@@ -1,0 +1,5 @@
+<p>
+  <section id='isso-thread'>
+  <noscript>javascript needs to be activated to view comments.</noscript>
+  </section>
+</p>

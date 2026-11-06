@@ -25,6 +25,15 @@ type post struct {
 
 // postList implements get_post_list: newest first, at most maxPosts.
 func (s *Server) postList(blog string) []post {
+	posts := s.allPosts(blog)
+	if len(posts) > s.maxPosts {
+		posts = posts[:s.maxPosts]
+	}
+	return posts
+}
+
+// allPosts returns every post under a blog root, newest first.
+func (s *Server) allPosts(blog string) []post {
 	pattern := filepath.Join(s.localPath(blog), "[0-9][0-9][0-9][0-9]", "[0-9][0-9]", "[0-9][0-9]", "*")
 	matches, _ := filepath.Glob(pattern)
 	var posts []post
@@ -46,10 +55,41 @@ func (s *Server) postList(blog string) []post {
 		})
 	}
 	sort.Slice(posts, func(i, j int) bool { return posts[i].url > posts[j].url })
-	if len(posts) > s.maxPosts {
-		posts = posts[:s.maxPosts]
-	}
 	return posts
+}
+
+var archivePath = regexp.MustCompile(`^[0-9]{4}/([0-9]{2}/([0-9]{2}/)?)?$`)
+
+// isArchive reports whether reqPath is a year, month or day directory of the
+// blog, e.g. /blog/2025/ or /blog/2025/07/.
+func (s *Server) isArchive(blog, reqPath string) bool {
+	return blog != "" && archivePath.MatchString(strings.TrimPrefix(reqPath, blog))
+}
+
+// blogArchive lists the posts of a year, month or day in chronological order,
+// in the style of blog/_werc/traverse.sh:
+//
+//	In 2025...
+//	- 2025/07/07: [Dear forecaster](/blog/2025/07/07/dear-forecaster/)
+func (s *Server) blogArchive(blog, reqPath string) (string, string) {
+	period := strings.TrimSuffix(strings.TrimPrefix(reqPath, blog), "/")
+	title := "In " + period + "..."
+	var md strings.Builder
+	md.WriteString(title + "\n===\n\n")
+	var posts []post
+	for _, p := range s.allPosts(blog) {
+		if strings.HasPrefix(p.date+"/", period+"/") {
+			posts = append(posts, p)
+		}
+	}
+	for i := len(posts) - 1; i >= 0; i-- { // oldest first
+		p := posts[i]
+		fmt.Fprintf(&md, "- %s: [%s](%s)\n", p.date, postTitle(p), p.url)
+	}
+	if len(posts) == 0 {
+		md.WriteString("Nothing here.\n")
+	}
+	return renderMarkdown([]byte(md.String())), title
 }
 
 // postLines returns the lines of a post's index.md, up to max (0 = all).
@@ -84,42 +124,39 @@ var (
 	h1Close  = regexp.MustCompile(`(?i)</h1>`)
 	hnOpen   = regexp.MustCompile(`(?i)<h[2-9](\s[^>]*)?>`)
 	hnClose  = regexp.MustCompile(`(?i)</h[2-9]>`)
-	indexCut = 12 // lines of markdown shown on the blog front page
+	indexCut = 12 // lines of markdown kept per post preview (title, body, read-more)
 	postCut  = 10 // lines taken from each post
 )
 
-// blogIndex implements blagh_body: a feed link line, the opening lines of the
-// newest post(s) with the title turned into a link, a "read more" pointer, and
-// a link to the sitemap. Headings are demoted as werc did (h1->h3, h2+->i).
+// blogIndex implements blagh_body: a feed link line, then for each of the
+// newest posts (conf_max_posts_per_page of them) a preview made of the post's
+// first lines with the title turned into a link, followed by a "read more"
+// pointer, and finally a link to the sitemap. Each preview is rendered on its
+// own, as werc's per-iteration pipeline did, with headings demoted (h1->h3,
+// h2+ -> i).
 func (s *Server) blogIndex(blog string) string {
 	var b strings.Builder
 	b.WriteString("<p style=\"font-size: 25px;\"><a href=\"index.rss\">RSS Feed</a>, <a href=\"../sitemap\">all content</a></p>\n")
 
-	var lines []string
 	for _, p := range s.postList(blog) {
-		pl := postLines(p, postCut)
-		if len(pl) > 0 {
-			pl[0] = fmt.Sprintf("[%s](%s) (%s)", pl[0], p.url, p.date)
+		lines := postLines(p, postCut)
+		if len(lines) > 0 {
+			lines[0] = fmt.Sprintf("[%s](%s) (%s)", lines[0], p.url, p.date)
 		}
-		lines = append(lines, pl...)
 		lines = append(lines, "",
 			fmt.Sprintf("<p style=\"text-align: left; margin-right: 10%%; font-size: 28px;\"><a style=\"text-decoration: none;\" href=\"%s\"><b>&rarr;</b> &#42604; ...</a></p>", p.url),
 			"", "")
-		if len(lines) >= indexCut {
-			break
+		if len(lines) > indexCut {
+			lines = lines[:indexCut]
 		}
+		out := renderMarkdown([]byte(strings.Join(lines, "\n") + "\n"))
+		// Same order as werc's sed: h2..h9 first, then h1 -> h3.
+		out = hnOpen.ReplaceAllString(out, "<i>")
+		out = hnClose.ReplaceAllString(out, "</i>")
+		out = h1Open.ReplaceAllString(out, "<h3>")
+		out = h1Close.ReplaceAllString(out, "</h3>")
+		b.WriteString(out)
 	}
-	if len(lines) > indexCut {
-		lines = lines[:indexCut]
-	}
-	out := renderMarkdown([]byte(strings.Join(lines, "\n") + "\n"))
-	// Same order as werc's sed: h2..h9 first, then h1 -> h3.
-	out = hnOpen.ReplaceAllString(out, "<i>")
-	out = hnClose.ReplaceAllString(out, "</i>")
-	out = h1Open.ReplaceAllString(out, "<h3>")
-	out = h1Close.ReplaceAllString(out, "</h3>")
-	b.WriteString(out)
-	b.WriteString("\n\n\n\n\n")
 	b.WriteString("<p><a href=\"../sitemap\">More content</a></p>\n")
 	return b.String()
 }

@@ -29,6 +29,10 @@ func (s *Server) navTree(reqPath string) string {
 		if hiddenPath(d) {
 			continue
 		}
+		// Inside a blog, show the years but do not expand months and days.
+		if blog := s.blogFor(d + "/"); blog != "" && d+"/" != blog {
+			continue
+		}
 		abs := s.localPath(d)
 		entries, err := os.ReadDir(abs)
 		if err != nil {
