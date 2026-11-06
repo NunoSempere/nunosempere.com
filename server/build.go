@@ -162,7 +162,7 @@ func (s *Server) build(out string) error {
 	if err := write("/404.html", s.static404()); err != nil {
 		return err
 	}
-	if err := write("/_headers", []byte("/*\n  X-Content-Type-Options: nosniff\n")); err != nil {
+	if err := write("/_headers", []byte(headersFile)); err != nil {
 		return err
 	}
 	if err := fs.WalkDir(s.pub, ".", func(p string, d fs.DirEntry, err error) error {
@@ -184,6 +184,22 @@ func (s *Server) build(out string) error {
 	}
 	return nil
 }
+
+// headersFile is the _headers file understood by Cloudflare and Netlify.
+const headersFile = `# Fonts never change without changing the page that references them,
+# so let browsers keep them for a year without revalidating (no font flash on reload).
+/pub/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Markdown sources display inline like plain text did under werc,
+# instead of being offered as a download.
+/*.md
+  Content-Type: text/plain; charset=utf-8
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+`
 
 // static404 renders the 404 page for static hosting, where the requested URL
 // is only known in the browser.

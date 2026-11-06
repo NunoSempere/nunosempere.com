@@ -1,4 +1,4 @@
-## Forecastinhttps://git.nunosempere.com/NunoSempere/fermig
+## Forecasting
 
 > Magic ball tell us all.
 > 
